@@ -1,0 +1,880 @@
+[1] "Regression time step:20000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -3.335903   6.276503  -0.531    0.595
+bio06       -0.177638   0.287710  -0.617    0.537
+bio10        0.147471   0.358764   0.411    0.681
+bio18       -0.009741   0.015536  -0.627    0.531
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 14.548  on 13  degrees of freedom
+Residual deviance: 14.079  on 10  degrees of freedom
+AIC: 22.079
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:19500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept)  1.29027    7.49323   0.172    0.863
+bio06       -0.11982    0.25219  -0.475    0.635
+bio10       -0.07105    0.38377  -0.185    0.853
+bio18       -0.01814    0.01899  -0.955    0.339
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 11.483  on 13  degrees of freedom
+Residual deviance: 10.323  on 10  degrees of freedom
+AIC: 18.323
+
+Number of Fisher Scoring iterations: 5
+
+[1] "Regression time step:19000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -7.78247    9.93675  -0.783    0.434
+bio06       -0.30745    0.32990  -0.932    0.351
+bio10        0.39850    0.57102   0.698    0.485
+bio18       -0.02050    0.02145  -0.956    0.339
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 12.315  on 16  degrees of freedom
+Residual deviance: 10.581  on 13  degrees of freedom
+AIC: 18.581
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:18500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -3.17700    7.09352  -0.448    0.654
+bio06       -0.19997    0.25822  -0.774    0.439
+bio10        0.14802    0.38479   0.385    0.700
+bio18       -0.02199    0.02066  -1.064    0.287
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 12.787  on 18  degrees of freedom
+Residual deviance: 11.094  on 15  degrees of freedom
+AIC: 19.094
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:18000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -2.50952    5.86381  -0.428    0.669
+bio06       -0.16671    0.24483  -0.681    0.496
+bio10        0.08529    0.34524   0.247    0.805
+bio18       -0.02974    0.03094  -0.961    0.336
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 14.259  on 26  degrees of freedom
+Residual deviance: 12.544  on 23  degrees of freedom
+AIC: 20.544
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:17500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -3.31164    3.81043  -0.869    0.385
+bio06       -0.03023    0.13084  -0.231    0.817
+bio10        0.11887    0.20171   0.589    0.556
+bio18       -0.01255    0.02660  -0.472    0.637
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 19.290  on 28  degrees of freedom
+Residual deviance: 17.784  on 25  degrees of freedom
+AIC: 25.784
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:17000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -3.513728   3.507075  -1.002    0.316
+bio06       -0.005206   0.117083  -0.044    0.965
+bio10        0.146783   0.195467   0.751    0.453
+bio18       -0.010834   0.024123  -0.449    0.653
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 24.630  on 33  degrees of freedom
+Residual deviance: 21.984  on 30  degrees of freedom
+AIC: 29.984
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:16500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -3.649077   3.600602  -1.013    0.311
+bio06        0.006406   0.124991   0.051    0.959
+bio10        0.171805   0.201660   0.852    0.394
+bio18       -0.015594   0.026856  -0.581    0.561
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 26.215  on 40  degrees of freedom
+Residual deviance: 22.026  on 37  degrees of freedom
+AIC: 30.026
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:16000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -4.064121   4.041269  -1.006    0.315
+bio06        0.002089   0.152357   0.014    0.989
+bio10        0.157389   0.216004   0.729    0.466
+bio18       -0.013451   0.029111  -0.462    0.644
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 21.904  on 43  degrees of freedom
+Residual deviance: 18.615  on 40  degrees of freedom
+AIC: 26.615
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:15500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -3.07047    3.76527  -0.815    0.415
+bio06        0.01487    0.12167   0.122    0.903
+bio10        0.10393    0.19359   0.537    0.591
+bio18       -0.01322    0.02261  -0.585    0.559
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 29.252  on 58  degrees of freedom
+Residual deviance: 24.824  on 55  degrees of freedom
+AIC: 32.824
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:15000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -8.681370   5.871811  -1.478    0.139
+bio06        0.047015   0.129935   0.362    0.717
+bio10        0.402065   0.298563   1.347    0.178
+bio18       -0.007845   0.018680  -0.420    0.675
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 30.665  on 69  degrees of freedom
+Residual deviance: 21.454  on 66  degrees of freedom
+AIC: 29.454
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:14500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -2.907303   3.787424  -0.768    0.443
+bio06        0.058823   0.101112   0.582    0.561
+bio10        0.115510   0.182832   0.632    0.528
+bio18       -0.009219   0.011227  -0.821    0.412
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 43.230  on 83  degrees of freedom
+Residual deviance: 32.827  on 80  degrees of freedom
+AIC: 40.827
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:14000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -2.05838    3.01224  -0.683    0.494
+bio06        0.05647    0.08173   0.691    0.490
+bio10        0.07256    0.14052   0.516    0.606
+bio18       -0.00846    0.01273  -0.664    0.507
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 56.084  on 101  degrees of freedom
+Residual deviance: 43.812  on  98  degrees of freedom
+AIC: 51.812
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:13500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -0.92076    3.08951  -0.298    0.766
+bio06        0.04477    0.07943   0.564    0.573
+bio10        0.01226    0.14174   0.086    0.931
+bio18       -0.01099    0.01140  -0.964    0.335
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 57.933  on 113  degrees of freedom
+Residual deviance: 45.172  on 110  degrees of freedom
+AIC: 53.172
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:13000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -1.146597   2.916024  -0.393    0.694
+bio06        0.082202   0.077047   1.067    0.286
+bio10        0.010101   0.134174   0.075    0.940
+bio18       -0.003653   0.010190  -0.358    0.720
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 64.992  on 126  degrees of freedom
+Residual deviance: 54.158  on 123  degrees of freedom
+AIC: 62.158
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:12500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -1.578793   2.529399  -0.624    0.533
+bio06        0.067947   0.073381   0.926    0.354
+bio10        0.036631   0.116540   0.314    0.753
+bio18       -0.006119   0.012617  -0.485    0.628
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 72.489  on 142  degrees of freedom
+Residual deviance: 58.867  on 139  degrees of freedom
+AIC: 66.867
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:12000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -2.396638   2.544989  -0.942    0.346
+bio06        0.063117   0.061604   1.025    0.306
+bio10        0.083876   0.113046   0.742    0.458
+bio18       -0.005396   0.007983  -0.676    0.499
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 90.683  on 162  degrees of freedom
+Residual deviance: 72.943  on 159  degrees of freedom
+AIC: 80.943
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:11500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+              Estimate Std. Error z value Pr(>|z|)
+(Intercept) -4.8407254  3.0222995  -1.602    0.109
+bio06        0.0920181  0.0728147   1.264    0.206
+bio10        0.1643539  0.1286319   1.278    0.201
+bio18       -0.0001347  0.0068995  -0.020    0.984
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 81.772  on 171  degrees of freedom
+Residual deviance: 65.529  on 168  degrees of freedom
+AIC: 73.529
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:11000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -2.149461   2.342254  -0.918    0.359
+bio06        0.082488   0.058181   1.418    0.156
+bio10        0.065916   0.099175   0.665    0.506
+bio18       -0.003273   0.005614  -0.583    0.560
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 118.27  on 185  degrees of freedom
+Residual deviance:  98.43  on 182  degrees of freedom
+AIC: 106.43
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:10500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)  
+(Intercept) -2.830210   2.353686  -1.202   0.2292  
+bio06        0.084654   0.050501   1.676   0.0937 .
+bio10        0.092855   0.098381   0.944   0.3453  
+bio18       -0.001458   0.004524  -0.322   0.7472  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 132.79  on 192  degrees of freedom
+Residual deviance: 112.29  on 189  degrees of freedom
+AIC: 120.29
+
+Number of Fisher Scoring iterations: 5
+
+[1] "Regression time step:10000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)  
+(Intercept) -1.057619   2.061609  -0.513   0.6079  
+bio06        0.086763   0.043623   1.989   0.0467 *
+bio10        0.019816   0.086143   0.230   0.8181  
+bio18       -0.002428   0.003781  -0.642   0.5208  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 154.83  on 200  degrees of freedom
+Residual deviance: 135.41  on 197  degrees of freedom
+AIC: 143.41
+
+Number of Fisher Scoring iterations: 5
+
+[1] "Regression time step:9500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)   
+(Intercept)  0.221875   1.601911   0.139  0.88984   
+bio06        0.113458   0.039326   2.885  0.00391 **
+bio10       -0.049668   0.067887  -0.732  0.46439   
+bio18        0.001402   0.002518   0.557  0.57780   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 187.76  on 205  degrees of freedom
+Residual deviance: 175.93  on 202  degrees of freedom
+AIC: 183.93
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:9000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.823922   1.483006   0.556 0.578501    
+bio06        0.136603   0.036864   3.706 0.000211 ***
+bio10       -0.065003   0.063621  -1.022 0.306916    
+bio18        0.003356   0.002410   1.392 0.163802    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 213.21  on 204  degrees of freedom
+Residual deviance: 195.93  on 201  degrees of freedom
+AIC: 203.93
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:8500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  1.971637   1.389411   1.419  0.15589    
+bio06        0.171378   0.036951   4.638 3.52e-06 ***
+bio10       -0.127984   0.060571  -2.113  0.03460 *  
+bio18        0.006320   0.002116   2.987  0.00282 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 240.30  on 207  degrees of freedom
+Residual deviance: 215.84  on 204  degrees of freedom
+AIC: 223.84
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:8000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)   
+(Intercept) -0.664481   1.294064  -0.513  0.60761   
+bio06        0.088078   0.032990   2.670  0.00759 **
+bio10       -0.014431   0.055619  -0.259  0.79528   
+bio18        0.003137   0.001689   1.858  0.06323 . 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 248.69  on 214  degrees of freedom
+Residual deviance: 241.11  on 211  degrees of freedom
+AIC: 249.11
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:7500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)   
+(Intercept) -1.973654   1.295160  -1.524  0.12754   
+bio06        0.078888   0.034118   2.312  0.02077 * 
+bio10        0.036205   0.055419   0.653  0.51357   
+bio18        0.005006   0.001826   2.742  0.00611 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 267.06  on 219  degrees of freedom
+Residual deviance: 258.30  on 216  degrees of freedom
+AIC: 266.3
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:7000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)   
+(Intercept) -1.96822    1.27695  -1.541  0.12323   
+bio06        0.06598    0.03178   2.076  0.03788 * 
+bio10        0.02985    0.05507   0.542  0.58779   
+bio18        0.00447    0.00159   2.811  0.00494 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 274.28  on 222  degrees of freedom
+Residual deviance: 265.28  on 219  degrees of freedom
+AIC: 273.28
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:6500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)  
+(Intercept) -1.497868   1.310671  -1.143   0.2531  
+bio06        0.068154   0.031443   2.168   0.0302 *
+bio10        0.020388   0.056355   0.362   0.7175  
+bio18        0.004082   0.001689   2.417   0.0156 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 283.15  on 220  degrees of freedom
+Residual deviance: 275.83  on 217  degrees of freedom
+AIC: 283.83
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:6000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) -0.492736   1.321785  -0.373    0.709
+bio06        0.018650   0.030943   0.603    0.547
+bio10       -0.024095   0.056167  -0.429    0.668
+bio18        0.001578   0.001813   0.871    0.384
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 274.97  on 215  degrees of freedom
+Residual deviance: 273.06  on 212  degrees of freedom
+AIC: 281.06
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:5500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)   
+(Intercept) -2.317236   1.314295  -1.763  0.07788 . 
+bio06        0.043412   0.031458   1.380  0.16759   
+bio10        0.045124   0.057004   0.792  0.42860   
+bio18        0.005222   0.001704   3.065  0.00217 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 288.41  on 219  degrees of freedom
+Residual deviance: 277.40  on 216  degrees of freedom
+AIC: 285.4
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:5000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)  
+(Intercept) -1.616816   1.358393  -1.190   0.2340  
+bio06        0.006569   0.032095   0.205   0.8378  
+bio10        0.003300   0.058320   0.057   0.9549  
+bio18        0.004225   0.001783   2.369   0.0178 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 283.45  on 216  degrees of freedom
+Residual deviance: 272.00  on 213  degrees of freedom
+AIC: 280
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:4500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+              Estimate Std. Error z value Pr(>|z|)  
+(Intercept) -1.7557227  1.3602361  -1.291   0.1968  
+bio06        0.0009634  0.0318246   0.030   0.9759  
+bio10        0.0175541  0.0586753   0.299   0.7648  
+bio18        0.0041001  0.0018862   2.174   0.0297 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 288.70  on 217  degrees of freedom
+Residual deviance: 279.36  on 214  degrees of freedom
+AIC: 287.36
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:4000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)  
+(Intercept) -1.478429   1.337730  -1.105   0.2691  
+bio06        0.006759   0.031097   0.217   0.8279  
+bio10        0.002598   0.057630   0.045   0.9640  
+bio18        0.004688   0.001848   2.537   0.0112 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 297.67  on 219  degrees of freedom
+Residual deviance: 283.39  on 216  degrees of freedom
+AIC: 291.39
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:3500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)   
+(Intercept) -2.431841   1.403304  -1.733  0.08311 . 
+bio06       -0.022755   0.031073  -0.732  0.46399   
+bio10        0.035010   0.060157   0.582  0.56059   
+bio18        0.005363   0.001917   2.798  0.00515 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 290.19  on 214  degrees of freedom
+Residual deviance: 270.03  on 211  degrees of freedom
+AIC: 278.03
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:3000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -3.312836   1.442666  -2.296 0.021657 *  
+bio06        0.001229   0.031811   0.039 0.969190    
+bio10        0.073806   0.061761   1.195 0.232074    
+bio18        0.007123   0.002046   3.482 0.000498 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 290.15  on 212  degrees of freedom
+Residual deviance: 269.24  on 209  degrees of freedom
+AIC: 277.24
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:2500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -2.979683   1.348405  -2.210 0.027120 *  
+bio06        0.025028   0.033313   0.751 0.452470    
+bio10        0.071831   0.058702   1.224 0.221084    
+bio18        0.007168   0.002045   3.505 0.000456 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 299.10  on 217  degrees of freedom
+Residual deviance: 281.72  on 214  degrees of freedom
+AIC: 289.72
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:2000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)  
+(Intercept) -2.220159   1.366524  -1.625   0.1042  
+bio06       -0.032257   0.031644  -1.019   0.3080  
+bio10        0.037638   0.059453   0.633   0.5267  
+bio18        0.004659   0.001886   2.470   0.0135 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 287.89  on 209  degrees of freedom
+Residual deviance: 270.96  on 206  degrees of freedom
+AIC: 278.96
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:1500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -3.367080   1.426010  -2.361 0.018216 *  
+bio06       -0.005934   0.033344  -0.178 0.858753    
+bio10        0.068539   0.061960   1.106 0.268647    
+bio18        0.008035   0.002074   3.874 0.000107 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 283.22  on 205  degrees of freedom
+Residual deviance: 255.72  on 202  degrees of freedom
+AIC: 263.72
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:1000"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -4.296354   1.499714  -2.865 0.004173 ** 
+bio06       -0.014481   0.033846  -0.428 0.668767    
+bio10        0.116697   0.063780   1.830 0.067299 .  
+bio18        0.008098   0.002169   3.733 0.000189 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 270.86  on 196  degrees of freedom
+Residual deviance: 247.97  on 193  degrees of freedom
+AIC: 255.97
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:500"
+
+Call:
+glm(formula = Abies_perc ~ bio06 + bio10 + bio18, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)   
+(Intercept) -4.912034   1.622633  -3.027  0.00247 **
+bio06       -0.039365   0.037874  -1.039  0.29863   
+bio10        0.158085   0.070113   2.255  0.02415 * 
+bio18        0.007610   0.002337   3.257  0.00113 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 237.27  on 172  degrees of freedom
+Residual deviance: 219.29  on 169  degrees of freedom
+AIC: 227.29
+
+Number of Fisher Scoring iterations: 4
+

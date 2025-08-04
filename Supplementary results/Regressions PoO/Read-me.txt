@@ -1,0 +1,5 @@
+The *.txt files included in this folder are the printed results of all the regressions used in the computation of the binary component of our workflow. 
+
+ "Regression time step:*": * indicates the time bin in CalYrBP of the computed regression. 
+
+ Each file contains 40 regressions, one for each time bin. 
