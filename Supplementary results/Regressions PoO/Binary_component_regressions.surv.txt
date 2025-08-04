@@ -1,0 +1,1016 @@
+[1] "Regression time step:20000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -2.216e+03  1.582e+06  -0.001    0.999
+Summer_temperature    6.114e+01  4.031e+04   0.002    0.999
+Winter_precipitation  2.349e+00  1.380e+03   0.002    0.999
+Summer_precipitation  3.513e-01  1.465e+03   0.000    1.000
+continentality        6.070e+01  5.771e+04   0.001    0.999
+bio15                -1.676e+01  1.054e+04  -0.002    0.999
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 1.4548e+01  on 13  degrees of freedom
+Residual deviance: 5.9154e-09  on  8  degrees of freedom
+AIC: 12
+
+Number of Fisher Scoring iterations: 25
+
+[1] "Regression time step:19500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -1.807e+03  2.223e+06  -0.001    0.999
+Summer_temperature    1.606e+01  3.184e+04   0.001    1.000
+Winter_precipitation  6.914e-01  9.611e+02   0.001    0.999
+Summer_precipitation -1.044e+00  1.213e+03  -0.001    0.999
+continentality        8.712e+01  1.139e+05   0.001    0.999
+bio15                -5.220e+00  9.533e+03  -0.001    1.000
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 1.1483e+01  on 13  degrees of freedom
+Residual deviance: 1.3100e-09  on  8  degrees of freedom
+AIC: 12
+
+Number of Fisher Scoring iterations: 25
+
+[1] "Regression time step:19000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -8.608e+02  1.694e+06  -0.001        1
+Summer_temperature    6.851e+00  1.219e+05   0.000        1
+Winter_precipitation  5.592e-01  1.786e+03   0.000        1
+Summer_precipitation -2.376e-01  6.428e+03   0.000        1
+continentality        2.969e+01  5.301e+04   0.001        1
+bio15                 4.662e-01  3.139e+04   0.000        1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 1.2315e+01  on 16  degrees of freedom
+Residual deviance: 8.1839e-10  on 11  degrees of freedom
+AIC: 12
+
+Number of Fisher Scoring iterations: 25
+
+[1] "Regression time step:18500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -1.283e+03  1.124e+06  -0.001    0.999
+Summer_temperature    1.022e+01  2.161e+04   0.000    1.000
+Winter_precipitation  5.174e-01  6.994e+02   0.001    0.999
+Summer_precipitation -1.038e+00  1.137e+03  -0.001    0.999
+continentality        5.963e+01  5.329e+04   0.001    0.999
+bio15                -3.139e+00  6.565e+03   0.000    1.000
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 1.2787e+01  on 18  degrees of freedom
+Residual deviance: 2.2215e-09  on 13  degrees of freedom
+AIC: 12
+
+Number of Fisher Scoring iterations: 25
+
+[1] "Regression time step:18000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)           -4670.105 895445.959  -0.005    0.996
+Summer_temperature       -8.382  23682.596   0.000    1.000
+Winter_precipitation      3.121    704.000   0.004    0.996
+Summer_precipitation    -13.945   2645.491  -0.005    0.996
+continentality          265.364  53530.946   0.005    0.996
+bio15                    -9.289   5504.998  -0.002    0.999
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 1.4259e+01  on 26  degrees of freedom
+Residual deviance: 6.7017e-08  on 21  degrees of freedom
+AIC: 12
+
+Number of Fisher Scoring iterations: 25
+
+[1] "Regression time step:17500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -12.63934   13.90204  -0.909    0.363
+Summer_temperature     0.35796    0.32129   1.114    0.265
+Winter_precipitation   0.01054    0.01220   0.864    0.388
+Summer_precipitation  -0.07194    0.04810  -1.496    0.135
+continentality         0.65458    0.49512   1.322    0.186
+bio15                 -0.12851    0.10484  -1.226    0.220
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 19.290  on 28  degrees of freedom
+Residual deviance: 13.629  on 23  degrees of freedom
+AIC: 25.629
+
+Number of Fisher Scoring iterations: 8
+
+[1] "Regression time step:17000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -15.728972   9.967591  -1.578    0.115
+Summer_temperature     0.286821   0.264230   1.085    0.278
+Winter_precipitation   0.007468   0.007440   1.004    0.315
+Summer_precipitation  -0.045670   0.037325  -1.224    0.221
+continentality         0.479416   0.323554   1.482    0.138
+bio15                  0.002979   0.073521   0.041    0.968
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 24.630  on 33  degrees of freedom
+Residual deviance: 18.247  on 28  degrees of freedom
+AIC: 30.247
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:16500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -15.797041  10.242748  -1.542    0.123
+Summer_temperature     0.276210   0.261739   1.055    0.291
+Winter_precipitation   0.006836   0.007078   0.966    0.334
+Summer_precipitation  -0.037816   0.038504  -0.982    0.326
+continentality         0.404809   0.331417   1.221    0.222
+bio15                  0.022836   0.071055   0.321    0.748
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 26.215  on 40  degrees of freedom
+Residual deviance: 19.839  on 35  degrees of freedom
+AIC: 31.839
+
+Number of Fisher Scoring iterations: 8
+
+[1] "Regression time step:16000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -13.533874  11.294735  -1.198    0.231
+Summer_temperature     0.216938   0.271466   0.799    0.424
+Winter_precipitation   0.006743   0.008127   0.830    0.407
+Summer_precipitation  -0.034114   0.038819  -0.879    0.380
+continentality         0.361568   0.366876   0.986    0.324
+bio15                  0.003172   0.084414   0.038    0.970
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 21.904  on 43  degrees of freedom
+Residual deviance: 17.462  on 38  degrees of freedom
+AIC: 29.462
+
+Number of Fisher Scoring iterations: 8
+
+[1] "Regression time step:15500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -14.392756   9.239785  -1.558    0.119
+Summer_temperature     0.202733   0.260749   0.778    0.437
+Winter_precipitation   0.008222   0.007068   1.163    0.245
+Summer_precipitation  -0.042775   0.042601  -1.004    0.315
+continentality         0.410346   0.325591   1.260    0.208
+bio15                  0.003763   0.074957   0.050    0.960
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 29.252  on 58  degrees of freedom
+Residual deviance: 22.382  on 53  degrees of freedom
+AIC: 34.382
+
+Number of Fisher Scoring iterations: 8
+
+[1] "Regression time step:15000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -3.490e+00  9.047e+00  -0.386    0.700
+Summer_temperature    4.850e-01  3.706e-01   1.309    0.191
+Winter_precipitation -3.178e-05  7.683e-03  -0.004    0.997
+Summer_precipitation -5.358e-02  3.728e-02  -1.437    0.151
+continentality        1.140e-01  2.088e-01   0.546    0.585
+bio15                -1.054e-01  8.268e-02  -1.274    0.203
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 30.665  on 69  degrees of freedom
+Residual deviance: 18.740  on 64  degrees of freedom
+AIC: 30.74
+
+Number of Fisher Scoring iterations: 9
+
+[1] "Regression time step:14500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)
+(Intercept)          -1.927149   5.775575  -0.334    0.739
+Summer_temperature    0.134286   0.228544   0.588    0.557
+Winter_precipitation  0.002817   0.003430   0.821    0.412
+Summer_precipitation -0.033711   0.021481  -1.569    0.117
+continentality        0.133082   0.156038   0.853    0.394
+bio15                -0.061037   0.061821  -0.987    0.323
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 43.230  on 83  degrees of freedom
+Residual deviance: 32.047  on 78  degrees of freedom
+AIC: 44.047
+
+Number of Fisher Scoring iterations: 8
+
+[1] "Regression time step:14000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -1.739029   5.500519  -0.316   0.7519  
+Summer_temperature    0.063476   0.204677   0.310   0.7565  
+Winter_precipitation  0.005822   0.004915   1.185   0.2362  
+Summer_precipitation -0.043331   0.024300  -1.783   0.0746 .
+continentality        0.176900   0.169110   1.046   0.2955  
+bio15                -0.072731   0.062218  -1.169   0.2424  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 56.084  on 101  degrees of freedom
+Residual deviance: 42.043  on  96  degrees of freedom
+AIC: 54.043
+
+Number of Fisher Scoring iterations: 8
+
+[1] "Regression time step:13500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -3.064212   5.427636  -0.565   0.5724  
+Summer_temperature   -0.016694   0.205520  -0.081   0.9353  
+Winter_precipitation  0.007929   0.004864   1.630   0.1031  
+Summer_precipitation -0.051767   0.025117  -2.061   0.0393 *
+continentality        0.310450   0.181287   1.712   0.0868 .
+bio15                -0.081858   0.070021  -1.169   0.2424  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 57.933  on 113  degrees of freedom
+Residual deviance: 41.070  on 108  degrees of freedom
+AIC: 53.07
+
+Number of Fisher Scoring iterations: 8
+
+[1] "Regression time step:13000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -5.696155   5.035305  -1.131   0.2580  
+Summer_temperature    0.012604   0.187383   0.067   0.9464  
+Winter_precipitation  0.008045   0.004430   1.816   0.0694 .
+Summer_precipitation -0.023933   0.015231  -1.571   0.1161  
+continentality        0.208986   0.150922   1.385   0.1661  
+bio15                -0.029006   0.049695  -0.584   0.5594  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 64.992  on 126  degrees of freedom
+Residual deviance: 51.719  on 121  degrees of freedom
+AIC: 63.719
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:12500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -7.888771   5.727880  -1.377   0.1684  
+Summer_temperature    0.010633   0.182684   0.058   0.9536  
+Winter_precipitation  0.010827   0.005074   2.134   0.0329 *
+Summer_precipitation -0.030341   0.018038  -1.682   0.0926 .
+continentality        0.251352   0.150827   1.666   0.0956 .
+bio15                -0.019421   0.057855  -0.336   0.7371  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 72.489  on 142  degrees of freedom
+Residual deviance: 53.684  on 137  degrees of freedom
+AIC: 65.684
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:12000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -7.755725   4.905008  -1.581   0.1138  
+Summer_temperature    0.060001   0.158644   0.378   0.7053  
+Winter_precipitation  0.008150   0.003846   2.119   0.0341 *
+Summer_precipitation -0.017613   0.011382  -1.547   0.1218  
+continentality        0.197158   0.125464   1.571   0.1161  
+bio15                -0.008670   0.042674  -0.203   0.8390  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 90.683  on 162  degrees of freedom
+Residual deviance: 68.928  on 157  degrees of freedom
+AIC: 80.928
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:11500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -9.143872   4.744347  -1.927   0.0539 .
+Summer_temperature    0.274968   0.164551   1.671   0.0947 .
+Winter_precipitation  0.007930   0.003960   2.002   0.0452 *
+Summer_precipitation -0.008047   0.008870  -0.907   0.3643  
+continentality        0.091771   0.127913   0.717   0.4731  
+bio15                -0.030855   0.036900  -0.836   0.4030  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 81.772  on 171  degrees of freedom
+Residual deviance: 64.246  on 166  degrees of freedom
+AIC: 76.246
+
+Number of Fisher Scoring iterations: 7
+
+[1] "Regression time step:11000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -6.451489   3.499072  -1.844   0.0652 .
+Summer_temperature    0.098944   0.125287   0.790   0.4297  
+Winter_precipitation  0.005955   0.003419   1.742   0.0815 .
+Summer_precipitation -0.009286   0.006539  -1.420   0.1556  
+continentality        0.114021   0.107313   1.063   0.2880  
+bio15                -0.004844   0.029351  -0.165   0.8689  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 118.27  on 185  degrees of freedom
+Residual deviance: 100.03  on 180  degrees of freedom
+AIC: 112.03
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:10500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -6.762247   3.290132  -2.055   0.0398 *
+Summer_temperature    0.166727   0.118075   1.412   0.1579  
+Winter_precipitation  0.006460   0.003186   2.028   0.0426 *
+Summer_precipitation -0.006935   0.005490  -1.263   0.2065  
+continentality        0.088359   0.098618   0.896   0.3703  
+bio15                -0.017384   0.025931  -0.670   0.5026  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 132.79  on 192  degrees of freedom
+Residual deviance: 114.06  on 187  degrees of freedom
+AIC: 126.06
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:10000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)   
+(Intercept)          -7.138562   2.919277  -2.445  0.01447 * 
+Summer_temperature    0.159529   0.108117   1.476  0.14007   
+Winter_precipitation  0.009500   0.003180   2.987  0.00282 **
+Summer_precipitation -0.011280   0.005433  -2.076  0.03788 * 
+continentality        0.171350   0.096864   1.769  0.07690 . 
+bio15                -0.048272   0.025806  -1.871  0.06140 . 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 154.83  on 200  degrees of freedom
+Residual deviance: 130.95  on 195  degrees of freedom
+AIC: 142.95
+
+Number of Fisher Scoring iterations: 6
+
+[1] "Regression time step:9500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -4.3762855  2.1355964  -2.049   0.0404 *
+Summer_temperature    0.0345879  0.0862477   0.401   0.6884  
+Winter_precipitation  0.0048721  0.0025041   1.946   0.0517 .
+Summer_precipitation -0.0015626  0.0029429  -0.531   0.5954  
+continentality        0.0633620  0.0784220   0.808   0.4191  
+bio15                -0.0005578  0.0186812  -0.030   0.9762  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 187.76  on 205  degrees of freedom
+Residual deviance: 181.80  on 200  degrees of freedom
+AIC: 193.8
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:9000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -3.6550788  2.0304654  -1.800   0.0718 .
+Summer_temperature    0.0909946  0.0776199   1.172   0.2411  
+Winter_precipitation  0.0045700  0.0024201   1.888   0.0590 .
+Summer_precipitation  0.0008118  0.0027291   0.297   0.7661  
+continentality        0.0094582  0.0749792   0.126   0.8996  
+bio15                -0.0103203  0.0171235  -0.603   0.5467  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 213.21  on 204  degrees of freedom
+Residual deviance: 206.48  on 199  degrees of freedom
+AIC: 218.48
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:8500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)  
+(Intercept)          -2.406781   1.848651  -1.302   0.1929  
+Summer_temperature    0.094376   0.070270   1.343   0.1793  
+Winter_precipitation  0.003832   0.002304   1.663   0.0963 .
+Summer_precipitation  0.004457   0.002249   1.982   0.0475 *
+continentality       -0.044880   0.070983  -0.632   0.5272  
+bio15                -0.019388   0.015383  -1.260   0.2075  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 240.3  on 207  degrees of freedom
+Residual deviance: 226.5  on 202  degrees of freedom
+AIC: 238.5
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:8000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)   
+(Intercept)          -5.119541   1.762626  -2.904  0.00368 **
+Summer_temperature    0.083273   0.073711   1.130  0.25859   
+Winter_precipitation  0.005878   0.002176   2.701  0.00691 **
+Summer_precipitation  0.002769   0.001826   1.516  0.12944   
+continentality        0.067299   0.062939   1.069  0.28494   
+bio15                -0.017066   0.014345  -1.190  0.23418   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 248.69  on 214  degrees of freedom
+Residual deviance: 235.29  on 209  degrees of freedom
+AIC: 247.29
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:7500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)   
+(Intercept)          -5.658589   1.755352  -3.224  0.00127 **
+Summer_temperature    0.072389   0.070424   1.028  0.30400   
+Winter_precipitation  0.005324   0.002151   2.475  0.01332 * 
+Summer_precipitation  0.004243   0.001967   2.157  0.03101 * 
+continentality        0.075126   0.066502   1.130  0.25861   
+bio15                -0.003462   0.014257  -0.243  0.80812   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 267.06  on 219  degrees of freedom
+Residual deviance: 250.56  on 214  degrees of freedom
+AIC: 262.56
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:7000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.517137   1.728101  -3.771 0.000162 ***
+Summer_temperature    0.070464   0.070400   1.001 0.316872    
+Winter_precipitation  0.007030   0.002098   3.351 0.000804 ***
+Summer_precipitation  0.004449   0.001765   2.521 0.011701 *  
+continentality        0.111660   0.061119   1.827 0.067710 .  
+bio15                -0.012788   0.013916  -0.919 0.358148    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 274.28  on 222  degrees of freedom
+Residual deviance: 248.52  on 217  degrees of freedom
+AIC: 260.52
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:6500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -7.439111   1.807135  -4.117 3.85e-05 ***
+Summer_temperature    0.116667   0.070908   1.645   0.0999 .  
+Winter_precipitation  0.009116   0.002202   4.141 3.46e-05 ***
+Summer_precipitation  0.004317   0.001832   2.357   0.0184 *  
+continentality        0.137931   0.063042   2.188   0.0287 *  
+bio15                -0.028813   0.014463  -1.992   0.0464 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 283.15  on 220  degrees of freedom
+Residual deviance: 249.07  on 215  degrees of freedom
+AIC: 261.07
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:6000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.401998   1.738056  -3.683  0.00023 ***
+Summer_temperature    0.033543   0.071186   0.471  0.63750    
+Winter_precipitation  0.009329   0.002126   4.388 1.15e-05 ***
+Summer_precipitation  0.002503   0.001902   1.316  0.18806    
+continentality        0.188362   0.060596   3.108  0.00188 ** 
+bio15                -0.039560   0.015096  -2.621  0.00878 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 274.97  on 215  degrees of freedom
+Residual deviance: 241.03  on 210  degrees of freedom
+AIC: 253.03
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:5500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -7.606778   1.807695  -4.208 2.58e-05 ***
+Summer_temperature    0.107775   0.071039   1.517 0.129236    
+Winter_precipitation  0.007695   0.002236   3.441 0.000580 ***
+Summer_precipitation  0.006443   0.001913   3.368 0.000757 ***
+continentality        0.126953   0.063688   1.993 0.046221 *  
+bio15                -0.014176   0.014399  -0.985 0.324859    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 288.41  on 219  degrees of freedom
+Residual deviance: 251.44  on 214  degrees of freedom
+AIC: 263.44
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:5000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.727723   1.818110  -3.700 0.000215 ***
+Summer_temperature    0.043151   0.072293   0.597 0.550583    
+Winter_precipitation  0.007102   0.002244   3.165 0.001551 ** 
+Summer_precipitation  0.006929   0.001973   3.512 0.000445 ***
+continentality        0.127786   0.064535   1.980 0.047691 *  
+bio15                -0.012936   0.015297  -0.846 0.397722    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 283.45  on 216  degrees of freedom
+Residual deviance: 241.77  on 211  degrees of freedom
+AIC: 253.77
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:4500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.273915   1.746836  -3.592 0.000329 ***
+Summer_temperature    0.117711   0.071738   1.641 0.100827    
+Winter_precipitation  0.005279   0.002141   2.465 0.013689 *  
+Summer_precipitation  0.007696   0.002017   3.816 0.000136 ***
+continentality        0.096185   0.060141   1.599 0.109750    
+bio15                -0.028666   0.015316  -1.872 0.061264 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 288.70  on 217  degrees of freedom
+Residual deviance: 253.62  on 212  degrees of freedom
+AIC: 265.62
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:4000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.610480   1.737137  -3.805 0.000142 ***
+Summer_temperature    0.092229   0.069757   1.322 0.186121    
+Winter_precipitation  0.006103   0.002119   2.879 0.003983 ** 
+Summer_precipitation  0.008490   0.002026   4.191 2.78e-05 ***
+continentality        0.086705   0.057574   1.506 0.132075    
+bio15                -0.009325   0.013916  -0.670 0.502810    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 297.67  on 219  degrees of freedom
+Residual deviance: 256.28  on 214  degrees of freedom
+AIC: 268.28
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:3500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.290996   1.735892  -3.624  0.00029 ***
+Summer_temperature    0.110907   0.071669   1.547  0.12175    
+Winter_precipitation  0.003508   0.002107   1.665  0.09588 .  
+Summer_precipitation  0.009879   0.002089   4.729 2.25e-06 ***
+continentality        0.058181   0.058067   1.002  0.31636    
+bio15                -0.006199   0.015193  -0.408  0.68327    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 290.19  on 214  degrees of freedom
+Residual deviance: 245.17  on 209  degrees of freedom
+AIC: 257.17
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:3000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -7.143567   1.819547  -3.926 8.64e-05 ***
+Summer_temperature    0.181886   0.075174   2.420   0.0155 *  
+Winter_precipitation  0.003619   0.002191   1.652   0.0985 .  
+Summer_precipitation  0.011591   0.002221   5.220 1.79e-07 ***
+continentality        0.042505   0.058686   0.724   0.4689    
+bio15                -0.014037   0.015021  -0.934   0.3500    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 290.15  on 212  degrees of freedom
+Residual deviance: 241.60  on 207  degrees of freedom
+AIC: 253.6
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:2500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.838530   1.703649  -4.014 5.97e-05 ***
+Summer_temperature    0.200985   0.071090   2.827   0.0047 ** 
+Winter_precipitation  0.004325   0.002112   2.048   0.0406 *  
+Summer_precipitation  0.010891   0.002239   4.864 1.15e-06 ***
+continentality        0.037308   0.059414   0.628   0.5300    
+bio15                -0.021133   0.014019  -1.507   0.1317    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 299.10  on 217  degrees of freedom
+Residual deviance: 255.74  on 212  degrees of freedom
+AIC: 267.74
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:2000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -7.375060   1.771598  -4.163 3.14e-05 ***
+Summer_temperature    0.149931   0.070607   2.123   0.0337 *  
+Winter_precipitation  0.005010   0.002129   2.354   0.0186 *  
+Summer_precipitation  0.009933   0.002092   4.749 2.04e-06 ***
+continentality        0.097825   0.057556   1.700   0.0892 .  
+bio15                -0.019715   0.014815  -1.331   0.1833    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 287.89  on 209  degrees of freedom
+Residual deviance: 243.16  on 204  degrees of freedom
+AIC: 255.16
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:1500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                       Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.1344887  1.7759040  -3.454 0.000552 ***
+Summer_temperature    0.1755321  0.0735279   2.387 0.016973 *  
+Winter_precipitation  0.0012168  0.0021565   0.564 0.572596    
+Summer_precipitation  0.0130098  0.0023662   5.498 3.84e-08 ***
+continentality        0.0006646  0.0578205   0.011 0.990829    
+bio15                -0.0079377  0.0157529  -0.504 0.614342    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 283.22  on 205  degrees of freedom
+Residual deviance: 233.09  on 200  degrees of freedom
+AIC: 245.09
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:1000"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.612696   1.790391  -3.693 0.000221 ***
+Summer_temperature    0.197957   0.075091   2.636 0.008383 ** 
+Winter_precipitation  0.001445   0.002168   0.666 0.505124    
+Summer_precipitation  0.012422   0.002402   5.171 2.33e-07 ***
+continentality        0.007340   0.057222   0.128 0.897935    
+bio15                -0.006159   0.015561  -0.396 0.692269    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 270.86  on 196  degrees of freedom
+Residual deviance: 228.91  on 191  degrees of freedom
+AIC: 240.91
+
+Number of Fisher Scoring iterations: 4
+
+[1] "Regression time step:500"
+
+Call:
+glm(formula = Abies_perc ~ Summer_temperature + Winter_precipitation + 
+    Summer_precipitation + continentality + bio15, family = binomial(link = "logit"), 
+    data = df_year)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          -6.325617   1.859610  -3.402  0.00067 ***
+Summer_temperature    0.197897   0.076208   2.597  0.00941 ** 
+Winter_precipitation  0.001488   0.002224   0.669  0.50354    
+Summer_precipitation  0.010384   0.002600   3.994  6.5e-05 ***
+continentality        0.051676   0.063518   0.814  0.41590    
+bio15                -0.021085   0.016477  -1.280  0.20067    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 237.27  on 172  degrees of freedom
+Residual deviance: 207.97  on 167  degrees of freedom
+AIC: 219.97
+
+Number of Fisher Scoring iterations: 4
+
