@@ -1,0 +1,14 @@
+Spearman\_corr = function(original, predicted){
+  cor(predicted, original, method = 'spearman')
+}
+%Median\_abs\_err = function(original, predicted){
+  %Metrics::mdae(original, predicted)
+%}
+rme = function(original, predicted){
+  error = (predicted-original)/(original)
+  median(error)
+}
+MARE = function(original, predicted){
+  rel_abs_err = abs((predicted-original)/(original))
+  median(rel_abs_err)
+}
