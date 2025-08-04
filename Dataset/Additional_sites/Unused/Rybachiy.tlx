@@ -1,0 +1,2299 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--written 28-Nov-2018 16:58:53-->
+<TiliaFile>
+<Version>
+<Application>Tilia</Application>
+<MajorVersion>2</MajorVersion>
+<MinorVersion>1</MinorVersion>
+<Release>1</Release>
+</Version>
+<Contacts>
+<Contact ID="1">
+<NeotomaContactID>969</NeotomaContactID>
+<NeotomaAliasID>969</NeotomaAliasID>
+<FullContactName>Cheddadi, Rachid</FullContactName>
+<ShortContactName>Cheddadi, R.</ShortContactName>
+<FamilyName>Cheddadi</FamilyName>
+<GivenNames>Rachid</GivenNames>
+<LeadingInitials>R.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Email>cheddadi@isem.univ-montp2.fr</Email>
+<Address>
+<AddressLine>ISEM-UMR 5554 CNRS\r\nPlace Eugene Bataillon Bat.22\r\nUniversity of Montpellier\r\n34095 Montpellier Cedex 5\r\nFrance</AddressLine>
+</Address>
+</Contact>
+<Contact ID="2">
+<NeotomaContactID>363</NeotomaContactID>
+<NeotomaAliasID>363</NeotomaAliasID>
+<FullContactName>Cherkinsky, A. E.</FullContactName>
+<ShortContactName>Cherkinsky, A.E.</ShortContactName>
+<FamilyName>Cherkinsky</FamilyName>
+<GivenNames>A. E.</GivenNames>
+<LeadingInitials>A.E.</LeadingInitials>
+<Status>unknown</Status>
+</Contact>
+<Contact ID="3">
+<NeotomaContactID>8710</NeotomaContactID>
+<NeotomaAliasID>8710</NeotomaAliasID>
+<FullContactName>Giesecke, Thomas</FullContactName>
+<ShortContactName>Giesecke, T.</ShortContactName>
+<FamilyName>Giesecke</FamilyName>
+<GivenNames>Thomas</GivenNames>
+<LeadingInitials>T.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Telephone>+49-(0)551/39-10675</Telephone>
+<Email>tgiesec@gwdg.de</Email>
+<URL>https://www.uni-goettingen.de/en/96263.html</URL>
+<Address>
+<AddressLine>Untere Karspüle 2\r\n37073 Göttingen\r\nGermany</AddressLine>
+</Address>
+</Contact>
+<Contact ID="4">
+<NeotomaContactID>1075</NeotomaContactID>
+<NeotomaAliasID>1075</NeotomaAliasID>
+<FullContactName>Goriachkin, S.</FullContactName>
+<ShortContactName>Goriachkin, S.</ShortContactName>
+<FamilyName>Goriachkin</FamilyName>
+<GivenNames>S.</GivenNames>
+<LeadingInitials>S.</LeadingInitials>
+<Status>unknown</Status>
+</Contact>
+<Contact ID="5">
+<NeotomaContactID>9803</NeotomaContactID>
+<NeotomaAliasID>9803</NeotomaAliasID>
+<FullContactName>Kremenetski, Constentin V.</FullContactName>
+<ShortContactName>Kremenetski, C.V.</ShortContactName>
+<FamilyName>Kremenetski</FamilyName>
+<GivenNames>Constentin V.</GivenNames>
+<LeadingInitials>C.V.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Telephone>(7-095)-238-02-98</Telephone>
+<Fax>(7-095)-230-20-90</Fax>
+<Email>paleo@glas.apc.org</Email>
+<Address>
+<AddressLine>Laboratory of Evolutionary Geography\r\nInstitute of Geography of Russian Academy of Sciences\r\nStaromonetny 29\r\nMoscow, 109017\r\nRUSSIA</AddressLine>
+</Address>
+</Contact>
+<Contact ID="6">
+<NeotomaContactID>365</NeotomaContactID>
+<NeotomaAliasID>365</NeotomaAliasID>
+<FullContactName>Sulerzhitsky, L. D.</FullContactName>
+<ShortContactName>Sulerzhitsky, L.D.</ShortContactName>
+<FamilyName>Sulerzhitsky</FamilyName>
+<GivenNames>L. D.</GivenNames>
+<LeadingInitials>L.D.</LeadingInitials>
+<Status>unknown</Status>
+</Contact>
+<Contact ID="7">
+<NeotomaContactID>1290</NeotomaContactID>
+<NeotomaAliasID>1290</NeotomaAliasID>
+<FullContactName>Vaschalova, T.</FullContactName>
+<ShortContactName>Vaschalova, T.</ShortContactName>
+<FamilyName>Vaschalova</FamilyName>
+<GivenNames>T.</GivenNames>
+<LeadingInitials>T.</LeadingInitials>
+<Status>unknown</Status>
+</Contact>
+</Contacts>
+<Publications>
+<Publication ID="1" Primary="true">
+<PublicationType>journal article</PublicationType>
+<NeotomaID>1194</NeotomaID>
+<PublicationYear>1997</PublicationYear>
+<Citation>Kremenetski, C.V., T. Vaschalova, S. Goriachkin, A.E. Cherkinsky, and L.D. Sulerzhitsky. 1997. Holocene pollen stratigraphy and bog development in the western part of the Kola Peninsula, Russia. Boreas 26:91-102.</Citation>
+<Authors>
+<Author>
+<Contact ID="5"/>
+<LastName>Kremenetski</LastName>
+<Initials>C.V.</Initials>
+</Author>
+<Author>
+<Contact ID="7"/>
+<LastName>Vaschalova</LastName>
+<Initials>T.</Initials>
+</Author>
+<Author>
+<Contact ID="4"/>
+<LastName>Goriachkin</LastName>
+<Initials>S.</Initials>
+</Author>
+<Author>
+<Contact ID="2"/>
+<LastName>Cherkinsky</LastName>
+<Initials>A.E.</Initials>
+</Author>
+<Author>
+<Contact ID="6"/>
+<LastName>Sulerzhitsky</LastName>
+<Initials>L.D.</Initials>
+</Author>
+</Authors>
+<Title>Holocene pollen stratigraphy and bog development in the western part of the Kola Peninsula, Russia.</Title>
+<Journal>Boreas</Journal>
+<Volume>26</Volume>
+<Pages>91-102</Pages>
+</Publication>
+</Publications>
+<SpreadSheetBook>
+<SpreadSheetOptions>
+<HeaderRow>0</HeaderRow>
+<FontName>Arial</FontName>
+<FontSize>9</FontSize>
+<DefaultColWidth>64</DefaultColWidth>
+<DefaultRowHeight>18</DefaultRowHeight>
+<PercentDecimalPlaces>1</PercentDecimalPlaces>
+<CheckDupCodes>True</CheckDupCodes>
+<CaseSensitiveCodes>False</CaseSensitiveCodes>
+<CodesVisible>True</CodesVisible>
+<ElementsVisible>True</ElementsVisible>
+<UnitsVisible>True</UnitsVisible>
+<ContextsVisible>False</ContextsVisible>
+<TaphonomyVisible>False</TaphonomyVisible>
+<GroupsVisible>True</GroupsVisible>
+<GroupCategories>
+<GroupCategory>bryophytes</GroupCategory>
+<GroupCategory>vascular plants</GroupCategory>
+</GroupCategories>
+</SpreadSheetOptions>
+<SpreadSheet page="0" name="Data">
+<Col ID="1" Width="64">
+<cell row="3">
+<text>#Chron1</text>
+</cell>
+<cell row="4">
+<text>#Chron2</text>
+</cell>
+<cell row="5">
+<text>#Chron2.Old</text>
+</cell>
+<cell row="6">
+<text>#Chron2.Young</text>
+</cell>
+<cell row="7">
+<text>#Chron3</text>
+</cell>
+<cell row="8">
+<text>#Chron3.Old</text>
+</cell>
+<cell row="9">
+<text>#Chron3.Young</text>
+</cell>
+<cell row="10">
+<text>#Anal.Thick</text>
+</cell>
+<cell row="11">
+<text>#Samp.Analyst</text>
+</cell>
+<cell row="12">
+<text>#Samp.DateAnal</text>
+</cell>
+<cell row="13">
+<text>Abi</text>
+</cell>
+<cell row="14">
+<text>Art</text>
+</cell>
+<cell row="15">
+<text>Cypeae</text>
+</cell>
+<cell row="16">
+<text>Equ</text>
+</cell>
+<cell row="17">
+<text>Asteae.sf.Cchdae</text>
+</cell>
+<cell row="18">
+<text>Dph.al</text>
+</cell>
+<cell row="19">
+<text>Lyc.an</text>
+</cell>
+<cell row="20">
+<text>Lyc.cl</text>
+</cell>
+<cell row="21">
+<text>Lyl.in</text>
+</cell>
+<cell row="22">
+<text>Men.tr</text>
+</cell>
+<cell row="23">
+<text>Pic</text>
+</cell>
+<cell row="24">
+<text>Plpeae</text>
+</cell>
+<cell row="25">
+<text>Rib</text>
+</cell>
+<cell row="26">
+<text>Slx</text>
+</cell>
+<cell row="27">
+<text>Screae</text>
+</cell>
+<cell row="28">
+<text>Tha</text>
+</cell>
+<cell row="29">
+<text>Til</text>
+</cell>
+<cell row="30">
+<text>Apieae</text>
+</cell>
+<cell row="31">
+<text>Aln</text>
+</cell>
+<cell row="32">
+<text>Raneae</text>
+</cell>
+<cell row="33">
+<text>Amaeae</text>
+</cell>
+<cell row="34">
+<text>Poaeae</text>
+</cell>
+<cell row="35">
+<text>Asteae.sf.Astdae</text>
+</cell>
+<cell row="36">
+<text>Braeae</text>
+</cell>
+<cell row="37">
+<text>Roseae</text>
+</cell>
+<cell row="38">
+<text>Ran</text>
+</cell>
+<cell row="39">
+<text>Poleae</text>
+</cell>
+<cell row="40">
+<text>Rbs.ch</text>
+</cell>
+<cell row="41">
+<text>Ercles</text>
+</cell>
+<cell row="42">
+<text>Gereae</text>
+</cell>
+<cell row="43">
+<text>Pin.sy</text>
+</cell>
+<cell row="44">
+<text>Ulm.gl</text>
+</cell>
+<cell row="45">
+<text>Spu/Spl</text>
+</cell>
+<cell row="46">
+<text>Cpn.be</text>
+</cell>
+<cell row="47">
+<text>Bet.fr</text>
+</cell>
+<cell row="48">
+<text>Bet.na</text>
+</cell>
+<cell row="49">
+<text>Bet.pu</text>
+</cell>
+<cell row="50">
+<text>Varia</text>
+</cell>
+<cell row="51">
+<text>Lyc.an.al</text>
+</cell>
+</Col>
+<Col ID="2" Width="180">
+<cell row="3">
+<text>EPD</text>
+</cell>
+<cell row="4">
+<text>Giesecke et al. 2014 (MADCAP)</text>
+</cell>
+<cell row="5">
+<text>Giesecke et al. 2014 (MADCAP) Older Bound</text>
+</cell>
+<cell row="6">
+<text>Giesecke et al. 2014 (MADCAP) Younger Bound</text>
+</cell>
+<cell row="7">
+<text>EPD 2</text>
+</cell>
+<cell row="8">
+<text>EPD 2 Older Bound</text>
+</cell>
+<cell row="9">
+<text>EPD 2 Younger Bound</text>
+</cell>
+<cell row="10">
+<text>Analysis Unit Thickness</text>
+</cell>
+<cell row="11">
+<text>Sample Analyst</text>
+</cell>
+<cell row="12">
+<text>Date Analyzed</text>
+</cell>
+<cell row="13">
+<text>Abies</text>
+</cell>
+<cell row="14">
+<text>Artemisia</text>
+</cell>
+<cell row="15">
+<text>Cyperaceae</text>
+</cell>
+<cell row="16">
+<text>Equisetum</text>
+</cell>
+<cell row="17">
+<text>Asteraceae subf. Cichorioideae</text>
+<Synonym>
+<TaxonName>Compositae subf. Cichorioideae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="18">
+<text>Diphasiastrum alpinum</text>
+<Synonym>
+<TaxonName>Diphasium alpinum</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="19">
+<text>Lycopodium annotinum</text>
+</cell>
+<cell row="20">
+<text>Lycopodium clavatum</text>
+</cell>
+<cell row="21">
+<text>Lycopodiella inundata</text>
+<Synonym>
+<TaxonName>Lepidotis inundata</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="22">
+<text>Menyanthes trifoliata</text>
+</cell>
+<cell row="23">
+<text>Picea</text>
+</cell>
+<cell row="24">
+<text>Polypodiaceae</text>
+</cell>
+<cell row="25">
+<text>Ribes</text>
+</cell>
+<cell row="26">
+<text>Salix</text>
+</cell>
+<cell row="27">
+<text>Scrophulariaceae</text>
+</cell>
+<cell row="28">
+<text>Thalictrum</text>
+</cell>
+<cell row="29">
+<text>Tilia</text>
+</cell>
+<cell row="30">
+<text>Apiaceae</text>
+<Synonym>
+<TaxonName>Umbelliferae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="31">
+<text>Alnus</text>
+</cell>
+<cell row="32">
+<text>Ranunculaceae</text>
+</cell>
+<cell row="33">
+<text>Amaranthaceae</text>
+<Synonym>
+<TaxonName>Chenopodiaceae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="34">
+<text>Poaceae</text>
+<Synonym>
+<TaxonName>Gramineae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="35">
+<text>Asteraceae subf. Asteroideae</text>
+<Synonym>
+<TaxonName>Compositae subf. Asteroideae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="36">
+<text>Brassicaceae</text>
+<Synonym>
+<TaxonName>Cruciferae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="37">
+<text>Rosaceae</text>
+</cell>
+<cell row="38">
+<text>Ranunculus</text>
+</cell>
+<cell row="39">
+<text>Polygonaceae</text>
+</cell>
+<cell row="40">
+<text>Rubus chamaemorus</text>
+</cell>
+<cell row="41">
+<text>Ericales</text>
+</cell>
+<cell row="42">
+<text>Geraniaceae</text>
+</cell>
+<cell row="43">
+<text>Pinus sylvestris</text>
+</cell>
+<cell row="44">
+<text>Ulmus glabra</text>
+</cell>
+<cell row="45">
+<text>Spergula/Spergularia</text>
+</cell>
+<cell row="46">
+<text>Carpinus betulus</text>
+</cell>
+<cell row="47">
+<text>Betula fruticosa</text>
+</cell>
+<cell row="48">
+<text>Betula nana</text>
+</cell>
+<cell row="49">
+<text>Betula pubescens</text>
+<Synonym>
+<TaxonName>Betula alba</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="50">
+<text>Varia</text>
+</cell>
+<cell row="51">
+<text>Lycopodium annotinum subsp. alpestre</text>
+<Synonym>
+<TaxonName>Lycopodium dubium</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+</Col>
+<Col ID="3" Width="64">
+<cell row="13">
+<text>pollen</text>
+</cell>
+<cell row="14">
+<text>pollen</text>
+</cell>
+<cell row="15">
+<text>pollen</text>
+</cell>
+<cell row="16">
+<text>spore</text>
+</cell>
+<cell row="17">
+<text>pollen</text>
+</cell>
+<cell row="18">
+<text>spore</text>
+</cell>
+<cell row="19">
+<text>spore</text>
+</cell>
+<cell row="20">
+<text>spore</text>
+</cell>
+<cell row="21">
+<text>spore</text>
+</cell>
+<cell row="22">
+<text>pollen</text>
+</cell>
+<cell row="23">
+<text>pollen</text>
+</cell>
+<cell row="24">
+<text>spore</text>
+</cell>
+<cell row="25">
+<text>pollen</text>
+</cell>
+<cell row="26">
+<text>pollen</text>
+</cell>
+<cell row="27">
+<text>pollen</text>
+</cell>
+<cell row="28">
+<text>pollen</text>
+</cell>
+<cell row="29">
+<text>pollen</text>
+</cell>
+<cell row="30">
+<text>pollen</text>
+</cell>
+<cell row="31">
+<text>pollen</text>
+</cell>
+<cell row="32">
+<text>pollen</text>
+</cell>
+<cell row="33">
+<text>pollen</text>
+</cell>
+<cell row="34">
+<text>pollen</text>
+</cell>
+<cell row="35">
+<text>pollen</text>
+</cell>
+<cell row="36">
+<text>pollen</text>
+</cell>
+<cell row="37">
+<text>pollen</text>
+</cell>
+<cell row="38">
+<text>pollen</text>
+</cell>
+<cell row="39">
+<text>pollen</text>
+</cell>
+<cell row="40">
+<text>pollen</text>
+</cell>
+<cell row="41">
+<text>pollen</text>
+</cell>
+<cell row="42">
+<text>pollen</text>
+</cell>
+<cell row="43">
+<text>pollen</text>
+</cell>
+<cell row="44">
+<text>pollen</text>
+</cell>
+<cell row="45">
+<text>pollen</text>
+</cell>
+<cell row="46">
+<text>pollen</text>
+</cell>
+<cell row="47">
+<text>pollen</text>
+</cell>
+<cell row="48">
+<text>pollen</text>
+</cell>
+<cell row="49">
+<text>pollen</text>
+</cell>
+<cell row="50">
+<text>pollen/spore</text>
+</cell>
+<cell row="51">
+<text>spore</text>
+</cell>
+</Col>
+<Col ID="4" Width="64">
+<cell row="3">
+<text>14C yr BP</text>
+</cell>
+<cell row="4">
+<text>cal yr BP</text>
+</cell>
+<cell row="5">
+<text>cal yr BP</text>
+</cell>
+<cell row="6">
+<text>cal yr BP</text>
+</cell>
+<cell row="7">
+<text>cal yr BP</text>
+</cell>
+<cell row="8">
+<text>cal yr BP</text>
+</cell>
+<cell row="9">
+<text>cal yr BP</text>
+</cell>
+<cell row="13">
+<text>NISP</text>
+</cell>
+<cell row="14">
+<text>NISP</text>
+</cell>
+<cell row="15">
+<text>NISP</text>
+</cell>
+<cell row="16">
+<text>NISP</text>
+</cell>
+<cell row="17">
+<text>NISP</text>
+</cell>
+<cell row="18">
+<text>NISP</text>
+</cell>
+<cell row="19">
+<text>NISP</text>
+</cell>
+<cell row="20">
+<text>NISP</text>
+</cell>
+<cell row="21">
+<text>NISP</text>
+</cell>
+<cell row="22">
+<text>NISP</text>
+</cell>
+<cell row="23">
+<text>NISP</text>
+</cell>
+<cell row="24">
+<text>NISP</text>
+</cell>
+<cell row="25">
+<text>NISP</text>
+</cell>
+<cell row="26">
+<text>NISP</text>
+</cell>
+<cell row="27">
+<text>NISP</text>
+</cell>
+<cell row="28">
+<text>NISP</text>
+</cell>
+<cell row="29">
+<text>NISP</text>
+</cell>
+<cell row="30">
+<text>NISP</text>
+</cell>
+<cell row="31">
+<text>NISP</text>
+</cell>
+<cell row="32">
+<text>NISP</text>
+</cell>
+<cell row="33">
+<text>NISP</text>
+</cell>
+<cell row="34">
+<text>NISP</text>
+</cell>
+<cell row="35">
+<text>NISP</text>
+</cell>
+<cell row="36">
+<text>NISP</text>
+</cell>
+<cell row="37">
+<text>NISP</text>
+</cell>
+<cell row="38">
+<text>NISP</text>
+</cell>
+<cell row="39">
+<text>NISP</text>
+</cell>
+<cell row="40">
+<text>NISP</text>
+</cell>
+<cell row="41">
+<text>NISP</text>
+</cell>
+<cell row="42">
+<text>NISP</text>
+</cell>
+<cell row="43">
+<text>NISP</text>
+</cell>
+<cell row="44">
+<text>NISP</text>
+</cell>
+<cell row="45">
+<text>NISP</text>
+</cell>
+<cell row="46">
+<text>NISP</text>
+</cell>
+<cell row="47">
+<text>NISP</text>
+</cell>
+<cell row="48">
+<text>NISP</text>
+</cell>
+<cell row="49">
+<text>NISP</text>
+</cell>
+<cell row="50">
+<text>NISP</text>
+</cell>
+<cell row="51">
+<text>NISP</text>
+</cell>
+</Col>
+<Col ID="7" Width="64">
+<cell row="13">
+<text>TRSH</text>
+</cell>
+<cell row="14">
+<text>UPHE</text>
+</cell>
+<cell row="15">
+<text>UPHE</text>
+</cell>
+<cell row="16">
+<text>VACR</text>
+</cell>
+<cell row="17">
+<text>UPHE</text>
+</cell>
+<cell row="18">
+<text>VACR</text>
+</cell>
+<cell row="19">
+<text>VACR</text>
+</cell>
+<cell row="20">
+<text>VACR</text>
+</cell>
+<cell row="21">
+<text>VACR</text>
+</cell>
+<cell row="22">
+<text>AQVP</text>
+</cell>
+<cell row="23">
+<text>TRSH</text>
+</cell>
+<cell row="24">
+<text>VACR</text>
+</cell>
+<cell row="25">
+<text>TRSH</text>
+</cell>
+<cell row="26">
+<text>TRSH</text>
+</cell>
+<cell row="27">
+<text>UPHE</text>
+</cell>
+<cell row="28">
+<text>UPHE</text>
+</cell>
+<cell row="29">
+<text>TRSH</text>
+</cell>
+<cell row="30">
+<text>UPHE</text>
+</cell>
+<cell row="31">
+<text>TRSH</text>
+</cell>
+<cell row="32">
+<text>UPHE</text>
+</cell>
+<cell row="33">
+<text>UPHE</text>
+</cell>
+<cell row="34">
+<text>UPHE</text>
+</cell>
+<cell row="35">
+<text>UPHE</text>
+</cell>
+<cell row="36">
+<text>UPHE</text>
+</cell>
+<cell row="37">
+<text>UPHE</text>
+</cell>
+<cell row="38">
+<text>UPHE</text>
+</cell>
+<cell row="39">
+<text>UPHE</text>
+</cell>
+<cell row="40">
+<text>TRSH</text>
+</cell>
+<cell row="41">
+<text>TRSH</text>
+</cell>
+<cell row="42">
+<text>UPHE</text>
+</cell>
+<cell row="43">
+<text>TRSH</text>
+</cell>
+<cell row="44">
+<text>TRSH</text>
+</cell>
+<cell row="45">
+<text>UPHE</text>
+</cell>
+<cell row="46">
+<text>TRSH</text>
+</cell>
+<cell row="47">
+<text>TRSH</text>
+</cell>
+<cell row="48">
+<text>TRSH</text>
+</cell>
+<cell row="49">
+<text>TRSH</text>
+</cell>
+<cell row="50">
+<text>UNID</text>
+</cell>
+<cell row="51">
+<text>VACR</text>
+</cell>
+</Col>
+<Col ID="8" Width="64">
+<cell row="1">
+<value>10</value>
+</cell>
+<cell row="3">
+<value>2072</value>
+</cell>
+<cell row="4">
+<value>2669</value>
+</cell>
+<cell row="5">
+<value>3070</value>
+</cell>
+<cell row="6">
+<value>2203</value>
+</cell>
+<cell row="7">
+<value>1204</value>
+</cell>
+<cell row="8">
+<value>1385</value>
+</cell>
+<cell row="9">
+<value>1068</value>
+</cell>
+<cell row="10">
+<value>0.5</value>
+</cell>
+<cell row="11">
+<text>Kremenetski, C.V.</text>
+<contact ID="5"/>
+</cell>
+<cell row="12">
+<date>33604</date>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>4</value>
+</cell>
+<cell row="15">
+<value>16</value>
+</cell>
+<cell row="16">
+<value>21</value>
+</cell>
+<cell row="18">
+<value>3</value>
+</cell>
+<cell row="20">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>6</value>
+</cell>
+<cell row="24">
+<value>6</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>11</value>
+</cell>
+<cell row="35">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>15</value>
+</cell>
+<cell row="41">
+<value>86</value>
+</cell>
+<cell row="43">
+<value>52</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>12</value>
+</cell>
+<cell row="49">
+<value>225</value>
+</cell>
+</Col>
+<Col ID="9" Width="64">
+<cell row="1">
+<value>20</value>
+</cell>
+<cell row="3">
+<value>3521</value>
+</cell>
+<cell row="4">
+<value>3809</value>
+</cell>
+<cell row="5">
+<value>4209</value>
+</cell>
+<cell row="6">
+<value>3309</value>
+</cell>
+<cell row="7">
+<value>2521</value>
+</cell>
+<cell row="8">
+<value>2777</value>
+</cell>
+<cell row="9">
+<value>2174</value>
+</cell>
+<cell row="10">
+<value>0.5</value>
+</cell>
+<cell row="11">
+<text>Kremenetski, C.V.</text>
+<contact ID="5"/>
+</cell>
+<cell row="12">
+<date>33604</date>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>6</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>4</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>14</value>
+</cell>
+<cell row="41">
+<value>230</value>
+</cell>
+<cell row="43">
+<value>44</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>13</value>
+</cell>
+<cell row="49">
+<value>100</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="10" Width="64">
+<cell row="1">
+<value>30</value>
+</cell>
+<cell row="3">
+<value>3976</value>
+</cell>
+<cell row="4">
+<value>4451</value>
+</cell>
+<cell row="5">
+<value>4758</value>
+</cell>
+<cell row="6">
+<value>4268</value>
+</cell>
+<cell row="7">
+<value>3661</value>
+</cell>
+<cell row="8">
+<value>3894</value>
+</cell>
+<cell row="9">
+<value>3310</value>
+</cell>
+<cell row="10">
+<value>0.5</value>
+</cell>
+<cell row="11">
+<text>Kremenetski, C.V.</text>
+<contact ID="5"/>
+</cell>
+<cell row="12">
+<date>33604</date>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>3</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>21</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>6</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>10</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>102</value>
+</cell>
+<cell row="41">
+<value>133</value>
+</cell>
+<cell row="43">
+<value>61</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>134</value>
+</cell>
+</Col>
+<Col ID="11" Width="64">
+<cell row="1">
+<value>40</value>
+</cell>
+<cell row="3">
+<value>4829</value>
+</cell>
+<cell row="4">
+<value>5466</value>
+</cell>
+<cell row="5">
+<value>5613</value>
+</cell>
+<cell row="6">
+<value>5343</value>
+</cell>
+<cell row="7">
+<value>4604</value>
+</cell>
+<cell row="8">
+<value>4811</value>
+</cell>
+<cell row="9">
+<value>4431</value>
+</cell>
+<cell row="10">
+<value>0.5</value>
+</cell>
+<cell row="11">
+<text>Kremenetski, C.V.</text>
+<contact ID="5"/>
+</cell>
+<cell row="12">
+<date>33604</date>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>5</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>40</value>
+</cell>
+<cell row="24">
+<value>10</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>7</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>5</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>77</value>
+</cell>
+<cell row="41">
+<value>111</value>
+</cell>
+<cell row="43">
+<value>61</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>17</value>
+</cell>
+<cell row="49">
+<value>201</value>
+</cell>
+</Col>
+<Col ID="12" Width="64">
+<cell row="1">
+<value>50</value>
+</cell>
+<cell row="3">
+<value>5688</value>
+</cell>
+<cell row="4">
+<value>6530</value>
+</cell>
+<cell row="5">
+<value>6639</value>
+</cell>
+<cell row="6">
+<value>6436</value>
+</cell>
+<cell row="7">
+<value>5577</value>
+</cell>
+<cell row="8">
+<value>5710</value>
+</cell>
+<cell row="9">
+<value>5485</value>
+</cell>
+<cell row="10">
+<value>0.5</value>
+</cell>
+<cell row="11">
+<text>Kremenetski, C.V.</text>
+<contact ID="5"/>
+</cell>
+<cell row="12">
+<date>33604</date>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>5</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>6</value>
+</cell>
+<cell row="32">
+<value>4</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="37">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>118</value>
+</cell>
+<cell row="41">
+<value>88</value>
+</cell>
+<cell row="43">
+<value>35</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="48">
+<value>55</value>
+</cell>
+<cell row="49">
+<value>105</value>
+</cell>
+</Col>
+<Col ID="13" Width="64">
+<cell row="1">
+<value>60</value>
+</cell>
+<cell row="3">
+<value>6790</value>
+</cell>
+<cell row="4">
+<value>7655</value>
+</cell>
+<cell row="5">
+<value>7754</value>
+</cell>
+<cell row="6">
+<value>7562</value>
+</cell>
+<cell row="7">
+<value>6497</value>
+</cell>
+<cell row="8">
+<value>6612</value>
+</cell>
+<cell row="9">
+<value>6327</value>
+</cell>
+<cell row="10">
+<value>0.5</value>
+</cell>
+<cell row="11">
+<text>Kremenetski, C.V.</text>
+<contact ID="5"/>
+</cell>
+<cell row="12">
+<date>33604</date>
+</cell>
+<cell row="14">
+<value>11</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>4</value>
+</cell>
+<cell row="35">
+<value>8</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>12</value>
+</cell>
+<cell row="41">
+<value>54</value>
+</cell>
+<cell row="43">
+<value>72</value>
+</cell>
+<cell row="48">
+<value>7</value>
+</cell>
+<cell row="49">
+<value>310</value>
+</cell>
+</Col>
+<Col ID="14" Width="64">
+<cell row="1">
+<value>70</value>
+</cell>
+<cell row="3">
+<value>8086</value>
+</cell>
+<cell row="4">
+<value>8843</value>
+</cell>
+<cell row="5">
+<value>9011</value>
+</cell>
+<cell row="6">
+<value>8639</value>
+</cell>
+<cell row="7">
+<value>7225</value>
+</cell>
+<cell row="8">
+<value>7354</value>
+</cell>
+<cell row="9">
+<value>6989</value>
+</cell>
+<cell row="10">
+<value>0.5</value>
+</cell>
+<cell row="11">
+<text>Kremenetski, C.V.</text>
+<contact ID="5"/>
+</cell>
+<cell row="12">
+<date>33604</date>
+</cell>
+<cell row="14">
+<value>6</value>
+</cell>
+<cell row="15">
+<value>9</value>
+</cell>
+<cell row="16">
+<value>4</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>6</value>
+</cell>
+<cell row="24">
+<value>6</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>7</value>
+</cell>
+<cell row="32">
+<value>3</value>
+</cell>
+<cell row="34">
+<value>19</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="37">
+<value>5</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="41">
+<value>4</value>
+</cell>
+<cell row="43">
+<value>62</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="48">
+<value>8</value>
+</cell>
+<cell row="49">
+<value>340</value>
+</cell>
+</Col>
+<Col ID="15" Width="64">
+<cell row="1">
+<value>90</value>
+</cell>
+<cell row="3">
+<value>10676</value>
+</cell>
+<cell row="4">
+<value>11223</value>
+</cell>
+<cell row="5">
+<value>11687</value>
+</cell>
+<cell row="6">
+<value>10720</value>
+</cell>
+<cell row="7">
+<value>8029</value>
+</cell>
+<cell row="8">
+<value>8184</value>
+</cell>
+<cell row="9">
+<value>7850</value>
+</cell>
+<cell row="10">
+<value>0.5</value>
+</cell>
+<cell row="11">
+<text>Kremenetski, C.V.</text>
+<contact ID="5"/>
+</cell>
+<cell row="12">
+<date>33604</date>
+</cell>
+<cell row="14">
+<value>6</value>
+</cell>
+<cell row="15">
+<value>24</value>
+</cell>
+<cell row="16">
+<value>7</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>6</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="26">
+<value>106</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>20</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="37">
+<value>2</value>
+</cell>
+<cell row="38">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>4</value>
+</cell>
+<cell row="41">
+<value>5</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>101</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>6</value>
+</cell>
+<cell row="48">
+<value>12</value>
+</cell>
+<cell row="49">
+<value>182</value>
+</cell>
+</Col>
+<Col ID="16" Width="64">
+<cell row="1">
+<value>110</value>
+</cell>
+<cell row="3">
+<value>13266</value>
+</cell>
+<cell row="4">
+<value>13604</value>
+</cell>
+<cell row="5">
+<value>14371</value>
+</cell>
+<cell row="6">
+<value>12793</value>
+</cell>
+<cell row="7">
+<value>8412</value>
+</cell>
+<cell row="8">
+<value>8686</value>
+</cell>
+<cell row="9">
+<value>8293</value>
+</cell>
+<cell row="10">
+<value>0.5</value>
+</cell>
+<cell row="11">
+<text>Kremenetski, C.V.</text>
+<contact ID="5"/>
+</cell>
+<cell row="12">
+<date>33604</date>
+</cell>
+<cell row="15">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>3</value>
+</cell>
+<cell row="20">
+<value>6</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="26">
+<value>70</value>
+</cell>
+<cell row="30">
+<value>2</value>
+</cell>
+<cell row="34">
+<value>6</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="37">
+<value>4</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>24</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>6</value>
+</cell>
+<cell row="48">
+<value>42</value>
+</cell>
+<cell row="49">
+<value>210</value>
+</cell>
+</Col>
+<Col ID="17" Width="64">
+<cell row="10">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="18" Width="64">
+<cell row="10">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="19" Width="64">
+<cell row="10">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="20" Width="64">
+<cell row="10">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="21" Width="64">
+<cell row="10">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="22" Width="64">
+<cell row="10">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="23" Width="64">
+<cell row="10">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="24" Width="64">
+<cell row="1">
+<value>5</value>
+</cell>
+<cell row="10">
+<value>10</value>
+</cell>
+</Col>
+</SpreadSheet>
+</SpreadSheetBook>
+<Site>
+<SiteName>Rybachiy</SiteName>
+<LongEast>32.366667</LongEast>
+<LongWest>32.366667</LongWest>
+<LatNorth>69.633333</LatNorth>
+<LatSouth>69.633333</LatSouth>
+<Altitude>60</Altitude>
+<Area>2</Area>
+<Country>Russia</Country>
+<SiteDescription>Peat bog. Physiography: Bedrocks. Surrounding vegetation: Tundra.</SiteDescription>
+</Site>
+<CollectionUnit>
+<Handle>R43-90</Handle>
+<CollectionType>Core</CollectionType>
+<CollectionDevice>Unspecified device</CollectionDevice>
+<Collectors>
+<Contact ID="4"/>
+</Collectors>
+<CollectionDate>33055</CollectionDate>
+<Location>Center of bog</Location>
+<DepositionalEnvironment>Bog</DepositionalEnvironment>
+<Notes>Local vegetation: Vaccinium.</Notes>
+</CollectionUnit>
+<Datasets>
+<Dataset>
+<DatasetType>pollen</DatasetType>
+<Name>EPD E# 965</Name>
+<Notes>Data contributed by Kremenetski Constantin V.</Notes>
+<IsSSamp>False</IsSSamp>
+<IsAggregate>False</IsAggregate>
+<Investigators>
+<Contact ID="5"/>
+</Investigators>
+<Processors>
+<Contact ID="3"/>
+</Processors>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</Dataset>
+</Datasets>
+<GeochronDataset>
+<Investigators>
+<Contact ID="5"/>
+</Investigators>
+<Geochronology AnalysisUnitID="Depth">
+<GeochronSample ID="1">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Thickness>10</Thickness>
+<LabNumber>IGRAS-1396</LabNumber>
+<Age>1629</Age>
+<ErrorOlder>37</ErrorOlder>
+<ErrorYounger>37</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>37</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+<PublicationsText>Kremenetski et al. 1997</PublicationsText>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</GeochronSample>
+<GeochronSample ID="2">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Thickness>10</Thickness>
+<LabNumber>IGRAS-1587</LabNumber>
+<Age>3514</Age>
+<ErrorOlder>38</ErrorOlder>
+<ErrorYounger>38</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>38</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+<PublicationsText>Kremenetski et al. 1997</PublicationsText>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</GeochronSample>
+<GeochronSample ID="3">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Thickness>10</Thickness>
+<LabNumber>IGRAS-1434</LabNumber>
+<Age>3528</Age>
+<ErrorOlder>36</ErrorOlder>
+<ErrorYounger>36</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>36</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+<PublicationsText>Kremenetski et al. 1997</PublicationsText>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</GeochronSample>
+<GeochronSample ID="4">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Thickness>10</Thickness>
+<LabNumber>IGRAS-1588</LabNumber>
+<Age>4425</Age>
+<ErrorOlder>40</ErrorOlder>
+<ErrorYounger>40</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>40</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+<PublicationsText>Kremenetski et al. 1997</PublicationsText>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</GeochronSample>
+<GeochronSample ID="5">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Thickness>10</Thickness>
+<LabNumber>IGRAS-1589</LabNumber>
+<Age>5233</Age>
+<ErrorOlder>67</ErrorOlder>
+<ErrorYounger>67</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>67</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+<PublicationsText>Kremenetski et al. 1997</PublicationsText>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</GeochronSample>
+<GeochronSample ID="6">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Thickness>10</Thickness>
+<LabNumber>IGRAS-1435</LabNumber>
+<Age>6143</Age>
+<ErrorOlder>42</ErrorOlder>
+<ErrorYounger>42</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>42</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+<PublicationsText>Kremenetski et al. 1997</PublicationsText>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</GeochronSample>
+<GeochronSample ID="7">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Thickness>10</Thickness>
+<LabNumber>IGRAS-1436</LabNumber>
+<Age>7438</Age>
+<ErrorOlder>64</ErrorOlder>
+<ErrorYounger>64</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>64</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+<PublicationsText>Kremenetski et al. 1997</PublicationsText>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</GeochronSample>
+<GeochronSample ID="8">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>5</Depth>
+<Thickness>10</Thickness>
+<LabNumber>IGRAS-1433</LabNumber>
+<ErrorOlder>43</ErrorOlder>
+<ErrorYounger>43</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>43</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+<PublicationsText>Kremenetski et al. 1997</PublicationsText>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</GeochronSample>
+</Geochronology>
+</GeochronDataset>
+<AgeModels AnalysisUnitID="Depth">
+<AgeModel>
+<ChronNumber>1</ChronNumber>
+<ChronologyName>EPD</ChronologyName>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Default>False</Default>
+<DatePrepared>35796</DatePrepared>
+<Model>Linear interpolation</Model>
+<AgeBoundOlder>13300</AgeBoundOlder>
+<AgeBoundYounger>2000</AgeBoundYounger>
+<Notes>Warning! 7 samples dates and 9 analysed which means the interpolation is applied to only 2 samples!.</Notes>
+<PreparersText>Cheddadi, R.</PreparersText>
+<Preparers>
+<Contact ID="1"/>
+</Preparers>
+<ChronControls>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>5</Depth>
+<Thickness>10</Thickness>
+<Age>629</Age>
+<AgeLimitOlder>37</AgeLimitOlder>
+<AgeLimitYounger>37</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>15</Depth>
+<Thickness>10</Thickness>
+<Age>3514</Age>
+<AgeLimitOlder>3552</AgeLimitOlder>
+<AgeLimitYounger>3476</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>25</Depth>
+<Thickness>10</Thickness>
+<Age>3528</Age>
+<AgeLimitOlder>3564</AgeLimitOlder>
+<AgeLimitYounger>3492</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>35</Depth>
+<Thickness>10</Thickness>
+<Age>4425</Age>
+<AgeLimitOlder>4465</AgeLimitOlder>
+<AgeLimitYounger>4385</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>45</Depth>
+<Thickness>10</Thickness>
+<Age>5233</Age>
+<AgeLimitOlder>5300</AgeLimitOlder>
+<AgeLimitYounger>5166</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>55</Depth>
+<Thickness>10</Thickness>
+<Age>6143</Age>
+<AgeLimitOlder>6185</AgeLimitOlder>
+<AgeLimitYounger>6101</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>65</Depth>
+<Thickness>10</Thickness>
+<Age>7438</Age>
+<AgeLimitOlder>7502</AgeLimitOlder>
+<AgeLimitYounger>7374</AgeLimitYounger>
+</ChronControl>
+</ChronControls>
+</AgeModel>
+<AgeModel>
+<ChronNumber>2</ChronNumber>
+<ChronologyName>Giesecke et al. 2014 (MADCAP)</ChronologyName>
+<AgeUnits>Calibrated radiocarbon years BP</AgeUnits>
+<Default>False</Default>
+<DatePrepared>40544</DatePrepared>
+<Model>clam</Model>
+<AgeBoundOlder>11230</AgeBoundOlder>
+<AgeBoundYounger>2660</AgeBoundYounger>
+<Notes>Smooth spline age model. Based on IntCal09 calibration curve. Preparer notes: More dates than samples</Notes>
+<PreparersText>Giesecke, T.</PreparersText>
+<Preparers>
+<Contact ID="3"/>
+</Preparers>
+<ChronControls>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>5</Depth>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>1629</Age>
+<AgeLimitOlder>37</AgeLimitOlder>
+<AgeLimitYounger>37</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="1"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>15</Depth>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>3514</Age>
+<AgeLimitOlder>38</AgeLimitOlder>
+<AgeLimitYounger>38</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="2"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>25</Depth>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>3528</Age>
+<AgeLimitOlder>36</AgeLimitOlder>
+<AgeLimitYounger>36</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="3"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>35</Depth>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>4425</Age>
+<AgeLimitOlder>40</AgeLimitOlder>
+<AgeLimitYounger>40</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="4"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>45</Depth>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>5233</Age>
+<AgeLimitOlder>67</AgeLimitOlder>
+<AgeLimitYounger>67</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="5"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>55</Depth>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>6143</Age>
+<AgeLimitOlder>42</AgeLimitOlder>
+<AgeLimitYounger>42</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="6"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>65</Depth>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>7438</Age>
+<AgeLimitOlder>64</AgeLimitOlder>
+<AgeLimitYounger>64</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="7"/>
+</GeochronLinks>
+</ChronControl>
+</ChronControls>
+</AgeModel>
+<AgeModel>
+<ChronNumber>3</ChronNumber>
+<ChronologyName>EPD 2</ChronologyName>
+<AgeUnits>Calibrated radiocarbon years BP</AgeUnits>
+<Default>True</Default>
+<DatePrepared>43140</DatePrepared>
+<Model>clam</Model>
+<AgeBoundOlder>8500</AgeBoundOlder>
+<AgeBoundYounger>1000</AgeBoundYounger>
+<Notes>A previous mistake in copying the 14C ages lead to too old extrapolation of oldest sample. This was fixed and a new chronology made.
+Using smoothing spline (smoothing 0.4),  Based on IntCal13</Notes>
+<PreparersText>Giesecke, T.</PreparersText>
+<Preparers>
+<Contact ID="3"/>
+</Preparers>
+<ChronControls>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>1629</Age>
+<AgeLimitOlder>1666</AgeLimitOlder>
+<AgeLimitYounger>1592</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="1"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>3514</Age>
+<AgeLimitOlder>3552</AgeLimitOlder>
+<AgeLimitYounger>3476</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="2"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>3528</Age>
+<AgeLimitOlder>3564</AgeLimitOlder>
+<AgeLimitYounger>3492</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="3"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>4425</Age>
+<AgeLimitOlder>4465</AgeLimitOlder>
+<AgeLimitYounger>4385</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="4"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>5233</Age>
+<AgeLimitOlder>5300</AgeLimitOlder>
+<AgeLimitYounger>5166</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="5"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>6143</Age>
+<AgeLimitOlder>6185</AgeLimitOlder>
+<AgeLimitYounger>6101</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="6"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>7438</Age>
+<AgeLimitOlder>7502</AgeLimitOlder>
+<AgeLimitYounger>7374</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="7"/>
+</GeochronLinks>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>5</Depth>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<AgeLimitOlder>671</AgeLimitOlder>
+<AgeLimitYounger>585</AgeLimitYounger>
+<GeochronLinks>
+<GeochronLink ID="8"/>
+</GeochronLinks>
+</ChronControl>
+</ChronControls>
+</AgeModel>
+</AgeModels>
+<Lithology>
+<LithologyUnit>
+<DepthTop>0</DepthTop>
+<DepthBottom>50</DepthBottom>
+<Description>Sphagnum peat</Description>
+<LowerBoundary>abrupt</LowerBoundary>
+</LithologyUnit>
+<LithologyUnit>
+<DepthTop>50</DepthTop>
+<DepthBottom>110</DepthBottom>
+<Description>herb peat</Description>
+<LowerBoundary>abrupt</LowerBoundary>
+</LithologyUnit>
+</Lithology>
+</TiliaFile>

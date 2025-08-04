@@ -1,0 +1,9020 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--written 28-Nov-2018 17:23:43-->
+<TiliaFile>
+<Version>
+<Application>Tilia</Application>
+<MajorVersion>2</MajorVersion>
+<MinorVersion>1</MinorVersion>
+<Release>1</Release>
+</Version>
+<Contacts>
+<Contact ID="1">
+<NeotomaContactID>8720</NeotomaContactID>
+<NeotomaAliasID>8720</NeotomaAliasID>
+<FullContactName>Barbier-Leydet, Michelle</FullContactName>
+<ShortContactName>Barbier-Leydet, M.</ShortContactName>
+<FamilyName>Barbier-Leydet</FamilyName>
+<GivenNames>Michelle</GivenNames>
+<LeadingInitials>M.</LeadingInitials>
+<Status>active</Status>
+<Email>michelle.leydet@univ-amu.fr</Email>
+<Address>
+<AddressLine>IMBE\r\nAix-Marseille University\r\nEuropôle de l&apos;Arbois\r\nAvenue Louis Philibert\r\nBât Villemin\r\nBP F-13545 Aix en Provence cedex 4\r\nFrance</AddressLine>
+</Address>
+</Contact>
+<Contact ID="2">
+<NeotomaContactID>9996</NeotomaContactID>
+<NeotomaAliasID>9996</NeotomaAliasID>
+<FullContactName>Coolen, Marco</FullContactName>
+<ShortContactName>Coolen, M.J.L.</ShortContactName>
+<FamilyName>Coolen</FamilyName>
+<GivenNames>Marco</GivenNames>
+<LeadingInitials>M.J.L.</LeadingInitials>
+<Status>unknown</Status>
+<Address>
+<AddressLine>Curtin University Australia · Department of Chemistry\r\nAustralia · Bentley</AddressLine>
+</Address>
+</Contact>
+<Contact ID="3">
+<NeotomaContactID>1059</NeotomaContactID>
+<NeotomaAliasID>1059</NeotomaAliasID>
+<FullContactName>Filipova-Marinova, Mariana</FullContactName>
+<ShortContactName>Filipova-Marinova, M.</ShortContactName>
+<FamilyName>Filipova-Marinova</FamilyName>
+<GivenNames>Mariana</GivenNames>
+<LeadingInitials>M.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Telephone>359-52-228194</Telephone>
+<Email>marianafilipova@yahoo.com</Email>
+<Address>
+<AddressLine>Museum of Natural History - Varna\r\n41, Maria Louisa Blvd\r\n9000 Varna\r\nBulgaria</AddressLine>
+</Address>
+</Contact>
+<Contact ID="4">
+<NeotomaContactID>8710</NeotomaContactID>
+<NeotomaAliasID>8710</NeotomaAliasID>
+<FullContactName>Giesecke, Thomas</FullContactName>
+<ShortContactName>Giesecke, T.</ShortContactName>
+<FamilyName>Giesecke</FamilyName>
+<GivenNames>Thomas</GivenNames>
+<LeadingInitials>T.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Telephone>+49-(0)551/39-10675</Telephone>
+<Email>tgiesec@gwdg.de</Email>
+<URL>https://www.uni-goettingen.de/en/96263.html</URL>
+<Address>
+<AddressLine>Untere Karspüle 2\r\n37073 Göttingen\r\nGermany</AddressLine>
+</Address>
+</Contact>
+<Contact ID="5">
+<NeotomaContactID>9765</NeotomaContactID>
+<NeotomaAliasID>9765</NeotomaAliasID>
+<FullContactName>Giosan, Liviu</FullContactName>
+<ShortContactName>Giosan, L.</ShortContactName>
+<FamilyName>Giosan</FamilyName>
+<GivenNames>Liviu</GivenNames>
+<LeadingInitials>L.</LeadingInitials>
+<Status>active</Status>
+<Email>lgiosan@whoi.edu</Email>
+<Address>
+<AddressLine>Woods Hole Oceanographic Institution\r\n360 Woods Hole Rd\r\nWoods Hole, Massachusetts 02543\r\nUSA</AddressLine>
+</Address>
+</Contact>
+<Contact ID="6">
+<NeotomaContactID>9762</NeotomaContactID>
+<NeotomaAliasID>9762</NeotomaAliasID>
+<FullContactName>Pavlov, Danail</FullContactName>
+<ShortContactName>Pavlov, D.</ShortContactName>
+<FamilyName>Pavlov</FamilyName>
+<GivenNames>Danail</GivenNames>
+<LeadingInitials>D.</LeadingInitials>
+<Status>active</Status>
+<Email>danailpavlov@gmail.com</Email>
+<Address>
+<AddressLine>Society of Innovative Ecologists of Bulgaria\r\n10, Dr. Bassanovich Str.\r\n9010 Varna\r\nBulgaria</AddressLine>
+</Address>
+</Contact>
+<Contact ID="7">
+<NeotomaContactID>9763</NeotomaContactID>
+<NeotomaAliasID>9763</NeotomaAliasID>
+<FullContactName>Vergiev, Stoyan</FullContactName>
+<ShortContactName>Vergiev, S.</ShortContactName>
+<FamilyName>Vergiev</FamilyName>
+<GivenNames>Stoyan</GivenNames>
+<LeadingInitials>S.</LeadingInitials>
+<Status>active</Status>
+<Address>
+<AddressLine>Museum of Natural History – Varna\r\n41, Maria Louisa Blvd\r\n9000 Varna\r\nBulgaria</AddressLine>
+</Address>
+</Contact>
+</Contacts>
+<Publications>
+<Publication ID="1" Primary="true">
+<PublicationType>journal article</PublicationType>
+<NeotomaID>10441</NeotomaID>
+<PublicationYear>2014</PublicationYear>
+<Citation>Filipova-Marinova, M.V.F.M., D. Pavlov, M. Coolen, L. Giosan, and S. Vergiev. 2014. Contributions to the European Pollen Database. 22. Vegetation development in the central part of the Bulgarian Black Sea coast during the last 13 000 years. Grana 53(3):249-251.</Citation>
+<Authors>
+<Author>
+<Contact ID="3"/>
+<LastName>Filipova-Marinova</LastName>
+<Initials>M.V.F.M.</Initials>
+</Author>
+<Author>
+<Contact ID="6"/>
+<LastName>Pavlov</LastName>
+<Initials>D.</Initials>
+</Author>
+<Author>
+<Contact ID="2"/>
+<LastName>Coolen</LastName>
+<Initials>M.</Initials>
+</Author>
+<Author>
+<Contact ID="5"/>
+<LastName>Giosan</LastName>
+<Initials>L.</Initials>
+</Author>
+<Author>
+<Contact ID="7"/>
+<LastName>Vergiev</LastName>
+<Initials>S.</Initials>
+</Author>
+</Authors>
+<Title>Contributions to the European Pollen Database. 22. Vegetation development in the central part of the Bulgarian Black Sea coast during the last 13 000 years.</Title>
+<Journal>Grana</Journal>
+<Volume>53</Volume>
+<Issue>3</Issue>
+<Pages>249-251</Pages>
+</Publication>
+</Publications>
+<SpreadSheetBook>
+<SpreadSheetOptions>
+<HeaderRow>0</HeaderRow>
+<FontName>Arial</FontName>
+<FontSize>9</FontSize>
+<DefaultColWidth>64</DefaultColWidth>
+<DefaultRowHeight>18</DefaultRowHeight>
+<PercentDecimalPlaces>1</PercentDecimalPlaces>
+<CheckDupCodes>True</CheckDupCodes>
+<CaseSensitiveCodes>False</CaseSensitiveCodes>
+<CodesVisible>True</CodesVisible>
+<ElementsVisible>True</ElementsVisible>
+<UnitsVisible>True</UnitsVisible>
+<ContextsVisible>False</ContextsVisible>
+<TaphonomyVisible>False</TaphonomyVisible>
+<GroupsVisible>True</GroupsVisible>
+<GroupCategories>
+<GroupCategory>bryophytes</GroupCategory>
+<GroupCategory>vascular plants</GroupCategory>
+</GroupCategories>
+</SpreadSheetOptions>
+<SpreadSheet page="0" name="Data">
+<Col ID="1" Width="64">
+<cell row="3">
+<text>#Chron1</text>
+</cell>
+<cell row="4">
+<text>#Chron2</text>
+</cell>
+<cell row="5">
+<text>#Samp.Analyst</text>
+</cell>
+<cell row="6">
+<text>#Samp.DateAnal</text>
+</cell>
+<cell row="7">
+<text>Abi</text>
+</cell>
+<cell row="8">
+<text>Art</text>
+</cell>
+<cell row="9">
+<text>Bet</text>
+</cell>
+<cell row="10">
+<text>Boreae</text>
+</cell>
+<cell row="11">
+<text>Cryeae</text>
+</cell>
+<cell row="12">
+<text>Cor</text>
+</cell>
+<cell row="13">
+<text>Cypeae</text>
+</cell>
+<cell row="14">
+<text>Erceae</text>
+</cell>
+<cell row="15">
+<text>Eup</text>
+</cell>
+<cell row="16">
+<text>Fag</text>
+</cell>
+<cell row="17">
+<text>Hyp</text>
+</cell>
+<cell row="18">
+<text>Asteae.sf.Cchdae</text>
+</cell>
+<cell row="19">
+<text>Lyc.cl</text>
+</cell>
+<cell row="20">
+<text>Pic</text>
+</cell>
+<cell row="21">
+<text>Pln.la</text>
+</cell>
+<cell row="22">
+<text>Plpeae</text>
+</cell>
+<cell row="23">
+<text>Que</text>
+</cell>
+<cell row="24">
+<text>Rho</text>
+</cell>
+<cell row="25">
+<text>Rum</text>
+</cell>
+<cell row="26">
+<text>Slx</text>
+</cell>
+<cell row="27">
+<text>Screae</text>
+</cell>
+<cell row="28">
+<text>Til</text>
+</cell>
+<cell row="29">
+<text>Typ.la</text>
+</cell>
+<cell row="30">
+<text>Ulm</text>
+</cell>
+<cell row="31">
+<text>Apieae</text>
+</cell>
+<cell row="32">
+<text>Xan</text>
+</cell>
+<cell row="33">
+<text>Aln</text>
+</cell>
+<cell row="34">
+<text>Ace</text>
+</cell>
+<cell row="35">
+<text>Lileae</text>
+</cell>
+<cell row="36">
+<text>Fabeae</text>
+</cell>
+<cell row="37">
+<text>Raneae</text>
+</cell>
+<cell row="38">
+<text>Jug</text>
+</cell>
+<cell row="39">
+<text>Amaeae</text>
+</cell>
+<cell row="40">
+<text>Poaeae</text>
+</cell>
+<cell row="41">
+<text>Braeae</text>
+</cell>
+<cell row="42">
+<text>Lameae</text>
+</cell>
+<cell row="43">
+<text>Urt</text>
+</cell>
+<cell row="44">
+<text>Bot.si</text>
+</cell>
+<cell row="45">
+<text>Cys</text>
+</cell>
+<cell row="46">
+<text>Foram</text>
+</cell>
+<cell row="47">
+<text>Ope.ce</text>
+</cell>
+<cell row="48">
+<text>Rubeae</text>
+</cell>
+<cell row="49">
+<text>Cam</text>
+</cell>
+<cell row="50">
+<text>Ach-t</text>
+</cell>
+<cell row="51">
+<text>Ptl</text>
+</cell>
+<cell row="52">
+<text>Lig</text>
+</cell>
+<cell row="53">
+<text>Pol.av</text>
+</cell>
+<cell row="54">
+<text>Trt</text>
+</cell>
+<cell row="55">
+<text>Jun</text>
+</cell>
+<cell row="56">
+<text>Pap</text>
+</cell>
+<cell row="57">
+<text>Hli</text>
+</cell>
+<cell row="58">
+<text>Cpn.be</text>
+</cell>
+<cell row="59">
+<text>Sca</text>
+</cell>
+<cell row="60">
+<text>Tha.lu</text>
+</cell>
+<cell row="61">
+<text>Cpn.or</text>
+</cell>
+<cell row="62">
+<text>Cen.cy</text>
+</cell>
+<cell row="63">
+<text>Fil</text>
+</cell>
+<cell row="64">
+<text>Cyg</text>
+</cell>
+<cell row="65">
+<text>Poaeae(Cer-t)</text>
+</cell>
+<cell row="66">
+<text>Typ.an/Spa</text>
+</cell>
+<cell row="67">
+<text>Myo</text>
+</cell>
+<cell row="68">
+<text>Hde</text>
+</cell>
+<cell row="69">
+<text>Slr</text>
+</cell>
+<cell row="70">
+<text>Crm-t</text>
+</cell>
+<cell row="71">
+<text>Cdu-t</text>
+</cell>
+<cell row="72">
+<text>Eph.di</text>
+</cell>
+<cell row="73">
+<text>Ast-t</text>
+</cell>
+<cell row="74">
+<text>Ptu.sa</text>
+</cell>
+<cell row="75">
+<text>Frx.or</text>
+</cell>
+<cell row="76">
+<text>Cen.ja-t</text>
+</cell>
+<cell row="77">
+<text>Crn.ma</text>
+</cell>
+<cell row="78">
+<text>Rha/Pli</text>
+</cell>
+<cell row="79">
+<text>Frx.ex-t</text>
+</cell>
+<cell row="80">
+<text>Pin.sg.Pin-t</text>
+</cell>
+<cell row="81">
+<text>Hum/Cnb</text>
+</cell>
+<cell row="82">
+<text>Btr</text>
+</cell>
+<cell row="83">
+<text>Cym.gl</text>
+</cell>
+<cell row="84">
+<text>Drp/Thl</text>
+</cell>
+<cell row="85">
+<text>Lgu.ma</text>
+</cell>
+<cell row="86">
+<text>Mic.ar</text>
+</cell>
+<cell row="87">
+<text>Spi.be</text>
+</cell>
+<cell row="88">
+<text>Spi.cr</text>
+</cell>
+<cell row="89">
+<text>Mon.si.si</text>
+</cell>
+<cell row="90">
+<text>Spi.bn</text>
+</cell>
+<cell row="91">
+<text>Spn.ra</text>
+</cell>
+<cell row="92">
+<text>Bri.sp</text>
+</cell>
+<cell row="93">
+<text>Ech.tr</text>
+</cell>
+<cell row="94">
+<text>Isl.mi</text>
+</cell>
+<cell row="95">
+<text>Lgu.ma.cl</text>
+</cell>
+<cell row="96">
+<text>Per.po</text>
+</cell>
+<cell row="97">
+<text>Plk.ko</text>
+</cell>
+<cell row="98">
+<text>Pro.st</text>
+</cell>
+<cell row="99">
+<text>Pyx.ps</text>
+</cell>
+<cell row="100">
+<text>Qui.co</text>
+</cell>
+<cell row="101">
+<text>Spn.mi</text>
+</cell>
+</Col>
+<Col ID="2" Width="180">
+<cell row="3">
+<text>C14 BP</text>
+</cell>
+<cell row="4">
+<text>CAL BP</text>
+</cell>
+<cell row="5">
+<text>Sample Analyst</text>
+</cell>
+<cell row="6">
+<text>Date Analyzed</text>
+</cell>
+<cell row="7">
+<text>Abies</text>
+</cell>
+<cell row="8">
+<text>Artemisia</text>
+</cell>
+<cell row="9">
+<text>Betula</text>
+</cell>
+<cell row="10">
+<text>Boraginaceae</text>
+</cell>
+<cell row="11">
+<text>Caryophyllaceae</text>
+</cell>
+<cell row="12">
+<text>Corylus</text>
+</cell>
+<cell row="13">
+<text>Cyperaceae</text>
+</cell>
+<cell row="14">
+<text>Ericaceae</text>
+</cell>
+<cell row="15">
+<text>Euphorbia</text>
+</cell>
+<cell row="16">
+<text>Fagus</text>
+</cell>
+<cell row="17">
+<text>Hypericum</text>
+</cell>
+<cell row="18">
+<text>Asteraceae subf. Cichorioideae</text>
+<Synonym>
+<TaxonName>Cichoriaceae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="19">
+<text>Lycopodium clavatum</text>
+</cell>
+<cell row="20">
+<text>Picea</text>
+</cell>
+<cell row="21">
+<text>Plantago lanceolata</text>
+</cell>
+<cell row="22">
+<text>Polypodiaceae</text>
+</cell>
+<cell row="23">
+<text>Quercus</text>
+</cell>
+<cell row="24">
+<text>Rhododendron</text>
+</cell>
+<cell row="25">
+<text>Rumex</text>
+</cell>
+<cell row="26">
+<text>Salix</text>
+</cell>
+<cell row="27">
+<text>Scrophulariaceae</text>
+</cell>
+<cell row="28">
+<text>Tilia</text>
+</cell>
+<cell row="29">
+<text>Typha latifolia</text>
+</cell>
+<cell row="30">
+<text>Ulmus</text>
+</cell>
+<cell row="31">
+<text>Apiaceae</text>
+</cell>
+<cell row="32">
+<text>Xanthium</text>
+</cell>
+<cell row="33">
+<text>Alnus</text>
+</cell>
+<cell row="34">
+<text>Acer</text>
+</cell>
+<cell row="35">
+<text>Liliaceae</text>
+</cell>
+<cell row="36">
+<text>Fabaceae</text>
+</cell>
+<cell row="37">
+<text>Ranunculaceae</text>
+</cell>
+<cell row="38">
+<text>Juglans</text>
+</cell>
+<cell row="39">
+<text>Amaranthaceae</text>
+<Synonym>
+<TaxonName>Chenopodiaceae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="40">
+<text>Poaceae</text>
+</cell>
+<cell row="41">
+<text>Brassicaceae</text>
+</cell>
+<cell row="42">
+<text>Lamiaceae</text>
+</cell>
+<cell row="43">
+<text>Urtica</text>
+</cell>
+<cell row="44">
+<text>Botrychium simplex</text>
+</cell>
+<cell row="45">
+<text>Cystopteris</text>
+</cell>
+<cell row="46">
+<text>Foraminifera</text>
+</cell>
+<cell row="47">
+<text>Operculodinium centrocarpum</text>
+</cell>
+<cell row="48">
+<text>Rubiaceae</text>
+</cell>
+<cell row="49">
+<text>Campanula</text>
+</cell>
+<cell row="50">
+<text>Achillea-type</text>
+</cell>
+<cell row="51">
+<text>Potentilla</text>
+</cell>
+<cell row="52">
+<text>Ligustrum</text>
+</cell>
+<cell row="53">
+<text>Polygonum aviculare</text>
+</cell>
+<cell row="54">
+<text>Triticum</text>
+</cell>
+<cell row="55">
+<text>Juniperus</text>
+</cell>
+<cell row="56">
+<text>Papaver</text>
+</cell>
+<cell row="57">
+<text>Helianthemum</text>
+</cell>
+<cell row="58">
+<text>Carpinus betulus</text>
+</cell>
+<cell row="59">
+<text>Scabiosa</text>
+</cell>
+<cell row="60">
+<text>Thalictrum lucidum</text>
+</cell>
+<cell row="61">
+<text>Carpinus orientalis</text>
+</cell>
+<cell row="62">
+<text>Centaurea cyanus</text>
+</cell>
+<cell row="63">
+<text>Filipendula</text>
+</cell>
+<cell row="64">
+<text>Calystegia</text>
+</cell>
+<cell row="65">
+<text>Poaceae (Cerealia-type)</text>
+</cell>
+<cell row="66">
+<text>Typha angustifolia/Sparganium</text>
+</cell>
+<cell row="67">
+<text>Myosotis</text>
+</cell>
+<cell row="68">
+<text>Hedera</text>
+</cell>
+<cell row="69">
+<text>Scleranthus</text>
+</cell>
+<cell row="70">
+<text>Cirsium-type</text>
+</cell>
+<cell row="71">
+<text>Carduus-type</text>
+</cell>
+<cell row="72">
+<text>Ephedra distachya</text>
+</cell>
+<cell row="73">
+<text>Aster-type</text>
+</cell>
+<cell row="74">
+<text>Poterium sanguisorba</text>
+<Synonym>
+<TaxonName>Sanguisorba minor</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="75">
+<text>Fraxinus ornus</text>
+</cell>
+<cell row="76">
+<text>Centaurea jacea-type</text>
+</cell>
+<cell row="77">
+<text>Cornus mas</text>
+</cell>
+<cell row="78">
+<text>Rhamnus/Paliurus</text>
+</cell>
+<cell row="79">
+<text>Fraxinus excelsior-type</text>
+</cell>
+<cell row="80">
+<text>Pinus subg. Pinus-type</text>
+</cell>
+<cell row="81">
+<text>Humulus/Cannabis</text>
+</cell>
+<cell row="82">
+<text>Botryococcus</text>
+</cell>
+<cell row="83">
+<text>Cymatiosphaera globulosa</text>
+</cell>
+<cell row="84">
+<text>Dryopteris/Thelypteris</text>
+</cell>
+<cell row="85">
+<text>Lingulodinium machaerophorum</text>
+</cell>
+<cell row="86">
+<text>Micrhystridium ariakense</text>
+</cell>
+<cell row="87">
+<text>Spiniferites belerius</text>
+</cell>
+<cell row="88">
+<text>Spiniferites cruciformis</text>
+</cell>
+<cell row="89">
+<text>Monactinus simplex var. simplex</text>
+<Synonym>
+<TaxonName>Pediastrum simplex var. simplex</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="90">
+<text>Spiniferites bentorii</text>
+</cell>
+<cell row="91">
+<text>Spiniferites ramosus</text>
+</cell>
+<cell row="92">
+<text>Brigantedinium sp.</text>
+</cell>
+<cell row="93">
+<text>Echinidinium transparantum</text>
+</cell>
+<cell row="94">
+<text>Islandinium minutum</text>
+</cell>
+<cell row="95">
+<text>Lingulodinium machaerophorum var. clavatum</text>
+</cell>
+<cell row="96">
+<text>Peridinium ponticum</text>
+</cell>
+<cell row="97">
+<text>Polykrikos kofoidii</text>
+</cell>
+<cell row="98">
+<text>Protoperidinium stellatum</text>
+</cell>
+<cell row="99">
+<text>Pyxidinopsis psilata</text>
+</cell>
+<cell row="100">
+<text>Quinquecuspis concreta</text>
+</cell>
+<cell row="101">
+<text>Spiniferites mirabilis</text>
+</cell>
+</Col>
+<Col ID="3" Width="64">
+<cell row="7">
+<text>pollen</text>
+</cell>
+<cell row="8">
+<text>pollen</text>
+</cell>
+<cell row="9">
+<text>pollen</text>
+</cell>
+<cell row="10">
+<text>pollen</text>
+</cell>
+<cell row="11">
+<text>pollen</text>
+</cell>
+<cell row="12">
+<text>pollen</text>
+</cell>
+<cell row="13">
+<text>pollen</text>
+</cell>
+<cell row="14">
+<text>pollen</text>
+</cell>
+<cell row="15">
+<text>pollen</text>
+</cell>
+<cell row="16">
+<text>pollen</text>
+</cell>
+<cell row="17">
+<text>pollen</text>
+</cell>
+<cell row="18">
+<text>pollen</text>
+</cell>
+<cell row="19">
+<text>spore</text>
+</cell>
+<cell row="20">
+<text>pollen</text>
+</cell>
+<cell row="21">
+<text>pollen</text>
+</cell>
+<cell row="22">
+<text>spore</text>
+</cell>
+<cell row="23">
+<text>pollen</text>
+</cell>
+<cell row="24">
+<text>pollen</text>
+</cell>
+<cell row="25">
+<text>pollen</text>
+</cell>
+<cell row="26">
+<text>pollen</text>
+</cell>
+<cell row="27">
+<text>pollen</text>
+</cell>
+<cell row="28">
+<text>pollen</text>
+</cell>
+<cell row="29">
+<text>pollen</text>
+</cell>
+<cell row="30">
+<text>pollen</text>
+</cell>
+<cell row="31">
+<text>pollen</text>
+</cell>
+<cell row="32">
+<text>pollen</text>
+</cell>
+<cell row="33">
+<text>pollen</text>
+</cell>
+<cell row="34">
+<text>pollen</text>
+</cell>
+<cell row="35">
+<text>pollen</text>
+</cell>
+<cell row="36">
+<text>pollen</text>
+</cell>
+<cell row="37">
+<text>pollen</text>
+</cell>
+<cell row="38">
+<text>pollen</text>
+</cell>
+<cell row="39">
+<text>pollen</text>
+</cell>
+<cell row="40">
+<text>pollen</text>
+</cell>
+<cell row="41">
+<text>pollen</text>
+</cell>
+<cell row="42">
+<text>pollen</text>
+</cell>
+<cell row="43">
+<text>pollen</text>
+</cell>
+<cell row="44">
+<text>spore</text>
+</cell>
+<cell row="45">
+<text>spore</text>
+</cell>
+<cell row="46">
+<text>test</text>
+</cell>
+<cell row="47">
+<text>cyst</text>
+</cell>
+<cell row="48">
+<text>pollen</text>
+</cell>
+<cell row="49">
+<text>pollen</text>
+</cell>
+<cell row="50">
+<text>pollen</text>
+</cell>
+<cell row="51">
+<text>pollen</text>
+</cell>
+<cell row="52">
+<text>pollen</text>
+</cell>
+<cell row="53">
+<text>pollen</text>
+</cell>
+<cell row="54">
+<text>pollen</text>
+</cell>
+<cell row="55">
+<text>pollen</text>
+</cell>
+<cell row="56">
+<text>pollen</text>
+</cell>
+<cell row="57">
+<text>pollen</text>
+</cell>
+<cell row="58">
+<text>pollen</text>
+</cell>
+<cell row="59">
+<text>pollen</text>
+</cell>
+<cell row="60">
+<text>pollen</text>
+</cell>
+<cell row="61">
+<text>pollen</text>
+</cell>
+<cell row="62">
+<text>pollen</text>
+</cell>
+<cell row="63">
+<text>pollen</text>
+</cell>
+<cell row="64">
+<text>pollen</text>
+</cell>
+<cell row="65">
+<text>pollen</text>
+</cell>
+<cell row="66">
+<text>pollen</text>
+</cell>
+<cell row="67">
+<text>pollen</text>
+</cell>
+<cell row="68">
+<text>pollen</text>
+</cell>
+<cell row="69">
+<text>pollen</text>
+</cell>
+<cell row="70">
+<text>pollen</text>
+</cell>
+<cell row="71">
+<text>pollen</text>
+</cell>
+<cell row="72">
+<text>pollen</text>
+</cell>
+<cell row="73">
+<text>pollen</text>
+</cell>
+<cell row="74">
+<text>pollen</text>
+</cell>
+<cell row="75">
+<text>pollen</text>
+</cell>
+<cell row="76">
+<text>pollen</text>
+</cell>
+<cell row="77">
+<text>pollen</text>
+</cell>
+<cell row="78">
+<text>pollen</text>
+</cell>
+<cell row="79">
+<text>pollen</text>
+</cell>
+<cell row="80">
+<text>pollen</text>
+</cell>
+<cell row="81">
+<text>pollen</text>
+</cell>
+<cell row="82">
+<text>colony</text>
+</cell>
+<cell row="83">
+<text>cyst</text>
+</cell>
+<cell row="84">
+<text>spore</text>
+</cell>
+<cell row="85">
+<text>cyst</text>
+</cell>
+<cell row="86">
+<text>palynomorph</text>
+</cell>
+<cell row="87">
+<text>cyst</text>
+</cell>
+<cell row="88">
+<text>cyst</text>
+</cell>
+<cell row="89">
+<text>colony</text>
+</cell>
+<cell row="90">
+<text>cyst</text>
+</cell>
+<cell row="91">
+<text>cyst</text>
+</cell>
+<cell row="92">
+<text>cyst</text>
+</cell>
+<cell row="93">
+<text>cyst</text>
+</cell>
+<cell row="94">
+<text>cyst</text>
+</cell>
+<cell row="95">
+<text>cyst</text>
+</cell>
+<cell row="96">
+<text>cyst</text>
+</cell>
+<cell row="97">
+<text>cyst</text>
+</cell>
+<cell row="98">
+<text>cyst</text>
+</cell>
+<cell row="99">
+<text>cyst</text>
+</cell>
+<cell row="100">
+<text>cyst</text>
+</cell>
+<cell row="101">
+<text>cyst</text>
+</cell>
+</Col>
+<Col ID="4" Width="64">
+<cell row="3">
+<text>14C yr BP</text>
+</cell>
+<cell row="4">
+<text>cal yr BP</text>
+</cell>
+<cell row="7">
+<text>NISP</text>
+</cell>
+<cell row="8">
+<text>NISP</text>
+</cell>
+<cell row="9">
+<text>NISP</text>
+</cell>
+<cell row="10">
+<text>NISP</text>
+</cell>
+<cell row="11">
+<text>NISP</text>
+</cell>
+<cell row="12">
+<text>NISP</text>
+</cell>
+<cell row="13">
+<text>NISP</text>
+</cell>
+<cell row="14">
+<text>NISP</text>
+</cell>
+<cell row="15">
+<text>NISP</text>
+</cell>
+<cell row="16">
+<text>NISP</text>
+</cell>
+<cell row="17">
+<text>NISP</text>
+</cell>
+<cell row="18">
+<text>NISP</text>
+</cell>
+<cell row="19">
+<text>NISP</text>
+</cell>
+<cell row="20">
+<text>NISP</text>
+</cell>
+<cell row="21">
+<text>NISP</text>
+</cell>
+<cell row="22">
+<text>NISP</text>
+</cell>
+<cell row="23">
+<text>NISP</text>
+</cell>
+<cell row="24">
+<text>NISP</text>
+</cell>
+<cell row="25">
+<text>NISP</text>
+</cell>
+<cell row="26">
+<text>NISP</text>
+</cell>
+<cell row="27">
+<text>NISP</text>
+</cell>
+<cell row="28">
+<text>NISP</text>
+</cell>
+<cell row="29">
+<text>NISP</text>
+</cell>
+<cell row="30">
+<text>NISP</text>
+</cell>
+<cell row="31">
+<text>NISP</text>
+</cell>
+<cell row="32">
+<text>NISP</text>
+</cell>
+<cell row="33">
+<text>NISP</text>
+</cell>
+<cell row="34">
+<text>NISP</text>
+</cell>
+<cell row="35">
+<text>NISP</text>
+</cell>
+<cell row="36">
+<text>NISP</text>
+</cell>
+<cell row="37">
+<text>NISP</text>
+</cell>
+<cell row="38">
+<text>NISP</text>
+</cell>
+<cell row="39">
+<text>NISP</text>
+</cell>
+<cell row="40">
+<text>NISP</text>
+</cell>
+<cell row="41">
+<text>NISP</text>
+</cell>
+<cell row="42">
+<text>NISP</text>
+</cell>
+<cell row="43">
+<text>NISP</text>
+</cell>
+<cell row="44">
+<text>NISP</text>
+</cell>
+<cell row="45">
+<text>NISP</text>
+</cell>
+<cell row="46">
+<text>NISP</text>
+</cell>
+<cell row="47">
+<text>NISP</text>
+</cell>
+<cell row="48">
+<text>NISP</text>
+</cell>
+<cell row="49">
+<text>NISP</text>
+</cell>
+<cell row="50">
+<text>NISP</text>
+</cell>
+<cell row="51">
+<text>NISP</text>
+</cell>
+<cell row="52">
+<text>NISP</text>
+</cell>
+<cell row="53">
+<text>NISP</text>
+</cell>
+<cell row="54">
+<text>NISP</text>
+</cell>
+<cell row="55">
+<text>NISP</text>
+</cell>
+<cell row="56">
+<text>NISP</text>
+</cell>
+<cell row="57">
+<text>NISP</text>
+</cell>
+<cell row="58">
+<text>NISP</text>
+</cell>
+<cell row="59">
+<text>NISP</text>
+</cell>
+<cell row="60">
+<text>NISP</text>
+</cell>
+<cell row="61">
+<text>NISP</text>
+</cell>
+<cell row="62">
+<text>NISP</text>
+</cell>
+<cell row="63">
+<text>NISP</text>
+</cell>
+<cell row="64">
+<text>NISP</text>
+</cell>
+<cell row="65">
+<text>NISP</text>
+</cell>
+<cell row="66">
+<text>NISP</text>
+</cell>
+<cell row="67">
+<text>NISP</text>
+</cell>
+<cell row="68">
+<text>NISP</text>
+</cell>
+<cell row="69">
+<text>NISP</text>
+</cell>
+<cell row="70">
+<text>NISP</text>
+</cell>
+<cell row="71">
+<text>NISP</text>
+</cell>
+<cell row="72">
+<text>NISP</text>
+</cell>
+<cell row="73">
+<text>NISP</text>
+</cell>
+<cell row="74">
+<text>NISP</text>
+</cell>
+<cell row="75">
+<text>NISP</text>
+</cell>
+<cell row="76">
+<text>NISP</text>
+</cell>
+<cell row="77">
+<text>NISP</text>
+</cell>
+<cell row="78">
+<text>NISP</text>
+</cell>
+<cell row="79">
+<text>NISP</text>
+</cell>
+<cell row="80">
+<text>NISP</text>
+</cell>
+<cell row="81">
+<text>NISP</text>
+</cell>
+<cell row="82">
+<text>NISP</text>
+</cell>
+<cell row="83">
+<text>NISP</text>
+</cell>
+<cell row="84">
+<text>NISP</text>
+</cell>
+<cell row="85">
+<text>NISP</text>
+</cell>
+<cell row="86">
+<text>NISP</text>
+</cell>
+<cell row="87">
+<text>NISP</text>
+</cell>
+<cell row="88">
+<text>NISP</text>
+</cell>
+<cell row="89">
+<text>NISP</text>
+</cell>
+<cell row="90">
+<text>NISP</text>
+</cell>
+<cell row="91">
+<text>NISP</text>
+</cell>
+<cell row="92">
+<text>NISP</text>
+</cell>
+<cell row="93">
+<text>NISP</text>
+</cell>
+<cell row="94">
+<text>NISP</text>
+</cell>
+<cell row="95">
+<text>NISP</text>
+</cell>
+<cell row="96">
+<text>NISP</text>
+</cell>
+<cell row="97">
+<text>NISP</text>
+</cell>
+<cell row="98">
+<text>NISP</text>
+</cell>
+<cell row="99">
+<text>NISP</text>
+</cell>
+<cell row="100">
+<text>NISP</text>
+</cell>
+<cell row="101">
+<text>NISP</text>
+</cell>
+</Col>
+<Col ID="7" Width="64">
+<cell row="7">
+<text>TRSH</text>
+</cell>
+<cell row="8">
+<text>UPHE</text>
+</cell>
+<cell row="9">
+<text>TRSH</text>
+</cell>
+<cell row="10">
+<text>UPHE</text>
+</cell>
+<cell row="11">
+<text>UPHE</text>
+</cell>
+<cell row="12">
+<text>TRSH</text>
+</cell>
+<cell row="13">
+<text>UPHE</text>
+</cell>
+<cell row="14">
+<text>TRSH</text>
+</cell>
+<cell row="15">
+<text>UPHE</text>
+</cell>
+<cell row="16">
+<text>TRSH</text>
+</cell>
+<cell row="17">
+<text>UPHE</text>
+</cell>
+<cell row="18">
+<text>UPHE</text>
+</cell>
+<cell row="19">
+<text>VACR</text>
+</cell>
+<cell row="20">
+<text>TRSH</text>
+</cell>
+<cell row="21">
+<text>UPHE</text>
+</cell>
+<cell row="22">
+<text>VACR</text>
+</cell>
+<cell row="23">
+<text>TRSH</text>
+</cell>
+<cell row="24">
+<text>TRSH</text>
+</cell>
+<cell row="25">
+<text>UPHE</text>
+</cell>
+<cell row="26">
+<text>TRSH</text>
+</cell>
+<cell row="27">
+<text>UPHE</text>
+</cell>
+<cell row="28">
+<text>TRSH</text>
+</cell>
+<cell row="29">
+<text>AQVP</text>
+</cell>
+<cell row="30">
+<text>TRSH</text>
+</cell>
+<cell row="31">
+<text>UPHE</text>
+</cell>
+<cell row="32">
+<text>UPHE</text>
+</cell>
+<cell row="33">
+<text>TRSH</text>
+</cell>
+<cell row="34">
+<text>TRSH</text>
+</cell>
+<cell row="35">
+<text>UPHE</text>
+</cell>
+<cell row="36">
+<text>UPHE</text>
+</cell>
+<cell row="37">
+<text>UPHE</text>
+</cell>
+<cell row="38">
+<text>TRSH</text>
+</cell>
+<cell row="39">
+<text>UPHE</text>
+</cell>
+<cell row="40">
+<text>UPHE</text>
+</cell>
+<cell row="41">
+<text>UPHE</text>
+</cell>
+<cell row="42">
+<text>UPHE</text>
+</cell>
+<cell row="43">
+<text>UPHE</text>
+</cell>
+<cell row="44">
+<text>VACR</text>
+</cell>
+<cell row="45">
+<text>VACR</text>
+</cell>
+<cell row="46">
+<text>FORM</text>
+</cell>
+<cell row="47">
+<text>DINO</text>
+</cell>
+<cell row="48">
+<text>TRSH</text>
+</cell>
+<cell row="49">
+<text>UPHE</text>
+</cell>
+<cell row="50">
+<text>UPHE</text>
+</cell>
+<cell row="51">
+<text>UPHE</text>
+</cell>
+<cell row="52">
+<text>TRSH</text>
+</cell>
+<cell row="53">
+<text>UPHE</text>
+</cell>
+<cell row="54">
+<text>UPHE</text>
+</cell>
+<cell row="55">
+<text>TRSH</text>
+</cell>
+<cell row="56">
+<text>UPHE</text>
+</cell>
+<cell row="57">
+<text>UPHE</text>
+</cell>
+<cell row="58">
+<text>TRSH</text>
+</cell>
+<cell row="59">
+<text>UPHE</text>
+</cell>
+<cell row="60">
+<text>UPHE</text>
+</cell>
+<cell row="61">
+<text>TRSH</text>
+</cell>
+<cell row="62">
+<text>UPHE</text>
+</cell>
+<cell row="63">
+<text>UPHE</text>
+</cell>
+<cell row="64">
+<text>UPHE</text>
+</cell>
+<cell row="65">
+<text>UPHE</text>
+</cell>
+<cell row="66">
+<text>AQVP</text>
+</cell>
+<cell row="67">
+<text>UPHE</text>
+</cell>
+<cell row="68">
+<text>TRSH</text>
+</cell>
+<cell row="69">
+<text>UPHE</text>
+</cell>
+<cell row="70">
+<text>UPHE</text>
+</cell>
+<cell row="71">
+<text>UPHE</text>
+</cell>
+<cell row="72">
+<text>TRSH</text>
+</cell>
+<cell row="73">
+<text>UPHE</text>
+</cell>
+<cell row="74">
+<text>UPHE</text>
+</cell>
+<cell row="75">
+<text>TRSH</text>
+</cell>
+<cell row="76">
+<text>UPHE</text>
+</cell>
+<cell row="77">
+<text>TRSH</text>
+</cell>
+<cell row="78">
+<text>TRSH</text>
+</cell>
+<cell row="79">
+<text>TRSH</text>
+</cell>
+<cell row="80">
+<text>TRSH</text>
+</cell>
+<cell row="81">
+<text>UPHE</text>
+</cell>
+<cell row="82">
+<text>ALGA</text>
+</cell>
+<cell row="83">
+<text>DINO</text>
+</cell>
+<cell row="84">
+<text>VACR</text>
+</cell>
+<cell row="85">
+<text>DINO</text>
+</cell>
+<cell row="86">
+<text>ACRI</text>
+</cell>
+<cell row="87">
+<text>DINO</text>
+</cell>
+<cell row="88">
+<text>DINO</text>
+</cell>
+<cell row="89">
+<text>ALGA</text>
+</cell>
+<cell row="90">
+<text>DINO</text>
+</cell>
+<cell row="91">
+<text>DINO</text>
+</cell>
+<cell row="92">
+<text>DINO</text>
+</cell>
+<cell row="93">
+<text>DINO</text>
+</cell>
+<cell row="94">
+<text>DINO</text>
+</cell>
+<cell row="95">
+<text>DINO</text>
+</cell>
+<cell row="96">
+<text>DINO</text>
+</cell>
+<cell row="97">
+<text>DINO</text>
+</cell>
+<cell row="98">
+<text>DINO</text>
+</cell>
+<cell row="99">
+<text>DINO</text>
+</cell>
+<cell row="100">
+<text>DINO</text>
+</cell>
+<cell row="101">
+<text>DINO</text>
+</cell>
+</Col>
+<Col ID="8" Width="64">
+<cell row="1">
+<value>2.5</value>
+</cell>
+<cell row="3">
+<value>243</value>
+</cell>
+<cell row="4">
+<value>182</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>4</value>
+</cell>
+<cell row="8">
+<value>51</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="11">
+<value>11</value>
+</cell>
+<cell row="12">
+<value>34</value>
+</cell>
+<cell row="14">
+<value>6</value>
+</cell>
+<cell row="16">
+<value>14</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>390</value>
+</cell>
+<cell row="21">
+<value>12</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>88</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="30">
+<value>5</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>34</value>
+</cell>
+<cell row="33">
+<value>29</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>80</value>
+</cell>
+<cell row="40">
+<value>23</value>
+</cell>
+<cell row="41">
+<value>8</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>21</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="54">
+<value>10</value>
+</cell>
+<cell row="58">
+<value>23</value>
+</cell>
+<cell row="61">
+<value>4</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="65">
+<value>8</value>
+</cell>
+<cell row="66">
+<value>6</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>6</value>
+</cell>
+<cell row="75">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>99</value>
+</cell>
+<cell row="83">
+<value>21</value>
+</cell>
+<cell row="84">
+<value>1</value>
+</cell>
+<cell row="85">
+<value>133</value>
+</cell>
+<cell row="87">
+<value>5</value>
+</cell>
+<cell row="90">
+<value>7</value>
+</cell>
+<cell row="91">
+<value>10</value>
+</cell>
+<cell row="95">
+<value>7</value>
+</cell>
+<cell row="96">
+<value>9</value>
+</cell>
+<cell row="101">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="9" Width="64">
+<cell row="1">
+<value>9.5</value>
+</cell>
+<cell row="3">
+<value>923</value>
+</cell>
+<cell row="4">
+<value>843</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>4</value>
+</cell>
+<cell row="8">
+<value>111</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>54</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>31</value>
+</cell>
+<cell row="19">
+<value>562</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>70</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="30">
+<value>15</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>73</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>39</value>
+</cell>
+<cell row="40">
+<value>39</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>4</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="58">
+<value>27</value>
+</cell>
+<cell row="60">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>9</value>
+</cell>
+<cell row="65">
+<value>3</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>90</value>
+</cell>
+<cell row="83">
+<value>23</value>
+</cell>
+<cell row="84">
+<value>1</value>
+</cell>
+<cell row="85">
+<value>16</value>
+</cell>
+<cell row="87">
+<value>3</value>
+</cell>
+<cell row="90">
+<value>4</value>
+</cell>
+<cell row="91">
+<value>4</value>
+</cell>
+<cell row="95">
+<value>1</value>
+</cell>
+<cell row="96">
+<value>11</value>
+</cell>
+<cell row="101">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="10" Width="64">
+<cell row="1">
+<value>14.5</value>
+</cell>
+<cell row="3">
+<value>1060</value>
+</cell>
+<cell row="4">
+<value>972</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>3</value>
+</cell>
+<cell row="8">
+<value>107</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>60</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>26</value>
+</cell>
+<cell row="18">
+<value>3</value>
+</cell>
+<cell row="19">
+<value>687</value>
+</cell>
+<cell row="21">
+<value>9</value>
+</cell>
+<cell row="22">
+<value>5</value>
+</cell>
+<cell row="23">
+<value>105</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="30">
+<value>12</value>
+</cell>
+<cell row="31">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>75</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>35</value>
+</cell>
+<cell row="40">
+<value>31</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="48">
+<value>4</value>
+</cell>
+<cell row="50">
+<value>7</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>41</value>
+</cell>
+<cell row="60">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>4</value>
+</cell>
+<cell row="63">
+<value>5</value>
+</cell>
+<cell row="65">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>13</value>
+</cell>
+<cell row="80">
+<value>106</value>
+</cell>
+<cell row="83">
+<value>22</value>
+</cell>
+<cell row="85">
+<value>38</value>
+</cell>
+<cell row="87">
+<value>5</value>
+</cell>
+<cell row="90">
+<value>6</value>
+</cell>
+<cell row="91">
+<value>3</value>
+</cell>
+<cell row="93">
+<value>1</value>
+</cell>
+<cell row="95">
+<value>3</value>
+</cell>
+<cell row="96">
+<value>21</value>
+</cell>
+<cell row="101">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="11" Width="64">
+<cell row="1">
+<value>19.5</value>
+</cell>
+<cell row="3">
+<value>1272</value>
+</cell>
+<cell row="4">
+<value>1193</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>70</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>44</value>
+</cell>
+<cell row="16">
+<value>16</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>413</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>3</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>123</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="30">
+<value>9</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>78</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>31</value>
+</cell>
+<cell row="40">
+<value>24</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>2</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>34</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="62">
+<value>4</value>
+</cell>
+<cell row="63">
+<value>3</value>
+</cell>
+<cell row="65">
+<value>4</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>6</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>53</value>
+</cell>
+<cell row="83">
+<value>8</value>
+</cell>
+<cell row="85">
+<value>18</value>
+</cell>
+<cell row="87">
+<value>3</value>
+</cell>
+<cell row="90">
+<value>4</value>
+</cell>
+<cell row="91">
+<value>3</value>
+</cell>
+<cell row="93">
+<value>2</value>
+</cell>
+<cell row="95">
+<value>3</value>
+</cell>
+<cell row="96">
+<value>11</value>
+</cell>
+<cell row="101">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="12" Width="64">
+<cell row="1">
+<value>27.5</value>
+</cell>
+<cell row="3">
+<value>1612</value>
+</cell>
+<cell row="4">
+<value>1545</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>2</value>
+</cell>
+<cell row="8">
+<value>42</value>
+</cell>
+<cell row="9">
+<value>6</value>
+</cell>
+<cell row="12">
+<value>42</value>
+</cell>
+<cell row="16">
+<value>16</value>
+</cell>
+<cell row="19">
+<value>374</value>
+</cell>
+<cell row="21">
+<value>6</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>116</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="30">
+<value>15</value>
+</cell>
+<cell row="31">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>67</value>
+</cell>
+<cell row="39">
+<value>11</value>
+</cell>
+<cell row="40">
+<value>14</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>61</value>
+</cell>
+<cell row="61">
+<value>4</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>4</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>7</value>
+</cell>
+<cell row="80">
+<value>61</value>
+</cell>
+<cell row="83">
+<value>28</value>
+</cell>
+<cell row="85">
+<value>26</value>
+</cell>
+<cell row="87">
+<value>6</value>
+</cell>
+<cell row="90">
+<value>6</value>
+</cell>
+<cell row="91">
+<value>4</value>
+</cell>
+<cell row="92">
+<value>6</value>
+</cell>
+<cell row="95">
+<value>3</value>
+</cell>
+<cell row="96">
+<value>10</value>
+</cell>
+<cell row="101">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="13" Width="64">
+<cell row="1">
+<value>34.5</value>
+</cell>
+<cell row="3">
+<value>1910</value>
+</cell>
+<cell row="4">
+<value>1854</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>103</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>50</value>
+</cell>
+<cell row="16">
+<value>19</value>
+</cell>
+<cell row="17">
+<value>4</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>731</value>
+</cell>
+<cell row="21">
+<value>3</value>
+</cell>
+<cell row="22">
+<value>9</value>
+</cell>
+<cell row="23">
+<value>116</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="27">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="30">
+<value>15</value>
+</cell>
+<cell row="31">
+<value>10</value>
+</cell>
+<cell row="33">
+<value>55</value>
+</cell>
+<cell row="36">
+<value>39</value>
+</cell>
+<cell row="39">
+<value>19</value>
+</cell>
+<cell row="40">
+<value>18</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>2</value>
+</cell>
+<cell row="51">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>40</value>
+</cell>
+<cell row="60">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>10</value>
+</cell>
+<cell row="63">
+<value>17</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>6</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>6</value>
+</cell>
+<cell row="78">
+<value>3</value>
+</cell>
+<cell row="79">
+<value>9</value>
+</cell>
+<cell row="80">
+<value>95</value>
+</cell>
+<cell row="83">
+<value>26</value>
+</cell>
+<cell row="85">
+<value>64</value>
+</cell>
+<cell row="87">
+<value>2</value>
+</cell>
+<cell row="90">
+<value>5</value>
+</cell>
+<cell row="91">
+<value>5</value>
+</cell>
+<cell row="93">
+<value>2</value>
+</cell>
+<cell row="95">
+<value>4</value>
+</cell>
+<cell row="96">
+<value>12</value>
+</cell>
+<cell row="101">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="14" Width="64">
+<cell row="1">
+<value>40.5</value>
+</cell>
+<cell row="3">
+<value>2150</value>
+</cell>
+<cell row="4">
+<value>2144</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>61</value>
+</cell>
+<cell row="12">
+<value>31</value>
+</cell>
+<cell row="13">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>12</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>235</value>
+</cell>
+<cell row="21">
+<value>7</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>95</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="29">
+<value>2</value>
+</cell>
+<cell row="30">
+<value>15</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>60</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>13</value>
+</cell>
+<cell row="40">
+<value>6</value>
+</cell>
+<cell row="47">
+<value>12</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>40</value>
+</cell>
+<cell row="60">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>10</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>4</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>7</value>
+</cell>
+<cell row="80">
+<value>73</value>
+</cell>
+<cell row="83">
+<value>24</value>
+</cell>
+<cell row="85">
+<value>185</value>
+</cell>
+<cell row="87">
+<value>5</value>
+</cell>
+<cell row="90">
+<value>18</value>
+</cell>
+<cell row="91">
+<value>8</value>
+</cell>
+<cell row="93">
+<value>1</value>
+</cell>
+<cell row="95">
+<value>13</value>
+</cell>
+<cell row="96">
+<value>8</value>
+</cell>
+<cell row="101">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="15" Width="64">
+<cell row="1">
+<value>46.5</value>
+</cell>
+<cell row="3">
+<value>2390</value>
+</cell>
+<cell row="4">
+<value>2434</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>3</value>
+</cell>
+<cell row="8">
+<value>75</value>
+</cell>
+<cell row="12">
+<value>42</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>25</value>
+</cell>
+<cell row="19">
+<value>313</value>
+</cell>
+<cell row="21">
+<value>5</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>60</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="30">
+<value>17</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>78</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>9</value>
+</cell>
+<cell row="40">
+<value>22</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="58">
+<value>33</value>
+</cell>
+<cell row="60">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>21</value>
+</cell>
+<cell row="80">
+<value>26</value>
+</cell>
+<cell row="83">
+<value>13</value>
+</cell>
+<cell row="85">
+<value>27</value>
+</cell>
+<cell row="90">
+<value>9</value>
+</cell>
+<cell row="91">
+<value>11</value>
+</cell>
+<cell row="93">
+<value>3</value>
+</cell>
+<cell row="95">
+<value>4</value>
+</cell>
+<cell row="96">
+<value>7</value>
+</cell>
+<cell row="101">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="16" Width="64">
+<cell row="1">
+<value>52.5</value>
+</cell>
+<cell row="3">
+<value>2890</value>
+</cell>
+<cell row="4">
+<value>3022</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>2</value>
+</cell>
+<cell row="8">
+<value>44</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="12">
+<value>30</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>24</value>
+</cell>
+<cell row="19">
+<value>227</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>100</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="30">
+<value>13</value>
+</cell>
+<cell row="33">
+<value>48</value>
+</cell>
+<cell row="39">
+<value>12</value>
+</cell>
+<cell row="40">
+<value>10</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>47</value>
+</cell>
+<cell row="61">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>7</value>
+</cell>
+<cell row="79">
+<value>6</value>
+</cell>
+<cell row="80">
+<value>37</value>
+</cell>
+<cell row="83">
+<value>13</value>
+</cell>
+<cell row="85">
+<value>20</value>
+</cell>
+<cell row="87">
+<value>2</value>
+</cell>
+<cell row="90">
+<value>3</value>
+</cell>
+<cell row="91">
+<value>10</value>
+</cell>
+<cell row="93">
+<value>1</value>
+</cell>
+<cell row="95">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="17" Width="64">
+<cell row="1">
+<value>59</value>
+</cell>
+<cell row="3">
+<value>3192</value>
+</cell>
+<cell row="4">
+<value>3422</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>3</value>
+</cell>
+<cell row="8">
+<value>161</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>37</value>
+</cell>
+<cell row="16">
+<value>14</value>
+</cell>
+<cell row="18">
+<value>5</value>
+</cell>
+<cell row="19">
+<value>1891</value>
+</cell>
+<cell row="21">
+<value>4</value>
+</cell>
+<cell row="22">
+<value>6</value>
+</cell>
+<cell row="23">
+<value>317</value>
+</cell>
+<cell row="28">
+<value>6</value>
+</cell>
+<cell row="30">
+<value>28</value>
+</cell>
+<cell row="31">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>5</value>
+</cell>
+<cell row="34">
+<value>3</value>
+</cell>
+<cell row="39">
+<value>58</value>
+</cell>
+<cell row="40">
+<value>30</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>4</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>6</value>
+</cell>
+<cell row="58">
+<value>16</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>4</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>4</value>
+</cell>
+<cell row="79">
+<value>17</value>
+</cell>
+<cell row="80">
+<value>104</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+<cell row="83">
+<value>5</value>
+</cell>
+<cell row="85">
+<value>5</value>
+</cell>
+<cell row="88">
+<value>9</value>
+</cell>
+<cell row="89">
+<value>2</value>
+</cell>
+<cell row="91">
+<value>4</value>
+</cell>
+<cell row="92">
+<value>18</value>
+</cell>
+<cell row="95">
+<value>3</value>
+</cell>
+<cell row="96">
+<value>12</value>
+</cell>
+<cell row="100">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="18" Width="64">
+<cell row="1">
+<value>65</value>
+</cell>
+<cell row="3">
+<value>3446</value>
+</cell>
+<cell row="4">
+<value>3730</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>56</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>48</value>
+</cell>
+<cell row="16">
+<value>28</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>275</value>
+</cell>
+<cell row="21">
+<value>4</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>148</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>7</value>
+</cell>
+<cell row="30">
+<value>24</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>29</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>25</value>
+</cell>
+<cell row="40">
+<value>18</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>92</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>9</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>3</value>
+</cell>
+<cell row="65">
+<value>4</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>3</value>
+</cell>
+<cell row="80">
+<value>47</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+<cell row="83">
+<value>22</value>
+</cell>
+<cell row="85">
+<value>115</value>
+</cell>
+<cell row="87">
+<value>10</value>
+</cell>
+<cell row="88">
+<value>1</value>
+</cell>
+<cell row="90">
+<value>11</value>
+</cell>
+<cell row="91">
+<value>10</value>
+</cell>
+<cell row="93">
+<value>19</value>
+</cell>
+<cell row="95">
+<value>13</value>
+</cell>
+<cell row="96">
+<value>4</value>
+</cell>
+<cell row="97">
+<value>1</value>
+</cell>
+<cell row="101">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="19" Width="64">
+<cell row="1">
+<value>71</value>
+</cell>
+<cell row="3">
+<value>3700</value>
+</cell>
+<cell row="4">
+<value>4037</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>62</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>32</value>
+</cell>
+<cell row="16">
+<value>23</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>66</value>
+</cell>
+<cell row="20">
+<value>6</value>
+</cell>
+<cell row="21">
+<value>3</value>
+</cell>
+<cell row="22">
+<value>7</value>
+</cell>
+<cell row="23">
+<value>134</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="30">
+<value>9</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>43</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>18</value>
+</cell>
+<cell row="40">
+<value>11</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="58">
+<value>93</value>
+</cell>
+<cell row="61">
+<value>9</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>10</value>
+</cell>
+<cell row="80">
+<value>91</value>
+</cell>
+<cell row="83">
+<value>31</value>
+</cell>
+<cell row="85">
+<value>229</value>
+</cell>
+<cell row="87">
+<value>18</value>
+</cell>
+<cell row="91">
+<value>13</value>
+</cell>
+<cell row="93">
+<value>5</value>
+</cell>
+<cell row="95">
+<value>21</value>
+</cell>
+<cell row="97">
+<value>6</value>
+</cell>
+<cell row="98">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="20" Width="64">
+<cell row="1">
+<value>77</value>
+</cell>
+<cell row="3">
+<value>4000</value>
+</cell>
+<cell row="4">
+<value>4459</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>2</value>
+</cell>
+<cell row="8">
+<value>50</value>
+</cell>
+<cell row="12">
+<value>40</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>28</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>288</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>152</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>7</value>
+</cell>
+<cell row="30">
+<value>20</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>21</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>45</value>
+</cell>
+<cell row="40">
+<value>18</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>90</value>
+</cell>
+<cell row="60">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>14</value>
+</cell>
+<cell row="63">
+<value>3</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>4</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>17</value>
+</cell>
+<cell row="80">
+<value>35</value>
+</cell>
+<cell row="83">
+<value>37</value>
+</cell>
+<cell row="85">
+<value>235</value>
+</cell>
+<cell row="87">
+<value>16</value>
+</cell>
+<cell row="90">
+<value>18</value>
+</cell>
+<cell row="91">
+<value>24</value>
+</cell>
+<cell row="93">
+<value>41</value>
+</cell>
+<cell row="95">
+<value>40</value>
+</cell>
+<cell row="96">
+<value>6</value>
+</cell>
+<cell row="97">
+<value>3</value>
+</cell>
+<cell row="101">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="21" Width="64">
+<cell row="1">
+<value>81</value>
+</cell>
+<cell row="3">
+<value>4200</value>
+</cell>
+<cell row="4">
+<value>4740</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>22</value>
+</cell>
+<cell row="12">
+<value>34</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>10</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>25</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>54</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="30">
+<value>12</value>
+</cell>
+<cell row="33">
+<value>13</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>7</value>
+</cell>
+<cell row="40">
+<value>6</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>41</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="75">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>3</value>
+</cell>
+<cell row="80">
+<value>12</value>
+</cell>
+<cell row="83">
+<value>14</value>
+</cell>
+<cell row="85">
+<value>110</value>
+</cell>
+<cell row="87">
+<value>12</value>
+</cell>
+<cell row="90">
+<value>4</value>
+</cell>
+<cell row="91">
+<value>10</value>
+</cell>
+<cell row="93">
+<value>18</value>
+</cell>
+<cell row="95">
+<value>15</value>
+</cell>
+<cell row="97">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="22" Width="64">
+<cell row="1">
+<value>84</value>
+</cell>
+<cell row="3">
+<value>4369</value>
+</cell>
+<cell row="4">
+<value>4951</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>2</value>
+</cell>
+<cell row="8">
+<value>25</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>97</value>
+</cell>
+<cell row="16">
+<value>31</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>55</value>
+</cell>
+<cell row="20">
+<value>7</value>
+</cell>
+<cell row="21">
+<value>5</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>97</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="30">
+<value>19</value>
+</cell>
+<cell row="31">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>11</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>8</value>
+</cell>
+<cell row="40">
+<value>17</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>70</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>4</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>6</value>
+</cell>
+<cell row="80">
+<value>73</value>
+</cell>
+<cell row="83">
+<value>34</value>
+</cell>
+<cell row="85">
+<value>248</value>
+</cell>
+<cell row="87">
+<value>118</value>
+</cell>
+<cell row="90">
+<value>8</value>
+</cell>
+<cell row="91">
+<value>36</value>
+</cell>
+<cell row="93">
+<value>10</value>
+</cell>
+<cell row="95">
+<value>121</value>
+</cell>
+<cell row="96">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="23" Width="64">
+<cell row="1">
+<value>88</value>
+</cell>
+<cell row="3">
+<value>4595</value>
+</cell>
+<cell row="4">
+<value>5233</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>4</value>
+</cell>
+<cell row="8">
+<value>57</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>33</value>
+</cell>
+<cell row="16">
+<value>17</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>454</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>158</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>17</value>
+</cell>
+<cell row="30">
+<value>22</value>
+</cell>
+<cell row="31">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>24</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>25</value>
+</cell>
+<cell row="40">
+<value>13</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>9</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="58">
+<value>93</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>7</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>4</value>
+</cell>
+<cell row="79">
+<value>5</value>
+</cell>
+<cell row="80">
+<value>45</value>
+</cell>
+<cell row="81">
+<value>2</value>
+</cell>
+<cell row="83">
+<value>28</value>
+</cell>
+<cell row="85">
+<value>124</value>
+</cell>
+<cell row="87">
+<value>35</value>
+</cell>
+<cell row="90">
+<value>26</value>
+</cell>
+<cell row="91">
+<value>31</value>
+</cell>
+<cell row="93">
+<value>10</value>
+</cell>
+<cell row="95">
+<value>34</value>
+</cell>
+<cell row="96">
+<value>11</value>
+</cell>
+<cell row="97">
+<value>4</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="101">
+<value>11</value>
+</cell>
+</Col>
+<Col ID="24" Width="64">
+<cell row="1">
+<value>92</value>
+</cell>
+<cell row="3">
+<value>4821</value>
+</cell>
+<cell row="4">
+<value>5515</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>2</value>
+</cell>
+<cell row="8">
+<value>29</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>59</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>35</value>
+</cell>
+<cell row="19">
+<value>42</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>4</value>
+</cell>
+<cell row="22">
+<value>8</value>
+</cell>
+<cell row="23">
+<value>130</value>
+</cell>
+<cell row="28">
+<value>22</value>
+</cell>
+<cell row="30">
+<value>19</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>20</value>
+</cell>
+<cell row="38">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>16</value>
+</cell>
+<cell row="40">
+<value>34</value>
+</cell>
+<cell row="41">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="55">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>100</value>
+</cell>
+<cell row="61">
+<value>10</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="77">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>13</value>
+</cell>
+<cell row="80">
+<value>52</value>
+</cell>
+<cell row="83">
+<value>14</value>
+</cell>
+<cell row="85">
+<value>134</value>
+</cell>
+<cell row="87">
+<value>43</value>
+</cell>
+<cell row="91">
+<value>9</value>
+</cell>
+<cell row="93">
+<value>2</value>
+</cell>
+<cell row="95">
+<value>12</value>
+</cell>
+<cell row="96">
+<value>22</value>
+</cell>
+<cell row="97">
+<value>3</value>
+</cell>
+<cell row="101">
+<value>4</value>
+</cell>
+</Col>
+<Col ID="25" Width="64">
+<cell row="1">
+<value>94</value>
+</cell>
+<cell row="3">
+<value>4934</value>
+</cell>
+<cell row="4">
+<value>5656</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>27</value>
+</cell>
+<cell row="12">
+<value>38</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>5</value>
+</cell>
+<cell row="19">
+<value>30</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>86</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>19</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>20</value>
+</cell>
+<cell row="39">
+<value>7</value>
+</cell>
+<cell row="40">
+<value>16</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="50">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>37</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>3</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>6</value>
+</cell>
+<cell row="80">
+<value>25</value>
+</cell>
+<cell row="81">
+<value>2</value>
+</cell>
+<cell row="83">
+<value>33</value>
+</cell>
+<cell row="85">
+<value>1415</value>
+</cell>
+<cell row="87">
+<value>18</value>
+</cell>
+<cell row="91">
+<value>5</value>
+</cell>
+<cell row="93">
+<value>20</value>
+</cell>
+<cell row="94">
+<value>2</value>
+</cell>
+<cell row="95">
+<value>170</value>
+</cell>
+<cell row="96">
+<value>9</value>
+</cell>
+<cell row="97">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="26" Width="64">
+<cell row="1">
+<value>97</value>
+</cell>
+<cell row="3">
+<value>5109</value>
+</cell>
+<cell row="4">
+<value>5862</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>10</value>
+</cell>
+<cell row="8">
+<value>57</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>60</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>37</value>
+</cell>
+<cell row="18">
+<value>3</value>
+</cell>
+<cell row="19">
+<value>243</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>148</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>16</value>
+</cell>
+<cell row="30">
+<value>31</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>24</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>22</value>
+</cell>
+<cell row="40">
+<value>8</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>79</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>10</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>8</value>
+</cell>
+<cell row="80">
+<value>25</value>
+</cell>
+<cell row="83">
+<value>70</value>
+</cell>
+<cell row="85">
+<value>138</value>
+</cell>
+<cell row="87">
+<value>14</value>
+</cell>
+<cell row="90">
+<value>18</value>
+</cell>
+<cell row="91">
+<value>37</value>
+</cell>
+<cell row="93">
+<value>14</value>
+</cell>
+<cell row="95">
+<value>9</value>
+</cell>
+<cell row="96">
+<value>1</value>
+</cell>
+<cell row="101">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="27" Width="64">
+<cell row="1">
+<value>102</value>
+</cell>
+<cell row="3">
+<value>5407</value>
+</cell>
+<cell row="4">
+<value>6202</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>41</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>56</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>17</value>
+</cell>
+<cell row="19">
+<value>64</value>
+</cell>
+<cell row="20">
+<value>5</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>111</value>
+</cell>
+<cell row="28">
+<value>10</value>
+</cell>
+<cell row="30">
+<value>14</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>20</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>3</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>6</value>
+</cell>
+<cell row="40">
+<value>26</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>5</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="58">
+<value>92</value>
+</cell>
+<cell row="61">
+<value>5</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>3</value>
+</cell>
+<cell row="80">
+<value>48</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+<cell row="83">
+<value>52</value>
+</cell>
+<cell row="85">
+<value>625</value>
+</cell>
+<cell row="87">
+<value>58</value>
+</cell>
+<cell row="90">
+<value>22</value>
+</cell>
+<cell row="91">
+<value>7</value>
+</cell>
+<cell row="93">
+<value>15</value>
+</cell>
+<cell row="95">
+<value>52</value>
+</cell>
+<cell row="96">
+<value>28</value>
+</cell>
+<cell row="97">
+<value>12</value>
+</cell>
+</Col>
+<Col ID="28" Width="64">
+<cell row="1">
+<value>105</value>
+</cell>
+<cell row="3">
+<value>5586</value>
+</cell>
+<cell row="4">
+<value>6406</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>50</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>53</value>
+</cell>
+<cell row="13">
+<value>2</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>22</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>81</value>
+</cell>
+<cell row="21">
+<value>8</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>169</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="30">
+<value>31</value>
+</cell>
+<cell row="31">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>27</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>20</value>
+</cell>
+<cell row="40">
+<value>25</value>
+</cell>
+<cell row="41">
+<value>5</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="58">
+<value>70</value>
+</cell>
+<cell row="61">
+<value>4</value>
+</cell>
+<cell row="71">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>10</value>
+</cell>
+<cell row="80">
+<value>22</value>
+</cell>
+<cell row="81">
+<value>5</value>
+</cell>
+<cell row="83">
+<value>11</value>
+</cell>
+<cell row="85">
+<value>86</value>
+</cell>
+<cell row="87">
+<value>19</value>
+</cell>
+<cell row="90">
+<value>9</value>
+</cell>
+<cell row="91">
+<value>12</value>
+</cell>
+<cell row="93">
+<value>2</value>
+</cell>
+<cell row="95">
+<value>17</value>
+</cell>
+<cell row="97">
+<value>4</value>
+</cell>
+</Col>
+<Col ID="29" Width="64">
+<cell row="1">
+<value>108</value>
+</cell>
+<cell row="3">
+<value>5765</value>
+</cell>
+<cell row="4">
+<value>6610</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>3</value>
+</cell>
+<cell row="8">
+<value>29</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>42</value>
+</cell>
+<cell row="16">
+<value>31</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>96</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>101</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="30">
+<value>17</value>
+</cell>
+<cell row="33">
+<value>13</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>7</value>
+</cell>
+<cell row="40">
+<value>8</value>
+</cell>
+<cell row="47">
+<value>9</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>35</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>3</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>3</value>
+</cell>
+<cell row="80">
+<value>23</value>
+</cell>
+<cell row="83">
+<value>43</value>
+</cell>
+<cell row="85">
+<value>676</value>
+</cell>
+<cell row="87">
+<value>23</value>
+</cell>
+<cell row="90">
+<value>26</value>
+</cell>
+<cell row="91">
+<value>10</value>
+</cell>
+<cell row="93">
+<value>12</value>
+</cell>
+<cell row="95">
+<value>170</value>
+</cell>
+</Col>
+<Col ID="30" Width="64">
+<cell row="1">
+<value>114</value>
+</cell>
+<cell row="3">
+<value>6122</value>
+</cell>
+<cell row="4">
+<value>7018</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>53</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>92</value>
+</cell>
+<cell row="16">
+<value>26</value>
+</cell>
+<cell row="19">
+<value>121</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>113</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="30">
+<value>36</value>
+</cell>
+<cell row="33">
+<value>15</value>
+</cell>
+<cell row="38">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>11</value>
+</cell>
+<cell row="40">
+<value>14</value>
+</cell>
+<cell row="41">
+<value>3</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>16</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>68</value>
+</cell>
+<cell row="61">
+<value>5</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>9</value>
+</cell>
+<cell row="80">
+<value>40</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+<cell row="83">
+<value>92</value>
+</cell>
+<cell row="85">
+<value>131</value>
+</cell>
+<cell row="87">
+<value>27</value>
+</cell>
+<cell row="90">
+<value>23</value>
+</cell>
+<cell row="91">
+<value>21</value>
+</cell>
+<cell row="93">
+<value>9</value>
+</cell>
+<cell row="95">
+<value>109</value>
+</cell>
+<cell row="96">
+<value>7</value>
+</cell>
+<cell row="97">
+<value>4</value>
+</cell>
+<cell row="101">
+<value>4</value>
+</cell>
+</Col>
+<Col ID="31" Width="64">
+<cell row="1">
+<value>116</value>
+</cell>
+<cell row="3">
+<value>6241</value>
+</cell>
+<cell row="4">
+<value>7154</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>7</value>
+</cell>
+<cell row="8">
+<value>69</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>39</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>24</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>42</value>
+</cell>
+<cell row="20">
+<value>4</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>115</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="30">
+<value>19</value>
+</cell>
+<cell row="33">
+<value>22</value>
+</cell>
+<cell row="34">
+<value>3</value>
+</cell>
+<cell row="39">
+<value>24</value>
+</cell>
+<cell row="40">
+<value>28</value>
+</cell>
+<cell row="41">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>14</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="58">
+<value>103</value>
+</cell>
+<cell row="60">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>9</value>
+</cell>
+<cell row="65">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>4</value>
+</cell>
+<cell row="79">
+<value>18</value>
+</cell>
+<cell row="80">
+<value>53</value>
+</cell>
+<cell row="83">
+<value>19</value>
+</cell>
+<cell row="85">
+<value>136</value>
+</cell>
+<cell row="87">
+<value>24</value>
+</cell>
+<cell row="90">
+<value>6</value>
+</cell>
+<cell row="91">
+<value>6</value>
+</cell>
+<cell row="93">
+<value>3</value>
+</cell>
+<cell row="95">
+<value>19</value>
+</cell>
+<cell row="96">
+<value>20</value>
+</cell>
+<cell row="97">
+<value>8</value>
+</cell>
+</Col>
+<Col ID="32" Width="64">
+<cell row="1">
+<value>120</value>
+</cell>
+<cell row="3">
+<value>6480</value>
+</cell>
+<cell row="4">
+<value>7402</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>6</value>
+</cell>
+<cell row="8">
+<value>86</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>164</value>
+</cell>
+<cell row="16">
+<value>24</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>211</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>194</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>12</value>
+</cell>
+<cell row="30">
+<value>41</value>
+</cell>
+<cell row="31">
+<value>5</value>
+</cell>
+<cell row="33">
+<value>43</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>17</value>
+</cell>
+<cell row="40">
+<value>9</value>
+</cell>
+<cell row="41">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>5</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>61</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>6</value>
+</cell>
+<cell row="80">
+<value>34</value>
+</cell>
+<cell row="83">
+<value>84</value>
+</cell>
+<cell row="85">
+<value>97</value>
+</cell>
+<cell row="87">
+<value>59</value>
+</cell>
+<cell row="90">
+<value>38</value>
+</cell>
+<cell row="91">
+<value>32</value>
+</cell>
+<cell row="93">
+<value>16</value>
+</cell>
+<cell row="94">
+<value>19</value>
+</cell>
+<cell row="95">
+<value>126</value>
+</cell>
+<cell row="96">
+<value>1</value>
+</cell>
+<cell row="97">
+<value>10</value>
+</cell>
+<cell row="100">
+<value>1</value>
+</cell>
+<cell row="101">
+<value>6</value>
+</cell>
+</Col>
+<Col ID="33" Width="64">
+<cell row="1">
+<value>126</value>
+</cell>
+<cell row="3">
+<value>6840</value>
+</cell>
+<cell row="4">
+<value>7670</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>97</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>187</value>
+</cell>
+<cell row="16">
+<value>15</value>
+</cell>
+<cell row="17">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>29</value>
+</cell>
+<cell row="19">
+<value>488</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>5</value>
+</cell>
+<cell row="23">
+<value>186</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>10</value>
+</cell>
+<cell row="30">
+<value>52</value>
+</cell>
+<cell row="31">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>33</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>4</value>
+</cell>
+<cell row="38">
+<value>3</value>
+</cell>
+<cell row="39">
+<value>10</value>
+</cell>
+<cell row="40">
+<value>12</value>
+</cell>
+<cell row="41">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>10</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>18</value>
+</cell>
+<cell row="58">
+<value>13</value>
+</cell>
+<cell row="68">
+<value>5</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>14</value>
+</cell>
+<cell row="80">
+<value>21</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+<cell row="83">
+<value>25</value>
+</cell>
+<cell row="84">
+<value>2</value>
+</cell>
+<cell row="85">
+<value>6</value>
+</cell>
+<cell row="87">
+<value>41</value>
+</cell>
+<cell row="90">
+<value>15</value>
+</cell>
+<cell row="91">
+<value>5</value>
+</cell>
+<cell row="93">
+<value>6</value>
+</cell>
+<cell row="94">
+<value>1</value>
+</cell>
+<cell row="95">
+<value>11</value>
+</cell>
+<cell row="97">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="34" Width="64">
+<cell row="1">
+<value>127</value>
+</cell>
+<cell row="3">
+<value>6875</value>
+</cell>
+<cell row="4">
+<value>7705</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>2</value>
+</cell>
+<cell row="8">
+<value>50</value>
+</cell>
+<cell row="12">
+<value>64</value>
+</cell>
+<cell row="16">
+<value>17</value>
+</cell>
+<cell row="19">
+<value>135</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>86</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>33</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>15</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>8</value>
+</cell>
+<cell row="40">
+<value>7</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>13</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>4</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>16</value>
+</cell>
+<cell row="83">
+<value>50</value>
+</cell>
+<cell row="85">
+<value>8</value>
+</cell>
+<cell row="86">
+<value>14</value>
+</cell>
+<cell row="87">
+<value>19</value>
+</cell>
+<cell row="90">
+<value>13</value>
+</cell>
+<cell row="93">
+<value>5</value>
+</cell>
+<cell row="95">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="35" Width="64">
+<cell row="1">
+<value>128</value>
+</cell>
+<cell row="3">
+<value>6910</value>
+</cell>
+<cell row="4">
+<value>7740</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>70</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>104</value>
+</cell>
+<cell row="16">
+<value>11</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>170</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>6</value>
+</cell>
+<cell row="23">
+<value>92</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>9</value>
+</cell>
+<cell row="30">
+<value>26</value>
+</cell>
+<cell row="31">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>10</value>
+</cell>
+<cell row="39">
+<value>14</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="41">
+<value>3</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="58">
+<value>15</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="65">
+<value>9</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="74">
+<value>5</value>
+</cell>
+<cell row="79">
+<value>2</value>
+</cell>
+<cell row="80">
+<value>20</value>
+</cell>
+<cell row="83">
+<value>105</value>
+</cell>
+<cell row="85">
+<value>7</value>
+</cell>
+<cell row="87">
+<value>44</value>
+</cell>
+<cell row="90">
+<value>37</value>
+</cell>
+<cell row="93">
+<value>7</value>
+</cell>
+<cell row="95">
+<value>3</value>
+</cell>
+<cell row="97">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="36" Width="64">
+<cell row="1">
+<value>129</value>
+</cell>
+<cell row="3">
+<value>7226</value>
+</cell>
+<cell row="4">
+<value>8079</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>37</value>
+</cell>
+<cell row="11">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>149</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>3</value>
+</cell>
+<cell row="19">
+<value>191</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>80</value>
+</cell>
+<cell row="30">
+<value>10</value>
+</cell>
+<cell row="31">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>6</value>
+</cell>
+<cell row="36">
+<value>3</value>
+</cell>
+<cell row="39">
+<value>8</value>
+</cell>
+<cell row="40">
+<value>10</value>
+</cell>
+<cell row="58">
+<value>19</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>9</value>
+</cell>
+<cell row="83">
+<value>21</value>
+</cell>
+<cell row="85">
+<value>10</value>
+</cell>
+<cell row="87">
+<value>8</value>
+</cell>
+<cell row="90">
+<value>12</value>
+</cell>
+<cell row="91">
+<value>6</value>
+</cell>
+<cell row="95">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="37" Width="64">
+<cell row="1">
+<value>130</value>
+</cell>
+<cell row="3">
+<value>7543</value>
+</cell>
+<cell row="4">
+<value>8417</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>7</value>
+</cell>
+<cell row="8">
+<value>82</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>44</value>
+</cell>
+<cell row="16">
+<value>19</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>310</value>
+</cell>
+<cell row="20">
+<value>4</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>120</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>8</value>
+</cell>
+<cell row="30">
+<value>26</value>
+</cell>
+<cell row="31">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>11</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>4</value>
+</cell>
+<cell row="40">
+<value>9</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>8</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>11</value>
+</cell>
+<cell row="61">
+<value>5</value>
+</cell>
+<cell row="65">
+<value>4</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>4</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>77</value>
+</cell>
+<cell row="83">
+<value>6</value>
+</cell>
+<cell row="84">
+<value>1</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="87">
+<value>14</value>
+</cell>
+<cell row="88">
+<value>4</value>
+</cell>
+<cell row="90">
+<value>12</value>
+</cell>
+<cell row="96">
+<value>4</value>
+</cell>
+<cell row="97">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="38" Width="64">
+<cell row="1">
+<value>130.5</value>
+</cell>
+<cell row="3">
+<value>7701</value>
+</cell>
+<cell row="4">
+<value>8587</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>142</value>
+</cell>
+<cell row="11">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>21</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>200</value>
+</cell>
+<cell row="20">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>134</value>
+</cell>
+<cell row="28">
+<value>6</value>
+</cell>
+<cell row="30">
+<value>8</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="39">
+<value>29</value>
+</cell>
+<cell row="40">
+<value>17</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="50">
+<value>4</value>
+</cell>
+<cell row="58">
+<value>15</value>
+</cell>
+<cell row="71">
+<value>4</value>
+</cell>
+<cell row="72">
+<value>3</value>
+</cell>
+<cell row="76">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>2</value>
+</cell>
+<cell row="80">
+<value>56</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+<cell row="88">
+<value>59</value>
+</cell>
+<cell row="99">
+<value>33</value>
+</cell>
+</Col>
+<Col ID="39" Width="64">
+<cell row="1">
+<value>131.5</value>
+</cell>
+<cell row="3">
+<value>8017</value>
+</cell>
+<cell row="4">
+<value>8926</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>64</value>
+</cell>
+<cell row="12">
+<value>14</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>309</value>
+</cell>
+<cell row="20">
+<value>3</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>79</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="30">
+<value>9</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>19</value>
+</cell>
+<cell row="40">
+<value>7</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>4</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>4</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>38</value>
+</cell>
+<cell row="86">
+<value>14</value>
+</cell>
+<cell row="88">
+<value>16</value>
+</cell>
+<cell row="99">
+<value>8</value>
+</cell>
+</Col>
+<Col ID="40" Width="64">
+<cell row="1">
+<value>132.5</value>
+</cell>
+<cell row="3">
+<value>8334</value>
+</cell>
+<cell row="4">
+<value>9264</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>3</value>
+</cell>
+<cell row="8">
+<value>72</value>
+</cell>
+<cell row="12">
+<value>7</value>
+</cell>
+<cell row="19">
+<value>412</value>
+</cell>
+<cell row="23">
+<value>77</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>9</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>12</value>
+</cell>
+<cell row="40">
+<value>10</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="50">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>46</value>
+</cell>
+<cell row="86">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>7</value>
+</cell>
+<cell row="99">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="41" Width="64">
+<cell row="1">
+<value>133.5</value>
+</cell>
+<cell row="3">
+<value>8650</value>
+</cell>
+<cell row="4">
+<value>9603</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>5</value>
+</cell>
+<cell row="8">
+<value>110</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>33</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>10</value>
+</cell>
+<cell row="19">
+<value>702</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>172</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>11</value>
+</cell>
+<cell row="30">
+<value>33</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>10</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>40</value>
+</cell>
+<cell row="40">
+<value>31</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>7</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>9</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>3</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="75">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>3</value>
+</cell>
+<cell row="79">
+<value>6</value>
+</cell>
+<cell row="80">
+<value>61</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>7</value>
+</cell>
+<cell row="89">
+<value>1</value>
+</cell>
+<cell row="95">
+<value>1</value>
+</cell>
+<cell row="99">
+<value>17</value>
+</cell>
+</Col>
+<Col ID="42" Width="64">
+<cell row="1">
+<value>134.5</value>
+</cell>
+<cell row="3">
+<value>8715</value>
+</cell>
+<cell row="4">
+<value>9695</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>3</value>
+</cell>
+<cell row="8">
+<value>139</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>19</value>
+</cell>
+<cell row="16">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>3</value>
+</cell>
+<cell row="19">
+<value>708</value>
+</cell>
+<cell row="20">
+<value>6</value>
+</cell>
+<cell row="23">
+<value>166</value>
+</cell>
+<cell row="28">
+<value>9</value>
+</cell>
+<cell row="30">
+<value>15</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>25</value>
+</cell>
+<cell row="40">
+<value>9</value>
+</cell>
+<cell row="41">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>11</value>
+</cell>
+<cell row="58">
+<value>9</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="77">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>83</value>
+</cell>
+<cell row="83">
+<value>2</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>32</value>
+</cell>
+<cell row="89">
+<value>2</value>
+</cell>
+<cell row="95">
+<value>1</value>
+</cell>
+<cell row="99">
+<value>32</value>
+</cell>
+</Col>
+<Col ID="43" Width="64">
+<cell row="1">
+<value>135.5</value>
+</cell>
+<cell row="3">
+<value>8780</value>
+</cell>
+<cell row="4">
+<value>9787</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>64</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>6</value>
+</cell>
+<cell row="19">
+<value>117</value>
+</cell>
+<cell row="20">
+<value>5</value>
+</cell>
+<cell row="23">
+<value>88</value>
+</cell>
+<cell row="30">
+<value>5</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>17</value>
+</cell>
+<cell row="40">
+<value>8</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="55">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>4</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>4</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>56</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+<cell row="88">
+<value>15</value>
+</cell>
+<cell row="99">
+<value>46</value>
+</cell>
+</Col>
+<Col ID="44" Width="64">
+<cell row="1">
+<value>136.5</value>
+</cell>
+<cell row="3">
+<value>8845</value>
+</cell>
+<cell row="4">
+<value>9878</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>2</value>
+</cell>
+<cell row="8">
+<value>71</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>6</value>
+</cell>
+<cell row="16">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>273</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>113</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="30">
+<value>9</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>9</value>
+</cell>
+<cell row="40">
+<value>10</value>
+</cell>
+<cell row="50">
+<value>4</value>
+</cell>
+<cell row="58">
+<value>6</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>39</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>35</value>
+</cell>
+<cell row="89">
+<value>4</value>
+</cell>
+<cell row="99">
+<value>56</value>
+</cell>
+</Col>
+<Col ID="45" Width="64">
+<cell row="1">
+<value>137.5</value>
+</cell>
+<cell row="3">
+<value>8910</value>
+</cell>
+<cell row="4">
+<value>9970</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>110</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>11</value>
+</cell>
+<cell row="16">
+<value>4</value>
+</cell>
+<cell row="18">
+<value>4</value>
+</cell>
+<cell row="19">
+<value>486</value>
+</cell>
+<cell row="20">
+<value>6</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>216</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="30">
+<value>18</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>8</value>
+</cell>
+<cell row="39">
+<value>33</value>
+</cell>
+<cell row="40">
+<value>5</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="58">
+<value>9</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>4</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>72</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>54</value>
+</cell>
+<cell row="89">
+<value>6</value>
+</cell>
+<cell row="95">
+<value>2</value>
+</cell>
+<cell row="99">
+<value>83</value>
+</cell>
+</Col>
+<Col ID="46" Width="64">
+<cell row="1">
+<value>138.5</value>
+</cell>
+<cell row="3">
+<value>8975</value>
+</cell>
+<cell row="4">
+<value>10062</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>114</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="16">
+<value>5</value>
+</cell>
+<cell row="18">
+<value>3</value>
+</cell>
+<cell row="19">
+<value>587</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>250</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="30">
+<value>16</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>27</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>6</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>3</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>59</value>
+</cell>
+<cell row="83">
+<value>2</value>
+</cell>
+<cell row="85">
+<value>3</value>
+</cell>
+<cell row="88">
+<value>44</value>
+</cell>
+<cell row="89">
+<value>8</value>
+</cell>
+<cell row="95">
+<value>4</value>
+</cell>
+<cell row="99">
+<value>92</value>
+</cell>
+</Col>
+<Col ID="47" Width="64">
+<cell row="1">
+<value>140.5</value>
+</cell>
+<cell row="3">
+<value>9105</value>
+</cell>
+<cell row="4">
+<value>10245</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>62</value>
+</cell>
+<cell row="12">
+<value>10</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>225</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>54</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>24</value>
+</cell>
+<cell row="40">
+<value>8</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="74">
+<value>2</value>
+</cell>
+<cell row="80">
+<value>73</value>
+</cell>
+<cell row="88">
+<value>23</value>
+</cell>
+<cell row="89">
+<value>5</value>
+</cell>
+<cell row="99">
+<value>68</value>
+</cell>
+</Col>
+<Col ID="48" Width="64">
+<cell row="1">
+<value>141.5</value>
+</cell>
+<cell row="3">
+<value>9170</value>
+</cell>
+<cell row="4">
+<value>10337</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>13</value>
+</cell>
+<cell row="8">
+<value>101</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>22</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>5</value>
+</cell>
+<cell row="19">
+<value>1502</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>171</value>
+</cell>
+<cell row="28">
+<value>11</value>
+</cell>
+<cell row="30">
+<value>13</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>5</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>49</value>
+</cell>
+<cell row="40">
+<value>17</value>
+</cell>
+<cell row="41">
+<value>4</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="55">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>7</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>22</value>
+</cell>
+<cell row="73">
+<value>4</value>
+</cell>
+<cell row="76">
+<value>3</value>
+</cell>
+<cell row="79">
+<value>2</value>
+</cell>
+<cell row="80">
+<value>99</value>
+</cell>
+<cell row="83">
+<value>2</value>
+</cell>
+<cell row="84">
+<value>5</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>60</value>
+</cell>
+<cell row="99">
+<value>115</value>
+</cell>
+</Col>
+<Col ID="49" Width="64">
+<cell row="1">
+<value>145.5</value>
+</cell>
+<cell row="3">
+<value>9258</value>
+</cell>
+<cell row="4">
+<value>10460</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>69</value>
+</cell>
+<cell row="12">
+<value>5</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>335</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>63</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>5</value>
+</cell>
+<cell row="39">
+<value>32</value>
+</cell>
+<cell row="40">
+<value>5</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="55">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>6</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>82</value>
+</cell>
+<cell row="88">
+<value>44</value>
+</cell>
+<cell row="89">
+<value>4</value>
+</cell>
+<cell row="99">
+<value>53</value>
+</cell>
+</Col>
+<Col ID="50" Width="64">
+<cell row="1">
+<value>150.5</value>
+</cell>
+<cell row="3">
+<value>9369</value>
+</cell>
+<cell row="4">
+<value>10614</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>12</value>
+</cell>
+<cell row="8">
+<value>110</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>50</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>7</value>
+</cell>
+<cell row="19">
+<value>2687</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>108</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="30">
+<value>9</value>
+</cell>
+<cell row="31">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>60</value>
+</cell>
+<cell row="40">
+<value>44</value>
+</cell>
+<cell row="41">
+<value>3</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>14</value>
+</cell>
+<cell row="55">
+<value>11</value>
+</cell>
+<cell row="58">
+<value>9</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>4</value>
+</cell>
+<cell row="73">
+<value>3</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>228</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>72</value>
+</cell>
+<cell row="89">
+<value>2</value>
+</cell>
+<cell row="99">
+<value>344</value>
+</cell>
+</Col>
+<Col ID="51" Width="64">
+<cell row="1">
+<value>155.5</value>
+</cell>
+<cell row="3">
+<value>9479</value>
+</cell>
+<cell row="4">
+<value>10768</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>2</value>
+</cell>
+<cell row="8">
+<value>56</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>6</value>
+</cell>
+<cell row="19">
+<value>389</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>17</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="30">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>20</value>
+</cell>
+<cell row="40">
+<value>6</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="55">
+<value>3</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>94</value>
+</cell>
+<cell row="88">
+<value>27</value>
+</cell>
+<cell row="99">
+<value>113</value>
+</cell>
+</Col>
+<Col ID="52" Width="64">
+<cell row="1">
+<value>160.5</value>
+</cell>
+<cell row="3">
+<value>9589</value>
+</cell>
+<cell row="4">
+<value>10921</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>57</value>
+</cell>
+<cell row="12">
+<value>17</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>4</value>
+</cell>
+<cell row="19">
+<value>376</value>
+</cell>
+<cell row="20">
+<value>3</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>41</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>6</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>45</value>
+</cell>
+<cell row="40">
+<value>16</value>
+</cell>
+<cell row="41">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="50">
+<value>5</value>
+</cell>
+<cell row="55">
+<value>4</value>
+</cell>
+<cell row="58">
+<value>4</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>91</value>
+</cell>
+<cell row="88">
+<value>81</value>
+</cell>
+<cell row="89">
+<value>6</value>
+</cell>
+<cell row="99">
+<value>119</value>
+</cell>
+</Col>
+<Col ID="53" Width="64">
+<cell row="1">
+<value>165.5</value>
+</cell>
+<cell row="3">
+<value>9719</value>
+</cell>
+<cell row="4">
+<value>11118</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>73</value>
+</cell>
+<cell row="12">
+<value>7</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>328</value>
+</cell>
+<cell row="20">
+<value>4</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>30</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>5</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>43</value>
+</cell>
+<cell row="40">
+<value>8</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>4</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>9</value>
+</cell>
+<cell row="55">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>6</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="74">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>74</value>
+</cell>
+<cell row="88">
+<value>33</value>
+</cell>
+<cell row="89">
+<value>21</value>
+</cell>
+<cell row="99">
+<value>57</value>
+</cell>
+</Col>
+<Col ID="54" Width="64">
+<cell row="1">
+<value>170.5</value>
+</cell>
+<cell row="3">
+<value>9884</value>
+</cell>
+<cell row="4">
+<value>11392</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>73</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="11">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>7</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>213</value>
+</cell>
+<cell row="20">
+<value>5</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>7</value>
+</cell>
+<cell row="23">
+<value>25</value>
+</cell>
+<cell row="30">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>32</value>
+</cell>
+<cell row="40">
+<value>13</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>4</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="55">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="80">
+<value>68</value>
+</cell>
+<cell row="88">
+<value>20</value>
+</cell>
+<cell row="89">
+<value>8</value>
+</cell>
+<cell row="99">
+<value>35</value>
+</cell>
+</Col>
+<Col ID="55" Width="64">
+<cell row="1">
+<value>175.5</value>
+</cell>
+<cell row="3">
+<value>10048</value>
+</cell>
+<cell row="4">
+<value>11665</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>3</value>
+</cell>
+<cell row="8">
+<value>124</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="11">
+<value>3</value>
+</cell>
+<cell row="12">
+<value>13</value>
+</cell>
+<cell row="16">
+<value>4</value>
+</cell>
+<cell row="18">
+<value>10</value>
+</cell>
+<cell row="19">
+<value>426</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>11</value>
+</cell>
+<cell row="23">
+<value>105</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>12</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>79</value>
+</cell>
+<cell row="40">
+<value>21</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>6</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>21</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>5</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>3</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>132</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>49</value>
+</cell>
+<cell row="89">
+<value>10</value>
+</cell>
+<cell row="99">
+<value>50</value>
+</cell>
+</Col>
+<Col ID="56" Width="64">
+<cell row="1">
+<value>180.5</value>
+</cell>
+<cell row="3">
+<value>10213</value>
+</cell>
+<cell row="4">
+<value>11938</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>74</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>3</value>
+</cell>
+<cell row="19">
+<value>384</value>
+</cell>
+<cell row="22">
+<value>7</value>
+</cell>
+<cell row="23">
+<value>28</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>40</value>
+</cell>
+<cell row="40">
+<value>7</value>
+</cell>
+<cell row="41">
+<value>7</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>4</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>3</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>3</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>2</value>
+</cell>
+<cell row="80">
+<value>53</value>
+</cell>
+<cell row="88">
+<value>15</value>
+</cell>
+<cell row="89">
+<value>23</value>
+</cell>
+<cell row="99">
+<value>62</value>
+</cell>
+</Col>
+<Col ID="57" Width="64">
+<cell row="1">
+<value>185.5</value>
+</cell>
+<cell row="3">
+<value>10378</value>
+</cell>
+<cell row="4">
+<value>12212</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>123</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>5</value>
+</cell>
+<cell row="19">
+<value>299</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>20</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>41</value>
+</cell>
+<cell row="40">
+<value>10</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>2</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="80">
+<value>75</value>
+</cell>
+<cell row="88">
+<value>22</value>
+</cell>
+<cell row="89">
+<value>12</value>
+</cell>
+<cell row="99">
+<value>58</value>
+</cell>
+</Col>
+<Col ID="58" Width="64">
+<cell row="1">
+<value>190.5</value>
+</cell>
+<cell row="3">
+<value>10542</value>
+</cell>
+<cell row="4">
+<value>12447</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>91</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>300</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>16</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="30">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>33</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="55">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>50</value>
+</cell>
+<cell row="88">
+<value>15</value>
+</cell>
+<cell row="89">
+<value>25</value>
+</cell>
+<cell row="99">
+<value>48</value>
+</cell>
+</Col>
+<Col ID="59" Width="64">
+<cell row="1">
+<value>195.5</value>
+</cell>
+<cell row="3">
+<value>10707</value>
+</cell>
+<cell row="4">
+<value>12720</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>42</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>590</value>
+</cell>
+<cell row="22">
+<value>6</value>
+</cell>
+<cell row="23">
+<value>6</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="30">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>55</value>
+</cell>
+<cell row="40">
+<value>7</value>
+</cell>
+<cell row="50">
+<value>4</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>72</value>
+</cell>
+<cell row="88">
+<value>15</value>
+</cell>
+<cell row="89">
+<value>23</value>
+</cell>
+<cell row="99">
+<value>353</value>
+</cell>
+</Col>
+<Col ID="60" Width="64">
+<cell row="1">
+<value>200.5</value>
+</cell>
+<cell row="3">
+<value>10871</value>
+</cell>
+<cell row="4">
+<value>12994</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="8">
+<value>52</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>383</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>8</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>65</value>
+</cell>
+<cell row="40">
+<value>6</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="50">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>71</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+<cell row="88">
+<value>4</value>
+</cell>
+<cell row="89">
+<value>8</value>
+</cell>
+<cell row="99">
+<value>185</value>
+</cell>
+</Col>
+<Col ID="61" Width="64">
+<cell row="1">
+<value>203.5</value>
+</cell>
+<cell row="3">
+<value>10970</value>
+</cell>
+<cell row="4">
+<value>13158</value>
+</cell>
+<cell row="5">
+<text>Filipova-Marinova, M.</text>
+<contact ID="3"/>
+</cell>
+<cell row="6">
+<date>41640</date>
+</cell>
+<cell row="7">
+<value>1</value>
+</cell>
+<cell row="8">
+<value>84</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="19">
+<value>535</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>19</value>
+</cell>
+<cell row="30">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>84</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="55">
+<value>4</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>3</value>
+</cell>
+<cell row="80">
+<value>57</value>
+</cell>
+<cell row="88">
+<value>13</value>
+</cell>
+<cell row="89">
+<value>12</value>
+</cell>
+<cell row="99">
+<value>104</value>
+</cell>
+</Col>
+<Col ID="62" Width="64">
+<cell row="1">
+<value>10.5</value>
+</cell>
+</Col>
+<Col ID="63" Width="64">
+<cell row="1">
+<value>14.5</value>
+</cell>
+</Col>
+<Col ID="64" Width="64">
+<cell row="1">
+<value>34.5</value>
+</cell>
+</Col>
+<Col ID="65" Width="64">
+<cell row="1">
+<value>46.5</value>
+</cell>
+</Col>
+<Col ID="66" Width="64">
+<cell row="1">
+<value>48.5</value>
+</cell>
+</Col>
+<Col ID="67" Width="64">
+<cell row="1">
+<value>52.5</value>
+</cell>
+</Col>
+<Col ID="68" Width="64">
+<cell row="1">
+<value>56</value>
+</cell>
+</Col>
+<Col ID="69" Width="64">
+<cell row="1">
+<value>58</value>
+</cell>
+</Col>
+<Col ID="70" Width="64">
+<cell row="1">
+<value>71</value>
+</cell>
+</Col>
+<Col ID="71" Width="64">
+<cell row="1">
+<value>81</value>
+</cell>
+</Col>
+<Col ID="72" Width="64">
+<cell row="1">
+<value>95</value>
+</cell>
+</Col>
+<Col ID="73" Width="64">
+<cell row="1">
+<value>119</value>
+</cell>
+</Col>
+<Col ID="74" Width="64">
+<cell row="1">
+<value>126</value>
+</cell>
+</Col>
+<Col ID="75" Width="64">
+<cell row="1">
+<value>128</value>
+</cell>
+</Col>
+<Col ID="76" Width="64">
+<cell row="1">
+<value>133.5</value>
+</cell>
+</Col>
+<Col ID="77" Width="64">
+<cell row="1">
+<value>141.5</value>
+</cell>
+</Col>
+<Col ID="78" Width="64">
+<cell row="1">
+<value>163.7</value>
+</cell>
+</Col>
+<Col ID="79" Width="64">
+<cell row="1">
+<value>187.7</value>
+</cell>
+</Col>
+</SpreadSheet>
+</SpreadSheetBook>
+<Site>
+<SiteName>Bulgarian Black Sea</SiteName>
+<LongEast>28.406389</LongEast>
+<LongWest>28.406389</LongWest>
+<LatNorth>42.465556</LatNorth>
+<LatSouth>42.465556</LatSouth>
+<Altitude>-971</Altitude>
+<Country>Black Sea</Country>
+<SiteDescription>Continental slope. Physiography: Submarine canyon in basin.</SiteDescription>
+</Site>
+<CollectionUnit>
+<Handle>GGC18BSE</Handle>
+<CollectionName>core 18 (GGC 18)</CollectionName>
+<CollectionType>Core</CollectionType>
+<Collectors>
+<Contact ID="3"/>
+</Collectors>
+<CollectionDate>38961</CollectionDate>
+<Location>W. continental slope of Bulgarian coast</Location>
+<DepositionalEnvironment>Marine</DepositionalEnvironment>
+<WaterDepth>971</WaterDepth>
+<Notes>Cruise AK06.</Notes>
+</CollectionUnit>
+<Datasets>
+<Dataset>
+<DatasetType>pollen</DatasetType>
+<Name>EPD E# 2199</Name>
+<Notes>Data contributed by Filipova-Marinova, M.V.F.M.</Notes>
+<IsSSamp>False</IsSSamp>
+<IsAggregate>False</IsAggregate>
+<Investigators>
+<Contact ID="3"/>
+</Investigators>
+<Processors>
+<Contact ID="4"/>
+<Contact ID="1"/>
+</Processors>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</Dataset>
+</Datasets>
+<GeochronDataset>
+<Investigators>
+<Contact ID="3"/>
+</Investigators>
+<Geochronology AnalysisUnitID="Depth">
+<GeochronSample ID="1">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>10.5</Depth>
+<LabNumber>OS-58560</LabNumber>
+<Age>1020</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="2">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>14.5</Depth>
+<LabNumber>OS-58560b</LabNumber>
+<Age>1060</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="3">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>34.5</Depth>
+<LabNumber>OS-58602</LabNumber>
+<Age>1910</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="4">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>46.5</Depth>
+<LabNumber>OS-58502</LabNumber>
+<Age>2390</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="5">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>48.5</Depth>
+<LabNumber>OS-58501</LabNumber>
+<Age>2450</Age>
+<ErrorOlder>25</ErrorOlder>
+<ErrorYounger>25</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>25</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="6">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>52.5</Depth>
+<LabNumber>OS-58498</LabNumber>
+<Age>2890</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="7">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>56</Depth>
+<LabNumber>OS-58559</LabNumber>
+<Age>3120</Age>
+<ErrorOlder>35</ErrorOlder>
+<ErrorYounger>35</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>35</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="8">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>58</Depth>
+<LabNumber>OS-58499</LabNumber>
+<Age>3150</Age>
+<ErrorOlder>35</ErrorOlder>
+<ErrorYounger>35</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>35</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="9">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>71</Depth>
+<LabNumber>OS-58559b</LabNumber>
+<Age>3700</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="10">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>81</Depth>
+<LabNumber>OS-58560c</LabNumber>
+<Age>4200</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="11">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>95</Depth>
+<LabNumber>OS-58561</LabNumber>
+<Age>4990</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="12">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>119</Depth>
+<LabNumber>OS-58587</LabNumber>
+<Age>6420</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="13">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>126</Depth>
+<LabNumber>OS-58500</LabNumber>
+<Age>6840</Age>
+<ErrorOlder>40</ErrorOlder>
+<ErrorYounger>40</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>40</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="14">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>128</Depth>
+<LabNumber>OS-58556</LabNumber>
+<Age>6910</Age>
+<ErrorOlder>30</ErrorOlder>
+<ErrorYounger>30</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>30</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="15">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>133.5</Depth>
+<LabNumber>OS-58504</LabNumber>
+<Age>8650</Age>
+<ErrorOlder>40</ErrorOlder>
+<ErrorYounger>40</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>40</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="16">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>141.5</Depth>
+<LabNumber>OS-58588</LabNumber>
+<Age>9170</Age>
+<ErrorOlder>45</ErrorOlder>
+<ErrorYounger>45</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>45</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="17">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>163.7</Depth>
+<LabNumber>OS-67911</LabNumber>
+<Age>9660</Age>
+<ErrorOlder>50</ErrorOlder>
+<ErrorYounger>50</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>50</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="18">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>187.7</Depth>
+<LabNumber>OS-68230</LabNumber>
+<Age>10450</Age>
+<ErrorOlder>80</ErrorOlder>
+<ErrorYounger>80</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>80</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>accelerator mass spectrometry</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>bulk organic carbon</MaterialDated>
+</GeochronSample>
+</Geochronology>
+</GeochronDataset>
+<AgeModels AnalysisUnitID="Depth">
+<AgeModel>
+<ChronNumber>1</ChronNumber>
+<ChronologyName>C14 BP</ChronologyName>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Default>True</Default>
+<DatePrepared>42005</DatePrepared>
+<Model>linear interpolation</Model>
+<AgeBoundOlder>11000</AgeBoundOlder>
+<AgeBoundYounger>200</AgeBoundYounger>
+<Notes>C14 BP age with Tilia (Grimm)</Notes>
+<PreparersText>Barbier-Leydet, M.</PreparersText>
+<Preparers>
+<Contact ID="1"/>
+</Preparers>
+<ChronControls>
+<ChronControl>
+<ControlType>Core top</ControlType>
+<Depth>0</Depth>
+<Age>0</Age>
+<AgeLimitOlder>50</AgeLimitOlder>
+<AgeLimitYounger>-50</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>10.5</Depth>
+<Age>1020</Age>
+<AgeLimitOlder>1050</AgeLimitOlder>
+<AgeLimitYounger>990</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>14.5</Depth>
+<Age>1060</Age>
+<AgeLimitOlder>1090</AgeLimitOlder>
+<AgeLimitYounger>1030</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>34.5</Depth>
+<Age>1910</Age>
+<AgeLimitOlder>1940</AgeLimitOlder>
+<AgeLimitYounger>1880</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>46.5</Depth>
+<Age>2390</Age>
+<AgeLimitOlder>2420</AgeLimitOlder>
+<AgeLimitYounger>2360</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>48.5</Depth>
+<Age>2450</Age>
+<AgeLimitOlder>2475</AgeLimitOlder>
+<AgeLimitYounger>2425</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>52.5</Depth>
+<Age>2890</Age>
+<AgeLimitOlder>2920</AgeLimitOlder>
+<AgeLimitYounger>2860</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>56</Depth>
+<Age>3120</Age>
+<AgeLimitOlder>3155</AgeLimitOlder>
+<AgeLimitYounger>3085</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>58</Depth>
+<Age>3150</Age>
+<AgeLimitOlder>3185</AgeLimitOlder>
+<AgeLimitYounger>3115</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>71</Depth>
+<Age>3700</Age>
+<AgeLimitOlder>3730</AgeLimitOlder>
+<AgeLimitYounger>3670</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>81</Depth>
+<Age>4200</Age>
+<AgeLimitOlder>4230</AgeLimitOlder>
+<AgeLimitYounger>4170</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>95</Depth>
+<Age>4990</Age>
+<AgeLimitOlder>5020</AgeLimitOlder>
+<AgeLimitYounger>4960</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>119</Depth>
+<Age>6420</Age>
+<AgeLimitOlder>6450</AgeLimitOlder>
+<AgeLimitYounger>6310</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>126</Depth>
+<Age>6840</Age>
+<AgeLimitOlder>6880</AgeLimitOlder>
+<AgeLimitYounger>6800</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>128</Depth>
+<Age>6910</Age>
+<AgeLimitOlder>6940</AgeLimitOlder>
+<AgeLimitYounger>6880</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>133.5</Depth>
+<Age>8650</Age>
+<AgeLimitOlder>8690</AgeLimitOlder>
+<AgeLimitYounger>8610</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>141.5</Depth>
+<Age>9170</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>163.7</Depth>
+<Age>9660</Age>
+<AgeLimitOlder>9710</AgeLimitOlder>
+<AgeLimitYounger>9610</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>187.7</Depth>
+<Age>10450</Age>
+<AgeLimitOlder>10530</AgeLimitOlder>
+<AgeLimitYounger>10370</AgeLimitYounger>
+</ChronControl>
+</ChronControls>
+</AgeModel>
+<AgeModel>
+<ChronNumber>2</ChronNumber>
+<ChronologyName>CAL BP</ChronologyName>
+<AgeUnits>Calibrated radiocarbon years BP</AgeUnits>
+<Default>True</Default>
+<DatePrepared>42005</DatePrepared>
+<Model>linear interpolation</Model>
+<AgeBoundOlder>13200</AgeBoundOlder>
+<AgeBoundYounger>200</AgeBoundYounger>
+<Notes>CAL BP age with CLAM (Blaauw) sigma 2</Notes>
+<PreparersText>Barbier-Leydet, M.</PreparersText>
+<Preparers>
+<Contact ID="1"/>
+</Preparers>
+<ChronControls>
+<ChronControl>
+<ControlType>Core top</ControlType>
+<Depth>0</Depth>
+<Age>-56</Age>
+<AgeLimitOlder>-6</AgeLimitOlder>
+<AgeLimitYounger>-106</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>10.5</Depth>
+<Age>936</Age>
+<AgeLimitOlder>998</AgeLimitOlder>
+<AgeLimitYounger>830</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>14.5</Depth>
+<Age>975</Age>
+<AgeLimitOlder>1049</AgeLimitOlder>
+<AgeLimitYounger>931</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>34.5</Depth>
+<Age>1855</Age>
+<AgeLimitOlder>1922</AgeLimitOlder>
+<AgeLimitYounger>1751</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>46.5</Depth>
+<Age>2432</Age>
+<AgeLimitOlder>2671</AgeLimitOlder>
+<AgeLimitYounger>2351</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>48.5</Depth>
+<Age>2541</Age>
+<AgeLimitOlder>2696</AgeLimitOlder>
+<AgeLimitYounger>2372</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>52.5</Depth>
+<Age>3024</Age>
+<AgeLimitOlder>3136</AgeLimitOlder>
+<AgeLimitYounger>2923</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>56</Depth>
+<Age>3329</Age>
+<AgeLimitOlder>3430</AgeLimitOlder>
+<AgeLimitYounger>3237</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>58</Depth>
+<Age>3369</Age>
+<AgeLimitOlder>3443</AgeLimitOlder>
+<AgeLimitYounger>3265</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>71</Depth>
+<Age>4043</Age>
+<AgeLimitOlder>4139</AgeLimitOlder>
+<AgeLimitYounger>3931</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>81</Depth>
+<Age>4738</Age>
+<AgeLimitOlder>4834</AgeLimitOlder>
+<AgeLimitYounger>4633</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>95</Depth>
+<Age>5724</Age>
+<AgeLimitOlder>5870</AgeLimitOlder>
+<AgeLimitYounger>5649</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>119</Depth>
+<Age>7357</Age>
+<AgeLimitOlder>7418</AgeLimitOlder>
+<AgeLimitYounger>7279</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>126</Depth>
+<Age>7669</Age>
+<AgeLimitOlder>7772</AgeLimitOlder>
+<AgeLimitYounger>7602</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>128</Depth>
+<Age>7736</Age>
+<AgeLimitOlder>7820</AgeLimitOlder>
+<AgeLimitYounger>7683</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>133.5</Depth>
+<Age>9605</Age>
+<AgeLimitOlder>9700</AgeLimitOlder>
+<AgeLimitYounger>9544</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>141.5</Depth>
+<Age>10337</Age>
+<AgeLimitOlder>10479</AgeLimitOlder>
+<AgeLimitYounger>10245</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>163.7</Depth>
+<Age>11020</Age>
+<AgeLimitOlder>11184</AgeLimitOlder>
+<AgeLimitYounger>10795</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>187.7</Depth>
+<Age>12335</Age>
+<AgeLimitOlder>12570</AgeLimitOlder>
+<AgeLimitYounger>12053</AgeLimitYounger>
+</ChronControl>
+</ChronControls>
+</AgeModel>
+</AgeModels>
+<Lithology>
+<LithologyUnit>
+<DepthTop>2.5</DepthTop>
+<DepthBottom>58.5</DepthBottom>
+<Description>cocolith-bearing ooze</Description>
+</LithologyUnit>
+<LithologyUnit>
+<DepthTop>58.5</DepthTop>
+<DepthBottom>128.5</DepthBottom>
+<Description>sapropels</Description>
+</LithologyUnit>
+<LithologyUnit>
+<DepthTop>128.5</DepthTop>
+<DepthBottom>203.5</DepthBottom>
+<Description>light grey clay</Description>
+</LithologyUnit>
+</Lithology>
+</TiliaFile>

@@ -1,0 +1,10445 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--written 13-May-2019 13:47:58-->
+<TiliaFile>
+<Version>
+<Application>Tilia</Application>
+<MajorVersion>2</MajorVersion>
+<MinorVersion>1</MinorVersion>
+<Release>1</Release>
+</Version>
+<Contacts>
+<Contact ID="1">
+<NeotomaContactID>44</NeotomaContactID>
+<NeotomaAliasID>44</NeotomaAliasID>
+<FullContactName>Grimm, Eric Christopher</FullContactName>
+<ShortContactName>Grimm, E.C.</ShortContactName>
+<FamilyName>Grimm</FamilyName>
+<GivenNames>Eric Christopher</GivenNames>
+<LeadingInitials>E.C.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Telephone>+1-217-899-9217</Telephone>
+<Email>eric.c.grimm@outlook.com</Email>
+<Address>
+<AddressLine>University of Minnesota\r\nDepartment of Earth Sciences\r\n310 Pillsbury Drive SE\r\nMinneapolis, Minnesota 55455-0231\r\nUSA</AddressLine>
+</Address>
+</Contact>
+<Contact ID="2">
+<NeotomaContactID>503</NeotomaContactID>
+<NeotomaAliasID>503</NeotomaAliasID>
+<FullContactName>Leroy, Suzanne Alice Ghislaine</FullContactName>
+<ShortContactName>Leroy, S.A.G.</ShortContactName>
+<FamilyName>Leroy</FamilyName>
+<GivenNames>Suzanne Alice Ghislaine</GivenNames>
+<LeadingInitials>S.A.G.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Email>leroy@cerege.fr</Email>
+<Address>
+<AddressLine>CEREGE\r\nEuropole de l&apos;Arbois, BP 80\r\nAvenue Philibert\r\n13545 Aix-en-Provence cedex 4\r\nFRANCE</AddressLine>
+</Address>
+</Contact>
+<Contact ID="3">
+<NeotomaContactID>1172</NeotomaContactID>
+<NeotomaAliasID>1172</NeotomaAliasID>
+<FullContactName>Negendank, Jörg F. W.</FullContactName>
+<ShortContactName>Negendank, J.F.W.</ShortContactName>
+<FamilyName>Negendank</FamilyName>
+<GivenNames>Jörg F. W.</GivenNames>
+<LeadingInitials>J.F.W.</LeadingInitials>
+<Title>Prof. Dr.</Title>
+<Status>retired</Status>
+<Address>
+<AddressLine>Helmholtz-Zentrum Potsdam\r\nDeutsches GeoForschungsZentrum GFZ\r\nDivision of Climate Dynamics and Landscape Evolution\r\nTelegrafenberg\r\n14473 Potsdam\r\nGermany</AddressLine>
+</Address>
+</Contact>
+<Contact ID="4">
+<NeotomaContactID>1234</NeotomaContactID>
+<NeotomaAliasID>1234</NeotomaAliasID>
+<FullContactName>Seret, Guy</FullContactName>
+<ShortContactName>Seret, G.</ShortContactName>
+<FamilyName>Seret</FamilyName>
+<GivenNames>Guy</GivenNames>
+<LeadingInitials>G.</LeadingInitials>
+<Status>unknown</Status>
+</Contact>
+<Contact ID="5">
+<NeotomaContactID>8711</NeotomaContactID>
+<NeotomaAliasID>8711</NeotomaAliasID>
+<FullContactName>Wolters, Steffen</FullContactName>
+<ShortContactName>Wolters, S.</ShortContactName>
+<FamilyName>Wolters</FamilyName>
+<GivenNames>Steffen</GivenNames>
+<LeadingInitials>S.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Email>wolters@nihk.de</Email>
+<Address>
+<AddressLine>Niedersächsisches Institut für historische Küstenforschung (NihK)\r\nViktoriastraße 26/28\r\nD-26382 Wilhelmshaven\r\nGermany</AddressLine>
+</Address>
+</Contact>
+<Contact ID="6">
+<NeotomaContactID>1323</NeotomaContactID>
+<NeotomaAliasID>1323</NeotomaAliasID>
+<FullContactName>Zolitschka, Bernd</FullContactName>
+<ShortContactName>Zolitschka, B.</ShortContactName>
+<FamilyName>Zolitschka</FamilyName>
+<GivenNames>Bernd</GivenNames>
+<LeadingInitials>B.</LeadingInitials>
+<Title>Prof. Dr.</Title>
+<Status>active</Status>
+<Email>zoli@uni-bremen.de</Email>
+<Address>
+<AddressLine>Universität Bremen\r\nInstitut für Geographie\r\nBibliothekstr. 1\r\n28359 Bremen\r\nGermany</AddressLine>
+</Address>
+</Contact>
+</Contacts>
+<Publications>
+<Publication ID="1" Primary="true">
+<PublicationType>journal article</PublicationType>
+<NeotomaID>15618</NeotomaID>
+<PublicationYear>2000</PublicationYear>
+<Citation>Leroy, S.A.G., B. Zolitschka, J.F.W. Negendank, and G. Seret. 2000. Palynological analyses in the laminated sediment of Lake Holzmaar (Eifel, Germany): duration of Lateglacial and Preboreal biozones. Boreas 29(1):52-71.</Citation>
+<Authors>
+<Author>
+<Contact ID="2"/>
+<LastName>Leroy</LastName>
+<Initials>S.A.G.</Initials>
+</Author>
+<Author>
+<Contact ID="6"/>
+<LastName>Zolitschka</LastName>
+<Initials>B.</Initials>
+</Author>
+<Author>
+<Contact ID="3"/>
+<LastName>Negendank</LastName>
+<Initials>J.F.W.</Initials>
+</Author>
+<Author>
+<Contact ID="4"/>
+<LastName>Seret</LastName>
+<Initials>G.</Initials>
+</Author>
+</Authors>
+<Title>Palynological analyses in the laminated sediment of Lake Holzmaar (Eifel, Germany): duration of Lateglacial and Preboreal biozones</Title>
+<Journal>Boreas</Journal>
+<Volume>29</Volume>
+<Issue>1</Issue>
+<Pages>52-71</Pages>
+</Publication>
+</Publications>
+<SpreadSheetBook>
+<SpreadSheetOptions>
+<HeaderRow>0</HeaderRow>
+<FontName>Arial</FontName>
+<FontSize>9</FontSize>
+<DefaultColWidth>64</DefaultColWidth>
+<DefaultRowHeight>18</DefaultRowHeight>
+<PercentDecimalPlaces>1</PercentDecimalPlaces>
+<CheckDupCodes>True</CheckDupCodes>
+<CaseSensitiveCodes>False</CaseSensitiveCodes>
+<CodesVisible>True</CodesVisible>
+<ElementsVisible>True</ElementsVisible>
+<UnitsVisible>True</UnitsVisible>
+<ContextsVisible>False</ContextsVisible>
+<TaphonomyVisible>False</TaphonomyVisible>
+<GroupsVisible>True</GroupsVisible>
+<GroupCategories>
+<GroupCategory>bryophytes</GroupCategory>
+<GroupCategory>vascular plants</GroupCategory>
+</GroupCategories>
+</SpreadSheetOptions>
+<SpreadSheet page="0" name="Data">
+<Col ID="1" Width="64">
+<cell row="3">
+<text>#Chron1</text>
+</cell>
+<cell row="4">
+<text>#Samp.Analyst</text>
+</cell>
+<cell row="5">
+<text>Abi</text>
+</cell>
+<cell row="6">
+<text>Art</text>
+</cell>
+<cell row="7">
+<text>Bet</text>
+</cell>
+<cell row="8">
+<text>Boreae</text>
+</cell>
+<cell row="9">
+<text>Cryeae</text>
+</cell>
+<cell row="10">
+<text>Cor</text>
+</cell>
+<cell row="11">
+<text>Craeae</text>
+</cell>
+<cell row="12">
+<text>Cypeae</text>
+</cell>
+<cell row="13">
+<text>Epi</text>
+</cell>
+<cell row="14">
+<text>Erceae</text>
+</cell>
+<cell row="15">
+<text>Fag</text>
+</cell>
+<cell row="16">
+<text>Ger</text>
+</cell>
+<cell row="17">
+<text>Geu-t</text>
+</cell>
+<cell row="18">
+<text>Fabeae.ud</text>
+</cell>
+<cell row="19">
+<text>Asteae.sf.Cchdae</text>
+</cell>
+<cell row="20">
+<text>Ptl-t</text>
+</cell>
+<cell row="21">
+<text>Que</text>
+</cell>
+<cell row="22">
+<text>Raneae.ud</text>
+</cell>
+<cell row="23">
+<text>Rum</text>
+</cell>
+<cell row="24">
+<text>Slx</text>
+</cell>
+<cell row="25">
+<text>Tha</text>
+</cell>
+<cell row="26">
+<text>Asteae.sf.Astdae.ud</text>
+</cell>
+<cell row="27">
+<text>Ulm</text>
+</cell>
+<cell row="28">
+<text>Apieae</text>
+</cell>
+<cell row="29">
+<text>Aln</text>
+</cell>
+<cell row="30">
+<text>Ace</text>
+</cell>
+<cell row="31">
+<text>Cameae</text>
+</cell>
+<cell row="32">
+<text>Roseae.ud</text>
+</cell>
+<cell row="33">
+<text>Pin</text>
+</cell>
+<cell row="34">
+<text>Pop</text>
+</cell>
+<cell row="35">
+<text>Amaeae</text>
+</cell>
+<cell row="36">
+<text>Poaeae</text>
+</cell>
+<cell row="37">
+<text>Braeae</text>
+</cell>
+<cell row="38">
+<text>Urteae</text>
+</cell>
+<cell row="39">
+<text>Pln</text>
+</cell>
+<cell row="40">
+<text>Rubeae</text>
+</cell>
+<cell row="41">
+<text>Pom</text>
+</cell>
+<cell row="42">
+<text>Cpm</text>
+</cell>
+<cell row="43">
+<text>ind.ud</text>
+</cell>
+<cell row="44">
+<text>Jun</text>
+</cell>
+<cell row="45">
+<text>Trf</text>
+</cell>
+<cell row="46">
+<text>Bst.of</text>
+</cell>
+<cell row="47">
+<text>Hli</text>
+</cell>
+<cell row="48">
+<text>San.of</text>
+</cell>
+<cell row="49">
+<text>Capeae.sf.Valeae</text>
+</cell>
+<cell row="50">
+<text>Sca</text>
+</cell>
+<cell row="51">
+<text>Coneae</text>
+</cell>
+<cell row="52">
+<text>Cen.cy</text>
+</cell>
+<cell row="53">
+<text>Dip</text>
+</cell>
+<cell row="54">
+<text>unk.ud</text>
+</cell>
+<cell row="55">
+<text>Cen.ud</text>
+</cell>
+<cell row="56">
+<text>Fil</text>
+</cell>
+<cell row="57">
+<text>Cpn</text>
+</cell>
+<cell row="58">
+<text>Lileae-t</text>
+</cell>
+<cell row="59">
+<text>Hpp</text>
+</cell>
+<cell row="60">
+<text>Kna</text>
+</cell>
+<cell row="61">
+<text>Ptu.sa</text>
+</cell>
+<cell row="62">
+<text>Eph.di-t</text>
+</cell>
+<cell row="63">
+<text>Eph.fr-t</text>
+</cell>
+<cell row="64">
+<text>Onb</text>
+</cell>
+<cell row="65">
+<text>Cag</text>
+</cell>
+<cell row="66">
+<text>Lameae(C3)</text>
+</cell>
+<cell row="67">
+<text>Cen.co</text>
+</cell>
+<cell row="68">
+<text>Pdi</text>
+</cell>
+<cell row="69">
+<text>unk(pQ)</text>
+</cell>
+<cell row="70">
+<text>ind.(corr)</text>
+</cell>
+<cell row="71">
+<text>poll.acc.rate</text>
+</cell>
+<cell row="72">
+<text>pol.conc</text>
+</cell>
+</Col>
+<Col ID="2" Width="180">
+<cell row="3">
+<text>Leroy et al. 2000</text>
+</cell>
+<cell row="4">
+<text>Sample Analyst</text>
+</cell>
+<cell row="5">
+<text>Abies</text>
+</cell>
+<cell row="6">
+<text>Artemisia</text>
+</cell>
+<cell row="7">
+<text>Betula</text>
+</cell>
+<cell row="8">
+<text>Boraginaceae</text>
+</cell>
+<cell row="9">
+<text>Caryophyllaceae</text>
+</cell>
+<cell row="10">
+<text>Corylus</text>
+</cell>
+<cell row="11">
+<text>Crassulaceae</text>
+</cell>
+<cell row="12">
+<text>Cyperaceae</text>
+</cell>
+<cell row="13">
+<text>Epilobium</text>
+</cell>
+<cell row="14">
+<text>Ericaceae</text>
+</cell>
+<cell row="15">
+<text>Fagus</text>
+</cell>
+<cell row="16">
+<text>Geranium</text>
+</cell>
+<cell row="17">
+<text>Geum-type</text>
+</cell>
+<cell row="18">
+<text>Fabaceae undiff.</text>
+<Synonym>
+<TaxonName>Leguminosae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="19">
+<text>Asteraceae subf. Cichorioideae</text>
+<Synonym>
+<TaxonName>Compositae subf. Cichorioideae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="20">
+<text>Potentilla-type</text>
+</cell>
+<cell row="21">
+<text>Quercus</text>
+</cell>
+<cell row="22">
+<text>Ranunculaceae undiff.</text>
+</cell>
+<cell row="23">
+<text>Rumex</text>
+</cell>
+<cell row="24">
+<text>Salix</text>
+</cell>
+<cell row="25">
+<text>Thalictrum</text>
+</cell>
+<cell row="26">
+<text>Asteraceae subf. Asteroideae undiff.</text>
+<Synonym>
+<TaxonName>Compositae subf. Asteroideae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="27">
+<text>Ulmus</text>
+</cell>
+<cell row="28">
+<text>Apiaceae</text>
+<Synonym>
+<TaxonName>Umbelliferae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="29">
+<text>Alnus</text>
+</cell>
+<cell row="30">
+<text>Acer</text>
+</cell>
+<cell row="31">
+<text>Campanulaceae</text>
+</cell>
+<cell row="32">
+<text>Rosaceae undiff.</text>
+</cell>
+<cell row="33">
+<text>Pinus</text>
+</cell>
+<cell row="34">
+<text>Populus</text>
+</cell>
+<cell row="35">
+<text>Amaranthaceae</text>
+<Synonym>
+<TaxonName>Chenopodiaceae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="36">
+<text>Poaceae</text>
+<Synonym>
+<TaxonName>Gramineae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="37">
+<text>Brassicaceae</text>
+<Synonym>
+<TaxonName>Cruciferae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="38">
+<text>Urticaceae</text>
+</cell>
+<cell row="39">
+<text>Plantago</text>
+</cell>
+<cell row="40">
+<text>Rubiaceae</text>
+</cell>
+<cell row="41">
+<text>Polemonium</text>
+</cell>
+<cell row="42">
+<text>Ceratophyllum</text>
+</cell>
+<cell row="43">
+<text>Indeterminable undiff.</text>
+</cell>
+<cell row="44">
+<text>Juniperus</text>
+</cell>
+<cell row="45">
+<text>Trifolium</text>
+</cell>
+<cell row="46">
+<text>Bistorta officinalis</text>
+<Synonym>
+<TaxonName>Polygonum bistorta</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="47">
+<text>Helianthemum</text>
+</cell>
+<cell row="48">
+<text>Sanguisorba officinalis</text>
+</cell>
+<cell row="49">
+<text>Caprifoliaceae subf. Valerianoideae</text>
+<Synonym>
+<TaxonName>Valerianaceae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="50">
+<text>Scabiosa</text>
+</cell>
+<cell row="51">
+<text>Convolvulaceae</text>
+</cell>
+<cell row="52">
+<text>Centaurea cyanus</text>
+</cell>
+<cell row="53">
+<text>Dipsacus</text>
+</cell>
+<cell row="54">
+<text>Unknown undiff.</text>
+</cell>
+<cell row="55">
+<text>Centaurea undiff.</text>
+</cell>
+<cell row="56">
+<text>Filipendula</text>
+</cell>
+<cell row="57">
+<text>Carpinus</text>
+</cell>
+<cell row="58">
+<text>Liliaceae-type</text>
+</cell>
+<cell row="59">
+<text>Hippophaë</text>
+<Synonym>
+<TaxonName>Hippophae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="60">
+<text>Knautia</text>
+</cell>
+<cell row="61">
+<text>Poterium sanguisorba</text>
+<Synonym>
+<TaxonName>Sanguisorba minor</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="62">
+<text>Ephedra distachya-type</text>
+</cell>
+<cell row="63">
+<text>Ephedra fragilis-type</text>
+</cell>
+<cell row="64">
+<text>Onobrychis</text>
+</cell>
+<cell row="65">
+<text>Calligonum</text>
+</cell>
+<cell row="66">
+<text>Lamiaceae (tricolpate)</text>
+</cell>
+<cell row="67">
+<text>Centaurea collina</text>
+</cell>
+<cell row="68">
+<text>Pediastrum</text>
+</cell>
+<cell row="69">
+<text>Unknown (pre-Quaternary)</text>
+</cell>
+<cell row="70">
+<text>Indeterminable (corroded)</text>
+</cell>
+<cell row="71">
+<text>Pollen accumulation rate</text>
+</cell>
+<cell row="72">
+<text>Pollen concentration</text>
+</cell>
+</Col>
+<Col ID="3" Width="64">
+<cell row="5">
+<text>pollen</text>
+</cell>
+<cell row="6">
+<text>pollen</text>
+</cell>
+<cell row="7">
+<text>pollen</text>
+</cell>
+<cell row="8">
+<text>pollen</text>
+</cell>
+<cell row="9">
+<text>pollen</text>
+</cell>
+<cell row="10">
+<text>pollen</text>
+</cell>
+<cell row="11">
+<text>pollen</text>
+</cell>
+<cell row="12">
+<text>pollen</text>
+</cell>
+<cell row="13">
+<text>pollen</text>
+</cell>
+<cell row="14">
+<text>pollen</text>
+</cell>
+<cell row="15">
+<text>pollen</text>
+</cell>
+<cell row="16">
+<text>pollen</text>
+</cell>
+<cell row="17">
+<text>pollen</text>
+</cell>
+<cell row="18">
+<text>pollen</text>
+</cell>
+<cell row="19">
+<text>pollen</text>
+</cell>
+<cell row="20">
+<text>pollen</text>
+</cell>
+<cell row="21">
+<text>pollen</text>
+</cell>
+<cell row="22">
+<text>pollen</text>
+</cell>
+<cell row="23">
+<text>pollen</text>
+</cell>
+<cell row="24">
+<text>pollen</text>
+</cell>
+<cell row="25">
+<text>pollen</text>
+</cell>
+<cell row="26">
+<text>pollen</text>
+</cell>
+<cell row="27">
+<text>pollen</text>
+</cell>
+<cell row="28">
+<text>pollen</text>
+</cell>
+<cell row="29">
+<text>pollen</text>
+</cell>
+<cell row="30">
+<text>pollen</text>
+</cell>
+<cell row="31">
+<text>pollen</text>
+</cell>
+<cell row="32">
+<text>pollen</text>
+</cell>
+<cell row="33">
+<text>pollen</text>
+</cell>
+<cell row="34">
+<text>pollen</text>
+</cell>
+<cell row="35">
+<text>pollen</text>
+</cell>
+<cell row="36">
+<text>pollen</text>
+</cell>
+<cell row="37">
+<text>pollen</text>
+</cell>
+<cell row="38">
+<text>pollen</text>
+</cell>
+<cell row="39">
+<text>pollen</text>
+</cell>
+<cell row="40">
+<text>pollen</text>
+</cell>
+<cell row="41">
+<text>pollen</text>
+</cell>
+<cell row="42">
+<text>leaf spine</text>
+</cell>
+<cell row="43">
+<text>pollen/spore</text>
+</cell>
+<cell row="44">
+<text>pollen</text>
+</cell>
+<cell row="45">
+<text>pollen</text>
+</cell>
+<cell row="46">
+<text>pollen</text>
+</cell>
+<cell row="47">
+<text>pollen</text>
+</cell>
+<cell row="48">
+<text>pollen</text>
+</cell>
+<cell row="49">
+<text>pollen</text>
+</cell>
+<cell row="50">
+<text>pollen</text>
+</cell>
+<cell row="51">
+<text>pollen</text>
+</cell>
+<cell row="52">
+<text>pollen</text>
+</cell>
+<cell row="53">
+<text>pollen</text>
+</cell>
+<cell row="54">
+<text>pollen/spore</text>
+</cell>
+<cell row="55">
+<text>pollen</text>
+</cell>
+<cell row="56">
+<text>pollen</text>
+</cell>
+<cell row="57">
+<text>pollen</text>
+</cell>
+<cell row="58">
+<text>pollen</text>
+</cell>
+<cell row="59">
+<text>pollen</text>
+</cell>
+<cell row="60">
+<text>pollen</text>
+</cell>
+<cell row="61">
+<text>pollen</text>
+</cell>
+<cell row="62">
+<text>pollen</text>
+</cell>
+<cell row="63">
+<text>pollen</text>
+</cell>
+<cell row="64">
+<text>pollen</text>
+</cell>
+<cell row="65">
+<text>pollen</text>
+</cell>
+<cell row="66">
+<text>pollen</text>
+</cell>
+<cell row="67">
+<text>pollen</text>
+</cell>
+<cell row="68">
+<text>colony</text>
+</cell>
+<cell row="69">
+<text>spore</text>
+</cell>
+<cell row="70">
+<text>pollen/spore</text>
+</cell>
+<cell row="71">
+<text>pollen/spore</text>
+</cell>
+<cell row="72">
+<text>pollen/spore</text>
+</cell>
+</Col>
+<Col ID="4" Width="64">
+<cell row="3">
+<text>varve yr BP</text>
+</cell>
+<cell row="5">
+<text>NISP</text>
+</cell>
+<cell row="6">
+<text>NISP</text>
+</cell>
+<cell row="7">
+<text>NISP</text>
+</cell>
+<cell row="8">
+<text>NISP</text>
+</cell>
+<cell row="9">
+<text>NISP</text>
+</cell>
+<cell row="10">
+<text>NISP</text>
+</cell>
+<cell row="11">
+<text>NISP</text>
+</cell>
+<cell row="12">
+<text>NISP</text>
+</cell>
+<cell row="13">
+<text>NISP</text>
+</cell>
+<cell row="14">
+<text>NISP</text>
+</cell>
+<cell row="15">
+<text>NISP</text>
+</cell>
+<cell row="16">
+<text>NISP</text>
+</cell>
+<cell row="17">
+<text>NISP</text>
+</cell>
+<cell row="18">
+<text>NISP</text>
+</cell>
+<cell row="19">
+<text>NISP</text>
+</cell>
+<cell row="20">
+<text>NISP</text>
+</cell>
+<cell row="21">
+<text>NISP</text>
+</cell>
+<cell row="22">
+<text>NISP</text>
+</cell>
+<cell row="23">
+<text>NISP</text>
+</cell>
+<cell row="24">
+<text>NISP</text>
+</cell>
+<cell row="25">
+<text>NISP</text>
+</cell>
+<cell row="26">
+<text>NISP</text>
+</cell>
+<cell row="27">
+<text>NISP</text>
+</cell>
+<cell row="28">
+<text>NISP</text>
+</cell>
+<cell row="29">
+<text>NISP</text>
+</cell>
+<cell row="30">
+<text>NISP</text>
+</cell>
+<cell row="31">
+<text>NISP</text>
+</cell>
+<cell row="32">
+<text>NISP</text>
+</cell>
+<cell row="33">
+<text>NISP</text>
+</cell>
+<cell row="34">
+<text>NISP</text>
+</cell>
+<cell row="35">
+<text>NISP</text>
+</cell>
+<cell row="36">
+<text>NISP</text>
+</cell>
+<cell row="37">
+<text>NISP</text>
+</cell>
+<cell row="38">
+<text>NISP</text>
+</cell>
+<cell row="39">
+<text>NISP</text>
+</cell>
+<cell row="40">
+<text>NISP</text>
+</cell>
+<cell row="41">
+<text>NISP</text>
+</cell>
+<cell row="42">
+<text>NISP</text>
+</cell>
+<cell row="43">
+<text>NISP</text>
+</cell>
+<cell row="44">
+<text>NISP</text>
+</cell>
+<cell row="45">
+<text>NISP</text>
+</cell>
+<cell row="46">
+<text>NISP</text>
+</cell>
+<cell row="47">
+<text>NISP</text>
+</cell>
+<cell row="48">
+<text>NISP</text>
+</cell>
+<cell row="49">
+<text>NISP</text>
+</cell>
+<cell row="50">
+<text>NISP</text>
+</cell>
+<cell row="51">
+<text>NISP</text>
+</cell>
+<cell row="52">
+<text>NISP</text>
+</cell>
+<cell row="53">
+<text>NISP</text>
+</cell>
+<cell row="54">
+<text>NISP</text>
+</cell>
+<cell row="55">
+<text>NISP</text>
+</cell>
+<cell row="56">
+<text>NISP</text>
+</cell>
+<cell row="57">
+<text>NISP</text>
+</cell>
+<cell row="58">
+<text>NISP</text>
+</cell>
+<cell row="59">
+<text>NISP</text>
+</cell>
+<cell row="60">
+<text>NISP</text>
+</cell>
+<cell row="61">
+<text>NISP</text>
+</cell>
+<cell row="62">
+<text>NISP</text>
+</cell>
+<cell row="63">
+<text>NISP</text>
+</cell>
+<cell row="64">
+<text>NISP</text>
+</cell>
+<cell row="65">
+<text>NISP</text>
+</cell>
+<cell row="66">
+<text>NISP</text>
+</cell>
+<cell row="67">
+<text>NISP</text>
+</cell>
+<cell row="68">
+<text>NISP</text>
+</cell>
+<cell row="69">
+<text>NISP</text>
+</cell>
+<cell row="70">
+<text>NISP</text>
+</cell>
+<cell row="71">
+<text>grains/cm^2*yr</text>
+</cell>
+<cell row="72">
+<text>grains/g</text>
+</cell>
+</Col>
+<Col ID="7" Width="64">
+<cell row="5">
+<text>TRSH</text>
+</cell>
+<cell row="6">
+<text>UPHE</text>
+</cell>
+<cell row="7">
+<text>TRSH</text>
+</cell>
+<cell row="8">
+<text>UPHE</text>
+</cell>
+<cell row="9">
+<text>UPHE</text>
+</cell>
+<cell row="10">
+<text>TRSH</text>
+</cell>
+<cell row="11">
+<text>UPHE</text>
+</cell>
+<cell row="12">
+<text>UPHE</text>
+</cell>
+<cell row="13">
+<text>UPHE</text>
+</cell>
+<cell row="14">
+<text>TRSH</text>
+</cell>
+<cell row="15">
+<text>TRSH</text>
+</cell>
+<cell row="16">
+<text>UPHE</text>
+</cell>
+<cell row="17">
+<text>UPHE</text>
+</cell>
+<cell row="18">
+<text>UPHE</text>
+</cell>
+<cell row="19">
+<text>UPHE</text>
+</cell>
+<cell row="20">
+<text>UPHE</text>
+</cell>
+<cell row="21">
+<text>TRSH</text>
+</cell>
+<cell row="22">
+<text>UPHE</text>
+</cell>
+<cell row="23">
+<text>UPHE</text>
+</cell>
+<cell row="24">
+<text>TRSH</text>
+</cell>
+<cell row="25">
+<text>UPHE</text>
+</cell>
+<cell row="26">
+<text>UPHE</text>
+</cell>
+<cell row="27">
+<text>TRSH</text>
+</cell>
+<cell row="28">
+<text>UPHE</text>
+</cell>
+<cell row="29">
+<text>TRSH</text>
+</cell>
+<cell row="30">
+<text>TRSH</text>
+</cell>
+<cell row="31">
+<text>UPHE</text>
+</cell>
+<cell row="32">
+<text>UPHE</text>
+</cell>
+<cell row="33">
+<text>TRSH</text>
+</cell>
+<cell row="34">
+<text>TRSH</text>
+</cell>
+<cell row="35">
+<text>UPHE</text>
+</cell>
+<cell row="36">
+<text>UPHE</text>
+</cell>
+<cell row="37">
+<text>UPHE</text>
+</cell>
+<cell row="38">
+<text>UPHE</text>
+</cell>
+<cell row="39">
+<text>UPHE</text>
+</cell>
+<cell row="40">
+<text>TRSH</text>
+</cell>
+<cell row="41">
+<text>UPHE</text>
+</cell>
+<cell row="42">
+<text>AQVP</text>
+</cell>
+<cell row="43">
+<text>UNID</text>
+</cell>
+<cell row="44">
+<text>TRSH</text>
+</cell>
+<cell row="45">
+<text>UPHE</text>
+</cell>
+<cell row="46">
+<text>UPHE</text>
+</cell>
+<cell row="47">
+<text>UPHE</text>
+</cell>
+<cell row="48">
+<text>UPHE</text>
+</cell>
+<cell row="49">
+<text>UPHE</text>
+</cell>
+<cell row="50">
+<text>UPHE</text>
+</cell>
+<cell row="51">
+<text>UPHE</text>
+</cell>
+<cell row="52">
+<text>UPHE</text>
+</cell>
+<cell row="53">
+<text>UPHE</text>
+</cell>
+<cell row="54">
+<text>UNID</text>
+</cell>
+<cell row="55">
+<text>UPHE</text>
+</cell>
+<cell row="56">
+<text>UPHE</text>
+</cell>
+<cell row="57">
+<text>TRSH</text>
+</cell>
+<cell row="58">
+<text>UPHE</text>
+</cell>
+<cell row="59">
+<text>TRSH</text>
+</cell>
+<cell row="60">
+<text>UPHE</text>
+</cell>
+<cell row="61">
+<text>UPHE</text>
+</cell>
+<cell row="62">
+<text>TRSH</text>
+</cell>
+<cell row="63">
+<text>TRSH</text>
+</cell>
+<cell row="64">
+<text>UPHE</text>
+</cell>
+<cell row="65">
+<text>TRSH</text>
+</cell>
+<cell row="66">
+<text>UPHE</text>
+</cell>
+<cell row="67">
+<text>UPHE</text>
+</cell>
+<cell row="68">
+<text>ALGA</text>
+</cell>
+<cell row="69">
+<text>ANAC</text>
+</cell>
+<cell row="70">
+<text>UNID</text>
+</cell>
+<cell row="71">
+<text>LABO</text>
+</cell>
+<cell row="72">
+<text>LABO</text>
+</cell>
+</Col>
+<Col ID="8" Width="64">
+<cell row="1">
+<value>863.4</value>
+</cell>
+<cell row="3">
+<value>10930</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>3</value>
+</cell>
+<cell row="7">
+<value>145</value>
+</cell>
+<cell row="10">
+<value>15</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="27">
+<value>7</value>
+</cell>
+<cell row="33">
+<value>161</value>
+</cell>
+<cell row="36">
+<value>16</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>5786</value>
+</cell>
+<cell row="72">
+<value>215268</value>
+</cell>
+</Col>
+<Col ID="9" Width="64">
+<cell row="1">
+<value>864.4</value>
+</cell>
+<cell row="3">
+<value>10946</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>7</value>
+</cell>
+<cell row="7">
+<value>72</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>3</value>
+</cell>
+<cell row="12">
+<value>5</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>213</value>
+</cell>
+<cell row="36">
+<value>12</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>4159</value>
+</cell>
+<cell row="72">
+<value>181324</value>
+</cell>
+</Col>
+<Col ID="10" Width="64">
+<cell row="1">
+<value>865.4</value>
+</cell>
+<cell row="3">
+<value>10962</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>5</value>
+</cell>
+<cell row="7">
+<value>153</value>
+</cell>
+<cell row="10">
+<value>5</value>
+</cell>
+<cell row="12">
+<value>9</value>
+</cell>
+<cell row="24">
+<value>9</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>174</value>
+</cell>
+<cell row="36">
+<value>18</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1901</value>
+</cell>
+<cell row="72">
+<value>64736</value>
+</cell>
+</Col>
+<Col ID="11" Width="64">
+<cell row="1">
+<value>867.4</value>
+</cell>
+<cell row="3">
+<value>10992</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>1</value>
+</cell>
+<cell row="7">
+<value>51</value>
+</cell>
+<cell row="10">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>5</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>257</value>
+</cell>
+<cell row="36">
+<value>8</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>2103</value>
+</cell>
+<cell row="72">
+<value>40219</value>
+</cell>
+</Col>
+<Col ID="12" Width="64">
+<cell row="1">
+<value>869.4</value>
+</cell>
+<cell row="3">
+<value>11021</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="7">
+<value>52</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>15</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>318</value>
+</cell>
+<cell row="36">
+<value>6</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>2225</value>
+</cell>
+<cell row="72">
+<value>91921</value>
+</cell>
+</Col>
+<Col ID="13" Width="64">
+<cell row="1">
+<value>871.4</value>
+</cell>
+<cell row="3">
+<value>11049</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>1</value>
+</cell>
+<cell row="7">
+<value>44</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>6</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>200</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>19</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1732</value>
+</cell>
+<cell row="72">
+<value>57735</value>
+</cell>
+</Col>
+<Col ID="14" Width="64">
+<cell row="1">
+<value>873.4</value>
+</cell>
+<cell row="3">
+<value>11074</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>1</value>
+</cell>
+<cell row="7">
+<value>114</value>
+</cell>
+<cell row="12">
+<value>13</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>190</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>10</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>2939</value>
+</cell>
+<cell row="72">
+<value>92558</value>
+</cell>
+</Col>
+<Col ID="15" Width="64">
+<cell row="1">
+<value>875.4</value>
+</cell>
+<cell row="3">
+<value>11097</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>2</value>
+</cell>
+<cell row="7">
+<value>51</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>26</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>194</value>
+</cell>
+<cell row="36">
+<value>7</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>7</value>
+</cell>
+<cell row="56">
+<value>7</value>
+</cell>
+<cell row="71">
+<value>1294</value>
+</cell>
+<cell row="72">
+<value>35150</value>
+</cell>
+</Col>
+<Col ID="16" Width="64">
+<cell row="1">
+<value>876.4</value>
+</cell>
+<cell row="3">
+<value>11108</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>5</value>
+</cell>
+<cell row="7">
+<value>102</value>
+</cell>
+<cell row="12">
+<value>17</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>123</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>10</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>5</value>
+</cell>
+<cell row="71">
+<value>3979</value>
+</cell>
+<cell row="72">
+<value>88424</value>
+</cell>
+</Col>
+<Col ID="17" Width="64">
+<cell row="1">
+<value>877.4</value>
+</cell>
+<cell row="3">
+<value>11119</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>1</value>
+</cell>
+<cell row="7">
+<value>125</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>14</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>6</value>
+</cell>
+<cell row="33">
+<value>130</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>12</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>6926</value>
+</cell>
+<cell row="72">
+<value>179685</value>
+</cell>
+</Col>
+<Col ID="18" Width="64">
+<cell row="1">
+<value>879.4</value>
+</cell>
+<cell row="3">
+<value>11142</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="7">
+<value>117</value>
+</cell>
+<cell row="12">
+<value>17</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>157</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>20</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="71">
+<value>5174</value>
+</cell>
+<cell row="72">
+<value>95821</value>
+</cell>
+</Col>
+<Col ID="19" Width="64">
+<cell row="1">
+<value>881.4</value>
+</cell>
+<cell row="3">
+<value>11164</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>5</value>
+</cell>
+<cell row="7">
+<value>82</value>
+</cell>
+<cell row="12">
+<value>9</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>175</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>28</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>6</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>8028</value>
+</cell>
+<cell row="72">
+<value>157425</value>
+</cell>
+</Col>
+<Col ID="20" Width="64">
+<cell row="1">
+<value>883.4</value>
+</cell>
+<cell row="3">
+<value>11187</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>2</value>
+</cell>
+<cell row="7">
+<value>137</value>
+</cell>
+<cell row="12">
+<value>20</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>6</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>153</value>
+</cell>
+<cell row="36">
+<value>20</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>8754</value>
+</cell>
+<cell row="72">
+<value>185196</value>
+</cell>
+</Col>
+<Col ID="21" Width="64">
+<cell row="1">
+<value>885.4</value>
+</cell>
+<cell row="3">
+<value>11209</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>1</value>
+</cell>
+<cell row="7">
+<value>48</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>47</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>179</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>8</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>2826</value>
+</cell>
+<cell row="72">
+<value>64660</value>
+</cell>
+</Col>
+<Col ID="22" Width="64">
+<cell row="1">
+<value>887.4</value>
+</cell>
+<cell row="3">
+<value>11231</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>2</value>
+</cell>
+<cell row="7">
+<value>74</value>
+</cell>
+<cell row="12">
+<value>50</value>
+</cell>
+<cell row="20">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>184</value>
+</cell>
+<cell row="36">
+<value>18</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>6126</value>
+</cell>
+<cell row="72">
+<value>94252</value>
+</cell>
+</Col>
+<Col ID="23" Width="64">
+<cell row="1">
+<value>889.4</value>
+</cell>
+<cell row="3">
+<value>11254</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>7</value>
+</cell>
+<cell row="7">
+<value>102</value>
+</cell>
+<cell row="10">
+<value>3</value>
+</cell>
+<cell row="12">
+<value>24</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>178</value>
+</cell>
+<cell row="36">
+<value>33</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>3721</value>
+</cell>
+<cell row="72">
+<value>77242</value>
+</cell>
+</Col>
+<Col ID="24" Width="64">
+<cell row="1">
+<value>892.5</value>
+</cell>
+<cell row="3">
+<value>11289</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>3</value>
+</cell>
+<cell row="7">
+<value>72</value>
+</cell>
+<cell row="12">
+<value>28</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>184</value>
+</cell>
+<cell row="36">
+<value>16</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>5</value>
+</cell>
+<cell row="71">
+<value>2783</value>
+</cell>
+<cell row="72">
+<value>65495</value>
+</cell>
+</Col>
+<Col ID="25" Width="64">
+<cell row="1">
+<value>894.5</value>
+</cell>
+<cell row="3">
+<value>11309</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>1</value>
+</cell>
+<cell row="7">
+<value>49</value>
+</cell>
+<cell row="12">
+<value>16</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="32">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>210</value>
+</cell>
+<cell row="36">
+<value>18</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1912</value>
+</cell>
+<cell row="72">
+<value>59196</value>
+</cell>
+</Col>
+<Col ID="26" Width="64">
+<cell row="1">
+<value>896.5</value>
+</cell>
+<cell row="3">
+<value>11326</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="7">
+<value>37</value>
+</cell>
+<cell row="12">
+<value>31</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>206</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>17</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>1755</value>
+</cell>
+<cell row="72">
+<value>40825</value>
+</cell>
+</Col>
+<Col ID="27" Width="64">
+<cell row="1">
+<value>898.5</value>
+</cell>
+<cell row="3">
+<value>11343</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>4</value>
+</cell>
+<cell row="7">
+<value>41</value>
+</cell>
+<cell row="12">
+<value>21</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>205</value>
+</cell>
+<cell row="36">
+<value>12</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>6200</value>
+</cell>
+<cell row="72">
+<value>72948</value>
+</cell>
+</Col>
+<Col ID="28" Width="64">
+<cell row="1">
+<value>900.5</value>
+</cell>
+<cell row="3">
+<value>11361</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>6</value>
+</cell>
+<cell row="7">
+<value>55</value>
+</cell>
+<cell row="12">
+<value>11</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>185</value>
+</cell>
+<cell row="36">
+<value>25</value>
+</cell>
+<cell row="42">
+<value>4</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>11029</value>
+</cell>
+<cell row="72">
+<value>190890</value>
+</cell>
+</Col>
+<Col ID="29" Width="64">
+<cell row="1">
+<value>902.5</value>
+</cell>
+<cell row="3">
+<value>11382</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>2</value>
+</cell>
+<cell row="7">
+<value>63</value>
+</cell>
+<cell row="12">
+<value>11</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>240</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>10</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>7919</value>
+</cell>
+<cell row="72">
+<value>190050</value>
+</cell>
+</Col>
+<Col ID="30" Width="64">
+<cell row="1">
+<value>903.5</value>
+</cell>
+<cell row="3">
+<value>11399</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>6</value>
+</cell>
+<cell row="7">
+<value>47</value>
+</cell>
+<cell row="12">
+<value>14</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>6</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>225</value>
+</cell>
+<cell row="36">
+<value>33</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="71">
+<value>7776</value>
+</cell>
+<cell row="72">
+<value>232287</value>
+</cell>
+</Col>
+<Col ID="31" Width="64">
+<cell row="1">
+<value>905.5</value>
+</cell>
+<cell row="3">
+<value>11432</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>6</value>
+</cell>
+<cell row="7">
+<value>75</value>
+</cell>
+<cell row="12">
+<value>8</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>237</value>
+</cell>
+<cell row="36">
+<value>25</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>7</value>
+</cell>
+<cell row="68">
+<value>6</value>
+</cell>
+<cell row="71">
+<value>12782</value>
+</cell>
+<cell row="72">
+<value>409035</value>
+</cell>
+</Col>
+<Col ID="32" Width="64">
+<cell row="1">
+<value>907.5</value>
+</cell>
+<cell row="3">
+<value>11466</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>6</value>
+</cell>
+<cell row="7">
+<value>96</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>14</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>231</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>63</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>5</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>14535</value>
+</cell>
+<cell row="72">
+<value>676070</value>
+</cell>
+</Col>
+<Col ID="33" Width="64">
+<cell row="1">
+<value>908.5</value>
+</cell>
+<cell row="3">
+<value>11481</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>5</value>
+</cell>
+<cell row="7">
+<value>76</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>159</value>
+</cell>
+<cell row="36">
+<value>54</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>9573</value>
+</cell>
+<cell row="72">
+<value>517470</value>
+</cell>
+</Col>
+<Col ID="34" Width="64">
+<cell row="1">
+<value>910.5</value>
+</cell>
+<cell row="3">
+<value>11522</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>11</value>
+</cell>
+<cell row="7">
+<value>97</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>13</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>140</value>
+</cell>
+<cell row="36">
+<value>53</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>11</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>3926</value>
+</cell>
+<cell row="72">
+<value>224370</value>
+</cell>
+</Col>
+<Col ID="35" Width="64">
+<cell row="1">
+<value>911.5</value>
+</cell>
+<cell row="3">
+<value>11543</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>9</value>
+</cell>
+<cell row="7">
+<value>145</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>20</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="33">
+<value>133</value>
+</cell>
+<cell row="36">
+<value>65</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>12</value>
+</cell>
+<cell row="71">
+<value>4325</value>
+</cell>
+<cell row="72">
+<value>288395</value>
+</cell>
+</Col>
+<Col ID="36" Width="64">
+<cell row="1">
+<value>912.5</value>
+</cell>
+<cell row="3">
+<value>11559</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>4</value>
+</cell>
+<cell row="7">
+<value>48</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>29</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>173</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>63</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>9</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>10</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>2135</value>
+</cell>
+<cell row="72">
+<value>144657</value>
+</cell>
+</Col>
+<Col ID="37" Width="64">
+<cell row="1">
+<value>914.2</value>
+</cell>
+<cell row="3">
+<value>11585</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>4</value>
+</cell>
+<cell row="7">
+<value>41</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>27</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>114</value>
+</cell>
+<cell row="36">
+<value>85</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>7</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>5</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>3275</value>
+</cell>
+<cell row="72">
+<value>119865</value>
+</cell>
+</Col>
+<Col ID="38" Width="64">
+<cell row="1">
+<value>915.2</value>
+</cell>
+<cell row="3">
+<value>11608</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>7</value>
+</cell>
+<cell row="7">
+<value>53</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>20</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>140</value>
+</cell>
+<cell row="36">
+<value>62</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>8</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>3761</value>
+</cell>
+<cell row="72">
+<value>114483</value>
+</cell>
+</Col>
+<Col ID="39" Width="64">
+<cell row="1">
+<value>917.2</value>
+</cell>
+<cell row="3">
+<value>11649</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>14</value>
+</cell>
+<cell row="7">
+<value>69</value>
+</cell>
+<cell row="12">
+<value>35</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>5</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>5</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>88</value>
+</cell>
+<cell row="36">
+<value>70</value>
+</cell>
+<cell row="44">
+<value>9</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>13</value>
+</cell>
+<cell row="71">
+<value>2949</value>
+</cell>
+<cell row="72">
+<value>185159</value>
+</cell>
+</Col>
+<Col ID="40" Width="64">
+<cell row="1">
+<value>918.2</value>
+</cell>
+<cell row="3">
+<value>11684</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>25</value>
+</cell>
+<cell row="7">
+<value>77</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>68</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>5</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>93</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>94</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>5</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>25</value>
+</cell>
+<cell row="71">
+<value>4063</value>
+</cell>
+<cell row="72">
+<value>319186</value>
+</cell>
+</Col>
+<Col ID="41" Width="64">
+<cell row="1">
+<value>919.2</value>
+</cell>
+<cell row="3">
+<value>11719</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>26</value>
+</cell>
+<cell row="7">
+<value>83</value>
+</cell>
+<cell row="12">
+<value>72</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>3</value>
+</cell>
+<cell row="22">
+<value>5</value>
+</cell>
+<cell row="23">
+<value>6</value>
+</cell>
+<cell row="24">
+<value>9</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>82</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>85</value>
+</cell>
+<cell row="37">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>4</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>15</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>2072</value>
+</cell>
+<cell row="72">
+<value>182579</value>
+</cell>
+</Col>
+<Col ID="42" Width="64">
+<cell row="1">
+<value>920.2</value>
+</cell>
+<cell row="3">
+<value>11733</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>19</value>
+</cell>
+<cell row="7">
+<value>36</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>57</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>5</value>
+</cell>
+<cell row="23">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="32">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>126</value>
+</cell>
+<cell row="36">
+<value>79</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>3</value>
+</cell>
+<cell row="45">
+<value>2</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="68">
+<value>35</value>
+</cell>
+<cell row="71">
+<value>999</value>
+</cell>
+<cell row="72">
+<value>80931</value>
+</cell>
+</Col>
+<Col ID="43" Width="64">
+<cell row="1">
+<value>921.2</value>
+</cell>
+<cell row="3">
+<value>11747</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>22</value>
+</cell>
+<cell row="7">
+<value>29</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>53</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>9</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>8</value>
+</cell>
+<cell row="33">
+<value>93</value>
+</cell>
+<cell row="36">
+<value>102</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>13</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>36</value>
+</cell>
+<cell row="71">
+<value>3225</value>
+</cell>
+<cell row="72">
+<value>201602</value>
+</cell>
+</Col>
+<Col ID="44" Width="64">
+<cell row="1">
+<value>923.2</value>
+</cell>
+<cell row="3">
+<value>11775</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>21</value>
+</cell>
+<cell row="7">
+<value>39</value>
+</cell>
+<cell row="12">
+<value>67</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>3</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>11</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>88</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>71</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>491</value>
+</cell>
+<cell row="72">
+<value>26297</value>
+</cell>
+</Col>
+<Col ID="45" Width="64">
+<cell row="1">
+<value>925.2</value>
+</cell>
+<cell row="3">
+<value>11831</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>16</value>
+</cell>
+<cell row="7">
+<value>32</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>60</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>6</value>
+</cell>
+<cell row="24">
+<value>6</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>10</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>97</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>64</value>
+</cell>
+<cell row="37">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>9</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>6</value>
+</cell>
+<cell row="71">
+<value>1232</value>
+</cell>
+<cell row="72">
+<value>57986</value>
+</cell>
+</Col>
+<Col ID="46" Width="64">
+<cell row="1">
+<value>928.2</value>
+</cell>
+<cell row="3">
+<value>11915</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>15</value>
+</cell>
+<cell row="7">
+<value>31</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>48</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>84</value>
+</cell>
+<cell row="36">
+<value>61</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>8</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>8</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>29</value>
+</cell>
+<cell row="71">
+<value>2151</value>
+</cell>
+<cell row="72">
+<value>74444</value>
+</cell>
+</Col>
+<Col ID="47" Width="64">
+<cell row="1">
+<value>929.2</value>
+</cell>
+<cell row="3">
+<value>11927</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>32</value>
+</cell>
+<cell row="7">
+<value>32</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="12">
+<value>89</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>6</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>12</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>13</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>138</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>96</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>3</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>25</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>2627</value>
+</cell>
+<cell row="72">
+<value>90589</value>
+</cell>
+</Col>
+<Col ID="48" Width="64">
+<cell row="1">
+<value>930.2</value>
+</cell>
+<cell row="3">
+<value>11940</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>23</value>
+</cell>
+<cell row="7">
+<value>23</value>
+</cell>
+<cell row="12">
+<value>63</value>
+</cell>
+<cell row="14">
+<value>3</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>114</value>
+</cell>
+<cell row="35">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>66</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>3</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>22</value>
+</cell>
+<cell row="71">
+<value>16520</value>
+</cell>
+<cell row="72">
+<value>55069</value>
+</cell>
+</Col>
+<Col ID="49" Width="64">
+<cell row="1">
+<value>931.2</value>
+</cell>
+<cell row="3">
+<value>11952</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>13</value>
+</cell>
+<cell row="7">
+<value>38</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>46</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>5</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>89</value>
+</cell>
+<cell row="36">
+<value>80</value>
+</cell>
+<cell row="44">
+<value>4</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>41</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="50" Width="64">
+<cell row="1">
+<value>933.2</value>
+</cell>
+<cell row="3">
+<value>11976</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>21</value>
+</cell>
+<cell row="7">
+<value>28</value>
+</cell>
+<cell row="12">
+<value>58</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>5</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>77</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="36">
+<value>105</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>4</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>75</value>
+</cell>
+<cell row="71">
+<value>3014</value>
+</cell>
+<cell row="72">
+<value>67664</value>
+</cell>
+</Col>
+<Col ID="51" Width="64">
+<cell row="1">
+<value>935.2</value>
+</cell>
+<cell row="3">
+<value>12001</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>22</value>
+</cell>
+<cell row="7">
+<value>32</value>
+</cell>
+<cell row="12">
+<value>44</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>9</value>
+</cell>
+<cell row="25">
+<value>4</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>79</value>
+</cell>
+<cell row="35">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>67</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>7</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>2127</value>
+</cell>
+<cell row="72">
+<value>55265</value>
+</cell>
+</Col>
+<Col ID="52" Width="64">
+<cell row="1">
+<value>936.2</value>
+</cell>
+<cell row="3">
+<value>12017</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>22</value>
+</cell>
+<cell row="7">
+<value>7</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>29</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>7</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>122</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="36">
+<value>55</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>8</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1187</value>
+</cell>
+<cell row="72">
+<value>28578</value>
+</cell>
+</Col>
+<Col ID="53" Width="64">
+<cell row="1">
+<value>937.2</value>
+</cell>
+<cell row="3">
+<value>12038</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>34</value>
+</cell>
+<cell row="7">
+<value>15</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>37</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>9</value>
+</cell>
+<cell row="25">
+<value>4</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>61</value>
+</cell>
+<cell row="35">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>96</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>8</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>7</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="54" Width="64">
+<cell row="1">
+<value>938</value>
+</cell>
+<cell row="3">
+<value>12058</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>36</value>
+</cell>
+<cell row="7">
+<value>11</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>22</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>5</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>45</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>102</value>
+</cell>
+<cell row="37">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>4</value>
+</cell>
+<cell row="54">
+<value>6</value>
+</cell>
+<cell row="71">
+<value>1767</value>
+</cell>
+<cell row="72">
+<value>68639</value>
+</cell>
+</Col>
+<Col ID="55" Width="64">
+<cell row="1">
+<value>939</value>
+</cell>
+<cell row="3">
+<value>12083</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>28</value>
+</cell>
+<cell row="7">
+<value>26</value>
+</cell>
+<cell row="12">
+<value>49</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>11</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="29">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>73</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="36">
+<value>99</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>7</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="62">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>523</value>
+</cell>
+<cell row="72">
+<value>48476</value>
+</cell>
+</Col>
+<Col ID="56" Width="64">
+<cell row="1">
+<value>940</value>
+</cell>
+<cell row="3">
+<value>12109</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>31</value>
+</cell>
+<cell row="7">
+<value>23</value>
+</cell>
+<cell row="12">
+<value>28</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>10</value>
+</cell>
+<cell row="25">
+<value>4</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>71</value>
+</cell>
+<cell row="35">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>95</value>
+</cell>
+<cell row="37">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="42">
+<value>8</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>7</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="57" Width="64">
+<cell row="1">
+<value>942</value>
+</cell>
+<cell row="3">
+<value>12159</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>16</value>
+</cell>
+<cell row="7">
+<value>32</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>25</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="33">
+<value>89</value>
+</cell>
+<cell row="36">
+<value>88</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>7</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>6</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>5</value>
+</cell>
+<cell row="71">
+<value>1560</value>
+</cell>
+<cell row="72">
+<value>61781</value>
+</cell>
+</Col>
+<Col ID="58" Width="64">
+<cell row="1">
+<value>944</value>
+</cell>
+<cell row="3">
+<value>12210</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>20</value>
+</cell>
+<cell row="7">
+<value>36</value>
+</cell>
+<cell row="12">
+<value>25</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>80</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>55</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="40">
+<value>4</value>
+</cell>
+<cell row="42">
+<value>11</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>10</value>
+</cell>
+<cell row="56">
+<value>5</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="59" Width="64">
+<cell row="1">
+<value>946</value>
+</cell>
+<cell row="3">
+<value>12261</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>21</value>
+</cell>
+<cell row="7">
+<value>34</value>
+</cell>
+<cell row="12">
+<value>41</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>8</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>95</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>52</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>7</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>6</value>
+</cell>
+<cell row="56">
+<value>7</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="60" Width="64">
+<cell row="1">
+<value>948</value>
+</cell>
+<cell row="3">
+<value>12300</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>11</value>
+</cell>
+<cell row="7">
+<value>70</value>
+</cell>
+<cell row="12">
+<value>24</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>5</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>202</value>
+</cell>
+<cell row="36">
+<value>43</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>14</value>
+</cell>
+<cell row="44">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>2944</value>
+</cell>
+<cell row="72">
+<value>77480</value>
+</cell>
+</Col>
+<Col ID="61" Width="64">
+<cell row="1">
+<value>950</value>
+</cell>
+<cell row="3">
+<value>12333</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>10</value>
+</cell>
+<cell row="7">
+<value>76</value>
+</cell>
+<cell row="12">
+<value>15</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>172</value>
+</cell>
+<cell row="36">
+<value>23</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>14</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>7</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1812</value>
+</cell>
+<cell row="72">
+<value>107765</value>
+</cell>
+</Col>
+<Col ID="62" Width="64">
+<cell row="1">
+<value>952</value>
+</cell>
+<cell row="3">
+<value>12365</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>6</value>
+</cell>
+<cell row="7">
+<value>92</value>
+</cell>
+<cell row="12">
+<value>13</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>135</value>
+</cell>
+<cell row="36">
+<value>24</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>6</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>7</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1147</value>
+</cell>
+<cell row="72">
+<value>60375</value>
+</cell>
+</Col>
+<Col ID="63" Width="64">
+<cell row="1">
+<value>955</value>
+</cell>
+<cell row="3">
+<value>12414</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>6</value>
+</cell>
+<cell row="7">
+<value>54</value>
+</cell>
+<cell row="12">
+<value>30</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>195</value>
+</cell>
+<cell row="36">
+<value>22</value>
+</cell>
+<cell row="42">
+<value>15</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>11990</value>
+</cell>
+<cell row="72">
+<value>78370</value>
+</cell>
+</Col>
+<Col ID="64" Width="64">
+<cell row="1">
+<value>956</value>
+</cell>
+<cell row="3">
+<value>12431</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>5</value>
+</cell>
+<cell row="7">
+<value>141</value>
+</cell>
+<cell row="12">
+<value>23</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>122</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>32</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="65" Width="64">
+<cell row="1">
+<value>959</value>
+</cell>
+<cell row="3">
+<value>12480</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>9</value>
+</cell>
+<cell row="7">
+<value>80</value>
+</cell>
+<cell row="12">
+<value>26</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>183</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>37</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1376</value>
+</cell>
+<cell row="72">
+<value>70533</value>
+</cell>
+</Col>
+<Col ID="66" Width="64">
+<cell row="1">
+<value>960</value>
+</cell>
+<cell row="3">
+<value>12497</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>10</value>
+</cell>
+<cell row="7">
+<value>152</value>
+</cell>
+<cell row="12">
+<value>16</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>65</value>
+</cell>
+<cell row="36">
+<value>47</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>3424</value>
+</cell>
+<cell row="72">
+<value>131165</value>
+</cell>
+</Col>
+<Col ID="67" Width="64">
+<cell row="1">
+<value>962</value>
+</cell>
+<cell row="3">
+<value>12526</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>15</value>
+</cell>
+<cell row="7">
+<value>95</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>23</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="32">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>113</value>
+</cell>
+<cell row="36">
+<value>44</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>12</value>
+</cell>
+<cell row="71">
+<value>1321</value>
+</cell>
+<cell row="72">
+<value>80803</value>
+</cell>
+</Col>
+<Col ID="68" Width="64">
+<cell row="1">
+<value>964</value>
+</cell>
+<cell row="3">
+<value>12547</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>8</value>
+</cell>
+<cell row="7">
+<value>46</value>
+</cell>
+<cell row="12">
+<value>21</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>103</value>
+</cell>
+<cell row="36">
+<value>85</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>5</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>1069</value>
+</cell>
+<cell row="72">
+<value>25339</value>
+</cell>
+</Col>
+<Col ID="69" Width="64">
+<cell row="1">
+<value>972.5</value>
+</cell>
+<cell row="3">
+<value>12636</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>5</value>
+</cell>
+<cell row="7">
+<value>108</value>
+</cell>
+<cell row="12">
+<value>11</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>128</value>
+</cell>
+<cell row="36">
+<value>38</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>5</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1099</value>
+</cell>
+<cell row="72">
+<value>85931</value>
+</cell>
+</Col>
+<Col ID="70" Width="64">
+<cell row="1">
+<value>974.5</value>
+</cell>
+<cell row="3">
+<value>12657</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>11</value>
+</cell>
+<cell row="7">
+<value>68</value>
+</cell>
+<cell row="12">
+<value>14</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>121</value>
+</cell>
+<cell row="36">
+<value>58</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>5</value>
+</cell>
+<cell row="71">
+<value>1932</value>
+</cell>
+<cell row="72">
+<value>96619</value>
+</cell>
+</Col>
+<Col ID="71" Width="64">
+<cell row="1">
+<value>975.5</value>
+</cell>
+<cell row="3">
+<value>12668</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>4</value>
+</cell>
+<cell row="7">
+<value>99</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>21</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="33">
+<value>128</value>
+</cell>
+<cell row="36">
+<value>68</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>11</value>
+</cell>
+<cell row="71">
+<value>1513</value>
+</cell>
+<cell row="72">
+<value>61166</value>
+</cell>
+</Col>
+<Col ID="72" Width="64">
+<cell row="1">
+<value>977.5</value>
+</cell>
+<cell row="3">
+<value>12689</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>13</value>
+</cell>
+<cell row="7">
+<value>79</value>
+</cell>
+<cell row="12">
+<value>18</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>120</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>42</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>8</value>
+</cell>
+<cell row="56">
+<value>16</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>12607</value>
+</cell>
+<cell row="72">
+<value>63036</value>
+</cell>
+</Col>
+<Col ID="73" Width="64">
+<cell row="1">
+<value>979</value>
+</cell>
+<cell row="3">
+<value>12705</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>14</value>
+</cell>
+<cell row="7">
+<value>72</value>
+</cell>
+<cell row="12">
+<value>25</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="32">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>102</value>
+</cell>
+<cell row="36">
+<value>38</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>4</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>3951</value>
+</cell>
+<cell row="72">
+<value>183698</value>
+</cell>
+</Col>
+<Col ID="74" Width="64">
+<cell row="1">
+<value>980.5</value>
+</cell>
+<cell row="3">
+<value>12721</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>11</value>
+</cell>
+<cell row="7">
+<value>66</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>11</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>91</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>34</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>7</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1460</value>
+</cell>
+<cell row="72">
+<value>56994</value>
+</cell>
+</Col>
+<Col ID="75" Width="64">
+<cell row="1">
+<value>981.5</value>
+</cell>
+<cell row="3">
+<value>12731</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>18</value>
+</cell>
+<cell row="7">
+<value>55</value>
+</cell>
+<cell row="12">
+<value>41</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>130</value>
+</cell>
+<cell row="36">
+<value>32</value>
+</cell>
+<cell row="42">
+<value>5</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1271</value>
+</cell>
+<cell row="72">
+<value>79171</value>
+</cell>
+</Col>
+<Col ID="76" Width="64">
+<cell row="1">
+<value>984.5</value>
+</cell>
+<cell row="3">
+<value>12763</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>10</value>
+</cell>
+<cell row="7">
+<value>115</value>
+</cell>
+<cell row="12">
+<value>13</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>5</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>11</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>70</value>
+</cell>
+<cell row="36">
+<value>57</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>9</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1992</value>
+</cell>
+<cell row="72">
+<value>78772</value>
+</cell>
+</Col>
+<Col ID="77" Width="64">
+<cell row="1">
+<value>985.5</value>
+</cell>
+<cell row="3">
+<value>12773</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>13</value>
+</cell>
+<cell row="7">
+<value>82</value>
+</cell>
+<cell row="12">
+<value>32</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>6</value>
+</cell>
+<cell row="33">
+<value>97</value>
+</cell>
+<cell row="36">
+<value>52</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>16</value>
+</cell>
+<cell row="54">
+<value>6</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="71">
+<value>81131</value>
+</cell>
+<cell row="72">
+<value>75122</value>
+</cell>
+</Col>
+<Col ID="78" Width="64">
+<cell row="1">
+<value>988.5</value>
+</cell>
+<cell row="3">
+<value>12813</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>8</value>
+</cell>
+<cell row="7">
+<value>171</value>
+</cell>
+<cell row="12">
+<value>13</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>54</value>
+</cell>
+<cell row="36">
+<value>18</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>3309</value>
+</cell>
+<cell row="72">
+<value>100281</value>
+</cell>
+</Col>
+<Col ID="79" Width="64">
+<cell row="1">
+<value>990.5</value>
+</cell>
+<cell row="3">
+<value>12847</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>12</value>
+</cell>
+<cell row="7">
+<value>108</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>22</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>97</value>
+</cell>
+<cell row="36">
+<value>41</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>7</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>5</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1409</value>
+</cell>
+<cell row="72">
+<value>52099</value>
+</cell>
+</Col>
+<Col ID="80" Width="64">
+<cell row="1">
+<value>992.5</value>
+</cell>
+<cell row="3">
+<value>12884</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>12</value>
+</cell>
+<cell row="7">
+<value>85</value>
+</cell>
+<cell row="12">
+<value>18</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="31">
+<value>5</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>84</value>
+</cell>
+<cell row="36">
+<value>42</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>5</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>2060</value>
+</cell>
+<cell row="72">
+<value>41538</value>
+</cell>
+</Col>
+<Col ID="81" Width="64">
+<cell row="1">
+<value>994.5</value>
+</cell>
+<cell row="3">
+<value>12921</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>13</value>
+</cell>
+<cell row="7">
+<value>123</value>
+</cell>
+<cell row="12">
+<value>18</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>6</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>8</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>71</value>
+</cell>
+<cell row="36">
+<value>39</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>7</value>
+</cell>
+<cell row="56">
+<value>11</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>939</value>
+</cell>
+<cell row="72">
+<value>45949</value>
+</cell>
+</Col>
+<Col ID="82" Width="64">
+<cell row="1">
+<value>996.5</value>
+</cell>
+<cell row="3">
+<value>12957</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>14</value>
+</cell>
+<cell row="7">
+<value>118</value>
+</cell>
+<cell row="12">
+<value>20</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>75</value>
+</cell>
+<cell row="36">
+<value>45</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>4</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1585</value>
+</cell>
+<cell row="72">
+<value>71923</value>
+</cell>
+</Col>
+<Col ID="83" Width="64">
+<cell row="1">
+<value>997</value>
+</cell>
+<cell row="3">
+<value>12967</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>18</value>
+</cell>
+<cell row="7">
+<value>183</value>
+</cell>
+<cell row="10">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>22</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>77</value>
+</cell>
+<cell row="36">
+<value>58</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>5</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1274</value>
+</cell>
+<cell row="72">
+<value>66744</value>
+</cell>
+</Col>
+<Col ID="84" Width="64">
+<cell row="1">
+<value>999</value>
+</cell>
+<cell row="3">
+<value>12998</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>15</value>
+</cell>
+<cell row="7">
+<value>75</value>
+</cell>
+<cell row="12">
+<value>18</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>6</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>31</value>
+</cell>
+<cell row="36">
+<value>70</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>8</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1450</value>
+</cell>
+<cell row="72">
+<value>53292</value>
+</cell>
+</Col>
+<Col ID="85" Width="64">
+<cell row="1">
+<value>1001</value>
+</cell>
+<cell row="3">
+<value>13024</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>22</value>
+</cell>
+<cell row="7">
+<value>161</value>
+</cell>
+<cell row="12">
+<value>59</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>40</value>
+</cell>
+<cell row="36">
+<value>51</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>2376</value>
+</cell>
+<cell row="72">
+<value>90523</value>
+</cell>
+</Col>
+<Col ID="86" Width="64">
+<cell row="1">
+<value>1003</value>
+</cell>
+<cell row="3">
+<value>13051</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>36</value>
+</cell>
+<cell row="7">
+<value>79</value>
+</cell>
+<cell row="12">
+<value>43</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>6</value>
+</cell>
+<cell row="26">
+<value>5</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>26</value>
+</cell>
+<cell row="36">
+<value>80</value>
+</cell>
+<cell row="40">
+<value>6</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>4</value>
+</cell>
+<cell row="44">
+<value>3</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1458</value>
+</cell>
+<cell row="72">
+<value>44887</value>
+</cell>
+</Col>
+<Col ID="87" Width="64">
+<cell row="1">
+<value>1005</value>
+</cell>
+<cell row="3">
+<value>13077</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>18</value>
+</cell>
+<cell row="7">
+<value>140</value>
+</cell>
+<cell row="12">
+<value>46</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>4</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>30</value>
+</cell>
+<cell row="36">
+<value>36</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1978</value>
+</cell>
+<cell row="72">
+<value>82816</value>
+</cell>
+</Col>
+<Col ID="88" Width="64">
+<cell row="1">
+<value>1007</value>
+</cell>
+<cell row="3">
+<value>13103</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>24</value>
+</cell>
+<cell row="7">
+<value>105</value>
+</cell>
+<cell row="12">
+<value>41</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>31</value>
+</cell>
+<cell row="36">
+<value>59</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>6</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1927</value>
+</cell>
+<cell row="72">
+<value>40335</value>
+</cell>
+</Col>
+<Col ID="89" Width="64">
+<cell row="1">
+<value>1011</value>
+</cell>
+<cell row="3">
+<value>13156</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>33</value>
+</cell>
+<cell row="7">
+<value>106</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>49</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="25">
+<value>12</value>
+</cell>
+<cell row="26">
+<value>5</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>8</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>84</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1779</value>
+</cell>
+<cell row="72">
+<value>52090</value>
+</cell>
+</Col>
+<Col ID="90" Width="64">
+<cell row="1">
+<value>1013</value>
+</cell>
+<cell row="3">
+<value>13180</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>39</value>
+</cell>
+<cell row="7">
+<value>61</value>
+</cell>
+<cell row="12">
+<value>54</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>11</value>
+</cell>
+<cell row="25">
+<value>5</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>9</value>
+</cell>
+<cell row="36">
+<value>84</value>
+</cell>
+<cell row="40">
+<value>4</value>
+</cell>
+<cell row="42">
+<value>5</value>
+</cell>
+<cell row="44">
+<value>3</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="49">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>779</value>
+</cell>
+<cell row="72">
+<value>30806</value>
+</cell>
+</Col>
+<Col ID="91" Width="64">
+<cell row="1">
+<value>1015</value>
+</cell>
+<cell row="3">
+<value>13201</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>32</value>
+</cell>
+<cell row="7">
+<value>17</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>62</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>4</value>
+</cell>
+<cell row="25">
+<value>8</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>10</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>100</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>6</value>
+</cell>
+<cell row="47">
+<value>7</value>
+</cell>
+<cell row="49">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>78</value>
+</cell>
+<cell row="71">
+<value>1116</value>
+</cell>
+<cell row="72">
+<value>40603</value>
+</cell>
+</Col>
+<Col ID="92" Width="64">
+<cell row="1">
+<value>1017</value>
+</cell>
+<cell row="3">
+<value>13222</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>48</value>
+</cell>
+<cell row="7">
+<value>19</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>55</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="20">
+<value>3</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="25">
+<value>14</value>
+</cell>
+<cell row="26">
+<value>5</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>13</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>107</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>5</value>
+</cell>
+<cell row="42">
+<value>5</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>4</value>
+</cell>
+<cell row="47">
+<value>5</value>
+</cell>
+<cell row="54">
+<value>8</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>8910</value>
+</cell>
+<cell row="72">
+<value>16813</value>
+</cell>
+</Col>
+<Col ID="93" Width="64">
+<cell row="1">
+<value>1019</value>
+</cell>
+<cell row="3">
+<value>13243</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>48</value>
+</cell>
+<cell row="7">
+<value>24</value>
+</cell>
+<cell row="12">
+<value>56</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>6</value>
+</cell>
+<cell row="24">
+<value>19</value>
+</cell>
+<cell row="25">
+<value>12</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>5</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>88</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>4</value>
+</cell>
+<cell row="42">
+<value>5</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>5</value>
+</cell>
+<cell row="47">
+<value>8</value>
+</cell>
+<cell row="49">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>12</value>
+</cell>
+<cell row="71">
+<value>5791</value>
+</cell>
+<cell row="72">
+<value>24133</value>
+</cell>
+</Col>
+<Col ID="94" Width="64">
+<cell row="1">
+<value>1021</value>
+</cell>
+<cell row="3">
+<value>13264</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>50</value>
+</cell>
+<cell row="7">
+<value>54</value>
+</cell>
+<cell row="12">
+<value>62</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>15</value>
+</cell>
+<cell row="25">
+<value>12</value>
+</cell>
+<cell row="26">
+<value>7</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>10</value>
+</cell>
+<cell row="36">
+<value>109</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>4</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>5</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="49">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>10</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>753</value>
+</cell>
+<cell row="72">
+<value>26472</value>
+</cell>
+</Col>
+<Col ID="95" Width="64">
+<cell row="1">
+<value>1022.5</value>
+</cell>
+<cell row="3">
+<value>13279</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>35</value>
+</cell>
+<cell row="7">
+<value>55</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>65</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>17</value>
+</cell>
+<cell row="25">
+<value>7</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>5</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>93</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="40">
+<value>8</value>
+</cell>
+<cell row="42">
+<value>6</value>
+</cell>
+<cell row="44">
+<value>6</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1696</value>
+</cell>
+<cell row="72">
+<value>53791</value>
+</cell>
+</Col>
+<Col ID="96" Width="64">
+<cell row="1">
+<value>1026.5</value>
+</cell>
+<cell row="3">
+<value>13321</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>47</value>
+</cell>
+<cell row="7">
+<value>56</value>
+</cell>
+<cell row="12">
+<value>33</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>21</value>
+</cell>
+<cell row="25">
+<value>8</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>5</value>
+</cell>
+<cell row="36">
+<value>57</value>
+</cell>
+<cell row="39">
+<value>4</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>8</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>2798</value>
+</cell>
+<cell row="72">
+<value>54876</value>
+</cell>
+</Col>
+<Col ID="97" Width="64">
+<cell row="1">
+<value>1028.5</value>
+</cell>
+<cell row="3">
+<value>13342</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>41</value>
+</cell>
+<cell row="7">
+<value>61</value>
+</cell>
+<cell row="12">
+<value>33</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>9</value>
+</cell>
+<cell row="25">
+<value>7</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>77</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>4</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>4</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>8</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>3609</value>
+</cell>
+<cell row="72">
+<value>29493</value>
+</cell>
+</Col>
+<Col ID="98" Width="64">
+<cell row="1">
+<value>1030.5</value>
+</cell>
+<cell row="3">
+<value>13357</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>30</value>
+</cell>
+<cell row="7">
+<value>30</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>54</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>13</value>
+</cell>
+<cell row="25">
+<value>11</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>123</value>
+</cell>
+<cell row="39">
+<value>5</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>5</value>
+</cell>
+<cell row="47">
+<value>6</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>22</value>
+</cell>
+<cell row="71">
+<value>4089</value>
+</cell>
+<cell row="72">
+<value>54522</value>
+</cell>
+</Col>
+<Col ID="99" Width="64">
+<cell row="1">
+<value>1034.5</value>
+</cell>
+<cell row="3">
+<value>13375</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>22</value>
+</cell>
+<cell row="7">
+<value>18</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>75</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>16</value>
+</cell>
+<cell row="25">
+<value>10</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>5</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>93</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>11</value>
+</cell>
+<cell row="47">
+<value>9</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>6</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1944</value>
+</cell>
+<cell row="72">
+<value>37401</value>
+</cell>
+</Col>
+<Col ID="100" Width="64">
+<cell row="1">
+<value>1038.5</value>
+</cell>
+<cell row="3">
+<value>13393</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="5">
+<value>1</value>
+</cell>
+<cell row="6">
+<value>19</value>
+</cell>
+<cell row="7">
+<value>8</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>104</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>12</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>7</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="32">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>11</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>96</value>
+</cell>
+<cell row="39">
+<value>4</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>8</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>4</value>
+</cell>
+<cell row="71">
+<value>21314</value>
+</cell>
+<cell row="72">
+<value>9195</value>
+</cell>
+</Col>
+<Col ID="101" Width="64">
+<cell row="1">
+<value>1042.5</value>
+</cell>
+<cell row="3">
+<value>13410</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>11</value>
+</cell>
+<cell row="7">
+<value>12</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>69</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>4</value>
+</cell>
+<cell row="23">
+<value>6</value>
+</cell>
+<cell row="24">
+<value>12</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>142</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>7</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1332</value>
+</cell>
+<cell row="72">
+<value>30751</value>
+</cell>
+</Col>
+<Col ID="102" Width="64">
+<cell row="1">
+<value>1046.5</value>
+</cell>
+<cell row="3">
+<value>13428</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>8</value>
+</cell>
+<cell row="7">
+<value>17</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>99</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="25">
+<value>6</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>7</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>108</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>5</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>7</value>
+</cell>
+<cell row="47">
+<value>6</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>15</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>55609</value>
+</cell>
+<cell row="72">
+<value>23248</value>
+</cell>
+</Col>
+<Col ID="103" Width="64">
+<cell row="1">
+<value>1063</value>
+</cell>
+<cell row="3">
+<value>13501</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>10</value>
+</cell>
+<cell row="7">
+<value>13</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>96</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>6</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>6</value>
+</cell>
+<cell row="36">
+<value>121</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>7</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>10</value>
+</cell>
+<cell row="71">
+<value>53524</value>
+</cell>
+<cell row="72">
+<value>30274</value>
+</cell>
+</Col>
+<Col ID="104" Width="64">
+<cell row="1">
+<value>1068</value>
+</cell>
+<cell row="3">
+<value>13523</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>16</value>
+</cell>
+<cell row="7">
+<value>18</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>43</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>15</value>
+</cell>
+<cell row="25">
+<value>4</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>118</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>4</value>
+</cell>
+<cell row="42">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>4</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>4352</value>
+</cell>
+<cell row="72">
+<value>52311</value>
+</cell>
+</Col>
+<Col ID="105" Width="64">
+<cell row="1">
+<value>1072</value>
+</cell>
+<cell row="3">
+<value>13540</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>30</value>
+</cell>
+<cell row="7">
+<value>36</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="12">
+<value>62</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>13</value>
+</cell>
+<cell row="25">
+<value>7</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>92</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>6</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>7</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1273</value>
+</cell>
+<cell row="72">
+<value>32523</value>
+</cell>
+</Col>
+<Col ID="106" Width="64">
+<cell row="1">
+<value>1076</value>
+</cell>
+<cell row="3">
+<value>13558</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>39</value>
+</cell>
+<cell row="7">
+<value>17</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>78</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>9</value>
+</cell>
+<cell row="25">
+<value>15</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>6</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="36">
+<value>96</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="40">
+<value>8</value>
+</cell>
+<cell row="42">
+<value>5</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>3</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="68">
+<value>176</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>4584</value>
+</cell>
+<cell row="72">
+<value>22922</value>
+</cell>
+</Col>
+<Col ID="107" Width="64">
+<cell row="1">
+<value>1081</value>
+</cell>
+<cell row="3">
+<value>13580</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>33</value>
+</cell>
+<cell row="7">
+<value>48</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>42</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>3</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>24</value>
+</cell>
+<cell row="25">
+<value>13</value>
+</cell>
+<cell row="26">
+<value>5</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>6</value>
+</cell>
+<cell row="33">
+<value>8</value>
+</cell>
+<cell row="36">
+<value>75</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>13</value>
+</cell>
+<cell row="47">
+<value>8</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>6</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>4</value>
+</cell>
+<cell row="71">
+<value>15273</value>
+</cell>
+<cell row="72">
+<value>66406</value>
+</cell>
+</Col>
+<Col ID="108" Width="64">
+<cell row="1">
+<value>1088</value>
+</cell>
+<cell row="3">
+<value>13611</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>18</value>
+</cell>
+<cell row="7">
+<value>16</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>79</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>16</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>119</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>7</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="54">
+<value>4</value>
+</cell>
+<cell row="68">
+<value>8</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1791</value>
+</cell>
+<cell row="72">
+<value>9803</value>
+</cell>
+</Col>
+<Col ID="109" Width="64">
+<cell row="1">
+<value>1092</value>
+</cell>
+<cell row="3">
+<value>13629</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>15</value>
+</cell>
+<cell row="7">
+<value>15</value>
+</cell>
+<cell row="12">
+<value>86</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>10</value>
+</cell>
+<cell row="25">
+<value>9</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>87</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="40">
+<value>5</value>
+</cell>
+<cell row="44">
+<value>14</value>
+</cell>
+<cell row="47">
+<value>6</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>640</value>
+</cell>
+<cell row="72">
+<value>23057</value>
+</cell>
+</Col>
+<Col ID="110" Width="64">
+<cell row="1">
+<value>1096</value>
+</cell>
+<cell row="3">
+<value>13646</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>12</value>
+</cell>
+<cell row="7">
+<value>20</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>86</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>15</value>
+</cell>
+<cell row="25">
+<value>5</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>8</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>100</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>5</value>
+</cell>
+<cell row="47">
+<value>5</value>
+</cell>
+<cell row="50">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>76640</value>
+</cell>
+<cell row="72">
+<value>19586</value>
+</cell>
+</Col>
+<Col ID="111" Width="64">
+<cell row="1">
+<value>1100</value>
+</cell>
+<cell row="3">
+<value>13664</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>13</value>
+</cell>
+<cell row="7">
+<value>22</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="10">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>44</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>12</value>
+</cell>
+<cell row="25">
+<value>6</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="32">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>9</value>
+</cell>
+<cell row="36">
+<value>140</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>6</value>
+</cell>
+<cell row="47">
+<value>7</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>5</value>
+</cell>
+<cell row="71">
+<value>79355</value>
+</cell>
+<cell row="72">
+<value>20280</value>
+</cell>
+</Col>
+<Col ID="112" Width="64">
+<cell row="1">
+<value>1104</value>
+</cell>
+<cell row="3">
+<value>13681</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>30</value>
+</cell>
+<cell row="7">
+<value>59</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>51</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>9</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>4</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>65</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>6</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>3171</value>
+</cell>
+<cell row="72">
+<value>43254</value>
+</cell>
+</Col>
+<Col ID="113" Width="64">
+<cell row="1">
+<value>1108</value>
+</cell>
+<cell row="3">
+<value>13699</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>22</value>
+</cell>
+<cell row="7">
+<value>19</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>66</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>22</value>
+</cell>
+<cell row="25">
+<value>7</value>
+</cell>
+<cell row="26">
+<value>9</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>9</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>96</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>8</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>6</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="51">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>8</value>
+</cell>
+<cell row="71">
+<value>729</value>
+</cell>
+<cell row="72">
+<value>18932</value>
+</cell>
+</Col>
+<Col ID="114" Width="64">
+<cell row="1">
+<value>1112</value>
+</cell>
+<cell row="3">
+<value>13717</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>24</value>
+</cell>
+<cell row="7">
+<value>20</value>
+</cell>
+<cell row="12">
+<value>31</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>6</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>26</value>
+</cell>
+<cell row="25">
+<value>6</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>66</value>
+</cell>
+<cell row="39">
+<value>4</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>11</value>
+</cell>
+<cell row="47">
+<value>5</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>6</value>
+</cell>
+<cell row="71">
+<value>2357</value>
+</cell>
+<cell row="72">
+<value>26190</value>
+</cell>
+</Col>
+<Col ID="115" Width="64">
+<cell row="1">
+<value>1115.5</value>
+</cell>
+<cell row="3">
+<value>13732</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>20</value>
+</cell>
+<cell row="7">
+<value>7</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="12">
+<value>26</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>7</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>7</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>31</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="36">
+<value>91</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>3</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="54">
+<value>18</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>8</value>
+</cell>
+<cell row="71">
+<value>97</value>
+</cell>
+<cell row="72">
+<value>3286</value>
+</cell>
+</Col>
+<Col ID="116" Width="64">
+<cell row="1">
+<value>1119.5</value>
+</cell>
+<cell row="3">
+<value>13750</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>13</value>
+</cell>
+<cell row="7">
+<value>14</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>46</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="19">
+<value>5</value>
+</cell>
+<cell row="22">
+<value>3</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>7</value>
+</cell>
+<cell row="26">
+<value>7</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>7</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>123</value>
+</cell>
+<cell row="37">
+<value>4</value>
+</cell>
+<cell row="39">
+<value>4</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>4</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="68">
+<value>16</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>25351</value>
+</cell>
+<cell row="72">
+<value>16901</value>
+</cell>
+</Col>
+<Col ID="117" Width="64">
+<cell row="1">
+<value>1123.5</value>
+</cell>
+<cell row="3">
+<value>13767</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>13</value>
+</cell>
+<cell row="7">
+<value>10</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>40</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>11</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>6</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>90</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>5</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>24</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>21034</value>
+</cell>
+<cell row="72">
+<value>19476</value>
+</cell>
+</Col>
+<Col ID="118" Width="64">
+<cell row="1">
+<value>1127.5</value>
+</cell>
+<cell row="3">
+<value>13785</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>10</value>
+</cell>
+<cell row="7">
+<value>10</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>122</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>9</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>7</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>101</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>4</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>5</value>
+</cell>
+<cell row="47">
+<value>9</value>
+</cell>
+<cell row="54">
+<value>5</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>6</value>
+</cell>
+<cell row="71">
+<value>16822</value>
+</cell>
+<cell row="72">
+<value>13194</value>
+</cell>
+</Col>
+<Col ID="119" Width="64">
+<cell row="1">
+<value>1133.5</value>
+</cell>
+<cell row="3">
+<value>13812</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>18</value>
+</cell>
+<cell row="7">
+<value>12</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>57</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>11</value>
+</cell>
+<cell row="25">
+<value>4</value>
+</cell>
+<cell row="26">
+<value>7</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>138</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>6</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>9</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="54">
+<value>6</value>
+</cell>
+<cell row="68">
+<value>8</value>
+</cell>
+<cell row="71">
+<value>34505</value>
+</cell>
+<cell row="72">
+<value>8359</value>
+</cell>
+</Col>
+<Col ID="120" Width="64">
+<cell row="1">
+<value>1137.5</value>
+</cell>
+<cell row="3">
+<value>13829</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>18</value>
+</cell>
+<cell row="7">
+<value>20</value>
+</cell>
+<cell row="12">
+<value>36</value>
+</cell>
+<cell row="17">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>4</value>
+</cell>
+<cell row="24">
+<value>19</value>
+</cell>
+<cell row="25">
+<value>6</value>
+</cell>
+<cell row="26">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>5</value>
+</cell>
+<cell row="36">
+<value>110</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>4</value>
+</cell>
+<cell row="40">
+<value>6</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>16</value>
+</cell>
+<cell row="47">
+<value>7</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>18</value>
+</cell>
+<cell row="71">
+<value>110870</value>
+</cell>
+<cell row="72">
+<value>30392</value>
+</cell>
+</Col>
+<Col ID="121" Width="64">
+<cell row="1">
+<value>1139.5</value>
+</cell>
+<cell row="3">
+<value>13838</value>
+</cell>
+<cell row="4">
+<text>Leroy, S.A.G.</text>
+<contact ID="2"/>
+</cell>
+<cell row="6">
+<value>32</value>
+</cell>
+<cell row="7">
+<value>23</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>50</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="24">
+<value>12</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="26">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>7</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="36">
+<value>130</value>
+</cell>
+<cell row="40">
+<value>4</value>
+</cell>
+<cell row="42">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>14</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="54">
+<value>9</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="68">
+<value>14</value>
+</cell>
+<cell row="71">
+<value>16045</value>
+</cell>
+<cell row="72">
+<value>23877</value>
+</cell>
+</Col>
+</SpreadSheet>
+</SpreadSheetBook>
+<Site>
+<SiteName>Holzmaar</SiteName>
+<LongEast>6.88083</LongEast>
+<LongWest>6.87645</LongWest>
+<LatNorth>50.12078</LatNorth>
+<LatSouth>50.1176</LatSouth>
+<Altitude>425</Altitude>
+<Area>5.8</Area>
+<Country>Germany</Country>
+<State>Rheinland-Pfalz</State>
+<SiteDescription>Lake. Physiography: Volcanic Crater Lake.</SiteDescription>
+</Site>
+<CollectionUnit>
+<Handle>HOLZBC</Handle>
+<CollectionName>HZM-B/C</CollectionName>
+<CollectionType>Core</CollectionType>
+<CollectionDevice>Unspecified device</CollectionDevice>
+<Collectors>
+<Contact ID="3"/>
+</Collectors>
+<CollectionDate>30682</CollectionDate>
+<Location>center of the lake</Location>
+<GPSLat>50.1192</GPSLat>
+<GPSLong>6.8791</GPSLong>
+<GPSError>25</GPSError>
+<GPSAltitude>425</GPSAltitude>
+<DepositionalEnvironment>Volcanic Origin Lake</DepositionalEnvironment>
+</CollectionUnit>
+<Datasets>
+<Dataset>
+<DatasetType>pollen</DatasetType>
+<Name>EPD E# 936</Name>
+<Notes>Data contributed by Leroy Suzanne A. G.</Notes>
+<IsSSamp>False</IsSSamp>
+<IsAggregate>False</IsAggregate>
+<Investigators>
+<Contact ID="2"/>
+</Investigators>
+<Processors>
+<Contact ID="5"/>
+</Processors>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</Dataset>
+</Datasets>
+<AgeModels AnalysisUnitID="Depth">
+<AgeModel>
+<ChronNumber>1</ChronNumber>
+<ChronologyName>Leroy et al. 2000</ChronologyName>
+<AgeUnits>Varve years BP</AgeUnits>
+<Default>True</Default>
+<DatePrepared>43555</DatePrepared>
+<Model>linear interpolation</Model>
+<AgeBoundOlder>13840</AgeBoundOlder>
+<AgeBoundYounger>10930</AgeBoundYounger>
+<Notes>Varve year tie points based on pollen stratigraphic correlation. See Leroy et al. (2000, Tables 1, 2, &amp; 4).</Notes>
+<PreparersText>Grimm, E.C.</PreparersText>
+<Preparers>
+<Contact ID="1"/>
+</Preparers>
+<ChronControls>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>863.4</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>10930</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>866.4</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>10978</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>870</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11030</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>872.4</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11063</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>893.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11300</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>901</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11365</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>902.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11382</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>906.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11448</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>907.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11466</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>908.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11481</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>910.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11522</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>911.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11543</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>914.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11590</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>915.2</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11608</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>916.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11632</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>917.2</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11649</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>919.2</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11719</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>923.4</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11778</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>928</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11913</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>934.8</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>11995</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>936.7</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>12025</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>947</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>12286</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>948</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>12300</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>959.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>12488</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>961</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>12515</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>987</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>12789</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>989.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>12829</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>998</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>12985</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>1012</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>13169</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>1029.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>13353</Age>
+</ChronControl>
+<ChronControl>
+<ControlType>Biostratigraphic, pollen</ControlType>
+<Depth>1139.5</Depth>
+<AgeUnits>Calendar</AgeUnits>
+<Age>13838</Age>
+</ChronControl>
+</ChronControls>
+</AgeModel>
+</AgeModels>
+</TiliaFile>

@@ -1,0 +1,113 @@
+"filename" "Name" "year" "Segment" "abies.presence"
+"83" "ACCES" "Lago dell'Accesa" 11551.7998 1 136
+"300" "AEGEL" "Aegelsee, Diemtigen" 8976 1 56
+"412" "ALTEN" "Altenweiher" 6521.43 1 53
+"991" "AVRIG" "Avrig" 3550.81 1 19
+"1097" "BACHA" "Bachalpsee" 8736 1 126
+"1313" "BAMOR" "Basa de la Mora" 6131.09 1 32
+"1439" "BANYO" "Banyoles" 8391.96 1 16
+"1611" "BEGB" "Peat-bog Begbunar" 5027 1 17
+"2209" "BELIY" "Beliya Kanton" 13524 1 14
+"2354" "BISCA" "Biscaye [partial copy from EPD]" 8200 1 13
+"2600" "BISOC" "Bisoca [partial copy from EPD]" 1313 1 15
+"3041" "BOITE" "Lac des Boites" 8887.94 1 40
+"3081" "BOKAN" "Bokanjacko" 7068.93 1 36
+"3167" "BORKO" "Borkovicka blata" 7000.11 1 28
+"3321" "BURGA" "Burgaschisee" 8119 1 62
+"3727" "CAPA" "Capatana" 4802 1 71
+"3818" "CERVE" "Cervene blato" 5393.08 1 14
+"3894" "CHAMP" "Champ Gazon" 3844 1 20
+"4287" "COLFI" "Colfiorito" 4638.07 1 17
+"4402" "CORRE" "Correo" 8671.85 1 95
+"4497" "COSTA" "Lago della Costa AP1" 17095.66602 1 122
+"5004" "CRENO" "Lac de Creno" 3617 1 22
+"5040" "CSOGL" "Csögle" 7487.34 1 46
+"5187" "CZAJK" "Czajkow" 3451 1 48
+"5677" "DRYL2" "Sucho Ezero II [EPD: Dry Lake II]" 8648.03 1 100
+"5829" "DURA2" "Lake Durankulak [Core DII]" 7978.48 1 1
+"6010" "DURCH" "Durchenbergried" 6272.16 1 277
+"6391" "EDESS" "Edessa" 10066.64 1 29
+"6742" "ESTAN" "Bosc dels Estanyons" 9563 1 72
+"6883" "ETAN" "Etang de la Gruere" 8375 1 76
+"7445" "GEMBR" "Pian di Gembro" 9362.471 1 209
+"7709" "GERLO" "Gerlos" 5094.59 1 29
+"8114" "GOSCI" "Lake Gosciaz" 3856.74 1 6
+"8225" "GOUNE" "Gourg Nègre [from EPD; selected c" 9989.4 1 77
+"8487" "HANCZ" "Lake Hancza" 4384.83 1 4
+"8613" "HIERE" "Hières sur Amby" 10308.33 1 55
+"8691" "HOCHM" "Hochmoos" 9227.268 1 12
+"8972" "HOZEL" "Hozelec" 6257.49 1 3
+"9017" "HRABA" "Hrabanoská cernava" 8925 1 15
+"9100" "HUZEN" "Huzenbacher See" 6017.85 1 302
+"9427" "IOANN" "Ioannina" 20782.08 1 64
+"9575" "JASIE" "Jasiel" 4540.96 1 16
+"9969" "KMOHO" "Kis-Mohos Tó" 3100.24 1 15
+"10225" "KREME" "Lake Kremensko-5" 8707.5 1 16
+"10312" "KUPEN" "Kupena II" 8307.43 1 9
+"10421" "LAGAC" "Lagaccione" 8979.97 1 27
+"10495" "LALOI" "Lac Long Inférieur" 10562.6 1 23
+"10627" "LECA" "Iezerul Calimani" 4677 1 27
+"10692" "LERNA" "Lake Lerna" 7650 1 52
+"10862" "LIPTO" "Liptovsky Jan" 8152.34 1 52
+"11115" "LOBSI" "Lobsigensee LQ-90" 8901 1 98
+"11815" "LUCI" "Luci" 1246 1 19
+"12005" "LUTTE" "Luttersee" 4028 1 20
+"12146" "LVILL" "Lac de Villa" 9162.31 1 30
+"12397" "MALIQ" "Lake Maliq" 12009.83 1 111
+"12565" "MALJE" "Malo Jezero" 6472.78 1 20
+"12611" "MARTI" "Lago di Martignano" 10939.91 1 1
+"12662" "MASAC" "Massaciuccoli" 6941.645 1 47
+"12982" "MIEM2" "Mieminger See" 7359 1 21
+"13134" "MIKOL" "Lake Mikolajki" 483.34 1 2
+"13291" "MOHO1" "Mohos" 1100 1 40
+"13460" "MONTI" "Lago Grande di Monticchio" 10640 1 76
+"13596" "MOOSA" "Moosalmmoor" 8222.29 1 23
+"13767" "MUREZ" "Lej da San Murezzan" 8950.7 1 108
+"14258" "NISIB" "Nisi Fen B" 9936.33 1 47
+"14318" "NISIE" "Nisi Fen E" 11113.3 1 2
+"14445" "OHRID" "Lake Ohrid" 20936.4 1 22
+"14477" "OREST" "Lake Orestiás" 10720.92 1 53
+"14614" "ORGEA" "Lac du Mont d'Orge" 8102 1 79
+"14752" "ORIGL" "Lago di Origlio" 10384.3 1 274
+"15424" "PAVIG" "Lago Piccolo di Avigliana" 9986 1 50
+"15495" "PAVUL" "Pavullo nel Frignano" 13806 1 47
+"15819" "PEYRE" "Peyre" 6364 1 60
+"15920" "PLAUS" "Plan du Laus" 9403.4 1 31
+"16016" "POIAN" "Poiana Stiol" 3930 1 19
+"16079" "PRAZ" "Praz Rodet" 8015 1 108
+"16229" "PRESP" "Lake Prespa" 20597 1 57
+"16349" "PUSCI" "Puscizna Rekowianska" 7785.31 1 41
+"16670" "RACH" "Rachelsee" 7228.3 1 93
+"17141" "RAPPE" "Rappershausen" 5978.31 1 9
+"17168" "RASNA" "Rasna" 10536.64 1 31
+"17240" "REGET" "Regetovka" 9536.2 1 61
+"17338" "ROBIE" "Alpi di Robièi, Val Bavona" 12629 1 45
+"17443" "ROTSE" "Rotsee" 9969.29 1 48
+"17717" "SARLO" "Sarlo-Hat" 3238.293 1 29
+"17854" "SC-B1" "Schwemm B1" 7057.74 1 60
+"18026" "SCHWAM" "Schwanengrabenrinne" 4001 1 9
+"18204" "SEGRI" "Lago del Segrino" 12250 1 51
+"18301" "SEMEN" "Semenic" 7850.31 1 68
+"18791" "SIROK" "Sirok Nyirjes To" 2833 1 3
+"19758" "STRA1" "Straldzha mire" 6361 1 3
+"19764" "STRAC" "Straldzha mire" 6050 1 5
+"20145" "SVITY" "Svityaz (Ukraine)" 3683.73 1 16
+"20186" "SW-RE" "Schwarzsee, Reschenscheideck" 8243 1 14
+"20320" "TAMME" "Tammerle Moos" 8362.308 1 47
+"20415" "TAPH" "La Taphanel" 6684 1 23
+"20482" "TARN1" "Tarnawa Wyzna 1" 3580.78 1 35
+"20565" "TARN2" "Tarnawa Wyzna 2" 3813.15 1 11
+"20814" "TPHIL" "Tenaghi Philippon" 7155.56 1 20
+"20868" "TREPP" "Grosser Treppelsee" 4149 1 19
+"20936" "TRIFO1" "Trifoglietti" 11439 1 148
+"21097" "TRIFO2" "Trifoglietti" 14753 1 144
+"21279" "TRUME" "Trumer Moos" 2842.21 1 12
+"21469" "ÜBERL" "Grosses Überling Schattseit-Moor" 9224.746 1 25
+"21746" "VERDA" "Lago Verdarolo" 14449 1 77
+"21985" "VITOS" "Vitosha Mountains Peat Bog" 9144.75 1 11
+"21998" "VOULK" "Lake Voulkaria" 9939.51 1 65
+"22212" "ZALAV" "Zalavári" 11600 1 59
+"22280" "ZAZA" "Zazari" 14696 1 45
+"22365" "ZEHEA" "Zeneggen-Hellelen A" 9340.625 1 52
+"22431" "ZLATN" "Zlatnicka Dolina" 5317.54 1 53
+"22509" "ZSOMB" "Zsombo Swamp" 6308.31 1 1

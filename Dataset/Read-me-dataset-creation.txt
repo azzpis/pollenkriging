@@ -1,0 +1,42 @@
+##### Read me on pollen dataset creation #####
+
+There are three main files used to create the final pollen dataset:
+1. MAP-DATA_clean_with_Ohrid.csv is the original file compiled from Lang et al. 2023
+2. monticchio_dataset_percentages.csv add the monticchio site
+3. additional.sites.formatted.csv is the result of Additional_site/CLEAN_SITES/FORMATTED/To_merge/Creation_df.R
+   In fact, some sites were added a posteriori because idoneous and included in Lang et al. 2023 but not in the available dataset version.
+   Thus additional dataset (44) were included. To check the publication and data origin of those additional sites please refer to supplementary table 1.
+   The following are the formatting passages:
+   a) Data were downloaded. The resulting files are available at Additional_site/*.csv (or *.tlx; *.xlsx;
+   b) The datasets were manually transposed, non-pollen and non-terrestrial data were removed. The resulting files are available at Additional_site/CLEAN_SITES/*.csv
+   c) Additionally, only the selected chronology was kept. For more informations about the selected chronology for each site, refer to supplementary table 1.  The
+      resulting files are available at Additional_site/CLEAN_SITES/FORMATTED/*_form.csv
+   d) Finally, the data are merged using the R script: Creation_df.R
+      In this script the following formatting are applied to the datasets:
+ 	- Chronology is adjusted and the mean value is taken.
+ 	- Correction factors are applied to the target species.
+ 	- Abies is selected as species of interest.
+   e) additiona.sites.formatted.csv is created
+
+
+In the following lines all the scripts used to produce the final dataset are discussed.
+
+0.Creation.old.files.R: in this script the correction factors are applyed to the datasets 1. and 2. Then they are merged. It creates the file: old.file.2.csv
+
+1.creation_dataset_CW_el_corr_factors_el.R: in this script we first do a little of housekeeping, then we calculate the empirical limit by folling Lang et al. 2023, then we bin the data time bins of 500 years and finally we calculate the relative abies percentages over the total sum of pollen. 
+
+2.df_ready_to_krige.R: this short code merge multiple cores and does some housekeeping.
+
+3.extract_value_past.R: this script extract gridded data from the CHELSA TRACE21k dataset and produce the grid used for interpolation. Spatial binning.
+
+4.extract_value_future_v2.R: same as above, but for future data
+
+5.creation_bio_dataset.R: (only past data) Logit transformation of the Abies percentages, time binning of the climate data. Housekeeping.
+
+6.creatio_dataset_monthly.R: (only past data) same as above but for monthly data (precipitation, minimum monthly temperature, maximum monthly temperature)
+
+7.creation_dataset_all_variables.R: (only past data) in this script, all the climate data obtained up to now are merged and formatted, plus some additional climate variables are calculated. The final dataset used for the kriging are obtained using this code. 
+
+8.binding.dataset.future.R: (only future data) formatting of future data. Data time binning is not required as they are considered as only one time bin. 
+
+9.creation.dataset.all.variables.future.R: (only future data) Additional climate variables are calculated and the final dataframes (one for each scenario) are produced. 

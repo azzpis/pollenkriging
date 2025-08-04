@@ -1,0 +1,9537 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--written 06-Dec-2018 10:31:08-->
+<TiliaFile>
+<Version>
+<Application>Tilia</Application>
+<MajorVersion>2</MajorVersion>
+<MinorVersion>1</MinorVersion>
+<Release>1</Release>
+</Version>
+<Contacts>
+<Contact ID="1">
+<NeotomaContactID>10211</NeotomaContactID>
+<NeotomaAliasID>10211</NeotomaAliasID>
+<FullContactName>Morales del Molino, César</FullContactName>
+<ShortContactName>Morales del Molino, C.</ShortContactName>
+<FamilyName>Morales del Molino</FamilyName>
+<GivenNames>César</GivenNames>
+<LeadingInitials>C.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Email>cesarmoralesdelmolino@gmail.com, cesar.morales@ips.unibe.ch</Email>
+<Address>
+<AddressLine>Institute of Plant Sciences and Oeschger Centre for Climate Change Research</AddressLine>
+<AddressLine>University of Bern</AddressLine>
+<AddressLine>Altenbergrain 21 CH-3013</AddressLine>
+<AddressLine>Bern</AddressLine>
+<AddressLine>Switzerland</AddressLine>
+</Address>
+</Contact>
+<Contact ID="2">
+<NeotomaContactID>12683</NeotomaContactID>
+<NeotomaAliasID>12683</NeotomaAliasID>
+<FullContactName>Roos-Barraclough, Fiona</FullContactName>
+<ShortContactName>Roos-Barraclough, F.</ShortContactName>
+<FamilyName>Roos-Barraclough</FamilyName>
+<GivenNames>Fiona</GivenNames>
+<LeadingInitials>F.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>inactive</Status>
+<Address>
+<AddressLine>Institute of Geological Sciences</AddressLine>
+<AddressLine>University of Bern</AddressLine>
+<AddressLine>Baltzerstrasse 1-3</AddressLine>
+<AddressLine>CH-3012 Bern (Switzerland)</AddressLine>
+</Address>
+</Contact>
+<Contact ID="3">
+<NeotomaContactID>7409</NeotomaContactID>
+<NeotomaAliasID>7409</NeotomaAliasID>
+<FullContactName>Shotyk, William</FullContactName>
+<ShortContactName>Shotyk, W.</ShortContactName>
+<FamilyName>Shotyk</FamilyName>
+<GivenNames>William</GivenNames>
+<LeadingInitials>W.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Telephone>+1-780-492-7155</Telephone>
+<Email>shotyk@ualberta.ca</Email>
+<URL>http://www.rr.ualberta.ca/StaffProfiles/AcademicStaff/Shotyk.aspx</URL>
+<Address>
+<AddressLine>University of Alberta</AddressLine>
+<AddressLine>348 B South Academic Building</AddressLine>
+<AddressLine>Edmonton, AB T6G 2H1</AddressLine>
+<AddressLine>Canada</AddressLine>
+</Address>
+</Contact>
+<Contact ID="4">
+<NeotomaContactID>1283</NeotomaContactID>
+<NeotomaAliasID>1283</NeotomaAliasID>
+<FullContactName>van der Knaap, W. O. (Pim)</FullContactName>
+<ShortContactName>van der Knaap, W.O.</ShortContactName>
+<FamilyName>van der Knaap</FamilyName>
+<GivenNames>W. O. (Pim)</GivenNames>
+<LeadingInitials>W.O.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>active</Status>
+<Telephone>4131 654925</Telephone>
+<Fax>4131 422059</Fax>
+<Email>pim.vanderknaap@ips.unibe.ch</Email>
+<Address>
+<AddressLine>Institute of Plant Sciences</AddressLine>
+<AddressLine>Altenbergrain 21</AddressLine>
+<AddressLine>CH-3013 Bern</AddressLine>
+<AddressLine>Switzerland</AddressLine>
+</Address>
+</Contact>
+<Contact ID="5">
+<NeotomaContactID>393</NeotomaContactID>
+<NeotomaAliasID>393</NeotomaAliasID>
+<FullContactName>van Leeuwen, Jacqueline F.N.</FullContactName>
+<ShortContactName>van Leeuwen, J.F.N.</ShortContactName>
+<FamilyName>van Leeuwen</FamilyName>
+<GivenNames>Jacqueline F.N.</GivenNames>
+<LeadingInitials>J.F.N.</LeadingInitials>
+<Title>Mrs.</Title>
+<Status>active</Status>
+<Telephone>41 31 654925</Telephone>
+<Fax>41 31 422059</Fax>
+<Address>
+<AddressLine>Institute of Plant Sciences</AddressLine>
+<AddressLine>Altenbergrain 21</AddressLine>
+<AddressLine>CH-3013 Bern</AddressLine>
+<AddressLine>SWITZERLAND</AddressLine>
+</Address>
+</Contact>
+</Contacts>
+<Publications>
+<Publication ID="1" Primary="false">
+<PublicationType>other authored</PublicationType>
+<NeotomaID>14094</NeotomaID>
+<PublicationYear>2002</PublicationYear>
+<Citation>Roos-Barraclough, F. 2002. Roos-Barraclough, F. 2002. Retrospective analysis of net atmospheric mercury deposition rates and climatic change using peat cores. Ph.D. Diss., University of Bern..</Citation>
+<Authors>
+<Author>
+<Contact ID="2"/>
+<LastName>Roos-Barraclough</LastName>
+<Initials>F.</Initials>
+</Author>
+</Authors>
+<Title>Roos-Barraclough, F. 2002. Retrospective analysis of net atmospheric mercury deposition rates and climatic change using peat cores. Ph.D. Diss., University of Bern.</Title>
+</Publication>
+<Publication ID="2" Primary="false">
+<PublicationType>other authored</PublicationType>
+<NeotomaID>14095</NeotomaID>
+<PublicationYear>2004</PublicationYear>
+<Citation>Roos-Barraclough, F., W.O. van der Knaap, J.F.N. van Leeuwen, and W. Shotyk. 2004. Roos-Barraclough, F., W.O. van der Knaap, J.F.N. van Leeuwen, and W. Shotyk. 2004. A Late-glacial and Holocene record of climate change from a Swiss peat humification profile. The Holocene 14, 1:7-19..</Citation>
+<Authors>
+<Author>
+<Contact ID="2"/>
+<LastName>Roos-Barraclough</LastName>
+<Initials>F.</Initials>
+</Author>
+<Author>
+<Contact ID="4"/>
+<LastName>van der Knaap</LastName>
+<Initials>W.O.</Initials>
+</Author>
+<Author>
+<Contact ID="5"/>
+<LastName>van Leeuwen</LastName>
+<Initials>J.F.N.</Initials>
+</Author>
+<Author>
+<Contact ID="3"/>
+<LastName>Shotyk</LastName>
+<Initials>W.</Initials>
+</Author>
+</Authors>
+<Title>Roos-Barraclough, F., W.O. van der Knaap, J.F.N. van Leeuwen, and W. Shotyk. 2004. A Late-glacial and Holocene record of climate change from a Swiss peat humification profile. The Holocene 14, 1:7-19.</Title>
+</Publication>
+</Publications>
+<SpreadSheetBook>
+<SpreadSheetOptions>
+<HeaderRow>0</HeaderRow>
+<FontName>Arial</FontName>
+<FontSize>9</FontSize>
+<DefaultColWidth>64</DefaultColWidth>
+<DefaultRowHeight>18</DefaultRowHeight>
+<PercentDecimalPlaces>1</PercentDecimalPlaces>
+<CheckDupCodes>True</CheckDupCodes>
+<CaseSensitiveCodes>False</CaseSensitiveCodes>
+<CodesVisible>True</CodesVisible>
+<ElementsVisible>False</ElementsVisible>
+<UnitsVisible>False</UnitsVisible>
+<ContextsVisible>False</ContextsVisible>
+<TaphonomyVisible>False</TaphonomyVisible>
+<GroupsVisible>True</GroupsVisible>
+<GroupCategories>
+<GroupCategory>bryophytes</GroupCategory>
+<GroupCategory>vascular plants</GroupCategory>
+</GroupCategories>
+</SpreadSheetOptions>
+<SpreadSheet page="0" name="Data">
+<Col ID="1" Width="64">
+<cell row="3">
+<text>#Chron1</text>
+</cell>
+<cell row="4">
+<text>#Anal.Thick</text>
+</cell>
+<cell row="5">
+<text>#Samp.Analyst</text>
+</cell>
+<cell row="6">
+<text>#Samp.DateAnal</text>
+</cell>
+<cell row="7">
+<text>#Samp.Keywords</text>
+</cell>
+<cell row="8">
+<text>Abi</text>
+</cell>
+<cell row="9">
+<text>Art</text>
+</cell>
+<cell row="10">
+<text>Bet</text>
+</cell>
+<cell row="11">
+<text>Bot</text>
+</cell>
+<cell row="12">
+<text>Cypeae</text>
+</cell>
+<cell row="13">
+<text>Equ</text>
+</cell>
+<cell row="14">
+<text>Erceae</text>
+</cell>
+<cell row="15">
+<text>Eup</text>
+</cell>
+<cell row="16">
+<text>Fag</text>
+</cell>
+<cell row="17">
+<text>Asteae.sf.Cchdae</text>
+</cell>
+<cell row="18">
+<text>Pic</text>
+</cell>
+<cell row="19">
+<text>Pin.sg.Pin</text>
+</cell>
+<cell row="20">
+<text>Pln.ma</text>
+</cell>
+<cell row="21">
+<text>Pln.me</text>
+</cell>
+<cell row="22">
+<text>Pla</text>
+</cell>
+<cell row="23">
+<text>Ptl-t</text>
+</cell>
+<cell row="24">
+<text>Pru-t</text>
+</cell>
+<cell row="25">
+<text>Que</text>
+</cell>
+<cell row="26">
+<text>Rib</text>
+</cell>
+<cell row="27">
+<text>Rbs</text>
+</cell>
+<cell row="28">
+<text>Slx</text>
+</cell>
+<cell row="29">
+<text>Shz.pa</text>
+</cell>
+<cell row="30">
+<text>Spg</text>
+</cell>
+<cell row="31">
+<text>Tha</text>
+</cell>
+<cell row="32">
+<text>Til</text>
+</cell>
+<cell row="33">
+<text>Ulm</text>
+</cell>
+<cell row="34">
+<text>Apieae</text>
+</cell>
+<cell row="35">
+<text>Vac</text>
+</cell>
+<cell row="36">
+<text>Vit</text>
+</cell>
+<cell row="37">
+<text>Xan</text>
+</cell>
+<cell row="38">
+<text>Ace</text>
+</cell>
+<cell row="39">
+<text>Aln.vi</text>
+</cell>
+<cell row="40">
+<text>Jug</text>
+</cell>
+<cell row="41">
+<text>Pop</text>
+</cell>
+<cell row="42">
+<text>Vib</text>
+</cell>
+<cell row="43">
+<text>Poaeae(Cer)</text>
+</cell>
+<cell row="44">
+<text>Poaeae</text>
+</cell>
+<cell row="45">
+<text>Braeae</text>
+</cell>
+<cell row="46">
+<text>Cnb.sa</text>
+</cell>
+<cell row="47">
+<text>Trf.re-t</text>
+</cell>
+<cell row="48">
+<text>Urt</text>
+</cell>
+<cell row="49">
+<text>Arh.fl</text>
+</cell>
+<cell row="50">
+<text>And.po</text>
+</cell>
+<cell row="51">
+<text>Ass.mu</text>
+</cell>
+<cell row="52">
+<text>Ass.se</text>
+</cell>
+<cell row="53">
+<text>Cal-t</text>
+</cell>
+<cell row="54">
+<text>Mnt-t</text>
+</cell>
+<cell row="55">
+<text>Psp.bo.lo</text>
+</cell>
+<cell row="56">
+<text>Pln.la-t</text>
+</cell>
+<cell row="57">
+<text>Ptr.aq</text>
+</cell>
+<cell row="58">
+<text>Rubeae</text>
+</cell>
+<cell row="59">
+<text>Rum.as-t</text>
+</cell>
+<cell row="60">
+<text>Sel.se</text>
+</cell>
+<cell row="61">
+<text>Polyta(ml)</text>
+</cell>
+<cell row="62">
+<text>Vic-t</text>
+</cell>
+<cell row="63">
+<text>Ach-t</text>
+</cell>
+<cell row="64">
+<text>Lig</text>
+</cell>
+<cell row="65">
+<text>Sen</text>
+</cell>
+<cell row="66">
+<text>Lyc.tab</text>
+</cell>
+<cell row="67">
+<text>Lyc.tab</text>
+</cell>
+<cell row="68">
+<text>Sec</text>
+</cell>
+<cell row="69">
+<text>Jun</text>
+</cell>
+<cell row="70">
+<text>Ran.ac-t</text>
+</cell>
+<cell row="71">
+<text>Mlm</text>
+</cell>
+<cell row="72">
+<text>Emp-t</text>
+</cell>
+<cell row="73">
+<text>Rum.ob-t</text>
+</cell>
+<cell row="74">
+<text>Hli</text>
+</cell>
+<cell row="75">
+<text>Bup-t</text>
+</cell>
+<cell row="76">
+<text>Typ.la-t</text>
+</cell>
+<cell row="77">
+<text>San.of</text>
+</cell>
+<cell row="78">
+<text>spik</text>
+</cell>
+<cell row="79">
+<text>Cor.av</text>
+</cell>
+<cell row="80">
+<text>Cpn.be</text>
+</cell>
+<cell row="81">
+<text>Sca</text>
+</cell>
+<cell row="82">
+<text>Vis</text>
+</cell>
+<cell row="83">
+<text>Hum.lu</text>
+</cell>
+<cell row="84">
+<text>Cen.cy</text>
+</cell>
+<cell row="85">
+<text>Fil</text>
+</cell>
+<cell row="86">
+<text>Lot-t</text>
+</cell>
+<cell row="87">
+<text>Frn.al</text>
+</cell>
+<cell row="88">
+<text>Ole</text>
+</cell>
+<cell row="89">
+<text>Cdu</text>
+</cell>
+<cell row="90">
+<text>Gen.pn-t</text>
+</cell>
+<cell row="91">
+<text>Her</text>
+</cell>
+<cell row="92">
+<text>Cas.sa</text>
+</cell>
+<cell row="93">
+<text>Vro</text>
+</cell>
+<cell row="94">
+<text>Clv.vu</text>
+</cell>
+<cell row="95">
+<text>Suc</text>
+</cell>
+<cell row="96">
+<text>Rhi</text>
+</cell>
+<cell row="97">
+<text>Ery</text>
+</cell>
+<cell row="98">
+<text>Rum.al</text>
+</cell>
+<cell row="99">
+<text>Pin.ce</text>
+</cell>
+<cell row="100">
+<text>Ast-t</text>
+</cell>
+<cell row="101">
+<text>Cen.sc</text>
+</cell>
+<cell row="102">
+<text>Sor-t</text>
+</cell>
+<cell row="103">
+<text>Til.pl</text>
+</cell>
+<cell row="104">
+<text>Frx.ex</text>
+</cell>
+<cell row="105">
+<text>Hyp.pe-t</text>
+</cell>
+<cell row="106">
+<text>Trf.pr-t</text>
+</cell>
+<cell row="107">
+<text>Aln.gl-t</text>
+</cell>
+<cell row="108">
+<text>Atc.sy-t</text>
+</cell>
+<cell row="109">
+<text>Sil.di-t</text>
+</cell>
+<cell row="110">
+<text>Bux.se</text>
+</cell>
+<cell row="111">
+<text>Cen.ni-t</text>
+</cell>
+<cell row="112">
+<text>Cic.vi</text>
+</cell>
+<cell row="113">
+<text>Cyt.sc</text>
+</cell>
+<cell row="114">
+<text>Dau.ca</text>
+</cell>
+<cell row="115">
+<text>Gna-t</text>
+</cell>
+<cell row="116">
+<text>Lin.ca-t</text>
+</cell>
+<cell row="117">
+<text>Lys.ne</text>
+</cell>
+<cell row="118">
+<text>Mrc.an</text>
+</cell>
+<cell row="119">
+<text>Mrc.pe-t</text>
+</cell>
+<cell row="120">
+<text>Onb</text>
+</cell>
+<cell row="121">
+<text>Pln.al-t</text>
+</cell>
+<cell row="122">
+<text>Pln.at-t</text>
+</cell>
+<cell row="123">
+<text>Pri.fa-t</text>
+</cell>
+<cell row="124">
+<text>Sam.ni</text>
+</cell>
+<cell row="125">
+<text>Sam.ra</text>
+</cell>
+<cell row="126">
+<text>San.mi-t</text>
+</cell>
+<cell row="127">
+<text>Sax.gr-t</text>
+</cell>
+<cell row="128">
+<text>Tax.ba</text>
+</cell>
+<cell row="129">
+<text>Sld</text>
+</cell>
+<cell row="130">
+<text>Tls.eu</text>
+</cell>
+<cell row="131">
+<text>Val.di-t</text>
+</cell>
+<cell row="132">
+<text>Amaeae-t</text>
+</cell>
+<cell row="133">
+<text>One</text>
+</cell>
+<cell row="134">
+<text>Peu-t</text>
+</cell>
+<cell row="135">
+<text>Cpy.hi-t</text>
+</cell>
+<cell row="136">
+<text>Pht</text>
+</cell>
+<cell row="137">
+<text>Fabeae.sf.Fabdae</text>
+</cell>
+<cell row="138">
+<text>Crs.ar-t</text>
+</cell>
+<cell row="139">
+<text>Lgs.mu</text>
+</cell>
+<cell row="140">
+<text>Rum.ap</text>
+</cell>
+<cell row="141">
+<text>char</text>
+</cell>
+<cell row="142">
+<text>Gel</text>
+</cell>
+<cell row="143">
+<text>Hab.an</text>
+</cell>
+<cell row="144">
+<text>Spo</text>
+</cell>
+<cell row="145">
+<text>Ust.de</text>
+</cell>
+<cell row="146">
+<text>Cec-t</text>
+</cell>
+<cell row="147">
+<text>Lgm.sa</text>
+</cell>
+</Col>
+<Col ID="2" Width="180">
+<cell row="3">
+<text>Chron1</text>
+</cell>
+<cell row="4">
+<text>Analysis Unit Thickness</text>
+</cell>
+<cell row="5">
+<text>Sample Analyst</text>
+</cell>
+<cell row="6">
+<text>Date Analyzed</text>
+</cell>
+<cell row="7">
+<text>Sample Keywords</text>
+</cell>
+<cell row="8">
+<text>Abies</text>
+</cell>
+<cell row="9">
+<text>Artemisia</text>
+</cell>
+<cell row="10">
+<text>Betula</text>
+</cell>
+<cell row="11">
+<text>Botrychium</text>
+</cell>
+<cell row="12">
+<text>Cyperaceae</text>
+</cell>
+<cell row="13">
+<text>Equisetum</text>
+</cell>
+<cell row="14">
+<text>Ericaceae</text>
+</cell>
+<cell row="15">
+<text>Euphorbia</text>
+</cell>
+<cell row="16">
+<text>Fagus</text>
+</cell>
+<cell row="17">
+<text>Asteraceae subf. Cichorioideae</text>
+<Synonym>
+<TaxonName>Compositae subf. Cichorioideae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="18">
+<text>Picea</text>
+</cell>
+<cell row="19">
+<text>Pinus subg. Pinus</text>
+</cell>
+<cell row="20">
+<text>Plantago major</text>
+</cell>
+<cell row="21">
+<text>Plantago media</text>
+</cell>
+<cell row="22">
+<text>Platanus</text>
+</cell>
+<cell row="23">
+<text>Potentilla-type</text>
+</cell>
+<cell row="24">
+<text>Prunus-type</text>
+</cell>
+<cell row="25">
+<text>Quercus</text>
+</cell>
+<cell row="26">
+<text>Ribes</text>
+</cell>
+<cell row="27">
+<text>Rubus</text>
+</cell>
+<cell row="28">
+<text>Salix</text>
+</cell>
+<cell row="29">
+<text>Scheuchzeria palustris</text>
+</cell>
+<cell row="30">
+<text>Sphagnum</text>
+</cell>
+<cell row="31">
+<text>Thalictrum</text>
+</cell>
+<cell row="32">
+<text>Tilia</text>
+</cell>
+<cell row="33">
+<text>Ulmus</text>
+</cell>
+<cell row="34">
+<text>Apiaceae</text>
+<Synonym>
+<TaxonName>Umbelliferae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="35">
+<text>Vaccinium</text>
+</cell>
+<cell row="36">
+<text>Vitis</text>
+</cell>
+<cell row="37">
+<text>Xanthium</text>
+</cell>
+<cell row="38">
+<text>Acer</text>
+</cell>
+<cell row="39">
+<text>Alnus viridis</text>
+</cell>
+<cell row="40">
+<text>Juglans</text>
+</cell>
+<cell row="41">
+<text>Populus</text>
+</cell>
+<cell row="42">
+<text>Viburnum</text>
+</cell>
+<cell row="43">
+<text>Poaceae (Cerealia)</text>
+<Synonym>
+<TaxonName>Cerealia</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="44">
+<text>Poaceae</text>
+<Synonym>
+<TaxonName>Gramineae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="45">
+<text>Brassicaceae</text>
+<Synonym>
+<TaxonName>Cruciferae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="46">
+<text>Cannabis sativa</text>
+</cell>
+<cell row="47">
+<text>Trifolium repens-type</text>
+</cell>
+<cell row="48">
+<text>Urtica</text>
+</cell>
+<cell row="49">
+<text>Archerella flavum</text>
+<Synonym>
+<TaxonName>Amphitrema flavum</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="50">
+<text>Andromeda polifolia</text>
+</cell>
+<cell row="51">
+<text>Assulina muscorum</text>
+</cell>
+<cell row="52">
+<text>Assulina seminulum</text>
+</cell>
+<cell row="53">
+<text>Caltha-type</text>
+</cell>
+<cell row="54">
+<text>Mentha-type</text>
+</cell>
+<cell row="55">
+<text>Pseudopediastrum boryanum var. longicorne</text>
+<Synonym>
+<TaxonName>Pediastrum boryanum var. longicorne</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="56">
+<text>Plantago lanceolata-type</text>
+</cell>
+<cell row="57">
+<text>Pteridium aquilinum</text>
+</cell>
+<cell row="58">
+<text>Rubiaceae</text>
+</cell>
+<cell row="59">
+<text>Rumex acetosa-type</text>
+</cell>
+<cell row="60">
+<text>Selaginella selaginoides</text>
+</cell>
+<cell row="61">
+<text>Polypodiophyta (monolete)</text>
+</cell>
+<cell row="62">
+<text>Vicia-type</text>
+</cell>
+<cell row="63">
+<text>Achillea-type</text>
+</cell>
+<cell row="64">
+<text>Ligustrum</text>
+</cell>
+<cell row="65">
+<text>Senecio</text>
+</cell>
+<cell row="66">
+<text>Lycopodium tablets</text>
+</cell>
+<cell row="67">
+<text>Lycopodium tablets</text>
+</cell>
+<cell row="68">
+<text>Secale</text>
+</cell>
+<cell row="69">
+<text>Juniperus</text>
+</cell>
+<cell row="70">
+<text>Ranunculus acris-type</text>
+</cell>
+<cell row="71">
+<text>Melampyrum</text>
+</cell>
+<cell row="72">
+<text>Empetrum-type</text>
+</cell>
+<cell row="73">
+<text>Rumex obtusifolius-type</text>
+</cell>
+<cell row="74">
+<text>Helianthemum</text>
+</cell>
+<cell row="75">
+<text>Bupleurum-type</text>
+</cell>
+<cell row="76">
+<text>Typha latifolia-type</text>
+</cell>
+<cell row="77">
+<text>Sanguisorba officinalis</text>
+</cell>
+<cell row="78">
+<text>Spike</text>
+</cell>
+<cell row="79">
+<text>Corylus avellana</text>
+</cell>
+<cell row="80">
+<text>Carpinus betulus</text>
+</cell>
+<cell row="81">
+<text>Scabiosa</text>
+</cell>
+<cell row="82">
+<text>Viscum</text>
+</cell>
+<cell row="83">
+<text>Humulus lupulus</text>
+</cell>
+<cell row="84">
+<text>Centaurea cyanus</text>
+</cell>
+<cell row="85">
+<text>Filipendula</text>
+</cell>
+<cell row="86">
+<text>Lotus-type</text>
+</cell>
+<cell row="87">
+<text>Frangula alnus</text>
+</cell>
+<cell row="88">
+<text>Olea</text>
+</cell>
+<cell row="89">
+<text>Carduus</text>
+</cell>
+<cell row="90">
+<text>Gentiana pneumonanthe-type</text>
+</cell>
+<cell row="91">
+<text>Heracleum</text>
+</cell>
+<cell row="92">
+<text>Castanea sativa</text>
+</cell>
+<cell row="93">
+<text>Veronica</text>
+</cell>
+<cell row="94">
+<text>Calluna vulgaris</text>
+</cell>
+<cell row="95">
+<text>Succisa</text>
+</cell>
+<cell row="96">
+<text>Rhinanthus</text>
+</cell>
+<cell row="97">
+<text>Eryngium</text>
+</cell>
+<cell row="98">
+<text>Rumex acetosella</text>
+</cell>
+<cell row="99">
+<text>Pinus cembra</text>
+</cell>
+<cell row="100">
+<text>Aster-type</text>
+</cell>
+<cell row="101">
+<text>Centaurea scabiosa</text>
+</cell>
+<cell row="102">
+<text>Sorbus-type</text>
+</cell>
+<cell row="103">
+<text>Tilia platyphyllos</text>
+</cell>
+<cell row="104">
+<text>Fraxinus excelsior</text>
+</cell>
+<cell row="105">
+<text>Hypericum perforatum-type</text>
+</cell>
+<cell row="106">
+<text>Trifolium pratense-type</text>
+</cell>
+<cell row="107">
+<text>Alnus glutinosa-type</text>
+</cell>
+<cell row="108">
+<text>Anthriscus sylvestris-type</text>
+</cell>
+<cell row="109">
+<text>Silene dioica-type</text>
+</cell>
+<cell row="110">
+<text>Buxus sempervirens</text>
+</cell>
+<cell row="111">
+<text>Centaurea nigra-type</text>
+</cell>
+<cell row="112">
+<text>Cicuta virosa</text>
+</cell>
+<cell row="113">
+<text>Cytisus scoparius</text>
+<Synonym>
+<TaxonName>Sarothamnus scoparius</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="114">
+<text>Daucus carota</text>
+</cell>
+<cell row="115">
+<text>Gnaphalium-type</text>
+</cell>
+<cell row="116">
+<text>Linum catharticum-type</text>
+</cell>
+<cell row="117">
+<text>Lysimachia nemorum</text>
+</cell>
+<cell row="118">
+<text>Mercurialis annua</text>
+</cell>
+<cell row="119">
+<text>Mercurialis perennis-type</text>
+</cell>
+<cell row="120">
+<text>Onobrychis</text>
+</cell>
+<cell row="121">
+<text>Plantago alpina-type</text>
+</cell>
+<cell row="122">
+<text>Plantago atrata-type</text>
+<Synonym>
+<TaxonName>Plantago montana-type</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="123">
+<text>Primula farinosa-type</text>
+</cell>
+<cell row="124">
+<text>Sambucus nigra</text>
+</cell>
+<cell row="125">
+<text>Sambucus racemosa</text>
+</cell>
+<cell row="126">
+<text>Sanguisorba minor-type</text>
+</cell>
+<cell row="127">
+<text>Saxifraga granulata-type</text>
+</cell>
+<cell row="128">
+<text>Taxus baccata</text>
+</cell>
+<cell row="129">
+<text>Solidago</text>
+</cell>
+<cell row="130">
+<text>Trollius europaeus</text>
+</cell>
+<cell row="131">
+<text>Valeriana dioica-type</text>
+</cell>
+<cell row="132">
+<text>Amaranthaceae-type</text>
+<Synonym>
+<TaxonName>Chenopodiaceae-type</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="133">
+<text>Oenanthe</text>
+</cell>
+<cell row="134">
+<text>Peucedanum-type</text>
+</cell>
+<cell row="135">
+<text>Chaerophyllum hirsutum-type</text>
+</cell>
+<cell row="136">
+<text>Phyteuma</text>
+</cell>
+<cell row="137">
+<text>Fabaceae subf. Faboideae</text>
+<Synonym>
+<TaxonName>Papilionaceae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="138">
+<text>Cerastium arvense-type</text>
+</cell>
+<cell row="139">
+<text>Ligusticum mutellina</text>
+</cell>
+<cell row="140">
+<text>Rumex alpinus</text>
+</cell>
+<cell row="141">
+<text>Charcoal</text>
+</cell>
+<cell row="142">
+<text>Gelasinospora</text>
+</cell>
+<cell row="143">
+<text>Habrotrocha angusticollis</text>
+<Synonym>
+<TaxonName>Callidina angusticollis</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="144">
+<text>Sporormiella</text>
+</cell>
+<cell row="145">
+<text>Ustulina deusta</text>
+</cell>
+<cell row="146">
+<text>Cercophora-type</text>
+</cell>
+<cell row="147">
+<text>Lygeum spartum</text>
+</cell>
+</Col>
+<Col ID="3" Width="64">
+<cell row="8">
+<text>pollen</text>
+</cell>
+<cell row="9">
+<text>pollen</text>
+</cell>
+<cell row="10">
+<text>pollen</text>
+</cell>
+<cell row="11">
+<text>spore</text>
+</cell>
+<cell row="12">
+<text>pollen</text>
+</cell>
+<cell row="13">
+<text>spore</text>
+</cell>
+<cell row="14">
+<text>pollen</text>
+</cell>
+<cell row="15">
+<text>pollen</text>
+</cell>
+<cell row="16">
+<text>pollen</text>
+</cell>
+<cell row="17">
+<text>pollen</text>
+</cell>
+<cell row="18">
+<text>pollen</text>
+</cell>
+<cell row="19">
+<text>pollen</text>
+</cell>
+<cell row="20">
+<text>pollen</text>
+</cell>
+<cell row="21">
+<text>pollen</text>
+</cell>
+<cell row="22">
+<text>pollen</text>
+</cell>
+<cell row="23">
+<text>pollen</text>
+</cell>
+<cell row="24">
+<text>pollen</text>
+</cell>
+<cell row="25">
+<text>pollen</text>
+</cell>
+<cell row="26">
+<text>pollen</text>
+</cell>
+<cell row="27">
+<text>pollen</text>
+</cell>
+<cell row="28">
+<text>pollen</text>
+</cell>
+<cell row="29">
+<text>pollen</text>
+</cell>
+<cell row="30">
+<text>spore</text>
+</cell>
+<cell row="31">
+<text>pollen</text>
+</cell>
+<cell row="32">
+<text>pollen</text>
+</cell>
+<cell row="33">
+<text>pollen</text>
+</cell>
+<cell row="34">
+<text>pollen</text>
+</cell>
+<cell row="35">
+<text>pollen</text>
+</cell>
+<cell row="36">
+<text>pollen</text>
+</cell>
+<cell row="37">
+<text>pollen</text>
+</cell>
+<cell row="38">
+<text>pollen</text>
+</cell>
+<cell row="39">
+<text>pollen</text>
+</cell>
+<cell row="40">
+<text>pollen</text>
+</cell>
+<cell row="41">
+<text>pollen</text>
+</cell>
+<cell row="42">
+<text>pollen</text>
+</cell>
+<cell row="43">
+<text>pollen</text>
+</cell>
+<cell row="44">
+<text>pollen</text>
+</cell>
+<cell row="45">
+<text>pollen</text>
+</cell>
+<cell row="46">
+<text>pollen</text>
+</cell>
+<cell row="47">
+<text>pollen</text>
+</cell>
+<cell row="48">
+<text>pollen</text>
+</cell>
+<cell row="49">
+<text>test</text>
+</cell>
+<cell row="50">
+<text>pollen</text>
+</cell>
+<cell row="51">
+<text>test</text>
+</cell>
+<cell row="52">
+<text>test</text>
+</cell>
+<cell row="53">
+<text>pollen</text>
+</cell>
+<cell row="54">
+<text>pollen</text>
+</cell>
+<cell row="55">
+<text>colony</text>
+</cell>
+<cell row="56">
+<text>pollen</text>
+</cell>
+<cell row="57">
+<text>spore</text>
+</cell>
+<cell row="58">
+<text>pollen</text>
+</cell>
+<cell row="59">
+<text>pollen</text>
+</cell>
+<cell row="60">
+<text>spore</text>
+</cell>
+<cell row="61">
+<text>spore</text>
+</cell>
+<cell row="62">
+<text>pollen</text>
+</cell>
+<cell row="63">
+<text>pollen</text>
+</cell>
+<cell row="64">
+<text>pollen</text>
+</cell>
+<cell row="65">
+<text>pollen</text>
+</cell>
+<cell row="66">
+<text>concentration</text>
+</cell>
+<cell row="67">
+<text>quantity added</text>
+</cell>
+<cell row="68">
+<text>pollen</text>
+</cell>
+<cell row="69">
+<text>pollen</text>
+</cell>
+<cell row="70">
+<text>pollen</text>
+</cell>
+<cell row="71">
+<text>pollen</text>
+</cell>
+<cell row="72">
+<text>pollen</text>
+</cell>
+<cell row="73">
+<text>pollen</text>
+</cell>
+<cell row="74">
+<text>pollen</text>
+</cell>
+<cell row="75">
+<text>pollen</text>
+</cell>
+<cell row="76">
+<text>pollen</text>
+</cell>
+<cell row="77">
+<text>pollen</text>
+</cell>
+<cell row="78">
+<text>counted</text>
+</cell>
+<cell row="79">
+<text>pollen</text>
+</cell>
+<cell row="80">
+<text>pollen</text>
+</cell>
+<cell row="81">
+<text>pollen</text>
+</cell>
+<cell row="82">
+<text>pollen</text>
+</cell>
+<cell row="83">
+<text>pollen</text>
+</cell>
+<cell row="84">
+<text>pollen</text>
+</cell>
+<cell row="85">
+<text>pollen</text>
+</cell>
+<cell row="86">
+<text>pollen</text>
+</cell>
+<cell row="87">
+<text>pollen</text>
+</cell>
+<cell row="88">
+<text>pollen</text>
+</cell>
+<cell row="89">
+<text>pollen</text>
+</cell>
+<cell row="90">
+<text>pollen</text>
+</cell>
+<cell row="91">
+<text>pollen</text>
+</cell>
+<cell row="92">
+<text>pollen</text>
+</cell>
+<cell row="93">
+<text>pollen</text>
+</cell>
+<cell row="94">
+<text>pollen</text>
+</cell>
+<cell row="95">
+<text>pollen</text>
+</cell>
+<cell row="96">
+<text>pollen</text>
+</cell>
+<cell row="97">
+<text>pollen</text>
+</cell>
+<cell row="98">
+<text>pollen</text>
+</cell>
+<cell row="99">
+<text>pollen</text>
+</cell>
+<cell row="100">
+<text>pollen</text>
+</cell>
+<cell row="101">
+<text>pollen</text>
+</cell>
+<cell row="102">
+<text>pollen</text>
+</cell>
+<cell row="103">
+<text>pollen</text>
+</cell>
+<cell row="104">
+<text>pollen</text>
+</cell>
+<cell row="105">
+<text>pollen</text>
+</cell>
+<cell row="106">
+<text>pollen</text>
+</cell>
+<cell row="107">
+<text>pollen</text>
+</cell>
+<cell row="108">
+<text>pollen</text>
+</cell>
+<cell row="109">
+<text>pollen</text>
+</cell>
+<cell row="110">
+<text>pollen</text>
+</cell>
+<cell row="111">
+<text>pollen</text>
+</cell>
+<cell row="112">
+<text>pollen</text>
+</cell>
+<cell row="113">
+<text>pollen</text>
+</cell>
+<cell row="114">
+<text>pollen</text>
+</cell>
+<cell row="115">
+<text>pollen</text>
+</cell>
+<cell row="116">
+<text>pollen</text>
+</cell>
+<cell row="117">
+<text>pollen</text>
+</cell>
+<cell row="118">
+<text>pollen</text>
+</cell>
+<cell row="119">
+<text>pollen</text>
+</cell>
+<cell row="120">
+<text>pollen</text>
+</cell>
+<cell row="121">
+<text>pollen</text>
+</cell>
+<cell row="122">
+<text>pollen</text>
+</cell>
+<cell row="123">
+<text>pollen</text>
+</cell>
+<cell row="124">
+<text>pollen</text>
+</cell>
+<cell row="125">
+<text>pollen</text>
+</cell>
+<cell row="126">
+<text>pollen</text>
+</cell>
+<cell row="127">
+<text>pollen</text>
+</cell>
+<cell row="128">
+<text>pollen</text>
+</cell>
+<cell row="129">
+<text>pollen</text>
+</cell>
+<cell row="130">
+<text>pollen</text>
+</cell>
+<cell row="131">
+<text>pollen</text>
+</cell>
+<cell row="132">
+<text>pollen</text>
+</cell>
+<cell row="133">
+<text>pollen</text>
+</cell>
+<cell row="134">
+<text>pollen</text>
+</cell>
+<cell row="135">
+<text>pollen</text>
+</cell>
+<cell row="136">
+<text>pollen</text>
+</cell>
+<cell row="137">
+<text>pollen</text>
+</cell>
+<cell row="138">
+<text>pollen</text>
+</cell>
+<cell row="139">
+<text>pollen</text>
+</cell>
+<cell row="140">
+<text>pollen</text>
+</cell>
+<cell row="141">
+<text>fragment</text>
+</cell>
+<cell row="142">
+<text>ascospore</text>
+</cell>
+<cell row="143">
+<text>lorica</text>
+</cell>
+<cell row="144">
+<text>ascospore</text>
+</cell>
+<cell row="145">
+<text>ascospore</text>
+</cell>
+<cell row="146">
+<text>ascospore</text>
+</cell>
+<cell row="147">
+<text>pollen</text>
+</cell>
+</Col>
+<Col ID="4" Width="64">
+<cell row="3">
+<text>calendar yr BP</text>
+</cell>
+<cell row="8">
+<text>NISP</text>
+</cell>
+<cell row="9">
+<text>NISP</text>
+</cell>
+<cell row="10">
+<text>NISP</text>
+</cell>
+<cell row="11">
+<text>NISP</text>
+</cell>
+<cell row="12">
+<text>NISP</text>
+</cell>
+<cell row="13">
+<text>NISP</text>
+</cell>
+<cell row="14">
+<text>NISP</text>
+</cell>
+<cell row="15">
+<text>NISP</text>
+</cell>
+<cell row="16">
+<text>NISP</text>
+</cell>
+<cell row="17">
+<text>NISP</text>
+</cell>
+<cell row="18">
+<text>NISP</text>
+</cell>
+<cell row="19">
+<text>NISP</text>
+</cell>
+<cell row="20">
+<text>NISP</text>
+</cell>
+<cell row="21">
+<text>NISP</text>
+</cell>
+<cell row="22">
+<text>NISP</text>
+</cell>
+<cell row="23">
+<text>NISP</text>
+</cell>
+<cell row="24">
+<text>NISP</text>
+</cell>
+<cell row="25">
+<text>NISP</text>
+</cell>
+<cell row="26">
+<text>NISP</text>
+</cell>
+<cell row="27">
+<text>NISP</text>
+</cell>
+<cell row="28">
+<text>NISP</text>
+</cell>
+<cell row="29">
+<text>NISP</text>
+</cell>
+<cell row="30">
+<text>NISP</text>
+</cell>
+<cell row="31">
+<text>NISP</text>
+</cell>
+<cell row="32">
+<text>NISP</text>
+</cell>
+<cell row="33">
+<text>NISP</text>
+</cell>
+<cell row="34">
+<text>NISP</text>
+</cell>
+<cell row="35">
+<text>NISP</text>
+</cell>
+<cell row="36">
+<text>NISP</text>
+</cell>
+<cell row="37">
+<text>NISP</text>
+</cell>
+<cell row="38">
+<text>NISP</text>
+</cell>
+<cell row="39">
+<text>NISP</text>
+</cell>
+<cell row="40">
+<text>NISP</text>
+</cell>
+<cell row="41">
+<text>NISP</text>
+</cell>
+<cell row="42">
+<text>NISP</text>
+</cell>
+<cell row="43">
+<text>NISP</text>
+</cell>
+<cell row="44">
+<text>NISP</text>
+</cell>
+<cell row="45">
+<text>NISP</text>
+</cell>
+<cell row="46">
+<text>NISP</text>
+</cell>
+<cell row="47">
+<text>NISP</text>
+</cell>
+<cell row="48">
+<text>NISP</text>
+</cell>
+<cell row="49">
+<text>NISP</text>
+</cell>
+<cell row="50">
+<text>NISP</text>
+</cell>
+<cell row="51">
+<text>NISP</text>
+</cell>
+<cell row="52">
+<text>NISP</text>
+</cell>
+<cell row="53">
+<text>NISP</text>
+</cell>
+<cell row="54">
+<text>NISP</text>
+</cell>
+<cell row="55">
+<text>NISP</text>
+</cell>
+<cell row="56">
+<text>NISP</text>
+</cell>
+<cell row="57">
+<text>NISP</text>
+</cell>
+<cell row="58">
+<text>NISP</text>
+</cell>
+<cell row="59">
+<text>NISP</text>
+</cell>
+<cell row="60">
+<text>NISP</text>
+</cell>
+<cell row="61">
+<text>NISP</text>
+</cell>
+<cell row="62">
+<text>NISP</text>
+</cell>
+<cell row="63">
+<text>NISP</text>
+</cell>
+<cell row="64">
+<text>NISP</text>
+</cell>
+<cell row="65">
+<text>NISP</text>
+</cell>
+<cell row="66">
+<text>grains/tablet</text>
+</cell>
+<cell row="67">
+<text>number</text>
+</cell>
+<cell row="68">
+<text>NISP</text>
+</cell>
+<cell row="69">
+<text>NISP</text>
+</cell>
+<cell row="70">
+<text>NISP</text>
+</cell>
+<cell row="71">
+<text>NISP</text>
+</cell>
+<cell row="72">
+<text>NISP</text>
+</cell>
+<cell row="73">
+<text>NISP</text>
+</cell>
+<cell row="74">
+<text>NISP</text>
+</cell>
+<cell row="75">
+<text>NISP</text>
+</cell>
+<cell row="76">
+<text>NISP</text>
+</cell>
+<cell row="77">
+<text>NISP</text>
+</cell>
+<cell row="78">
+<text>number</text>
+</cell>
+<cell row="79">
+<text>NISP</text>
+</cell>
+<cell row="80">
+<text>NISP</text>
+</cell>
+<cell row="81">
+<text>NISP</text>
+</cell>
+<cell row="82">
+<text>NISP</text>
+</cell>
+<cell row="83">
+<text>NISP</text>
+</cell>
+<cell row="84">
+<text>NISP</text>
+</cell>
+<cell row="85">
+<text>NISP</text>
+</cell>
+<cell row="86">
+<text>NISP</text>
+</cell>
+<cell row="87">
+<text>NISP</text>
+</cell>
+<cell row="88">
+<text>NISP</text>
+</cell>
+<cell row="89">
+<text>NISP</text>
+</cell>
+<cell row="90">
+<text>NISP</text>
+</cell>
+<cell row="91">
+<text>NISP</text>
+</cell>
+<cell row="92">
+<text>NISP</text>
+</cell>
+<cell row="93">
+<text>NISP</text>
+</cell>
+<cell row="94">
+<text>NISP</text>
+</cell>
+<cell row="95">
+<text>NISP</text>
+</cell>
+<cell row="96">
+<text>NISP</text>
+</cell>
+<cell row="97">
+<text>NISP</text>
+</cell>
+<cell row="98">
+<text>NISP</text>
+</cell>
+<cell row="99">
+<text>NISP</text>
+</cell>
+<cell row="100">
+<text>NISP</text>
+</cell>
+<cell row="101">
+<text>NISP</text>
+</cell>
+<cell row="102">
+<text>NISP</text>
+</cell>
+<cell row="103">
+<text>NISP</text>
+</cell>
+<cell row="104">
+<text>NISP</text>
+</cell>
+<cell row="105">
+<text>NISP</text>
+</cell>
+<cell row="106">
+<text>NISP</text>
+</cell>
+<cell row="107">
+<text>NISP</text>
+</cell>
+<cell row="108">
+<text>NISP</text>
+</cell>
+<cell row="109">
+<text>NISP</text>
+</cell>
+<cell row="110">
+<text>NISP</text>
+</cell>
+<cell row="111">
+<text>NISP</text>
+</cell>
+<cell row="112">
+<text>NISP</text>
+</cell>
+<cell row="113">
+<text>NISP</text>
+</cell>
+<cell row="114">
+<text>NISP</text>
+</cell>
+<cell row="115">
+<text>NISP</text>
+</cell>
+<cell row="116">
+<text>NISP</text>
+</cell>
+<cell row="117">
+<text>NISP</text>
+</cell>
+<cell row="118">
+<text>NISP</text>
+</cell>
+<cell row="119">
+<text>NISP</text>
+</cell>
+<cell row="120">
+<text>NISP</text>
+</cell>
+<cell row="121">
+<text>NISP</text>
+</cell>
+<cell row="122">
+<text>NISP</text>
+</cell>
+<cell row="123">
+<text>NISP</text>
+</cell>
+<cell row="124">
+<text>NISP</text>
+</cell>
+<cell row="125">
+<text>NISP</text>
+</cell>
+<cell row="126">
+<text>NISP</text>
+</cell>
+<cell row="127">
+<text>NISP</text>
+</cell>
+<cell row="128">
+<text>NISP</text>
+</cell>
+<cell row="129">
+<text>NISP</text>
+</cell>
+<cell row="130">
+<text>NISP</text>
+</cell>
+<cell row="131">
+<text>NISP</text>
+</cell>
+<cell row="132">
+<text>NISP</text>
+</cell>
+<cell row="133">
+<text>NISP</text>
+</cell>
+<cell row="134">
+<text>NISP</text>
+</cell>
+<cell row="135">
+<text>NISP</text>
+</cell>
+<cell row="136">
+<text>NISP</text>
+</cell>
+<cell row="137">
+<text>NISP</text>
+</cell>
+<cell row="138">
+<text>NISP</text>
+</cell>
+<cell row="139">
+<text>NISP</text>
+</cell>
+<cell row="140">
+<text>NISP</text>
+</cell>
+<cell row="141">
+<text>NISP</text>
+</cell>
+<cell row="142">
+<text>NISP</text>
+</cell>
+<cell row="143">
+<text>NISP</text>
+</cell>
+<cell row="144">
+<text>NISP</text>
+</cell>
+<cell row="145">
+<text>NISP</text>
+</cell>
+<cell row="146">
+<text>NISP</text>
+</cell>
+<cell row="147">
+<text>NISP</text>
+</cell>
+</Col>
+<Col ID="7" Width="64">
+<cell row="8">
+<text>TRSH</text>
+</cell>
+<cell row="9">
+<text>UPHE</text>
+</cell>
+<cell row="10">
+<text>TRSH</text>
+</cell>
+<cell row="11">
+<text>VACR</text>
+</cell>
+<cell row="12">
+<text>UPHE</text>
+</cell>
+<cell row="13">
+<text>VACR</text>
+</cell>
+<cell row="14">
+<text>TRSH</text>
+</cell>
+<cell row="15">
+<text>UPHE</text>
+</cell>
+<cell row="16">
+<text>TRSH</text>
+</cell>
+<cell row="17">
+<text>UPHE</text>
+</cell>
+<cell row="18">
+<text>TRSH</text>
+</cell>
+<cell row="19">
+<text>TRSH</text>
+</cell>
+<cell row="20">
+<text>UPHE</text>
+</cell>
+<cell row="21">
+<text>UPHE</text>
+</cell>
+<cell row="22">
+<text>TRSH</text>
+</cell>
+<cell row="23">
+<text>UPHE</text>
+</cell>
+<cell row="24">
+<text>TRSH</text>
+</cell>
+<cell row="25">
+<text>TRSH</text>
+</cell>
+<cell row="26">
+<text>TRSH</text>
+</cell>
+<cell row="27">
+<text>TRSH</text>
+</cell>
+<cell row="28">
+<text>TRSH</text>
+</cell>
+<cell row="29">
+<text>AQVP</text>
+</cell>
+<cell row="30">
+<text>AQBR</text>
+</cell>
+<cell row="31">
+<text>UPHE</text>
+</cell>
+<cell row="32">
+<text>TRSH</text>
+</cell>
+<cell row="33">
+<text>TRSH</text>
+</cell>
+<cell row="34">
+<text>UPHE</text>
+</cell>
+<cell row="35">
+<text>TRSH</text>
+</cell>
+<cell row="36">
+<text>TRSH</text>
+</cell>
+<cell row="37">
+<text>UPHE</text>
+</cell>
+<cell row="38">
+<text>TRSH</text>
+</cell>
+<cell row="39">
+<text>TRSH</text>
+</cell>
+<cell row="40">
+<text>TRSH</text>
+</cell>
+<cell row="41">
+<text>TRSH</text>
+</cell>
+<cell row="42">
+<text>TRSH</text>
+</cell>
+<cell row="43">
+<text>UPHE</text>
+</cell>
+<cell row="44">
+<text>UPHE</text>
+</cell>
+<cell row="45">
+<text>UPHE</text>
+</cell>
+<cell row="46">
+<text>UPHE</text>
+</cell>
+<cell row="47">
+<text>UPHE</text>
+</cell>
+<cell row="48">
+<text>UPHE</text>
+</cell>
+<cell row="49">
+<text>TEAM</text>
+</cell>
+<cell row="50">
+<text>TRSH</text>
+</cell>
+<cell row="51">
+<text>TEAM</text>
+</cell>
+<cell row="52">
+<text>TEAM</text>
+</cell>
+<cell row="53">
+<text>UPHE</text>
+</cell>
+<cell row="54">
+<text>UPHE</text>
+</cell>
+<cell row="55">
+<text>ALGA</text>
+</cell>
+<cell row="56">
+<text>UPHE</text>
+</cell>
+<cell row="57">
+<text>VACR</text>
+</cell>
+<cell row="58">
+<text>TRSH</text>
+</cell>
+<cell row="59">
+<text>UPHE</text>
+</cell>
+<cell row="60">
+<text>VACR</text>
+</cell>
+<cell row="61">
+<text>VACR</text>
+</cell>
+<cell row="62">
+<text>UPHE</text>
+</cell>
+<cell row="63">
+<text>UPHE</text>
+</cell>
+<cell row="64">
+<text>TRSH</text>
+</cell>
+<cell row="65">
+<text>UPHE</text>
+</cell>
+<cell row="66">
+<text>LABO</text>
+</cell>
+<cell row="67">
+<text>LABO</text>
+</cell>
+<cell row="68">
+<text>UPHE</text>
+</cell>
+<cell row="69">
+<text>TRSH</text>
+</cell>
+<cell row="70">
+<text>UPHE</text>
+</cell>
+<cell row="71">
+<text>UPHE</text>
+</cell>
+<cell row="72">
+<text>TRSH</text>
+</cell>
+<cell row="73">
+<text>UPHE</text>
+</cell>
+<cell row="74">
+<text>UPHE</text>
+</cell>
+<cell row="75">
+<text>UPHE</text>
+</cell>
+<cell row="76">
+<text>AQVP</text>
+</cell>
+<cell row="77">
+<text>UPHE</text>
+</cell>
+<cell row="78">
+<text>LABO</text>
+</cell>
+<cell row="79">
+<text>TRSH</text>
+</cell>
+<cell row="80">
+<text>TRSH</text>
+</cell>
+<cell row="81">
+<text>UPHE</text>
+</cell>
+<cell row="82">
+<text>TRSH</text>
+</cell>
+<cell row="83">
+<text>UPHE</text>
+</cell>
+<cell row="84">
+<text>UPHE</text>
+</cell>
+<cell row="85">
+<text>UPHE</text>
+</cell>
+<cell row="86">
+<text>UPHE</text>
+</cell>
+<cell row="87">
+<text>TRSH</text>
+</cell>
+<cell row="88">
+<text>TRSH</text>
+</cell>
+<cell row="89">
+<text>UPHE</text>
+</cell>
+<cell row="90">
+<text>UPHE</text>
+</cell>
+<cell row="91">
+<text>UPHE</text>
+</cell>
+<cell row="92">
+<text>TRSH</text>
+</cell>
+<cell row="93">
+<text>UPHE</text>
+</cell>
+<cell row="94">
+<text>TRSH</text>
+</cell>
+<cell row="95">
+<text>UPHE</text>
+</cell>
+<cell row="96">
+<text>UPHE</text>
+</cell>
+<cell row="97">
+<text>UPHE</text>
+</cell>
+<cell row="98">
+<text>UPHE</text>
+</cell>
+<cell row="99">
+<text>TRSH</text>
+</cell>
+<cell row="100">
+<text>UPHE</text>
+</cell>
+<cell row="101">
+<text>UPHE</text>
+</cell>
+<cell row="102">
+<text>TRSH</text>
+</cell>
+<cell row="103">
+<text>TRSH</text>
+</cell>
+<cell row="104">
+<text>TRSH</text>
+</cell>
+<cell row="105">
+<text>UPHE</text>
+</cell>
+<cell row="106">
+<text>UPHE</text>
+</cell>
+<cell row="107">
+<text>TRSH</text>
+</cell>
+<cell row="108">
+<text>UPHE</text>
+</cell>
+<cell row="109">
+<text>UPHE</text>
+</cell>
+<cell row="110">
+<text>TRSH</text>
+</cell>
+<cell row="111">
+<text>UPHE</text>
+</cell>
+<cell row="112">
+<text>UPHE</text>
+</cell>
+<cell row="113">
+<text>TRSH</text>
+</cell>
+<cell row="114">
+<text>UPHE</text>
+</cell>
+<cell row="115">
+<text>UPHE</text>
+</cell>
+<cell row="116">
+<text>UPHE</text>
+</cell>
+<cell row="117">
+<text>UPHE</text>
+</cell>
+<cell row="118">
+<text>UPHE</text>
+</cell>
+<cell row="119">
+<text>UPHE</text>
+</cell>
+<cell row="120">
+<text>UPHE</text>
+</cell>
+<cell row="121">
+<text>UPHE</text>
+</cell>
+<cell row="122">
+<text>UPHE</text>
+</cell>
+<cell row="123">
+<text>UPHE</text>
+</cell>
+<cell row="124">
+<text>TRSH</text>
+</cell>
+<cell row="125">
+<text>TRSH</text>
+</cell>
+<cell row="126">
+<text>UPHE</text>
+</cell>
+<cell row="127">
+<text>UPHE</text>
+</cell>
+<cell row="128">
+<text>TRSH</text>
+</cell>
+<cell row="129">
+<text>UPHE</text>
+</cell>
+<cell row="130">
+<text>UPHE</text>
+</cell>
+<cell row="131">
+<text>UPHE</text>
+</cell>
+<cell row="132">
+<text>UPHE</text>
+</cell>
+<cell row="133">
+<text>AQVP</text>
+</cell>
+<cell row="134">
+<text>UPHE</text>
+</cell>
+<cell row="135">
+<text>UPHE</text>
+</cell>
+<cell row="136">
+<text>UPHE</text>
+</cell>
+<cell row="137">
+<text>UPHE</text>
+</cell>
+<cell row="138">
+<text>UPHE</text>
+</cell>
+<cell row="139">
+<text>UPHE</text>
+</cell>
+<cell row="140">
+<text>UPHE</text>
+</cell>
+<cell row="141">
+<text>CHAR</text>
+</cell>
+<cell row="142">
+<text>FUNG</text>
+</cell>
+<cell row="143">
+<text>ROTI</text>
+</cell>
+<cell row="144">
+<text>FUNG</text>
+</cell>
+<cell row="145">
+<text>FUNG</text>
+</cell>
+<cell row="146">
+<text>FUNG</text>
+</cell>
+<cell row="147">
+<text>UPHE</text>
+</cell>
+</Col>
+<Col ID="8" Width="64">
+<cell row="1">
+<value>0.5</value>
+</cell>
+<cell row="3">
+<value>-38.634</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="7">
+<text>modern</text>
+</cell>
+<cell row="8">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>11</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>20</value>
+</cell>
+<cell row="18">
+<value>41</value>
+</cell>
+<cell row="19">
+<value>90</value>
+</cell>
+<cell row="25">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>4</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>17</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>21</value>
+</cell>
+<cell row="52">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>591</value>
+</cell>
+<cell row="79">
+<value>5</value>
+</cell>
+<cell row="80">
+<value>6</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>1</value>
+</cell>
+<cell row="102">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>3</value>
+</cell>
+<cell row="107">
+<value>5</value>
+</cell>
+<cell row="118">
+<value>1</value>
+</cell>
+<cell row="119">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>30</value>
+</cell>
+<cell row="143">
+<value>7</value>
+</cell>
+</Col>
+<Col ID="9" Width="64">
+<cell row="1">
+<value>3.5</value>
+</cell>
+<cell row="3">
+<value>-35.325</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>11</value>
+</cell>
+<cell row="10">
+<value>19</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>10</value>
+</cell>
+<cell row="18">
+<value>54</value>
+</cell>
+<cell row="19">
+<value>112</value>
+</cell>
+<cell row="25">
+<value>11</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>56</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>4</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>580</value>
+</cell>
+<cell row="79">
+<value>10</value>
+</cell>
+<cell row="80">
+<value>4</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>1</value>
+</cell>
+<cell row="91">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>2</value>
+</cell>
+<cell row="104">
+<value>10</value>
+</cell>
+<cell row="107">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>22</value>
+</cell>
+<cell row="143">
+<value>45</value>
+</cell>
+</Col>
+<Col ID="10" Width="64">
+<cell row="1">
+<value>4.5</value>
+</cell>
+<cell row="3">
+<value>-33.564</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>5</value>
+</cell>
+<cell row="12">
+<value>9</value>
+</cell>
+<cell row="16">
+<value>23</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>68</value>
+</cell>
+<cell row="19">
+<value>31</value>
+</cell>
+<cell row="25">
+<value>14</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>37</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>389</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>8</value>
+</cell>
+<cell row="88">
+<value>2</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>4</value>
+</cell>
+<cell row="107">
+<value>4</value>
+</cell>
+<cell row="119">
+<value>1</value>
+</cell>
+<cell row="124">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>8</value>
+</cell>
+<cell row="143">
+<value>7</value>
+</cell>
+</Col>
+<Col ID="11" Width="64">
+<cell row="1">
+<value>5.5</value>
+</cell>
+<cell row="3">
+<value>-31.473</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>8</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>12</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>6</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>39</value>
+</cell>
+<cell row="19">
+<value>80</value>
+</cell>
+<cell row="25">
+<value>6</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>44</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="49">
+<value>4</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>463</value>
+</cell>
+<cell row="79">
+<value>5</value>
+</cell>
+<cell row="80">
+<value>5</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>4</value>
+</cell>
+<cell row="107">
+<value>1</value>
+</cell>
+<cell row="118">
+<value>1</value>
+</cell>
+<cell row="124">
+<value>1</value>
+</cell>
+<cell row="140">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>37</value>
+</cell>
+<cell row="143">
+<value>11</value>
+</cell>
+</Col>
+<Col ID="12" Width="64">
+<cell row="1">
+<value>8.5</value>
+</cell>
+<cell row="3">
+<value>-23.226</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>6</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>8</value>
+</cell>
+<cell row="12">
+<value>6</value>
+</cell>
+<cell row="16">
+<value>13</value>
+</cell>
+<cell row="17">
+<value>4</value>
+</cell>
+<cell row="18">
+<value>65</value>
+</cell>
+<cell row="19">
+<value>65</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>8</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>55</value>
+</cell>
+<cell row="45">
+<value>3</value>
+</cell>
+<cell row="47">
+<value>7</value>
+</cell>
+<cell row="49">
+<value>6</value>
+</cell>
+<cell row="51">
+<value>14</value>
+</cell>
+<cell row="52">
+<value>5</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>262</value>
+</cell>
+<cell row="80">
+<value>8</value>
+</cell>
+<cell row="85">
+<value>3</value>
+</cell>
+<cell row="91">
+<value>4</value>
+</cell>
+<cell row="92">
+<value>3</value>
+</cell>
+<cell row="94">
+<value>3</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="99">
+<value>2</value>
+</cell>
+<cell row="104">
+<value>5</value>
+</cell>
+<cell row="107">
+<value>2</value>
+</cell>
+<cell row="118">
+<value>1</value>
+</cell>
+<cell row="136">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>60</value>
+</cell>
+<cell row="143">
+<value>4</value>
+</cell>
+</Col>
+<Col ID="13" Width="64">
+<cell row="1">
+<value>13.5</value>
+</cell>
+<cell row="3">
+<value>-2.896</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>12</value>
+</cell>
+<cell row="10">
+<value>7</value>
+</cell>
+<cell row="12">
+<value>9</value>
+</cell>
+<cell row="16">
+<value>35</value>
+</cell>
+<cell row="17">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>170</value>
+</cell>
+<cell row="19">
+<value>100</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>6</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>46</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>12</value>
+</cell>
+<cell row="49">
+<value>29</value>
+</cell>
+<cell row="51">
+<value>59</value>
+</cell>
+<cell row="52">
+<value>8</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>4</value>
+</cell>
+<cell row="63">
+<value>7</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>479</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="80">
+<value>11</value>
+</cell>
+<cell row="85">
+<value>2</value>
+</cell>
+<cell row="86">
+<value>1</value>
+</cell>
+<cell row="91">
+<value>3</value>
+</cell>
+<cell row="94">
+<value>10</value>
+</cell>
+<cell row="96">
+<value>1</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="99">
+<value>1</value>
+</cell>
+<cell row="102">
+<value>2</value>
+</cell>
+<cell row="104">
+<value>3</value>
+</cell>
+<cell row="106">
+<value>7</value>
+</cell>
+<cell row="107">
+<value>8</value>
+</cell>
+<cell row="117">
+<value>1</value>
+</cell>
+<cell row="120">
+<value>1</value>
+</cell>
+<cell row="126">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="136">
+<value>2</value>
+</cell>
+<cell row="138">
+<value>3</value>
+</cell>
+<cell row="141">
+<value>56</value>
+</cell>
+<cell row="143">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="14" Width="64">
+<cell row="1">
+<value>14.5</value>
+</cell>
+<cell row="3">
+<value>2.157</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>3</value>
+</cell>
+<cell row="10">
+<value>5</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>11</value>
+</cell>
+<cell row="17">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>59</value>
+</cell>
+<cell row="19">
+<value>39</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>10</value>
+</cell>
+<cell row="25">
+<value>12</value>
+</cell>
+<cell row="35">
+<value>4</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>13</value>
+</cell>
+<cell row="45">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>27</value>
+</cell>
+<cell row="49">
+<value>2</value>
+</cell>
+<cell row="51">
+<value>2</value>
+</cell>
+<cell row="52">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>4</value>
+</cell>
+<cell row="78">
+<value>445</value>
+</cell>
+<cell row="79">
+<value>3</value>
+</cell>
+<cell row="80">
+<value>3</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="86">
+<value>3</value>
+</cell>
+<cell row="92">
+<value>2</value>
+</cell>
+<cell row="94">
+<value>3</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="102">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="106">
+<value>5</value>
+</cell>
+<cell row="107">
+<value>1</value>
+</cell>
+<cell row="120">
+<value>1</value>
+</cell>
+<cell row="130">
+<value>2</value>
+</cell>
+<cell row="136">
+<value>2</value>
+</cell>
+<cell row="141">
+<value>52</value>
+</cell>
+</Col>
+<Col ID="15" Width="64">
+<cell row="1">
+<value>15.5</value>
+</cell>
+<cell row="3">
+<value>7.54</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>18</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="10">
+<value>12</value>
+</cell>
+<cell row="12">
+<value>9</value>
+</cell>
+<cell row="16">
+<value>17</value>
+</cell>
+<cell row="17">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>67</value>
+</cell>
+<cell row="19">
+<value>103</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>19</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="30">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>5</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>31</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>17</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="49">
+<value>39</value>
+</cell>
+<cell row="51">
+<value>50</value>
+</cell>
+<cell row="52">
+<value>15</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>12</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>4</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>554</value>
+</cell>
+<cell row="79">
+<value>12</value>
+</cell>
+<cell row="80">
+<value>4</value>
+</cell>
+<cell row="86">
+<value>1</value>
+</cell>
+<cell row="90">
+<value>1</value>
+</cell>
+<cell row="91">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>4</value>
+</cell>
+<cell row="98">
+<value>2</value>
+</cell>
+<cell row="99">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>2</value>
+</cell>
+<cell row="106">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>2</value>
+</cell>
+<cell row="111">
+<value>1</value>
+</cell>
+<cell row="126">
+<value>1</value>
+</cell>
+<cell row="130">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>116</value>
+</cell>
+<cell row="143">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="16" Width="64">
+<cell row="1">
+<value>16.5</value>
+</cell>
+<cell row="3">
+<value>13.252</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>9</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>5</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="16">
+<value>16</value>
+</cell>
+<cell row="17">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>102</value>
+</cell>
+<cell row="19">
+<value>52</value>
+</cell>
+<cell row="25">
+<value>3</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>20</value>
+</cell>
+<cell row="45">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>10</value>
+</cell>
+<cell row="49">
+<value>6</value>
+</cell>
+<cell row="51">
+<value>12</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>568</value>
+</cell>
+<cell row="79">
+<value>3</value>
+</cell>
+<cell row="80">
+<value>3</value>
+</cell>
+<cell row="85">
+<value>2</value>
+</cell>
+<cell row="86">
+<value>2</value>
+</cell>
+<cell row="91">
+<value>1</value>
+</cell>
+<cell row="99">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="106">
+<value>7</value>
+</cell>
+<cell row="107">
+<value>1</value>
+</cell>
+<cell row="109">
+<value>1</value>
+</cell>
+<cell row="111">
+<value>1</value>
+</cell>
+<cell row="134">
+<value>1</value>
+</cell>
+<cell row="136">
+<value>2</value>
+</cell>
+<cell row="141">
+<value>97</value>
+</cell>
+<cell row="143">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="17" Width="64">
+<cell row="1">
+<value>19.5</value>
+</cell>
+<cell row="3">
+<value>32.364</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>5</value>
+</cell>
+<cell row="10">
+<value>5</value>
+</cell>
+<cell row="12">
+<value>12</value>
+</cell>
+<cell row="16">
+<value>19</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>67</value>
+</cell>
+<cell row="19">
+<value>42</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>14</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>50</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>29</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>8</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>5</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>5</value>
+</cell>
+<cell row="78">
+<value>251</value>
+</cell>
+<cell row="79">
+<value>14</value>
+</cell>
+<cell row="80">
+<value>3</value>
+</cell>
+<cell row="91">
+<value>2</value>
+</cell>
+<cell row="92">
+<value>4</value>
+</cell>
+<cell row="94">
+<value>5</value>
+</cell>
+<cell row="98">
+<value>3</value>
+</cell>
+<cell row="104">
+<value>2</value>
+</cell>
+<cell row="107">
+<value>5</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="125">
+<value>1</value>
+</cell>
+<cell row="127">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>114</value>
+</cell>
+<cell row="143">
+<value>65</value>
+</cell>
+<cell row="144">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="18" Width="64">
+<cell row="1">
+<value>20.5</value>
+</cell>
+<cell row="3">
+<value>39.393</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>15</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>23</value>
+</cell>
+<cell row="12">
+<value>38</value>
+</cell>
+<cell row="16">
+<value>32</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>126</value>
+</cell>
+<cell row="19">
+<value>93</value>
+</cell>
+<cell row="21">
+<value>4</value>
+</cell>
+<cell row="25">
+<value>19</value>
+</cell>
+<cell row="29">
+<value>12</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>106</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="51">
+<value>5</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>28</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>5</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>4</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>163</value>
+</cell>
+<cell row="79">
+<value>19</value>
+</cell>
+<cell row="80">
+<value>14</value>
+</cell>
+<cell row="88">
+<value>2</value>
+</cell>
+<cell row="92">
+<value>4</value>
+</cell>
+<cell row="94">
+<value>21</value>
+</cell>
+<cell row="98">
+<value>3</value>
+</cell>
+<cell row="99">
+<value>2</value>
+</cell>
+<cell row="104">
+<value>6</value>
+</cell>
+<cell row="107">
+<value>6</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="118">
+<value>5</value>
+</cell>
+<cell row="126">
+<value>1</value>
+</cell>
+<cell row="134">
+<value>1</value>
+</cell>
+<cell row="136">
+<value>1</value>
+</cell>
+<cell row="137">
+<value>1</value>
+</cell>
+<cell row="139">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>140</value>
+</cell>
+<cell row="143">
+<value>12</value>
+</cell>
+</Col>
+<Col ID="19" Width="64">
+<cell row="1">
+<value>21.5</value>
+</cell>
+<cell row="3">
+<value>46.751</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>7</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="10">
+<value>11</value>
+</cell>
+<cell row="12">
+<value>35</value>
+</cell>
+<cell row="16">
+<value>26</value>
+</cell>
+<cell row="17">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>104</value>
+</cell>
+<cell row="19">
+<value>53</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>12</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>96</value>
+</cell>
+<cell row="45">
+<value>2</value>
+</cell>
+<cell row="46">
+<value>2</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="52">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>14</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>5</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>4</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>105</value>
+</cell>
+<cell row="79">
+<value>14</value>
+</cell>
+<cell row="80">
+<value>7</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+<cell row="84">
+<value>1</value>
+</cell>
+<cell row="86">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>4</value>
+</cell>
+<cell row="94">
+<value>17</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="100">
+<value>3</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>5</value>
+</cell>
+<cell row="108">
+<value>2</value>
+</cell>
+<cell row="110">
+<value>1</value>
+</cell>
+<cell row="118">
+<value>1</value>
+</cell>
+<cell row="121">
+<value>1</value>
+</cell>
+<cell row="134">
+<value>1</value>
+</cell>
+<cell row="135">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>138</value>
+</cell>
+<cell row="143">
+<value>33</value>
+</cell>
+</Col>
+<Col ID="20" Width="64">
+<cell row="1">
+<value>22.5</value>
+</cell>
+<cell row="3">
+<value>93.346</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>15</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>10</value>
+</cell>
+<cell row="12">
+<value>10</value>
+</cell>
+<cell row="16">
+<value>30</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>100</value>
+</cell>
+<cell row="19">
+<value>54</value>
+</cell>
+<cell row="21">
+<value>5</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>23</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>4</value>
+</cell>
+<cell row="44">
+<value>57</value>
+</cell>
+<cell row="46">
+<value>22</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="51">
+<value>5</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>21</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>7</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>183</value>
+</cell>
+<cell row="79">
+<value>14</value>
+</cell>
+<cell row="80">
+<value>4</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>5</value>
+</cell>
+<cell row="94">
+<value>56</value>
+</cell>
+<cell row="99">
+<value>1</value>
+</cell>
+<cell row="100">
+<value>1</value>
+</cell>
+<cell row="102">
+<value>2</value>
+</cell>
+<cell row="107">
+<value>2</value>
+</cell>
+<cell row="111">
+<value>2</value>
+</cell>
+<cell row="118">
+<value>1</value>
+</cell>
+<cell row="124">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>190</value>
+</cell>
+<cell row="143">
+<value>21</value>
+</cell>
+</Col>
+<Col ID="21" Width="64">
+<cell row="1">
+<value>23.5</value>
+</cell>
+<cell row="3">
+<value>142.038</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>18</value>
+</cell>
+<cell row="9">
+<value>4</value>
+</cell>
+<cell row="10">
+<value>6</value>
+</cell>
+<cell row="12">
+<value>17</value>
+</cell>
+<cell row="16">
+<value>57</value>
+</cell>
+<cell row="17">
+<value>5</value>
+</cell>
+<cell row="18">
+<value>127</value>
+</cell>
+<cell row="19">
+<value>23</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>30</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>4</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>63</value>
+</cell>
+<cell row="45">
+<value>4</value>
+</cell>
+<cell row="46">
+<value>18</value>
+</cell>
+<cell row="47">
+<value>5</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>6</value>
+</cell>
+<cell row="56">
+<value>13</value>
+</cell>
+<cell row="58">
+<value>3</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>5</value>
+</cell>
+<cell row="72">
+<value>3</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>282</value>
+</cell>
+<cell row="79">
+<value>18</value>
+</cell>
+<cell row="80">
+<value>7</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="86">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>1</value>
+</cell>
+<cell row="91">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>2</value>
+</cell>
+<cell row="94">
+<value>65</value>
+</cell>
+<cell row="95">
+<value>1</value>
+</cell>
+<cell row="99">
+<value>1</value>
+</cell>
+<cell row="101">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="105">
+<value>1</value>
+</cell>
+<cell row="106">
+<value>2</value>
+</cell>
+<cell row="107">
+<value>5</value>
+</cell>
+<cell row="111">
+<value>1</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="118">
+<value>2</value>
+</cell>
+<cell row="120">
+<value>1</value>
+</cell>
+<cell row="121">
+<value>1</value>
+</cell>
+<cell row="126">
+<value>2</value>
+</cell>
+<cell row="131">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>4</value>
+</cell>
+<cell row="135">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>480</value>
+</cell>
+<cell row="143">
+<value>21</value>
+</cell>
+</Col>
+<Col ID="22" Width="64">
+<cell row="1">
+<value>24.5</value>
+</cell>
+<cell row="3">
+<value>190.731</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>17</value>
+</cell>
+<cell row="10">
+<value>6</value>
+</cell>
+<cell row="12">
+<value>20</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>41</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>126</value>
+</cell>
+<cell row="19">
+<value>47</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>22</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>62</value>
+</cell>
+<cell row="45">
+<value>2</value>
+</cell>
+<cell row="46">
+<value>14</value>
+</cell>
+<cell row="47">
+<value>4</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="51">
+<value>29</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>10</value>
+</cell>
+<cell row="59">
+<value>5</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>4</value>
+</cell>
+<cell row="72">
+<value>3</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="75">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>268</value>
+</cell>
+<cell row="79">
+<value>15</value>
+</cell>
+<cell row="80">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>2</value>
+</cell>
+<cell row="92">
+<value>6</value>
+</cell>
+<cell row="94">
+<value>24</value>
+</cell>
+<cell row="97">
+<value>1</value>
+</cell>
+<cell row="98">
+<value>3</value>
+</cell>
+<cell row="105">
+<value>2</value>
+</cell>
+<cell row="106">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>6</value>
+</cell>
+<cell row="125">
+<value>1</value>
+</cell>
+<cell row="126">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="134">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>348</value>
+</cell>
+<cell row="143">
+<value>41</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="23" Width="64">
+<cell row="1">
+<value>25.5</value>
+</cell>
+<cell row="3">
+<value>239.423</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>20</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>7</value>
+</cell>
+<cell row="12">
+<value>4</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>46</value>
+</cell>
+<cell row="18">
+<value>90</value>
+</cell>
+<cell row="19">
+<value>34</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>33</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>5</value>
+</cell>
+<cell row="44">
+<value>80</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>21</value>
+</cell>
+<cell row="51">
+<value>6</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>10</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>4</value>
+</cell>
+<cell row="78">
+<value>229</value>
+</cell>
+<cell row="79">
+<value>12</value>
+</cell>
+<cell row="80">
+<value>8</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="88">
+<value>3</value>
+</cell>
+<cell row="92">
+<value>7</value>
+</cell>
+<cell row="94">
+<value>98</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="102">
+<value>1</value>
+</cell>
+<cell row="106">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>9</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="118">
+<value>2</value>
+</cell>
+<cell row="121">
+<value>3</value>
+</cell>
+<cell row="136">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>280</value>
+</cell>
+<cell row="143">
+<value>34</value>
+</cell>
+<cell row="145">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="24" Width="64">
+<cell row="1">
+<value>26.5</value>
+</cell>
+<cell row="3">
+<value>288.115</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>18</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>11</value>
+</cell>
+<cell row="12">
+<value>5</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>77</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>51</value>
+</cell>
+<cell row="19">
+<value>12</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>48</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>26</value>
+</cell>
+<cell row="45">
+<value>2</value>
+</cell>
+<cell row="46">
+<value>8</value>
+</cell>
+<cell row="47">
+<value>5</value>
+</cell>
+<cell row="51">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>9</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>4</value>
+</cell>
+<cell row="72">
+<value>5</value>
+</cell>
+<cell row="78">
+<value>115</value>
+</cell>
+<cell row="79">
+<value>47</value>
+</cell>
+<cell row="80">
+<value>7</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="85">
+<value>2</value>
+</cell>
+<cell row="88">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>5</value>
+</cell>
+<cell row="94">
+<value>30</value>
+</cell>
+<cell row="95">
+<value>1</value>
+</cell>
+<cell row="97">
+<value>1</value>
+</cell>
+<cell row="98">
+<value>2</value>
+</cell>
+<cell row="102">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>7</value>
+</cell>
+<cell row="111">
+<value>1</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="118">
+<value>1</value>
+</cell>
+<cell row="129">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="135">
+<value>2</value>
+</cell>
+<cell row="138">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>275</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="25" Width="64">
+<cell row="1">
+<value>27.5</value>
+</cell>
+<cell row="3">
+<value>336.808</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>27</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>34</value>
+</cell>
+<cell row="12">
+<value>7</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>78</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>70</value>
+</cell>
+<cell row="19">
+<value>39</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>44</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>3</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>40</value>
+</cell>
+<cell row="45">
+<value>2</value>
+</cell>
+<cell row="46">
+<value>10</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>11</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>7</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>4</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>4</value>
+</cell>
+<cell row="78">
+<value>64</value>
+</cell>
+<cell row="79">
+<value>54</value>
+</cell>
+<cell row="80">
+<value>15</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="86">
+<value>2</value>
+</cell>
+<cell row="88">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>3</value>
+</cell>
+<cell row="94">
+<value>11</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="99">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>4</value>
+</cell>
+<cell row="107">
+<value>14</value>
+</cell>
+<cell row="121">
+<value>2</value>
+</cell>
+<cell row="122">
+<value>1</value>
+</cell>
+<cell row="126">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>2</value>
+</cell>
+<cell row="141">
+<value>100</value>
+</cell>
+<cell row="142">
+<value>1</value>
+</cell>
+<cell row="143">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="26" Width="64">
+<cell row="1">
+<value>28.5</value>
+</cell>
+<cell row="3">
+<value>385.5</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>28</value>
+</cell>
+<cell row="9">
+<value>4</value>
+</cell>
+<cell row="10">
+<value>26</value>
+</cell>
+<cell row="12">
+<value>11</value>
+</cell>
+<cell row="16">
+<value>102</value>
+</cell>
+<cell row="17">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>33</value>
+</cell>
+<cell row="19">
+<value>11</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>47</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="32">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>43</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>10</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>8</value>
+</cell>
+<cell row="59">
+<value>4</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>91</value>
+</cell>
+<cell row="79">
+<value>69</value>
+</cell>
+<cell row="80">
+<value>16</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="91">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>3</value>
+</cell>
+<cell row="94">
+<value>15</value>
+</cell>
+<cell row="98">
+<value>4</value>
+</cell>
+<cell row="102">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>2</value>
+</cell>
+<cell row="107">
+<value>6</value>
+</cell>
+<cell row="132">
+<value>3</value>
+</cell>
+<cell row="140">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>226</value>
+</cell>
+<cell row="142">
+<value>4</value>
+</cell>
+<cell row="143">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="27" Width="64">
+<cell row="1">
+<value>29.5</value>
+</cell>
+<cell row="3">
+<value>515.667</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>24</value>
+</cell>
+<cell row="9">
+<value>6</value>
+</cell>
+<cell row="10">
+<value>24</value>
+</cell>
+<cell row="12">
+<value>6</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>93</value>
+</cell>
+<cell row="18">
+<value>46</value>
+</cell>
+<cell row="19">
+<value>8</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>40</value>
+</cell>
+<cell row="28">
+<value>6</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>4</value>
+</cell>
+<cell row="44">
+<value>47</value>
+</cell>
+<cell row="46">
+<value>7</value>
+</cell>
+<cell row="51">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>6</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>128</value>
+</cell>
+<cell row="79">
+<value>56</value>
+</cell>
+<cell row="80">
+<value>8</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>2</value>
+</cell>
+<cell row="103">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="105">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>12</value>
+</cell>
+<cell row="114">
+<value>3</value>
+</cell>
+<cell row="116">
+<value>1</value>
+</cell>
+<cell row="121">
+<value>2</value>
+</cell>
+<cell row="124">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>107</value>
+</cell>
+<cell row="142">
+<value>1</value>
+</cell>
+<cell row="143">
+<value>4</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="28" Width="64">
+<cell row="1">
+<value>30.5</value>
+</cell>
+<cell row="3">
+<value>645.833</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>13</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>25</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>110</value>
+</cell>
+<cell row="17">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>38</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>43</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>4</value>
+</cell>
+<cell row="44">
+<value>46</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>7</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>17</value>
+</cell>
+<cell row="52">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>6</value>
+</cell>
+<cell row="78">
+<value>249</value>
+</cell>
+<cell row="79">
+<value>55</value>
+</cell>
+<cell row="80">
+<value>9</value>
+</cell>
+<cell row="92">
+<value>7</value>
+</cell>
+<cell row="94">
+<value>19</value>
+</cell>
+<cell row="105">
+<value>2</value>
+</cell>
+<cell row="106">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>11</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="118">
+<value>1</value>
+</cell>
+<cell row="124">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>2</value>
+</cell>
+<cell row="141">
+<value>302</value>
+</cell>
+<cell row="143">
+<value>22</value>
+</cell>
+<cell row="145">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="29" Width="64">
+<cell row="1">
+<value>31.5</value>
+</cell>
+<cell row="3">
+<value>776</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>61</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="10">
+<value>15</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>119</value>
+</cell>
+<cell row="18">
+<value>46</value>
+</cell>
+<cell row="19">
+<value>4</value>
+</cell>
+<cell row="25">
+<value>45</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>5</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>48</value>
+</cell>
+<cell row="46">
+<value>5</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="52">
+<value>7</value>
+</cell>
+<cell row="56">
+<value>8</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>3</value>
+</cell>
+<cell row="63">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>129</value>
+</cell>
+<cell row="79">
+<value>49</value>
+</cell>
+<cell row="80">
+<value>10</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="93">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>7</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="100">
+<value>1</value>
+</cell>
+<cell row="105">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>18</value>
+</cell>
+<cell row="113">
+<value>1</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="135">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>114</value>
+</cell>
+<cell row="143">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="30" Width="64">
+<cell row="1">
+<value>32.5</value>
+</cell>
+<cell row="3">
+<value>820.071</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>55</value>
+</cell>
+<cell row="9">
+<value>5</value>
+</cell>
+<cell row="10">
+<value>20</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>117</value>
+</cell>
+<cell row="18">
+<value>46</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>40</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>6</value>
+</cell>
+<cell row="44">
+<value>51</value>
+</cell>
+<cell row="46">
+<value>6</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>98</value>
+</cell>
+<cell row="79">
+<value>37</value>
+</cell>
+<cell row="80">
+<value>9</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>2</value>
+</cell>
+<cell row="94">
+<value>12</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="105">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>11</value>
+</cell>
+<cell row="133">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>127</value>
+</cell>
+<cell row="143">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="31" Width="64">
+<cell row="1">
+<value>33.5</value>
+</cell>
+<cell row="3">
+<value>864.143</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>50</value>
+</cell>
+<cell row="9">
+<value>9</value>
+</cell>
+<cell row="10">
+<value>21</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="16">
+<value>119</value>
+</cell>
+<cell row="18">
+<value>89</value>
+</cell>
+<cell row="19">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>29</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="33">
+<value>8</value>
+</cell>
+<cell row="38">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>4</value>
+</cell>
+<cell row="44">
+<value>25</value>
+</cell>
+<cell row="46">
+<value>5</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="52">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>3</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>77</value>
+</cell>
+<cell row="79">
+<value>54</value>
+</cell>
+<cell row="80">
+<value>15</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>10</value>
+</cell>
+<cell row="98">
+<value>3</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>9</value>
+</cell>
+<cell row="130">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>172</value>
+</cell>
+<cell row="143">
+<value>24</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+<cell row="147">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="32" Width="64">
+<cell row="1">
+<value>35.5</value>
+</cell>
+<cell row="3">
+<value>952.286</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>25</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>9</value>
+</cell>
+<cell row="12">
+<value>7</value>
+</cell>
+<cell row="16">
+<value>114</value>
+</cell>
+<cell row="18">
+<value>51</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>31</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>14</value>
+</cell>
+<cell row="46">
+<value>3</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>3</value>
+</cell>
+<cell row="52">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>114</value>
+</cell>
+<cell row="79">
+<value>32</value>
+</cell>
+<cell row="80">
+<value>22</value>
+</cell>
+<cell row="91">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>4</value>
+</cell>
+<cell row="95">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>16</value>
+</cell>
+<cell row="110">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>60</value>
+</cell>
+<cell row="143">
+<value>15</value>
+</cell>
+</Col>
+<Col ID="33" Width="64">
+<cell row="1">
+<value>36.5</value>
+</cell>
+<cell row="3">
+<value>996.357</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>55</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>17</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>125</value>
+</cell>
+<cell row="18">
+<value>72</value>
+</cell>
+<cell row="19">
+<value>5</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>33</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>7</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>15</value>
+</cell>
+<cell row="46">
+<value>4</value>
+</cell>
+<cell row="51">
+<value>3</value>
+</cell>
+<cell row="52">
+<value>4</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>100</value>
+</cell>
+<cell row="79">
+<value>25</value>
+</cell>
+<cell row="80">
+<value>20</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>1</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="102">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>16</value>
+</cell>
+<cell row="113">
+<value>1</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="135">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>46</value>
+</cell>
+<cell row="142">
+<value>1</value>
+</cell>
+<cell row="143">
+<value>20</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="34" Width="64">
+<cell row="1">
+<value>37.5</value>
+</cell>
+<cell row="3">
+<value>1040.429</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>21</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>9</value>
+</cell>
+<cell row="12">
+<value>7</value>
+</cell>
+<cell row="16">
+<value>115</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>66</value>
+</cell>
+<cell row="19">
+<value>5</value>
+</cell>
+<cell row="25">
+<value>28</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>22</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>3</value>
+</cell>
+<cell row="51">
+<value>12</value>
+</cell>
+<cell row="52">
+<value>6</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>186</value>
+</cell>
+<cell row="79">
+<value>22</value>
+</cell>
+<cell row="80">
+<value>17</value>
+</cell>
+<cell row="94">
+<value>7</value>
+</cell>
+<cell row="100">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>18</value>
+</cell>
+<cell row="130">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>85</value>
+</cell>
+<cell row="143">
+<value>35</value>
+</cell>
+<cell row="145">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="35" Width="64">
+<cell row="1">
+<value>38.5</value>
+</cell>
+<cell row="3">
+<value>1084.5</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>29</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>21</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="16">
+<value>144</value>
+</cell>
+<cell row="18">
+<value>90</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>16</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>15</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>12</value>
+</cell>
+<cell row="52">
+<value>13</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>149</value>
+</cell>
+<cell row="79">
+<value>34</value>
+</cell>
+<cell row="80">
+<value>14</value>
+</cell>
+<cell row="85">
+<value>2</value>
+</cell>
+<cell row="94">
+<value>2</value>
+</cell>
+<cell row="104">
+<value>3</value>
+</cell>
+<cell row="105">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>26</value>
+</cell>
+<cell row="114">
+<value>2</value>
+</cell>
+<cell row="121">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>60</value>
+</cell>
+<cell row="143">
+<value>17</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="36" Width="64">
+<cell row="1">
+<value>39.5</value>
+</cell>
+<cell row="3">
+<value>1163.8</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>60</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>26</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>174</value>
+</cell>
+<cell row="18">
+<value>105</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>16</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>9</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>25</value>
+</cell>
+<cell row="46">
+<value>3</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>6</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>86</value>
+</cell>
+<cell row="79">
+<value>31</value>
+</cell>
+<cell row="80">
+<value>15</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>2</value>
+</cell>
+<cell row="94">
+<value>3</value>
+</cell>
+<cell row="102">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>37</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>14</value>
+</cell>
+<cell row="143">
+<value>21</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="37" Width="64">
+<cell row="1">
+<value>40.5</value>
+</cell>
+<cell row="3">
+<value>1243.1</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>18</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>16</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="16">
+<value>164</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>79</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>20</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>4</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>31</value>
+</cell>
+<cell row="51">
+<value>5</value>
+</cell>
+<cell row="52">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>3</value>
+</cell>
+<cell row="78">
+<value>219</value>
+</cell>
+<cell row="79">
+<value>38</value>
+</cell>
+<cell row="80">
+<value>18</value>
+</cell>
+<cell row="88">
+<value>2</value>
+</cell>
+<cell row="92">
+<value>2</value>
+</cell>
+<cell row="94">
+<value>5</value>
+</cell>
+<cell row="107">
+<value>31</value>
+</cell>
+<cell row="125">
+<value>2</value>
+</cell>
+<cell row="132">
+<value>2</value>
+</cell>
+<cell row="141">
+<value>37</value>
+</cell>
+<cell row="143">
+<value>34</value>
+</cell>
+</Col>
+<Col ID="38" Width="64">
+<cell row="1">
+<value>42.5</value>
+</cell>
+<cell row="3">
+<value>1401.7</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>43</value>
+</cell>
+<cell row="9">
+<value>6</value>
+</cell>
+<cell row="10">
+<value>4</value>
+</cell>
+<cell row="12">
+<value>6</value>
+</cell>
+<cell row="16">
+<value>144</value>
+</cell>
+<cell row="18">
+<value>59</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>23</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="38">
+<value>2</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>39</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>21</value>
+</cell>
+<cell row="56">
+<value>9</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>90</value>
+</cell>
+<cell row="79">
+<value>23</value>
+</cell>
+<cell row="80">
+<value>26</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>5</value>
+</cell>
+<cell row="104">
+<value>2</value>
+</cell>
+<cell row="107">
+<value>15</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>122</value>
+</cell>
+<cell row="143">
+<value>9</value>
+</cell>
+<cell row="144">
+<value>1</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="39" Width="64">
+<cell row="1">
+<value>43.5</value>
+</cell>
+<cell row="3">
+<value>1477.737</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>56</value>
+</cell>
+<cell row="9">
+<value>7</value>
+</cell>
+<cell row="10">
+<value>10</value>
+</cell>
+<cell row="12">
+<value>7</value>
+</cell>
+<cell row="16">
+<value>214</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>79</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>36</value>
+</cell>
+<cell row="33">
+<value>4</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>5</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>50</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>2</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>14</value>
+</cell>
+<cell row="52">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="63">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>95</value>
+</cell>
+<cell row="79">
+<value>38</value>
+</cell>
+<cell row="80">
+<value>30</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="91">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>6</value>
+</cell>
+<cell row="98">
+<value>5</value>
+</cell>
+<cell row="104">
+<value>2</value>
+</cell>
+<cell row="105">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>21</value>
+</cell>
+<cell row="111">
+<value>1</value>
+</cell>
+<cell row="121">
+<value>1</value>
+</cell>
+<cell row="124">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>109</value>
+</cell>
+<cell row="143">
+<value>6</value>
+</cell>
+<cell row="145">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="40" Width="64">
+<cell row="1">
+<value>44.5</value>
+</cell>
+<cell row="3">
+<value>1491.185</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>46</value>
+</cell>
+<cell row="10">
+<value>14</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="16">
+<value>170</value>
+</cell>
+<cell row="18">
+<value>55</value>
+</cell>
+<cell row="19">
+<value>8</value>
+</cell>
+<cell row="25">
+<value>40</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="38">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>28</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>16</value>
+</cell>
+<cell row="52">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>6</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>4</value>
+</cell>
+<cell row="78">
+<value>66</value>
+</cell>
+<cell row="79">
+<value>24</value>
+</cell>
+<cell row="80">
+<value>15</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>3</value>
+</cell>
+<cell row="107">
+<value>22</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="117">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="134">
+<value>1</value>
+</cell>
+<cell row="135">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>42</value>
+</cell>
+<cell row="143">
+<value>11</value>
+</cell>
+<cell row="144">
+<value>1</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="41" Width="64">
+<cell row="1">
+<value>45.5</value>
+</cell>
+<cell row="3">
+<value>1505.383</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>40</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>21</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>132</value>
+</cell>
+<cell row="18">
+<value>67</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>21</value>
+</cell>
+<cell row="33">
+<value>7</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>13</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="49">
+<value>9</value>
+</cell>
+<cell row="51">
+<value>12</value>
+</cell>
+<cell row="52">
+<value>17</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="68">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>53</value>
+</cell>
+<cell row="79">
+<value>27</value>
+</cell>
+<cell row="80">
+<value>35</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>4</value>
+</cell>
+<cell row="107">
+<value>22</value>
+</cell>
+<cell row="141">
+<value>40</value>
+</cell>
+<cell row="143">
+<value>35</value>
+</cell>
+<cell row="145">
+<value>4</value>
+</cell>
+</Col>
+<Col ID="42" Width="64">
+<cell row="1">
+<value>46.5</value>
+</cell>
+<cell row="3">
+<value>1520.33</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>38</value>
+</cell>
+<cell row="9">
+<value>3</value>
+</cell>
+<cell row="10">
+<value>30</value>
+</cell>
+<cell row="12">
+<value>9</value>
+</cell>
+<cell row="16">
+<value>151</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>41</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>45</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>7</value>
+</cell>
+<cell row="44">
+<value>13</value>
+</cell>
+<cell row="46">
+<value>2</value>
+</cell>
+<cell row="49">
+<value>15</value>
+</cell>
+<cell row="51">
+<value>8</value>
+</cell>
+<cell row="52">
+<value>3</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>131</value>
+</cell>
+<cell row="79">
+<value>43</value>
+</cell>
+<cell row="80">
+<value>30</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>6</value>
+</cell>
+<cell row="107">
+<value>45</value>
+</cell>
+<cell row="141">
+<value>36</value>
+</cell>
+<cell row="143">
+<value>36</value>
+</cell>
+</Col>
+<Col ID="43" Width="64">
+<cell row="1">
+<value>47.5</value>
+</cell>
+<cell row="3">
+<value>1536.025</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>10</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>28</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>200</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>24</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>47</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>4</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>17</value>
+</cell>
+<cell row="49">
+<value>12</value>
+</cell>
+<cell row="51">
+<value>21</value>
+</cell>
+<cell row="52">
+<value>14</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>145</value>
+</cell>
+<cell row="79">
+<value>28</value>
+</cell>
+<cell row="80">
+<value>34</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>1</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>2</value>
+</cell>
+<cell row="107">
+<value>16</value>
+</cell>
+<cell row="141">
+<value>48</value>
+</cell>
+<cell row="143">
+<value>26</value>
+</cell>
+</Col>
+<Col ID="44" Width="64">
+<cell row="1">
+<value>48.5</value>
+</cell>
+<cell row="3">
+<value>1552.47</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>9</value>
+</cell>
+<cell row="10">
+<value>41</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="16">
+<value>178</value>
+</cell>
+<cell row="18">
+<value>26</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>34</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>6</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>12</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>4</value>
+</cell>
+<cell row="51">
+<value>13</value>
+</cell>
+<cell row="52">
+<value>5</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>128</value>
+</cell>
+<cell row="79">
+<value>27</value>
+</cell>
+<cell row="80">
+<value>26</value>
+</cell>
+<cell row="85">
+<value>2</value>
+</cell>
+<cell row="94">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>6</value>
+</cell>
+<cell row="105">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>34</value>
+</cell>
+<cell row="123">
+<value>1</value>
+</cell>
+<cell row="125">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>23</value>
+</cell>
+<cell row="143">
+<value>30</value>
+</cell>
+</Col>
+<Col ID="45" Width="64">
+<cell row="1">
+<value>49.5</value>
+</cell>
+<cell row="3">
+<value>1569.663</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>9</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>23</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>3</value>
+</cell>
+<cell row="16">
+<value>150</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>27</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>41</value>
+</cell>
+<cell row="28">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>5</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>14</value>
+</cell>
+<cell row="49">
+<value>10</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="52">
+<value>4</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>170</value>
+</cell>
+<cell row="79">
+<value>26</value>
+</cell>
+<cell row="80">
+<value>16</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="87">
+<value>1</value>
+</cell>
+<cell row="89">
+<value>1</value>
+</cell>
+<cell row="92">
+<value>1</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>40</value>
+</cell>
+<cell row="141">
+<value>17</value>
+</cell>
+<cell row="143">
+<value>30</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="46" Width="64">
+<cell row="1">
+<value>50.5</value>
+</cell>
+<cell row="3">
+<value>1587.606</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>5</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>14</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>122</value>
+</cell>
+<cell row="18">
+<value>27</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>33</value>
+</cell>
+<cell row="28">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>9</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>8</value>
+</cell>
+<cell row="49">
+<value>31</value>
+</cell>
+<cell row="51">
+<value>7</value>
+</cell>
+<cell row="52">
+<value>11</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>362</value>
+</cell>
+<cell row="79">
+<value>28</value>
+</cell>
+<cell row="80">
+<value>14</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>22</value>
+</cell>
+<cell row="141">
+<value>76</value>
+</cell>
+<cell row="143">
+<value>44</value>
+</cell>
+<cell row="145">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="47" Width="64">
+<cell row="1">
+<value>63.5</value>
+</cell>
+<cell row="3">
+<value>1889.02</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>20</value>
+</cell>
+<cell row="10">
+<value>40</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>154</value>
+</cell>
+<cell row="18">
+<value>28</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="25">
+<value>63</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>23</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>90</value>
+</cell>
+<cell row="79">
+<value>22</value>
+</cell>
+<cell row="80">
+<value>2</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>7</value>
+</cell>
+<cell row="100">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>2</value>
+</cell>
+<cell row="105">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>28</value>
+</cell>
+<cell row="112">
+<value>1</value>
+</cell>
+<cell row="128">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>73</value>
+</cell>
+<cell row="143">
+<value>1</value>
+</cell>
+<cell row="145">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="48" Width="64">
+<cell row="1">
+<value>64.5</value>
+</cell>
+<cell row="3">
+<value>1917.449</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>37</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="10">
+<value>47</value>
+</cell>
+<cell row="12">
+<value>6</value>
+</cell>
+<cell row="16">
+<value>155</value>
+</cell>
+<cell row="18">
+<value>21</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="25">
+<value>57</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>32</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>7</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>4</value>
+</cell>
+<cell row="63">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>52</value>
+</cell>
+<cell row="79">
+<value>25</value>
+</cell>
+<cell row="80">
+<value>11</value>
+</cell>
+<cell row="94">
+<value>6</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>33</value>
+</cell>
+<cell row="115">
+<value>1</value>
+</cell>
+<cell row="137">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>65</value>
+</cell>
+<cell row="143">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="49" Width="64">
+<cell row="1">
+<value>65.5</value>
+</cell>
+<cell row="3">
+<value>1946.626</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>38</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="10">
+<value>37</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>176</value>
+</cell>
+<cell row="18">
+<value>39</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>61</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>7</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>2</value>
+</cell>
+<cell row="44">
+<value>17</value>
+</cell>
+<cell row="51">
+<value>6</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>8</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>37</value>
+</cell>
+<cell row="79">
+<value>26</value>
+</cell>
+<cell row="80">
+<value>4</value>
+</cell>
+<cell row="94">
+<value>17</value>
+</cell>
+<cell row="105">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>36</value>
+</cell>
+<cell row="132">
+<value>2</value>
+</cell>
+<cell row="141">
+<value>59</value>
+</cell>
+<cell row="143">
+<value>1</value>
+</cell>
+<cell row="146">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="50" Width="64">
+<cell row="1">
+<value>66.5</value>
+</cell>
+<cell row="3">
+<value>1976.553</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>39</value>
+</cell>
+<cell row="9">
+<value>4</value>
+</cell>
+<cell row="10">
+<value>52</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>133</value>
+</cell>
+<cell row="18">
+<value>46</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>72</value>
+</cell>
+<cell row="27">
+<value>2</value>
+</cell>
+<cell row="28">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>40</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>3</value>
+</cell>
+<cell row="51">
+<value>28</value>
+</cell>
+<cell row="52">
+<value>6</value>
+</cell>
+<cell row="56">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>80</value>
+</cell>
+<cell row="79">
+<value>38</value>
+</cell>
+<cell row="80">
+<value>2</value>
+</cell>
+<cell row="98">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>43</value>
+</cell>
+<cell row="110">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>1</value>
+</cell>
+<cell row="140">
+<value>1</value>
+</cell>
+<cell row="141">
+<value>97</value>
+</cell>
+<cell row="143">
+<value>7</value>
+</cell>
+<cell row="145">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="51" Width="64">
+<cell row="1">
+<value>67.5</value>
+</cell>
+<cell row="3">
+<value>1991.797</value>
+</cell>
+<cell row="4">
+<value>1</value>
+</cell>
+<cell row="5">
+<text>van Leeuwen, J.F.N.</text>
+<contact ID="5"/>
+</cell>
+<cell row="6">
+<date>37257</date>
+</cell>
+<cell row="8">
+<value>99</value>
+</cell>
+<cell row="9">
+<value>5</value>
+</cell>
+<cell row="10">
+<value>14</value>
+</cell>
+<cell row="12">
+<value>7</value>
+</cell>
+<cell row="16">
+<value>114</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>63</value>
+</cell>
+<cell row="19">
+<value>3</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>65</value>
+</cell>
+<cell row="28">
+<value>3</value>
+</cell>
+<cell row="33">
+<value>6</value>
+</cell>
+<cell row="44">
+<value>40</value>
+</cell>
+<cell row="48">
+<value>3</value>
+</cell>
+<cell row="49">
+<value>10</value>
+</cell>
+<cell row="51">
+<value>9</value>
+</cell>
+<cell row="52">
+<value>7</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="56">
+<value>9</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="59">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>10679</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>39</value>
+</cell>
+<cell row="79">
+<value>26</value>
+</cell>
+<cell row="80">
+<value>4</value>
+</cell>
+<cell row="89">
+<value>1</value>
+</cell>
+<cell row="94">
+<value>1</value>
+</cell>
+<cell row="98">
+<value>2</value>
+</cell>
+<cell row="100">
+<value>1</value>
+</cell>
+<cell row="102">
+<value>1</value>
+</cell>
+<cell row="104">
+<value>1</value>
+</cell>
+<cell row="107">
+<value>23</value>
+</cell>
+<cell row="114">
+<value>1</value>
+</cell>
+<cell row="121">
+<value>1</value>
+</cell>
+<cell row="125">
+<value>1</value>
+</cell>
+<cell row="132">
+<value>2</value>
+</cell>
+<cell row="141">
+<value>33</value>
+</cell>
+<cell row="143">
+<value>8</value>
+</cell>
+<cell row="145">
+<value>2</value>
+</cell>
+</Col>
+</SpreadSheet>
+</SpreadSheetBook>
+<Site>
+<SiteName>Etang de la Gruère</SiteName>
+<LongEast>7.05</LongEast>
+<LongWest>7.05</LongWest>
+<LatNorth>47.240556</LatNorth>
+<LatSouth>47.240556</LatSouth>
+<Altitude>1005</Altitude>
+<Area>22.5</Area>
+<Country>Switzerland</Country>
+<State>Jura</State>
+<SiteDescription>Ombrotrophic bog with Pinus uncinata.</SiteDescription>
+</Site>
+<CollectionUnit>
+<Handle>EGR2G</Handle>
+<CollectionName>Etang de la Gruère EGr2G</CollectionName>
+<CollectionType>Core</CollectionType>
+<CollectionDevice>Wardenaar corer 10 cm diameter</CollectionDevice>
+<Collectors>
+<Contact ID="3"/>
+</Collectors>
+<Location>Treeless area in centre of raised part</Location>
+<DepositionalEnvironment>Bog</DepositionalEnvironment>
+<WaterDepth>0</WaterDepth>
+</CollectionUnit>
+<Datasets>
+<Dataset>
+<DatasetType>pollen</DatasetType>
+<Name>EPD E# 1085</Name>
+<Notes>Data contributed by ALPADABA via van der Knaap W. O. (Pim).</Notes>
+<IsSSamp>True</IsSSamp>
+<IsAggregate>False</IsAggregate>
+<Investigators>
+<Contact ID="4"/>
+</Investigators>
+<Processors>
+<Contact ID="1"/>
+</Processors>
+<Publications>
+<Publication ID="1"/>
+<Publication ID="2"/>
+</Publications>
+</Dataset>
+</Datasets>
+<GeochronDataset>
+<Investigators>
+<Contact ID="4"/>
+</Investigators>
+<Geochronology AnalysisUnitID="Depth">
+<GeochronSample ID="1">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>0</Depth>
+<Thickness>1</Thickness>
+<Age>1991</Age>
+<ErrorOlder>0</ErrorOlder>
+<ErrorYounger>0</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>0</StdDev>
+<GreaterThan>False</GreaterThan>
+<Notes>Dating method: year of collection</Notes>
+</GeochronSample>
+<GeochronSample ID="2">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>1</Depth>
+<Thickness>1</Thickness>
+<Age>1991</Age>
+<ErrorOlder>2</ErrorOlder>
+<ErrorYounger>2</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>2</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="3">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>2</Depth>
+<Thickness>1</Thickness>
+<Age>1988</Age>
+<ErrorOlder>2</ErrorOlder>
+<ErrorYounger>2</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>2</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="4">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>3</Depth>
+<Thickness>1</Thickness>
+<Age>1987</Age>
+<ErrorOlder>2</ErrorOlder>
+<ErrorYounger>2</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>2</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="5">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>4</Depth>
+<Thickness>1</Thickness>
+<Age>1985</Age>
+<ErrorOlder>2</ErrorOlder>
+<ErrorYounger>2</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>2</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="6">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>5</Depth>
+<Thickness>1</Thickness>
+<Age>1983</Age>
+<ErrorOlder>2</ErrorOlder>
+<ErrorYounger>2</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>2</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="7">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>6</Depth>
+<Thickness>1</Thickness>
+<Age>1981</Age>
+<ErrorOlder>2</ErrorOlder>
+<ErrorYounger>2</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>2</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="8">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>7</Depth>
+<Thickness>1</Thickness>
+<Age>1977</Age>
+<ErrorOlder>2</ErrorOlder>
+<ErrorYounger>2</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>2</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="9">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>8</Depth>
+<Thickness>1</Thickness>
+<Age>1973</Age>
+<ErrorOlder>2</ErrorOlder>
+<ErrorYounger>2</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>2</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="10">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>9</Depth>
+<Thickness>1</Thickness>
+<Age>1968</Age>
+<ErrorOlder>2</ErrorOlder>
+<ErrorYounger>2</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>2</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="11">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>10</Depth>
+<Thickness>1</Thickness>
+<Age>1963</Age>
+<ErrorOlder>3</ErrorOlder>
+<ErrorYounger>3</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>3</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="12">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>10.5</Depth>
+<Thickness>1</Thickness>
+<Age>1963</Age>
+<ErrorOlder>0</ErrorOlder>
+<ErrorYounger>0</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>0</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="13">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>11</Depth>
+<Thickness>1</Thickness>
+<Age>1959</Age>
+<ErrorOlder>3</ErrorOlder>
+<ErrorYounger>3</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>3</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="14">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>12</Depth>
+<Thickness>1</Thickness>
+<Age>1956</Age>
+<ErrorOlder>3</ErrorOlder>
+<ErrorYounger>3</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>3</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="15">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>13</Depth>
+<Thickness>1</Thickness>
+<Age>1953</Age>
+<ErrorOlder>3</ErrorOlder>
+<ErrorYounger>3</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>3</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="16">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>14</Depth>
+<Thickness>1</Thickness>
+<Age>1950</Age>
+<ErrorOlder>4</ErrorOlder>
+<ErrorYounger>4</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>4</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="17">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>15</Depth>
+<Thickness>1</Thickness>
+<Age>1947</Age>
+<ErrorOlder>4</ErrorOlder>
+<ErrorYounger>4</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>4</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="18">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>16</Depth>
+<Thickness>1</Thickness>
+<Age>1945</Age>
+<ErrorOlder>4</ErrorOlder>
+<ErrorYounger>4</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>4</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="19">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>17</Depth>
+<Thickness>1</Thickness>
+<Age>1943</Age>
+<ErrorOlder>4</ErrorOlder>
+<ErrorYounger>4</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>4</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="20">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>18</Depth>
+<Thickness>1</Thickness>
+<Age>1940</Age>
+<ErrorOlder>4</ErrorOlder>
+<ErrorYounger>4</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>4</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="21">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>19</Depth>
+<Thickness>1</Thickness>
+<Age>1932</Age>
+<ErrorOlder>6</ErrorOlder>
+<ErrorYounger>6</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>6</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="22">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>20</Depth>
+<Thickness>1</Thickness>
+<Age>1919</Age>
+<ErrorOlder>8</ErrorOlder>
+<ErrorYounger>8</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>8</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="23">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>21</Depth>
+<Thickness>1</Thickness>
+<Age>1902</Age>
+<ErrorOlder>12</ErrorOlder>
+<ErrorYounger>12</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>12</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="24">
+<Method>Lead-210</Method>
+<AgeUnits>Calendar years AD/BC</AgeUnits>
+<Depth>22</Depth>
+<Thickness>1</Thickness>
+<Age>1881</Age>
+<ErrorOlder>18</ErrorOlder>
+<ErrorYounger>18</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>18</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>powdered bulk sample</MaterialDated>
+<Notes>Dating method: 210P CRS model</Notes>
+</GeochronSample>
+<GeochronSample ID="25">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>28.5</Depth>
+<Thickness>1</Thickness>
+<LabNumber>ETH-23766</LabNumber>
+<Age>300</Age>
+<ErrorOlder>65</ErrorOlder>
+<ErrorYounger>65</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>65</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>Moss leaves</MaterialDated>
+<Notes>Dating method: conventional 14C</Notes>
+</GeochronSample>
+<GeochronSample ID="26">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>31.5</Depth>
+<Thickness>1</Thickness>
+<LabNumber>ETH-24510</LabNumber>
+<Age>975</Age>
+<ErrorOlder>45</ErrorOlder>
+<ErrorYounger>45</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>45</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>Sphagnum</MaterialDated>
+<Notes>Dating method: conventional 14C</Notes>
+</GeochronSample>
+<GeochronSample ID="27">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>38.5</Depth>
+<Thickness>1</Thickness>
+<LabNumber>ETH-23768</LabNumber>
+<Age>1010</Age>
+<ErrorOlder>90</ErrorOlder>
+<ErrorYounger>90</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>90</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>Sphagnum</MaterialDated>
+<Notes>Dating method: conventional 14C</Notes>
+</GeochronSample>
+<GeochronSample ID="28">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>43.5</Depth>
+<Thickness>1</Thickness>
+<LabNumber>ETH-24717</LabNumber>
+<Age>1610</Age>
+<ErrorOlder>50</ErrorOlder>
+<ErrorYounger>50</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>50</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>Sphagnum</MaterialDated>
+<Notes>Dating method: conventional 14C</Notes>
+</GeochronSample>
+<GeochronSample ID="29">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>52.5</Depth>
+<Thickness>1</Thickness>
+<LabNumber>ETH-23770</LabNumber>
+<Age>1710</Age>
+<ErrorOlder>55</ErrorOlder>
+<ErrorYounger>55</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>55</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>Sphagnum</MaterialDated>
+<Notes>Dating method: conventional 14C</Notes>
+</GeochronSample>
+<GeochronSample ID="30">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>60.5</Depth>
+<Thickness>1</Thickness>
+<LabNumber>ETH-23771</LabNumber>
+<Age>1890</Age>
+<ErrorOlder>60</ErrorOlder>
+<ErrorYounger>60</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>60</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>Sphagnum and other moss</MaterialDated>
+<Notes>Dating method: conventional 14C</Notes>
+</GeochronSample>
+<GeochronSample ID="31">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>67.5</Depth>
+<Thickness>1</Thickness>
+<LabNumber>ETH-23772</LabNumber>
+<Age>2040</Age>
+<ErrorOlder>70</ErrorOlder>
+<ErrorYounger>70</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>70</StdDev>
+<GreaterThan>False</GreaterThan>
+<MaterialDated>Sphagnum</MaterialDated>
+<Notes>Dating method: conventional 14C</Notes>
+</GeochronSample>
+</Geochronology>
+</GeochronDataset>
+<AgeModels AnalysisUnitID="Depth">
+<AgeModel>
+<ChronNumber>1</ChronNumber>
+<ChronologyName>Chron1</ChronologyName>
+<AgeUnits>Calendar years BP</AgeUnits>
+<Default>True</Default>
+<DatePrepared>43384</DatePrepared>
+<Model>ALPADABA; Second-degree polynomial and linear regressions</Model>
+<AgeBoundOlder>2000</AgeBoundOlder>
+<AgeBoundYounger>-40</AgeBoundYounger>
+<PreparersText>Morales del Molino, C.</PreparersText>
+<Preparers>
+<Contact ID="1"/>
+</Preparers>
+<ChronControls>
+<ChronControl>
+<ControlType>Core top</ControlType>
+<Depth>0</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-41</Age>
+<AgeLimitOlder>-40</AgeLimitOlder>
+<AgeLimitYounger>-42</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>1</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-41</Age>
+<AgeLimitOlder>-39</AgeLimitOlder>
+<AgeLimitYounger>-43</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>2</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-38</Age>
+<AgeLimitOlder>-36</AgeLimitOlder>
+<AgeLimitYounger>-40</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>3</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-37</Age>
+<AgeLimitOlder>-35</AgeLimitOlder>
+<AgeLimitYounger>-39</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>4</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-35</Age>
+<AgeLimitOlder>-33</AgeLimitOlder>
+<AgeLimitYounger>-37</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>5</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-33</Age>
+<AgeLimitOlder>-31</AgeLimitOlder>
+<AgeLimitYounger>-35</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>6</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-31</Age>
+<AgeLimitOlder>-29</AgeLimitOlder>
+<AgeLimitYounger>-33</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>7</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-27</Age>
+<AgeLimitOlder>-25</AgeLimitOlder>
+<AgeLimitYounger>-29</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>8</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-23</Age>
+<AgeLimitOlder>-21</AgeLimitOlder>
+<AgeLimitYounger>-25</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>9</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-18</Age>
+<AgeLimitOlder>-16</AgeLimitOlder>
+<AgeLimitYounger>-20</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>10</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-13</Age>
+<AgeLimitOlder>-11</AgeLimitOlder>
+<AgeLimitYounger>-15</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>10.5</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-13</Age>
+<AgeLimitOlder>-13</AgeLimitOlder>
+<AgeLimitYounger>-13</AgeLimitYounger>
+<Notes>241Am fallout peak</Notes>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>11</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-9</Age>
+<AgeLimitOlder>-6</AgeLimitOlder>
+<AgeLimitYounger>-12</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon, calibrated</ControlType>
+<Depth>11.5</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-6.5</Age>
+<AgeLimitOlder>-6</AgeLimitOlder>
+<AgeLimitYounger>-7</AgeLimitYounger>
+<Notes>14C bomb pulse</Notes>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>12</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-6</Age>
+<AgeLimitOlder>-3</AgeLimitOlder>
+<AgeLimitYounger>-9</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>13</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>-3</Age>
+<AgeLimitOlder>0</AgeLimitOlder>
+<AgeLimitYounger>-6</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>14</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>0</Age>
+<AgeLimitOlder>4</AgeLimitOlder>
+<AgeLimitYounger>-4</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>15</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>3</Age>
+<AgeLimitOlder>7</AgeLimitOlder>
+<AgeLimitYounger>-1</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>16</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>5</Age>
+<AgeLimitOlder>9</AgeLimitOlder>
+<AgeLimitYounger>1</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>17</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>7</Age>
+<AgeLimitOlder>11</AgeLimitOlder>
+<AgeLimitYounger>3</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>18</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>10</Age>
+<AgeLimitOlder>14</AgeLimitOlder>
+<AgeLimitYounger>6</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>19</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>18</Age>
+<AgeLimitOlder>24</AgeLimitOlder>
+<AgeLimitYounger>12</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>20</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>31</Age>
+<AgeLimitOlder>39</AgeLimitOlder>
+<AgeLimitYounger>23</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>21</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>48</Age>
+<AgeLimitOlder>60</AgeLimitOlder>
+<AgeLimitYounger>36</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Lead-210</ControlType>
+<Depth>22</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Calendar</AgeUnits>
+<Age>69</Age>
+<AgeLimitOlder>87</AgeLimitOlder>
+<AgeLimitYounger>51</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>28.5</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>300</Age>
+<AgeLimitOlder>65</AgeLimitOlder>
+<AgeLimitYounger>65</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>31.5</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>975</Age>
+<AgeLimitOlder>45</AgeLimitOlder>
+<AgeLimitYounger>45</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>38.5</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>1010</Age>
+<AgeLimitOlder>90</AgeLimitOlder>
+<AgeLimitYounger>90</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>43.5</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>1610</Age>
+<AgeLimitOlder>50</AgeLimitOlder>
+<AgeLimitYounger>50</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>52.5</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>1710</Age>
+<AgeLimitOlder>55</AgeLimitOlder>
+<AgeLimitYounger>55</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>60.5</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>1890</Age>
+<AgeLimitOlder>60</AgeLimitOlder>
+<AgeLimitYounger>60</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>67</Depth>
+<Thickness>1</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>2040</Age>
+<AgeLimitOlder>70</AgeLimitOlder>
+<AgeLimitYounger>70</AgeLimitYounger>
+</ChronControl>
+</ChronControls>
+</AgeModel>
+</AgeModels>
+</TiliaFile>

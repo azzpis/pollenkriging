@@ -1,0 +1,38 @@
+####### Content #######
+
+Folders:
+- Dataset: Includes the codes necessary to create the dataset used for the kriging processes. 
+- Example: Includes the results of the scenario preduced by the codes if not modified. 
+
+Files:
+- covariables_all_variables_100km_corr_fact_add_sites.txt : dataset necessary for kriging. It is the result from 'dataset' folder. 
+- df_sites_all_variables_kernel_100km_corr_fact_add_sites.txt: dataset necessary for kriging. It is the result from 'dataset' folder. 
+- polygon_50.*: shapefile of the grid used for interpolation. 
+
+IMPORTANT: if you want to run the workflow for another taxon you need to run again the scripts to produce the dataset and modify the taxon name in:
+
+- "~\Dataset\Additional_sites\CLEAN_SITES\FORMATTED\To_merge\Creation_df.R" from 'Abies' to the selected species in this code
+- "~\Dataset\0.Creation.old.files.R" from 'Abies' to the selected species in this code
+- "~\Dataset\1.creation_dataset_CW_el_corr_factors_el.R" from 'Abies' to the selected species in this code
+
+This will produce the RelAb and occurrences dataset of other species. Further modifications might be necessary in the following codes if the variable 'Abies_perc' is renamed. 
+
+Additionally, you may need to extract again the climate data.
+
+The workflow may be applied to another dataset. In this case, two input datasets are needed: one containing the spatial and temporal coordinates of the sites as well as the relative abundances of the species and the covariate values of the gridcell in which they fall, and another containing the covariate values in each gridcell to be predicted for each time bin of interest. 
+
+####### The following codes are used to perform the two regression krigings: ########
+Note: It is important to follow the list order. Cross validations and hindcasting may be skipped. By running the code you will reproduce the results in 'Example' folder. 
+
+1.1 Binary_component_regression_kriging.R : it used to predict the probability of occurrence of a species (PoO). 
+
+1.2 Binary_component_regression_kriging_kfold_cross_validation.R : it is used to perform the cross validation of the procedure above. It may require some time to run.
+
+2.1 RelAb_continous_component_regression_kriging.R : it is used to interpolate the Relative Abundances (RelAb) of a species. It may require high amount of RAM if the dataset is large. Note: this script requires the result from Binary_component_regression_kriging.R. 
+
+2.2 RelAb_continous_component_regression_kriging_kfold_cross_validation.R : k-fold cross validation of the continuous component. It is advisable to run it on a cluster because it requires long time (with our dataset circa 50 hours per 100 runs). Note: this script requires the result from Binary_component_regression_kriging.R. 
+
+2.3 RelAb_continous_component_regression_kriging_hindcasting.R : hindcasting procedure. This script perform hindcast of the Mid and Late Holocene time bins. The structure in eras is not considered and only the predictive performance of the model is tested. A time window of six time bins is used to train the model and the following time step predicted. Note: this script requires the result from Binary_component_regression_kriging.R. 
+
+
+3.1 RelAb_future_part_1.R & 3.2 RelAb_future_part_2.R : these scripts produce future prediction of the species abundances. Please run them in order. 

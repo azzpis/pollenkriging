@@ -1,0 +1,7585 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--written 13-May-2019 12:16:34-->
+<TiliaFile>
+<Version>
+<Application>Tilia</Application>
+<MajorVersion>2</MajorVersion>
+<MinorVersion>1</MinorVersion>
+<Release>1</Release>
+</Version>
+<Contacts>
+<Contact ID="1">
+<NeotomaContactID>-1</NeotomaContactID>
+<NeotomaAliasID>-1</NeotomaAliasID>
+<FullContactName>Brewer, Simon</FullContactName>
+<ShortContactName>Brewer, S.</ShortContactName>
+<FamilyName>Brewer</FamilyName>
+<GivenNames>Simon</GivenNames>
+<LeadingInitials>S.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>Active</Status>
+<Email>brewer@cerege.fr</Email>
+<Address>
+<AddressLine>CEREGE, Europole de l&apos;Arbois 13545 Aix-en-Provence, France</AddressLine>
+</Address>
+</Contact>
+<Contact ID="2">
+<NeotomaContactID>-1</NeotomaContactID>
+<NeotomaAliasID>-1</NeotomaAliasID>
+<FullContactName>Cheddadi, Rachid</FullContactName>
+<ShortContactName>Cheddadi, R.</ShortContactName>
+<FamilyName>Cheddadi</FamilyName>
+<GivenNames>Rachid</GivenNames>
+<LeadingInitials>R.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>Active</Status>
+<Email>cheddadi@isem.univ-montp2.fr</Email>
+<Address>
+<AddressLine>ISEM-UMR 5554 CNRS Place Eugene Bataillon Bat.22 University of Montpellier 34095 Montpellier Cedex 5, France</AddressLine>
+</Address>
+</Contact>
+<Contact ID="3">
+<NeotomaContactID>-1</NeotomaContactID>
+<NeotomaAliasID>-1</NeotomaAliasID>
+<FullContactName>de Beaulieu, Jacques Louis</FullContactName>
+<ShortContactName>de Beaulieu, J.L.</ShortContactName>
+<FamilyName>de Beaulieu</FamilyName>
+<GivenNames>Jacques Louis</GivenNames>
+<LeadingInitials>J.L.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>Active</Status>
+<Telephone>(33) 6 64 92 68 64</Telephone>
+<Fax>(33) 4 42 90 84 48</Fax>
+<Email>jacques-louis.debeaulieu@orange.fr</Email>
+<Address>
+<AddressLine>IMEP-CNRS 6116 Europole de l&apos;Arbois, Batiment Villemin BP80 13545 Aix-en-Provence, FRANCE</AddressLine>
+</Address>
+</Contact>
+<Contact ID="4">
+<NeotomaContactID>-1</NeotomaContactID>
+<NeotomaAliasID>-1</NeotomaAliasID>
+<FullContactName>Pons, Armand</FullContactName>
+<ShortContactName>Pons, A.</ShortContactName>
+<FamilyName>Pons</FamilyName>
+<GivenNames>Armand</GivenNames>
+<LeadingInitials>A.</LeadingInitials>
+<Status>Unknown</Status>
+</Contact>
+<Contact ID="5">
+<NeotomaContactID>-1</NeotomaContactID>
+<NeotomaAliasID>-1</NeotomaAliasID>
+<FullContactName>Reille, Maurice</FullContactName>
+<ShortContactName>Reille, M.</ShortContactName>
+<FamilyName>Reille</FamilyName>
+<GivenNames>Maurice</GivenNames>
+<LeadingInitials>M.</LeadingInitials>
+<Title>Dr.</Title>
+<Status>Inactive</Status>
+<Telephone>33-91025143</Telephone>
+<Fax>33-91288668</Fax>
+<Email>claudinereille@free.fr</Email>
+<Address>
+<AddressLine>Faculté des Sciences et Techniques de Saint-Jérôme</AddressLine>
+<AddressLine>LBHP</AddressLine>
+<AddressLine>Boite 451</AddressLine>
+<AddressLine>13397 Marseille Cedex 13</AddressLine>
+<AddressLine>FRANCE</AddressLine>
+</Address>
+</Contact>
+</Contacts>
+<Publications>
+<Publication ID="1" Primary="false">
+<PublicationType>other authored</PublicationType>
+<NeotomaID>-1</NeotomaID>
+<PublicationYear>1982</PublicationYear>
+<Citation>de Beaulieu, J.L., A. Pons, and M. Reille. 1982. Recherches pollenanalytiques sur l&apos;histoire de la végétation de la bordure nord du Massif du Cantal (Massif-Central, France). Pollen et Spores XXIV(2):251-300.</Citation>
+<Authors>
+<Author>
+<Contact ID="0"/>
+<LastName>de Beaulieu</LastName>
+<Initials>J.L.</Initials>
+<GivenNames>Jacques Louis</GivenNames>
+</Author>
+<Author>
+<Contact ID="0"/>
+<LastName>Pons</LastName>
+<Initials>A.</Initials>
+<GivenNames>Armand</GivenNames>
+</Author>
+<Author>
+<Contact ID="0"/>
+<LastName>Reille</LastName>
+<Initials>M.</Initials>
+<GivenNames>Maurice</GivenNames>
+</Author>
+</Authors>
+<Title>de Beaulieu, J.L., A. Pons, and M. Reille. 1982. Recherches pollenanalytiques sur l&apos;histoire de la végétation de la bordure nord du Massif du Cantal (Massif-Central, France). Pollen et Spores XXIV(2):251-300.</Title>
+</Publication>
+</Publications>
+<SpreadSheetBook>
+<SpreadSheetOptions>
+<HeaderRow>0</HeaderRow>
+<FontName>Arial</FontName>
+<FontSize>9</FontSize>
+<DefaultColWidth>64</DefaultColWidth>
+<DefaultRowHeight>18</DefaultRowHeight>
+<PercentDecimalPlaces>1</PercentDecimalPlaces>
+<CheckDupCodes>True</CheckDupCodes>
+<CaseSensitiveCodes>False</CaseSensitiveCodes>
+<CodesVisible>True</CodesVisible>
+<ElementsVisible>True</ElementsVisible>
+<UnitsVisible>True</UnitsVisible>
+<ContextsVisible>False</ContextsVisible>
+<TaphonomyVisible>False</TaphonomyVisible>
+<GroupsVisible>True</GroupsVisible>
+<GroupCategories>
+<GroupCategory>bryophytes</GroupCategory>
+<GroupCategory>vascular plants</GroupCategory>
+</GroupCategories>
+</SpreadSheetOptions>
+<SpreadSheet page="0" name="Data">
+<Col ID="1" Width="64">
+<cell row="3">
+<text>#Samp.Analyst</text>
+</cell>
+<cell row="4">
+<text>#Chron1</text>
+</cell>
+<cell row="5">
+<text>#Chron2</text>
+</cell>
+<cell row="6">
+<text>#Chron2.Old</text>
+</cell>
+<cell row="7">
+<text>#Chron2.Young</text>
+</cell>
+<cell row="8">
+<text>Abi</text>
+</cell>
+<cell row="9">
+<text>Ace</text>
+</cell>
+<cell row="10">
+<text>Ali</text>
+</cell>
+<cell row="11">
+<text>Aln</text>
+</cell>
+<cell row="12">
+<text>Amaeae</text>
+</cell>
+<cell row="13">
+<text>Agl-t</text>
+</cell>
+<cell row="14">
+<text>Apieae</text>
+</cell>
+<cell row="15">
+<text>Art</text>
+</cell>
+<cell row="16">
+<text>Asteae.sf.Astdae</text>
+</cell>
+<cell row="17">
+<text>Asteae.sf.Cchdae</text>
+</cell>
+<cell row="18">
+<text>Bet</text>
+</cell>
+<cell row="19">
+<text>Bot</text>
+</cell>
+<cell row="20">
+<text>Braeae</text>
+</cell>
+<cell row="21">
+<text>Clv.vu</text>
+</cell>
+<cell row="22">
+<text>Cameae</text>
+</cell>
+<cell row="23">
+<text>Capeae.sf.Dipeae</text>
+</cell>
+<cell row="24">
+<text>Cryeae</text>
+</cell>
+<cell row="25">
+<text>Cas</text>
+</cell>
+<cell row="26">
+<text>Cen</text>
+</cell>
+<cell row="27">
+<text>Con</text>
+</cell>
+<cell row="28">
+<text>Cor</text>
+</cell>
+<cell row="29">
+<text>Cypeae</text>
+</cell>
+<cell row="30">
+<text>Eph</text>
+</cell>
+<cell row="31">
+<text>Erceae</text>
+</cell>
+<cell row="32">
+<text>Fabeae</text>
+</cell>
+<cell row="33">
+<text>Fag</text>
+</cell>
+<cell row="34">
+<text>Fil</text>
+</cell>
+<cell row="35">
+<text>Frx</text>
+</cell>
+<cell row="36">
+<text>Hde</text>
+</cell>
+<cell row="37">
+<text>Hli</text>
+</cell>
+<cell row="38">
+<text>Ilx</text>
+</cell>
+<cell row="39">
+<text>Iso</text>
+</cell>
+<cell row="40">
+<text>Jug</text>
+</cell>
+<cell row="41">
+<text>Jun</text>
+</cell>
+<cell row="42">
+<text>Lameae</text>
+</cell>
+<cell row="43">
+<text>Lig</text>
+</cell>
+<cell row="44">
+<text>Lileae</text>
+</cell>
+<cell row="45">
+<text>Mlm</text>
+</cell>
+<cell row="46">
+<text>Mrc</text>
+</cell>
+<cell row="47">
+<text>Myp</text>
+</cell>
+<cell row="48">
+<text>Nym</text>
+</cell>
+<cell row="49">
+<text>Ole</text>
+</cell>
+<cell row="50">
+<text>Prn.pa</text>
+</cell>
+<cell row="51">
+<text>Pfl</text>
+</cell>
+<cell row="52">
+<text>Pic</text>
+</cell>
+<cell row="53">
+<text>Pin</text>
+</cell>
+<cell row="54">
+<text>Pis</text>
+</cell>
+<cell row="55">
+<text>Pln</text>
+</cell>
+<cell row="56">
+<text>Pln.la</text>
+</cell>
+<cell row="57">
+<text>Poaeae</text>
+</cell>
+<cell row="58">
+<text>Poaeae(Cer-t)</text>
+</cell>
+<cell row="59">
+<text>Pol</text>
+</cell>
+<cell row="60">
+<text>Plp</text>
+</cell>
+<cell row="61">
+<text>Pop</text>
+</cell>
+<cell row="62">
+<text>Pot</text>
+</cell>
+<cell row="63">
+<text>Ptu.sa</text>
+</cell>
+<cell row="64">
+<text>Ptr</text>
+</cell>
+<cell row="65">
+<text>Que.il</text>
+</cell>
+<cell row="66">
+<text>Que.ro-t</text>
+</cell>
+<cell row="67">
+<text>Raneae</text>
+</cell>
+<cell row="68">
+<text>Ran.se.Btr</text>
+</cell>
+<cell row="69">
+<text>Rha</text>
+</cell>
+<cell row="70">
+<text>Roseae</text>
+</cell>
+<cell row="71">
+<text>Rubeae</text>
+</cell>
+<cell row="72">
+<text>Rum</text>
+</cell>
+<cell row="73">
+<text>Slx</text>
+</cell>
+<cell row="74">
+<text>San.of</text>
+</cell>
+<cell row="75">
+<text>Scr</text>
+</cell>
+<cell row="76">
+<text>Spg</text>
+</cell>
+<cell row="77">
+<text>Tax</text>
+</cell>
+<cell row="78">
+<text>Tha</text>
+</cell>
+<cell row="79">
+<text>Til</text>
+</cell>
+<cell row="80">
+<text>Typ.an/Spa</text>
+</cell>
+<cell row="81">
+<text>Ulm</text>
+</cell>
+<cell row="82">
+<text>unk(ml)</text>
+</cell>
+<cell row="83">
+<text>Urteae</text>
+</cell>
+<cell row="84">
+<text>Val</text>
+</cell>
+<cell row="85">
+<text>Vib</text>
+</cell>
+<cell row="86">
+<text>Vis</text>
+</cell>
+<cell row="87">
+<text>Vit</text>
+</cell>
+</Col>
+<Col ID="2" Width="180">
+<cell row="3">
+<text>Sample Analyst</text>
+</cell>
+<cell row="4">
+<text>Age (Chron1)</text>
+</cell>
+<cell row="5">
+<text>Age (MADCAP) #Chron .Old Age (MADCAP Older Bound) #Chro</text>
+</cell>
+<cell row="6">
+<text>Age (MADCAP Older Bound) #Chron .Young Age (MADCAP</text>
+</cell>
+<cell row="7">
+<text>Age (MADCAP Younger Bound) Depth   in MADCAP_AllAge</text>
+</cell>
+<cell row="8">
+<text>Abies</text>
+</cell>
+<cell row="9">
+<text>Acer</text>
+</cell>
+<cell row="10">
+<text>Alisma</text>
+</cell>
+<cell row="11">
+<text>Alnus</text>
+</cell>
+<cell row="12">
+<text>Amaranthaceae</text>
+<Synonym>
+<TaxonName>Chenopodiaceae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="13">
+<text>Anagallis-type</text>
+</cell>
+<cell row="14">
+<text>Apiaceae</text>
+<Synonym>
+<TaxonName>Umbelliferae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="15">
+<text>Artemisia</text>
+</cell>
+<cell row="16">
+<text>Asteraceae subf. Asteroideae</text>
+<Synonym>
+<TaxonName>Compositae subf. Asteroideae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="17">
+<text>Asteraceae subf. Cichorioideae</text>
+<Synonym>
+<TaxonName>Compositae subf. Cichorioideae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="18">
+<text>Betula</text>
+</cell>
+<cell row="19">
+<text>Botrychium</text>
+</cell>
+<cell row="20">
+<text>Brassicaceae</text>
+<Synonym>
+<TaxonName>Cruciferae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="21">
+<text>Calluna vulgaris</text>
+</cell>
+<cell row="22">
+<text>Campanulaceae</text>
+</cell>
+<cell row="23">
+<text>Caprifoliaceae subf. Dipsacoideae</text>
+<Synonym>
+<TaxonName>Dipsacaceae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="24">
+<text>Caryophyllaceae</text>
+</cell>
+<cell row="25">
+<text>Castanea</text>
+</cell>
+<cell row="26">
+<text>Centaurea</text>
+</cell>
+<cell row="27">
+<text>Convolvulus</text>
+</cell>
+<cell row="28">
+<text>Corylus</text>
+</cell>
+<cell row="29">
+<text>Cyperaceae</text>
+</cell>
+<cell row="30">
+<text>Ephedra</text>
+</cell>
+<cell row="31">
+<text>Ericaceae</text>
+</cell>
+<cell row="32">
+<text>Fabaceae</text>
+<Synonym>
+<TaxonName>Leguminosae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="33">
+<text>Fagus</text>
+</cell>
+<cell row="34">
+<text>Filipendula</text>
+</cell>
+<cell row="35">
+<text>Fraxinus</text>
+</cell>
+<cell row="36">
+<text>Hedera</text>
+</cell>
+<cell row="37">
+<text>Helianthemum</text>
+</cell>
+<cell row="38">
+<text>Ilex</text>
+</cell>
+<cell row="39">
+<text>Isoëtes</text>
+<Synonym>
+<TaxonName>Isoetes</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="40">
+<text>Juglans</text>
+</cell>
+<cell row="41">
+<text>Juniperus</text>
+</cell>
+<cell row="42">
+<text>Lamiaceae</text>
+<Synonym>
+<TaxonName>Labiatae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="43">
+<text>Ligustrum</text>
+</cell>
+<cell row="44">
+<text>Liliaceae</text>
+</cell>
+<cell row="45">
+<text>Melampyrum</text>
+</cell>
+<cell row="46">
+<text>Mercurialis</text>
+</cell>
+<cell row="47">
+<text>Myriophyllum</text>
+</cell>
+<cell row="48">
+<text>Nymphaea</text>
+</cell>
+<cell row="49">
+<text>Olea</text>
+</cell>
+<cell row="50">
+<text>Parnassia palustris</text>
+</cell>
+<cell row="51">
+<text>Phillyrea</text>
+</cell>
+<cell row="52">
+<text>Picea</text>
+</cell>
+<cell row="53">
+<text>Pinus</text>
+</cell>
+<cell row="54">
+<text>Pistacia</text>
+</cell>
+<cell row="55">
+<text>Plantago</text>
+</cell>
+<cell row="56">
+<text>Plantago lanceolata</text>
+</cell>
+<cell row="57">
+<text>Poaceae</text>
+<Synonym>
+<TaxonName>Gramineae</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="58">
+<text>Poaceae (Cerealia-type)</text>
+</cell>
+<cell row="59">
+<text>Polygonum</text>
+</cell>
+<cell row="60">
+<text>Polypodium</text>
+</cell>
+<cell row="61">
+<text>Populus</text>
+</cell>
+<cell row="62">
+<text>Potamogeton</text>
+</cell>
+<cell row="63">
+<text>Poterium sanguisorba</text>
+<Synonym>
+<TaxonName>Sanguisorba minor</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="64">
+<text>Pteridium</text>
+</cell>
+<cell row="65">
+<text>Quercus ilex</text>
+</cell>
+<cell row="66">
+<text>Quercus robur-type</text>
+</cell>
+<cell row="67">
+<text>Ranunculaceae</text>
+</cell>
+<cell row="68">
+<text>Ranunculus sect. Batrachium</text>
+<Synonym>
+<TaxonName>Ranunculus subg. Batrachium</TaxonName>
+<ContribName>True</ContribName>
+</Synonym>
+</cell>
+<cell row="69">
+<text>Rhamnus</text>
+</cell>
+<cell row="70">
+<text>Rosaceae</text>
+</cell>
+<cell row="71">
+<text>Rubiaceae</text>
+</cell>
+<cell row="72">
+<text>Rumex</text>
+</cell>
+<cell row="73">
+<text>Salix</text>
+</cell>
+<cell row="74">
+<text>Sanguisorba officinalis</text>
+</cell>
+<cell row="75">
+<text>Scrophularia</text>
+</cell>
+<cell row="76">
+<text>Sphagnum</text>
+</cell>
+<cell row="77">
+<text>Taxus</text>
+</cell>
+<cell row="78">
+<text>Thalictrum</text>
+</cell>
+<cell row="79">
+<text>Tilia</text>
+</cell>
+<cell row="80">
+<text>Typha angustifolia/Sparganium</text>
+</cell>
+<cell row="81">
+<text>Ulmus</text>
+</cell>
+<cell row="82">
+<text>Unknown (monolete)</text>
+</cell>
+<cell row="83">
+<text>Urticaceae</text>
+</cell>
+<cell row="84">
+<text>Valeriana</text>
+</cell>
+<cell row="85">
+<text>Viburnum</text>
+</cell>
+<cell row="86">
+<text>Viscum</text>
+</cell>
+<cell row="87">
+<text>Vitis</text>
+</cell>
+</Col>
+<Col ID="3" Width="64">
+<cell row="8">
+<text>pollen</text>
+</cell>
+<cell row="9">
+<text>pollen</text>
+</cell>
+<cell row="10">
+<text>pollen</text>
+</cell>
+<cell row="11">
+<text>pollen</text>
+</cell>
+<cell row="12">
+<text>pollen</text>
+</cell>
+<cell row="13">
+<text>pollen</text>
+</cell>
+<cell row="14">
+<text>pollen</text>
+</cell>
+<cell row="15">
+<text>pollen</text>
+</cell>
+<cell row="16">
+<text>pollen</text>
+</cell>
+<cell row="17">
+<text>pollen</text>
+</cell>
+<cell row="18">
+<text>pollen</text>
+</cell>
+<cell row="19">
+<text>spore</text>
+</cell>
+<cell row="20">
+<text>pollen</text>
+</cell>
+<cell row="21">
+<text>pollen</text>
+</cell>
+<cell row="22">
+<text>pollen</text>
+</cell>
+<cell row="23">
+<text>pollen</text>
+</cell>
+<cell row="24">
+<text>pollen</text>
+</cell>
+<cell row="25">
+<text>pollen</text>
+</cell>
+<cell row="26">
+<text>pollen</text>
+</cell>
+<cell row="27">
+<text>pollen</text>
+</cell>
+<cell row="28">
+<text>pollen</text>
+</cell>
+<cell row="29">
+<text>pollen</text>
+</cell>
+<cell row="30">
+<text>pollen</text>
+</cell>
+<cell row="31">
+<text>pollen</text>
+</cell>
+<cell row="32">
+<text>pollen</text>
+</cell>
+<cell row="33">
+<text>pollen</text>
+</cell>
+<cell row="34">
+<text>pollen</text>
+</cell>
+<cell row="35">
+<text>pollen</text>
+</cell>
+<cell row="36">
+<text>pollen</text>
+</cell>
+<cell row="37">
+<text>pollen</text>
+</cell>
+<cell row="38">
+<text>pollen</text>
+</cell>
+<cell row="39">
+<text>spore</text>
+</cell>
+<cell row="40">
+<text>pollen</text>
+</cell>
+<cell row="41">
+<text>pollen</text>
+</cell>
+<cell row="42">
+<text>pollen</text>
+</cell>
+<cell row="43">
+<text>pollen</text>
+</cell>
+<cell row="44">
+<text>pollen</text>
+</cell>
+<cell row="45">
+<text>pollen</text>
+</cell>
+<cell row="46">
+<text>pollen</text>
+</cell>
+<cell row="47">
+<text>pollen</text>
+</cell>
+<cell row="48">
+<text>pollen</text>
+</cell>
+<cell row="49">
+<text>pollen</text>
+</cell>
+<cell row="50">
+<text>pollen</text>
+</cell>
+<cell row="51">
+<text>pollen</text>
+</cell>
+<cell row="52">
+<text>pollen</text>
+</cell>
+<cell row="53">
+<text>pollen</text>
+</cell>
+<cell row="54">
+<text>pollen</text>
+</cell>
+<cell row="55">
+<text>pollen</text>
+</cell>
+<cell row="56">
+<text>pollen</text>
+</cell>
+<cell row="57">
+<text>pollen</text>
+</cell>
+<cell row="58">
+<text>pollen</text>
+</cell>
+<cell row="59">
+<text>pollen</text>
+</cell>
+<cell row="60">
+<text>spore</text>
+</cell>
+<cell row="61">
+<text>pollen</text>
+</cell>
+<cell row="62">
+<text>pollen</text>
+</cell>
+<cell row="63">
+<text>pollen</text>
+</cell>
+<cell row="64">
+<text>spore</text>
+</cell>
+<cell row="65">
+<text>pollen</text>
+</cell>
+<cell row="66">
+<text>pollen</text>
+</cell>
+<cell row="67">
+<text>pollen</text>
+</cell>
+<cell row="68">
+<text>pollen</text>
+</cell>
+<cell row="69">
+<text>pollen</text>
+</cell>
+<cell row="70">
+<text>pollen</text>
+</cell>
+<cell row="71">
+<text>pollen</text>
+</cell>
+<cell row="72">
+<text>pollen</text>
+</cell>
+<cell row="73">
+<text>pollen</text>
+</cell>
+<cell row="74">
+<text>pollen</text>
+</cell>
+<cell row="75">
+<text>pollen</text>
+</cell>
+<cell row="76">
+<text>spore</text>
+</cell>
+<cell row="77">
+<text>pollen</text>
+</cell>
+<cell row="78">
+<text>pollen</text>
+</cell>
+<cell row="79">
+<text>pollen</text>
+</cell>
+<cell row="80">
+<text>pollen</text>
+</cell>
+<cell row="81">
+<text>pollen</text>
+</cell>
+<cell row="82">
+<text>spore</text>
+</cell>
+<cell row="83">
+<text>pollen</text>
+</cell>
+<cell row="84">
+<text>pollen</text>
+</cell>
+<cell row="85">
+<text>pollen</text>
+</cell>
+<cell row="86">
+<text>pollen</text>
+</cell>
+<cell row="87">
+<text>pollen</text>
+</cell>
+</Col>
+<Col ID="4" Width="64">
+<cell row="8">
+<text>NISP</text>
+</cell>
+<cell row="9">
+<text>NISP</text>
+</cell>
+<cell row="10">
+<text>NISP</text>
+</cell>
+<cell row="11">
+<text>NISP</text>
+</cell>
+<cell row="12">
+<text>NISP</text>
+</cell>
+<cell row="13">
+<text>NISP</text>
+</cell>
+<cell row="14">
+<text>NISP</text>
+</cell>
+<cell row="15">
+<text>NISP</text>
+</cell>
+<cell row="16">
+<text>NISP</text>
+</cell>
+<cell row="17">
+<text>NISP</text>
+</cell>
+<cell row="18">
+<text>NISP</text>
+</cell>
+<cell row="19">
+<text>NISP</text>
+</cell>
+<cell row="20">
+<text>NISP</text>
+</cell>
+<cell row="21">
+<text>NISP</text>
+</cell>
+<cell row="22">
+<text>NISP</text>
+</cell>
+<cell row="23">
+<text>NISP</text>
+</cell>
+<cell row="24">
+<text>NISP</text>
+</cell>
+<cell row="25">
+<text>NISP</text>
+</cell>
+<cell row="26">
+<text>NISP</text>
+</cell>
+<cell row="27">
+<text>NISP</text>
+</cell>
+<cell row="28">
+<text>NISP</text>
+</cell>
+<cell row="29">
+<text>NISP</text>
+</cell>
+<cell row="30">
+<text>NISP</text>
+</cell>
+<cell row="31">
+<text>NISP</text>
+</cell>
+<cell row="32">
+<text>NISP</text>
+</cell>
+<cell row="33">
+<text>NISP</text>
+</cell>
+<cell row="34">
+<text>NISP</text>
+</cell>
+<cell row="35">
+<text>NISP</text>
+</cell>
+<cell row="36">
+<text>NISP</text>
+</cell>
+<cell row="37">
+<text>NISP</text>
+</cell>
+<cell row="38">
+<text>NISP</text>
+</cell>
+<cell row="39">
+<text>NISP</text>
+</cell>
+<cell row="40">
+<text>NISP</text>
+</cell>
+<cell row="41">
+<text>NISP</text>
+</cell>
+<cell row="42">
+<text>NISP</text>
+</cell>
+<cell row="43">
+<text>NISP</text>
+</cell>
+<cell row="44">
+<text>NISP</text>
+</cell>
+<cell row="45">
+<text>NISP</text>
+</cell>
+<cell row="46">
+<text>NISP</text>
+</cell>
+<cell row="47">
+<text>NISP</text>
+</cell>
+<cell row="48">
+<text>NISP</text>
+</cell>
+<cell row="49">
+<text>NISP</text>
+</cell>
+<cell row="50">
+<text>NISP</text>
+</cell>
+<cell row="51">
+<text>NISP</text>
+</cell>
+<cell row="52">
+<text>NISP</text>
+</cell>
+<cell row="53">
+<text>NISP</text>
+</cell>
+<cell row="54">
+<text>NISP</text>
+</cell>
+<cell row="55">
+<text>NISP</text>
+</cell>
+<cell row="56">
+<text>NISP</text>
+</cell>
+<cell row="57">
+<text>NISP</text>
+</cell>
+<cell row="58">
+<text>NISP</text>
+</cell>
+<cell row="59">
+<text>NISP</text>
+</cell>
+<cell row="60">
+<text>NISP</text>
+</cell>
+<cell row="61">
+<text>NISP</text>
+</cell>
+<cell row="62">
+<text>NISP</text>
+</cell>
+<cell row="63">
+<text>NISP</text>
+</cell>
+<cell row="64">
+<text>NISP</text>
+</cell>
+<cell row="65">
+<text>NISP</text>
+</cell>
+<cell row="66">
+<text>NISP</text>
+</cell>
+<cell row="67">
+<text>NISP</text>
+</cell>
+<cell row="68">
+<text>NISP</text>
+</cell>
+<cell row="69">
+<text>NISP</text>
+</cell>
+<cell row="70">
+<text>NISP</text>
+</cell>
+<cell row="71">
+<text>NISP</text>
+</cell>
+<cell row="72">
+<text>NISP</text>
+</cell>
+<cell row="73">
+<text>NISP</text>
+</cell>
+<cell row="74">
+<text>NISP</text>
+</cell>
+<cell row="75">
+<text>NISP</text>
+</cell>
+<cell row="76">
+<text>NISP</text>
+</cell>
+<cell row="77">
+<text>NISP</text>
+</cell>
+<cell row="78">
+<text>NISP</text>
+</cell>
+<cell row="79">
+<text>NISP</text>
+</cell>
+<cell row="80">
+<text>NISP</text>
+</cell>
+<cell row="81">
+<text>NISP</text>
+</cell>
+<cell row="82">
+<text>NISP</text>
+</cell>
+<cell row="83">
+<text>NISP</text>
+</cell>
+<cell row="84">
+<text>NISP</text>
+</cell>
+<cell row="85">
+<text>NISP</text>
+</cell>
+<cell row="86">
+<text>NISP</text>
+</cell>
+<cell row="87">
+<text>NISP</text>
+</cell>
+</Col>
+<Col ID="7" Width="64">
+<cell row="8">
+<text>TRSH</text>
+</cell>
+<cell row="9">
+<text>TRSH</text>
+</cell>
+<cell row="10">
+<text>AQVP</text>
+</cell>
+<cell row="11">
+<text>TRSH</text>
+</cell>
+<cell row="12">
+<text>UPHE</text>
+</cell>
+<cell row="13">
+<text>UPHE</text>
+</cell>
+<cell row="14">
+<text>UPHE</text>
+</cell>
+<cell row="15">
+<text>UPHE</text>
+</cell>
+<cell row="16">
+<text>UPHE</text>
+</cell>
+<cell row="17">
+<text>UPHE</text>
+</cell>
+<cell row="18">
+<text>TRSH</text>
+</cell>
+<cell row="19">
+<text>VACR</text>
+</cell>
+<cell row="20">
+<text>UPHE</text>
+</cell>
+<cell row="21">
+<text>TRSH</text>
+</cell>
+<cell row="22">
+<text>UPHE</text>
+</cell>
+<cell row="23">
+<text>UPHE</text>
+</cell>
+<cell row="24">
+<text>UPHE</text>
+</cell>
+<cell row="25">
+<text>TRSH</text>
+</cell>
+<cell row="26">
+<text>UPHE</text>
+</cell>
+<cell row="27">
+<text>UPHE</text>
+</cell>
+<cell row="28">
+<text>TRSH</text>
+</cell>
+<cell row="29">
+<text>UPHE</text>
+</cell>
+<cell row="30">
+<text>TRSH</text>
+</cell>
+<cell row="31">
+<text>TRSH</text>
+</cell>
+<cell row="32">
+<text>UPHE</text>
+</cell>
+<cell row="33">
+<text>TRSH</text>
+</cell>
+<cell row="34">
+<text>UPHE</text>
+</cell>
+<cell row="35">
+<text>TRSH</text>
+</cell>
+<cell row="36">
+<text>TRSH</text>
+</cell>
+<cell row="37">
+<text>UPHE</text>
+</cell>
+<cell row="38">
+<text>TRSH</text>
+</cell>
+<cell row="39">
+<text>AQVP</text>
+</cell>
+<cell row="40">
+<text>TRSH</text>
+</cell>
+<cell row="41">
+<text>TRSH</text>
+</cell>
+<cell row="42">
+<text>UPHE</text>
+</cell>
+<cell row="43">
+<text>TRSH</text>
+</cell>
+<cell row="44">
+<text>UPHE</text>
+</cell>
+<cell row="45">
+<text>UPHE</text>
+</cell>
+<cell row="46">
+<text>UPHE</text>
+</cell>
+<cell row="47">
+<text>AQVP</text>
+</cell>
+<cell row="48">
+<text>AQVP</text>
+</cell>
+<cell row="49">
+<text>TRSH</text>
+</cell>
+<cell row="50">
+<text>UPHE</text>
+</cell>
+<cell row="51">
+<text>TRSH</text>
+</cell>
+<cell row="52">
+<text>TRSH</text>
+</cell>
+<cell row="53">
+<text>TRSH</text>
+</cell>
+<cell row="54">
+<text>TRSH</text>
+</cell>
+<cell row="55">
+<text>UPHE</text>
+</cell>
+<cell row="56">
+<text>UPHE</text>
+</cell>
+<cell row="57">
+<text>UPHE</text>
+</cell>
+<cell row="58">
+<text>UPHE</text>
+</cell>
+<cell row="59">
+<text>UPHE</text>
+</cell>
+<cell row="60">
+<text>VACR</text>
+</cell>
+<cell row="61">
+<text>TRSH</text>
+</cell>
+<cell row="62">
+<text>AQVP</text>
+</cell>
+<cell row="63">
+<text>UPHE</text>
+</cell>
+<cell row="64">
+<text>VACR</text>
+</cell>
+<cell row="65">
+<text>TRSH</text>
+</cell>
+<cell row="66">
+<text>TRSH</text>
+</cell>
+<cell row="67">
+<text>UPHE</text>
+</cell>
+<cell row="68">
+<text>AQVP</text>
+</cell>
+<cell row="69">
+<text>TRSH</text>
+</cell>
+<cell row="70">
+<text>UPHE</text>
+</cell>
+<cell row="71">
+<text>TRSH</text>
+</cell>
+<cell row="72">
+<text>UPHE</text>
+</cell>
+<cell row="73">
+<text>TRSH</text>
+</cell>
+<cell row="74">
+<text>UPHE</text>
+</cell>
+<cell row="75">
+<text>UPHE</text>
+</cell>
+<cell row="76">
+<text>AQBR</text>
+</cell>
+<cell row="77">
+<text>TRSH</text>
+</cell>
+<cell row="78">
+<text>UPHE</text>
+</cell>
+<cell row="79">
+<text>TRSH</text>
+</cell>
+<cell row="80">
+<text>AQVP</text>
+</cell>
+<cell row="81">
+<text>TRSH</text>
+</cell>
+<cell row="82">
+<text>UNID</text>
+</cell>
+<cell row="83">
+<text>UPHE</text>
+</cell>
+<cell row="84">
+<text>UPHE</text>
+</cell>
+<cell row="85">
+<text>TRSH</text>
+</cell>
+<cell row="86">
+<text>TRSH</text>
+</cell>
+<cell row="87">
+<text>TRSH</text>
+</cell>
+</Col>
+<Col ID="8" Width="64">
+<cell row="1">
+<value>10</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>2196</value>
+</cell>
+<cell row="5">
+<value>2163</value>
+</cell>
+<cell row="6">
+<value>2850</value>
+</cell>
+<cell row="7">
+<value>1491</value>
+</cell>
+<cell row="8">
+<value>9</value>
+</cell>
+<cell row="11">
+<value>9</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>9</value>
+</cell>
+<cell row="21">
+<value>64</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="29">
+<value>8</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>12</value>
+</cell>
+<cell row="53">
+<value>14</value>
+</cell>
+<cell row="56">
+<value>8</value>
+</cell>
+<cell row="57">
+<value>51</value>
+</cell>
+<cell row="58">
+<value>10</value>
+</cell>
+<cell row="64">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>13</value>
+</cell>
+<cell row="70">
+<value>5</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="9" Width="64">
+<cell row="1">
+<value>20</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>2394</value>
+</cell>
+<cell row="5">
+<value>2420</value>
+</cell>
+<cell row="6">
+<value>3017</value>
+</cell>
+<cell row="7">
+<value>1844</value>
+</cell>
+<cell row="8">
+<value>19</value>
+</cell>
+<cell row="11">
+<value>24</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>39</value>
+</cell>
+<cell row="21">
+<value>100</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="25">
+<value>7</value>
+</cell>
+<cell row="28">
+<value>15</value>
+</cell>
+<cell row="29">
+<value>10</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>52</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="40">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>28</value>
+</cell>
+<cell row="56">
+<value>6</value>
+</cell>
+<cell row="57">
+<value>25</value>
+</cell>
+<cell row="58">
+<value>21</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="72">
+<value>5</value>
+</cell>
+<cell row="76">
+<value>18</value>
+</cell>
+<cell row="79">
+<value>2</value>
+</cell>
+<cell row="82">
+<value>4</value>
+</cell>
+<cell row="87">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="10" Width="64">
+<cell row="1">
+<value>35</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>2692</value>
+</cell>
+<cell row="5">
+<value>2804</value>
+</cell>
+<cell row="6">
+<value>3268</value>
+</cell>
+<cell row="7">
+<value>2370</value>
+</cell>
+<cell row="8">
+<value>68</value>
+</cell>
+<cell row="11">
+<value>13</value>
+</cell>
+<cell row="18">
+<value>37</value>
+</cell>
+<cell row="28">
+<value>14</value>
+</cell>
+<cell row="29">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>64</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>64</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>5</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>17</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>5</value>
+</cell>
+<cell row="79">
+<value>5</value>
+</cell>
+<cell row="81">
+<value>4</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="11" Width="64">
+<cell row="1">
+<value>45</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>2890</value>
+</cell>
+<cell row="5">
+<value>3061</value>
+</cell>
+<cell row="6">
+<value>3445</value>
+</cell>
+<cell row="7">
+<value>2703</value>
+</cell>
+<cell row="8">
+<value>80</value>
+</cell>
+<cell row="11">
+<value>14</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>24</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>23</value>
+</cell>
+<cell row="29">
+<value>5</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>89</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>45</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>21</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>3</value>
+</cell>
+<cell row="76">
+<value>4</value>
+</cell>
+<cell row="81">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="12" Width="64">
+<cell row="1">
+<value>70</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>3386</value>
+</cell>
+<cell row="5">
+<value>3704</value>
+</cell>
+<cell row="6">
+<value>4027</value>
+</cell>
+<cell row="7">
+<value>3395</value>
+</cell>
+<cell row="8">
+<value>101</value>
+</cell>
+<cell row="11">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>28</value>
+</cell>
+<cell row="29">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>105</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>11</value>
+</cell>
+<cell row="57">
+<value>6</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>25</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="76">
+<value>80</value>
+</cell>
+<cell row="79">
+<value>5</value>
+</cell>
+<cell row="81">
+<value>3</value>
+</cell>
+<cell row="82">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="13" Width="64">
+<cell row="1">
+<value>80</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>3584</value>
+</cell>
+<cell row="5">
+<value>3964</value>
+</cell>
+<cell row="6">
+<value>4289</value>
+</cell>
+<cell row="7">
+<value>3658</value>
+</cell>
+<cell row="8">
+<value>113</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>15</value>
+</cell>
+<cell row="18">
+<value>11</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>20</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>100</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="45">
+<value>3</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>14</value>
+</cell>
+<cell row="57">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>44</value>
+</cell>
+<cell row="76">
+<value>21</value>
+</cell>
+<cell row="79">
+<value>2</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="14" Width="64">
+<cell row="1">
+<value>85</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>3684</value>
+</cell>
+<cell row="5">
+<value>4094</value>
+</cell>
+<cell row="6">
+<value>4423</value>
+</cell>
+<cell row="7">
+<value>3790</value>
+</cell>
+<cell row="8">
+<value>89</value>
+</cell>
+<cell row="11">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>8</value>
+</cell>
+<cell row="28">
+<value>12</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>60</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>4</value>
+</cell>
+<cell row="66">
+<value>13</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>2</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+<cell row="84">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="15" Width="64">
+<cell row="1">
+<value>95</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>3882</value>
+</cell>
+<cell row="5">
+<value>4357</value>
+</cell>
+<cell row="6">
+<value>4700</value>
+</cell>
+<cell row="7">
+<value>4065</value>
+</cell>
+<cell row="8">
+<value>46</value>
+</cell>
+<cell row="11">
+<value>3</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>7</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>49</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>42</value>
+</cell>
+<cell row="66">
+<value>16</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="16" Width="64">
+<cell row="1">
+<value>100</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>3981</value>
+</cell>
+<cell row="5">
+<value>4490</value>
+</cell>
+<cell row="6">
+<value>4834</value>
+</cell>
+<cell row="7">
+<value>4204</value>
+</cell>
+<cell row="8">
+<value>100</value>
+</cell>
+<cell row="11">
+<value>14</value>
+</cell>
+<cell row="18">
+<value>21</value>
+</cell>
+<cell row="28">
+<value>30</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>82</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="45">
+<value>4</value>
+</cell>
+<cell row="53">
+<value>12</value>
+</cell>
+<cell row="57">
+<value>6</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="64">
+<value>5</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>56</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>3</value>
+</cell>
+<cell row="76">
+<value>23</value>
+</cell>
+<cell row="79">
+<value>4</value>
+</cell>
+<cell row="81">
+<value>3</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="17" Width="64">
+<cell row="1">
+<value>105</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>4080</value>
+</cell>
+<cell row="5">
+<value>4624</value>
+</cell>
+<cell row="6">
+<value>4959</value>
+</cell>
+<cell row="7">
+<value>4342</value>
+</cell>
+<cell row="8">
+<value>38</value>
+</cell>
+<cell row="11">
+<value>12</value>
+</cell>
+<cell row="18">
+<value>56</value>
+</cell>
+<cell row="28">
+<value>17</value>
+</cell>
+<cell row="29">
+<value>2</value>
+</cell>
+<cell row="33">
+<value>49</value>
+</cell>
+<cell row="35">
+<value>4</value>
+</cell>
+<cell row="53">
+<value>7</value>
+</cell>
+<cell row="56">
+<value>2</value>
+</cell>
+<cell row="57">
+<value>11</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>38</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>2</value>
+</cell>
+<cell row="81">
+<value>6</value>
+</cell>
+</Col>
+<Col ID="18" Width="64">
+<cell row="1">
+<value>110</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>4186</value>
+</cell>
+<cell row="5">
+<value>4758</value>
+</cell>
+<cell row="6">
+<value>5081</value>
+</cell>
+<cell row="7">
+<value>4481</value>
+</cell>
+<cell row="8">
+<value>4</value>
+</cell>
+<cell row="11">
+<value>32</value>
+</cell>
+<cell row="16">
+<value>6</value>
+</cell>
+<cell row="18">
+<value>16</value>
+</cell>
+<cell row="21">
+<value>55</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>35</value>
+</cell>
+<cell row="29">
+<value>8</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>102</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>56</value>
+</cell>
+<cell row="55">
+<value>2</value>
+</cell>
+<cell row="56">
+<value>8</value>
+</cell>
+<cell row="57">
+<value>23</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="64">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>61</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="75">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>21</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="19" Width="64">
+<cell row="1">
+<value>120</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>4411</value>
+</cell>
+<cell row="5">
+<value>5027</value>
+</cell>
+<cell row="6">
+<value>5312</value>
+</cell>
+<cell row="7">
+<value>4747</value>
+</cell>
+<cell row="8">
+<value>11</value>
+</cell>
+<cell row="11">
+<value>13</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>89</value>
+</cell>
+<cell row="28">
+<value>44</value>
+</cell>
+<cell row="29">
+<value>12</value>
+</cell>
+<cell row="33">
+<value>120</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>10</value>
+</cell>
+<cell row="45">
+<value>7</value>
+</cell>
+<cell row="53">
+<value>12</value>
+</cell>
+<cell row="57">
+<value>7</value>
+</cell>
+<cell row="64">
+<value>5</value>
+</cell>
+<cell row="66">
+<value>58</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>22</value>
+</cell>
+<cell row="79">
+<value>28</value>
+</cell>
+<cell row="81">
+<value>8</value>
+</cell>
+<cell row="82">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="20" Width="64">
+<cell row="1">
+<value>125</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>4523</value>
+</cell>
+<cell row="5">
+<value>5158</value>
+</cell>
+<cell row="6">
+<value>5426</value>
+</cell>
+<cell row="7">
+<value>4881</value>
+</cell>
+<cell row="8">
+<value>12</value>
+</cell>
+<cell row="11">
+<value>4</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>56</value>
+</cell>
+<cell row="28">
+<value>42</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>30</value>
+</cell>
+<cell row="35">
+<value>4</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>9</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>47</value>
+</cell>
+<cell row="68">
+<value>4</value>
+</cell>
+<cell row="79">
+<value>26</value>
+</cell>
+<cell row="81">
+<value>8</value>
+</cell>
+</Col>
+<Col ID="21" Width="64">
+<cell row="1">
+<value>130</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>4635</value>
+</cell>
+<cell row="5">
+<value>5286</value>
+</cell>
+<cell row="6">
+<value>5542</value>
+</cell>
+<cell row="7">
+<value>5014</value>
+</cell>
+<cell row="8">
+<value>24</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>11</value>
+</cell>
+<cell row="15">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>34</value>
+</cell>
+<cell row="21">
+<value>5</value>
+</cell>
+<cell row="28">
+<value>50</value>
+</cell>
+<cell row="29">
+<value>7</value>
+</cell>
+<cell row="33">
+<value>21</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>56</value>
+</cell>
+<cell row="66">
+<value>74</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>3</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>34</value>
+</cell>
+<cell row="81">
+<value>4</value>
+</cell>
+<cell row="82">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="22" Width="64">
+<cell row="1">
+<value>135</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>4748</value>
+</cell>
+<cell row="5">
+<value>5408</value>
+</cell>
+<cell row="6">
+<value>5658</value>
+</cell>
+<cell row="7">
+<value>5142</value>
+</cell>
+<cell row="8">
+<value>4</value>
+</cell>
+<cell row="11">
+<value>4</value>
+</cell>
+<cell row="18">
+<value>15</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>46</value>
+</cell>
+<cell row="29">
+<value>19</value>
+</cell>
+<cell row="31">
+<value>13</value>
+</cell>
+<cell row="33">
+<value>6</value>
+</cell>
+<cell row="35">
+<value>9</value>
+</cell>
+<cell row="45">
+<value>6</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>4</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>45</value>
+</cell>
+<cell row="69">
+<value>8</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>17</value>
+</cell>
+<cell row="81">
+<value>3</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="23" Width="64">
+<cell row="1">
+<value>140</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>4860</value>
+</cell>
+<cell row="5">
+<value>5524</value>
+</cell>
+<cell row="6">
+<value>5772</value>
+</cell>
+<cell row="7">
+<value>5262</value>
+</cell>
+<cell row="8">
+<value>12</value>
+</cell>
+<cell row="11">
+<value>11</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>2</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>26</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>75</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>8</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="38">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>24</value>
+</cell>
+<cell row="53">
+<value>8</value>
+</cell>
+<cell row="57">
+<value>20</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="64">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>100</value>
+</cell>
+<cell row="68">
+<value>3</value>
+</cell>
+<cell row="69">
+<value>25</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>17</value>
+</cell>
+<cell row="79">
+<value>59</value>
+</cell>
+<cell row="80">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>36</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="24" Width="64">
+<cell row="1">
+<value>145</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>4939</value>
+</cell>
+<cell row="5">
+<value>5633</value>
+</cell>
+<cell row="6">
+<value>5879</value>
+</cell>
+<cell row="7">
+<value>5370</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>150</value>
+</cell>
+<cell row="28">
+<value>15</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>7</value>
+</cell>
+<cell row="45">
+<value>4</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>8</value>
+</cell>
+<cell row="66">
+<value>37</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>25</value>
+</cell>
+<cell row="81">
+<value>7</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="25" Width="64">
+<cell row="1">
+<value>150</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5018</value>
+</cell>
+<cell row="5">
+<value>5735</value>
+</cell>
+<cell row="6">
+<value>5982</value>
+</cell>
+<cell row="7">
+<value>5469</value>
+</cell>
+<cell row="8">
+<value>4</value>
+</cell>
+<cell row="11">
+<value>3</value>
+</cell>
+<cell row="13">
+<value>4</value>
+</cell>
+<cell row="18">
+<value>101</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>51</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>5</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="37">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>8</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>80</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>120</value>
+</cell>
+<cell row="79">
+<value>32</value>
+</cell>
+<cell row="81">
+<value>8</value>
+</cell>
+<cell row="82">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="26" Width="64">
+<cell row="1">
+<value>155</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5098</value>
+</cell>
+<cell row="5">
+<value>5832</value>
+</cell>
+<cell row="6">
+<value>6082</value>
+</cell>
+<cell row="7">
+<value>5560</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>162</value>
+</cell>
+<cell row="28">
+<value>27</value>
+</cell>
+<cell row="35">
+<value>7</value>
+</cell>
+<cell row="36">
+<value>3</value>
+</cell>
+<cell row="50">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>2</value>
+</cell>
+<cell row="57">
+<value>16</value>
+</cell>
+<cell row="66">
+<value>50</value>
+</cell>
+<cell row="79">
+<value>15</value>
+</cell>
+<cell row="81">
+<value>11</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="27" Width="64">
+<cell row="1">
+<value>165</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5256</value>
+</cell>
+<cell row="5">
+<value>6016</value>
+</cell>
+<cell row="6">
+<value>6279</value>
+</cell>
+<cell row="7">
+<value>5736</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>44</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>22</value>
+</cell>
+<cell row="29">
+<value>11</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>7</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>75</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>52</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>15</value>
+</cell>
+<cell row="81">
+<value>14</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="28" Width="64">
+<cell row="1">
+<value>170</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5335</value>
+</cell>
+<cell row="5">
+<value>6105</value>
+</cell>
+<cell row="6">
+<value>6378</value>
+</cell>
+<cell row="7">
+<value>5827</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="13">
+<value>12</value>
+</cell>
+<cell row="18">
+<value>35</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>44</value>
+</cell>
+<cell row="29">
+<value>8</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>9</value>
+</cell>
+<cell row="57">
+<value>51</value>
+</cell>
+<cell row="64">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>109</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>27</value>
+</cell>
+<cell row="79">
+<value>26</value>
+</cell>
+<cell row="81">
+<value>21</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="29" Width="64">
+<cell row="1">
+<value>175</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5414</value>
+</cell>
+<cell row="5">
+<value>6194</value>
+</cell>
+<cell row="6">
+<value>6477</value>
+</cell>
+<cell row="7">
+<value>5919</value>
+</cell>
+<cell row="8">
+<value>3</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>40</value>
+</cell>
+<cell row="28">
+<value>27</value>
+</cell>
+<cell row="29">
+<value>1</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>5</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>8</value>
+</cell>
+<cell row="57">
+<value>74</value>
+</cell>
+<cell row="66">
+<value>51</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="79">
+<value>19</value>
+</cell>
+<cell row="81">
+<value>7</value>
+</cell>
+</Col>
+<Col ID="30" Width="64">
+<cell row="1">
+<value>180</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5494</value>
+</cell>
+<cell row="5">
+<value>6285</value>
+</cell>
+<cell row="6">
+<value>6580</value>
+</cell>
+<cell row="7">
+<value>6015</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>47</value>
+</cell>
+<cell row="28">
+<value>54</value>
+</cell>
+<cell row="29">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>17</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>13</value>
+</cell>
+<cell row="57">
+<value>74</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>84</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>30</value>
+</cell>
+<cell row="79">
+<value>29</value>
+</cell>
+<cell row="81">
+<value>21</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="31" Width="64">
+<cell row="1">
+<value>185</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5573</value>
+</cell>
+<cell row="5">
+<value>6377</value>
+</cell>
+<cell row="6">
+<value>6685</value>
+</cell>
+<cell row="7">
+<value>6113</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>39</value>
+</cell>
+<cell row="28">
+<value>39</value>
+</cell>
+<cell row="29">
+<value>7</value>
+</cell>
+<cell row="35">
+<value>4</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>60</value>
+</cell>
+<cell row="66">
+<value>75</value>
+</cell>
+<cell row="79">
+<value>20</value>
+</cell>
+<cell row="81">
+<value>9</value>
+</cell>
+<cell row="82">
+<value>14</value>
+</cell>
+<cell row="86">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="32" Width="64">
+<cell row="1">
+<value>190</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5652</value>
+</cell>
+<cell row="5">
+<value>6474</value>
+</cell>
+<cell row="6">
+<value>6787</value>
+</cell>
+<cell row="7">
+<value>6215</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>2</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>90</value>
+</cell>
+<cell row="28">
+<value>40</value>
+</cell>
+<cell row="29">
+<value>5</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>5</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="46">
+<value>1</value>
+</cell>
+<cell row="52">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>14</value>
+</cell>
+<cell row="57">
+<value>21</value>
+</cell>
+<cell row="66">
+<value>93</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>11</value>
+</cell>
+<cell row="79">
+<value>31</value>
+</cell>
+<cell row="81">
+<value>8</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="33" Width="64">
+<cell row="1">
+<value>195</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5731</value>
+</cell>
+<cell row="5">
+<value>6576</value>
+</cell>
+<cell row="6">
+<value>6891</value>
+</cell>
+<cell row="7">
+<value>6324</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>95</value>
+</cell>
+<cell row="28">
+<value>20</value>
+</cell>
+<cell row="29">
+<value>6</value>
+</cell>
+<cell row="34">
+<value>5</value>
+</cell>
+<cell row="35">
+<value>7</value>
+</cell>
+<cell row="53">
+<value>6</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>40</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>20</value>
+</cell>
+<cell row="81">
+<value>7</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="34" Width="64">
+<cell row="1">
+<value>200</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5810</value>
+</cell>
+<cell row="5">
+<value>6684</value>
+</cell>
+<cell row="6">
+<value>6996</value>
+</cell>
+<cell row="7">
+<value>6439</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>2</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>120</value>
+</cell>
+<cell row="28">
+<value>45</value>
+</cell>
+<cell row="29">
+<value>11</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>12</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>80</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>8</value>
+</cell>
+<cell row="79">
+<value>40</value>
+</cell>
+<cell row="81">
+<value>11</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+<cell row="86">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="35" Width="64">
+<cell row="1">
+<value>205</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>5923</value>
+</cell>
+<cell row="5">
+<value>6800</value>
+</cell>
+<cell row="6">
+<value>7107</value>
+</cell>
+<cell row="7">
+<value>6559</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>130</value>
+</cell>
+<cell row="28">
+<value>20</value>
+</cell>
+<cell row="29">
+<value>8</value>
+</cell>
+<cell row="35">
+<value>9</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>27</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>17</value>
+</cell>
+<cell row="81">
+<value>9</value>
+</cell>
+</Col>
+<Col ID="36" Width="64">
+<cell row="1">
+<value>215</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>6213</value>
+</cell>
+<cell row="5">
+<value>7052</value>
+</cell>
+<cell row="6">
+<value>7345</value>
+</cell>
+<cell row="7">
+<value>6810</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>68</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>21</value>
+</cell>
+<cell row="29">
+<value>4</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="33">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>6</value>
+</cell>
+<cell row="57">
+<value>23</value>
+</cell>
+<cell row="66">
+<value>53</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>19</value>
+</cell>
+<cell row="81">
+<value>7</value>
+</cell>
+</Col>
+<Col ID="37" Width="64">
+<cell row="1">
+<value>220</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>6358</value>
+</cell>
+<cell row="5">
+<value>7187</value>
+</cell>
+<cell row="6">
+<value>7466</value>
+</cell>
+<cell row="7">
+<value>6940</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>80</value>
+</cell>
+<cell row="28">
+<value>46</value>
+</cell>
+<cell row="29">
+<value>6</value>
+</cell>
+<cell row="35">
+<value>7</value>
+</cell>
+<cell row="53">
+<value>8</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="64">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>57</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>48</value>
+</cell>
+<cell row="81">
+<value>20</value>
+</cell>
+<cell row="82">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="38" Width="64">
+<cell row="1">
+<value>225</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>6503</value>
+</cell>
+<cell row="5">
+<value>7324</value>
+</cell>
+<cell row="6">
+<value>7588</value>
+</cell>
+<cell row="7">
+<value>7072</value>
+</cell>
+<cell row="9">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>58</value>
+</cell>
+<cell row="27">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>29</value>
+</cell>
+<cell row="29">
+<value>2</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>8</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>21</value>
+</cell>
+<cell row="66">
+<value>69</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>35</value>
+</cell>
+<cell row="81">
+<value>9</value>
+</cell>
+<cell row="82">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="39" Width="64">
+<cell row="1">
+<value>230</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>6649</value>
+</cell>
+<cell row="5">
+<value>7464</value>
+</cell>
+<cell row="6">
+<value>7714</value>
+</cell>
+<cell row="7">
+<value>7203</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>100</value>
+</cell>
+<cell row="28">
+<value>44</value>
+</cell>
+<cell row="29">
+<value>10</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="35">
+<value>6</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>5</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>75</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>7</value>
+</cell>
+<cell row="79">
+<value>34</value>
+</cell>
+<cell row="81">
+<value>26</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="40" Width="64">
+<cell row="1">
+<value>235</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>6794</value>
+</cell>
+<cell row="5">
+<value>7603</value>
+</cell>
+<cell row="6">
+<value>7847</value>
+</cell>
+<cell row="7">
+<value>7338</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>125</value>
+</cell>
+<cell row="28">
+<value>42</value>
+</cell>
+<cell row="35">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>5</value>
+</cell>
+<cell row="66">
+<value>28</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="79">
+<value>20</value>
+</cell>
+<cell row="81">
+<value>2</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="41" Width="64">
+<cell row="1">
+<value>240</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>6939</value>
+</cell>
+<cell row="5">
+<value>7742</value>
+</cell>
+<cell row="6">
+<value>7981</value>
+</cell>
+<cell row="7">
+<value>7477</value>
+</cell>
+<cell row="13">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>176</value>
+</cell>
+<cell row="28">
+<value>67</value>
+</cell>
+<cell row="29">
+<value>5</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>7</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>68</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>3</value>
+</cell>
+<cell row="76">
+<value>17</value>
+</cell>
+<cell row="79">
+<value>29</value>
+</cell>
+<cell row="81">
+<value>9</value>
+</cell>
+<cell row="82">
+<value>4</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="42" Width="64">
+<cell row="1">
+<value>245</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7084</value>
+</cell>
+<cell row="5">
+<value>7878</value>
+</cell>
+<cell row="6">
+<value>8113</value>
+</cell>
+<cell row="7">
+<value>7613</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>195</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>15</value>
+</cell>
+<cell row="29">
+<value>8</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>2</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>57</value>
+</cell>
+<cell row="69">
+<value>4</value>
+</cell>
+<cell row="73">
+<value>6</value>
+</cell>
+<cell row="79">
+<value>8</value>
+</cell>
+<cell row="81">
+<value>7</value>
+</cell>
+</Col>
+<Col ID="43" Width="64">
+<cell row="1">
+<value>250</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7230</value>
+</cell>
+<cell row="5">
+<value>8010</value>
+</cell>
+<cell row="6">
+<value>8241</value>
+</cell>
+<cell row="7">
+<value>7745</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>42</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>57</value>
+</cell>
+<cell row="29">
+<value>21</value>
+</cell>
+<cell row="45">
+<value>6</value>
+</cell>
+<cell row="53">
+<value>8</value>
+</cell>
+<cell row="57">
+<value>8</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>100</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>29</value>
+</cell>
+<cell row="79">
+<value>22</value>
+</cell>
+<cell row="81">
+<value>11</value>
+</cell>
+<cell row="82">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="44" Width="64">
+<cell row="1">
+<value>255</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7375</value>
+</cell>
+<cell row="5">
+<value>8137</value>
+</cell>
+<cell row="6">
+<value>8367</value>
+</cell>
+<cell row="7">
+<value>7873</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>59</value>
+</cell>
+<cell row="28">
+<value>28</value>
+</cell>
+<cell row="29">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>54</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>3</value>
+</cell>
+<cell row="79">
+<value>5</value>
+</cell>
+<cell row="81">
+<value>4</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+<cell row="86">
+<value>1</value>
+</cell>
+<cell row="87">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="45" Width="64">
+<cell row="1">
+<value>260</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7520</value>
+</cell>
+<cell row="5">
+<value>8257</value>
+</cell>
+<cell row="6">
+<value>8488</value>
+</cell>
+<cell row="7">
+<value>7995</value>
+</cell>
+<cell row="18">
+<value>100</value>
+</cell>
+<cell row="28">
+<value>78</value>
+</cell>
+<cell row="29">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>29</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>63</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>80</value>
+</cell>
+<cell row="79">
+<value>8</value>
+</cell>
+<cell row="81">
+<value>11</value>
+</cell>
+<cell row="82">
+<value>14</value>
+</cell>
+</Col>
+<Col ID="46" Width="64">
+<cell row="1">
+<value>270</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7643</value>
+</cell>
+<cell row="5">
+<value>8474</value>
+</cell>
+<cell row="6">
+<value>8708</value>
+</cell>
+<cell row="7">
+<value>8210</value>
+</cell>
+<cell row="11">
+<value>2</value>
+</cell>
+<cell row="13">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>38</value>
+</cell>
+<cell row="28">
+<value>57</value>
+</cell>
+<cell row="29">
+<value>7</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>2</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>8</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>52</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="75">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>2</value>
+</cell>
+<cell row="80">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>3</value>
+</cell>
+<cell row="82">
+<value>3</value>
+</cell>
+<cell row="85">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="47" Width="64">
+<cell row="1">
+<value>275</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7704</value>
+</cell>
+<cell row="5">
+<value>8571</value>
+</cell>
+<cell row="6">
+<value>8808</value>
+</cell>
+<cell row="7">
+<value>8305</value>
+</cell>
+<cell row="14">
+<value>5</value>
+</cell>
+<cell row="18">
+<value>136</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>84</value>
+</cell>
+<cell row="29">
+<value>4</value>
+</cell>
+<cell row="33">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>7</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>9</value>
+</cell>
+<cell row="66">
+<value>28</value>
+</cell>
+<cell row="81">
+<value>3</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="48" Width="64">
+<cell row="1">
+<value>280</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7765</value>
+</cell>
+<cell row="5">
+<value>8662</value>
+</cell>
+<cell row="6">
+<value>8903</value>
+</cell>
+<cell row="7">
+<value>8394</value>
+</cell>
+<cell row="18">
+<value>60</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>85</value>
+</cell>
+<cell row="29">
+<value>7</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>6</value>
+</cell>
+<cell row="53">
+<value>8</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>23</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>70</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>5</value>
+</cell>
+<cell row="76">
+<value>13</value>
+</cell>
+<cell row="81">
+<value>10</value>
+</cell>
+<cell row="82">
+<value>4</value>
+</cell>
+</Col>
+<Col ID="49" Width="64">
+<cell row="1">
+<value>285</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7827</value>
+</cell>
+<cell row="5">
+<value>8747</value>
+</cell>
+<cell row="6">
+<value>8994</value>
+</cell>
+<cell row="7">
+<value>8480</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>60</value>
+</cell>
+<cell row="28">
+<value>100</value>
+</cell>
+<cell row="29">
+<value>4</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>54</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="81">
+<value>9</value>
+</cell>
+<cell row="82">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="50" Width="64">
+<cell row="1">
+<value>290</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7888</value>
+</cell>
+<cell row="5">
+<value>8827</value>
+</cell>
+<cell row="6">
+<value>9080</value>
+</cell>
+<cell row="7">
+<value>8562</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>94</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>111</value>
+</cell>
+<cell row="29">
+<value>5</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="43">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>6</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>36</value>
+</cell>
+<cell row="66">
+<value>61</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>21</value>
+</cell>
+<cell row="80">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>6</value>
+</cell>
+<cell row="82">
+<value>9</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="51" Width="64">
+<cell row="1">
+<value>295</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>7949</value>
+</cell>
+<cell row="5">
+<value>8902</value>
+</cell>
+<cell row="6">
+<value>9160</value>
+</cell>
+<cell row="7">
+<value>8638</value>
+</cell>
+<cell row="18">
+<value>29</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>95</value>
+</cell>
+<cell row="29">
+<value>14</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>21</value>
+</cell>
+<cell row="66">
+<value>73</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>9</value>
+</cell>
+</Col>
+<Col ID="52" Width="64">
+<cell row="1">
+<value>300</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8011</value>
+</cell>
+<cell row="5">
+<value>8973</value>
+</cell>
+<cell row="6">
+<value>9237</value>
+</cell>
+<cell row="7">
+<value>8709</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>70</value>
+</cell>
+<cell row="23">
+<value>3</value>
+</cell>
+<cell row="28">
+<value>195</value>
+</cell>
+<cell row="29">
+<value>13</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="49">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>7</value>
+</cell>
+<cell row="57">
+<value>16</value>
+</cell>
+<cell row="61">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>78</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>14</value>
+</cell>
+<cell row="82">
+<value>3</value>
+</cell>
+</Col>
+<Col ID="53" Width="64">
+<cell row="1">
+<value>305</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8072</value>
+</cell>
+<cell row="5">
+<value>9041</value>
+</cell>
+<cell row="6">
+<value>9310</value>
+</cell>
+<cell row="7">
+<value>8771</value>
+</cell>
+<cell row="18">
+<value>25</value>
+</cell>
+<cell row="22">
+<value>7</value>
+</cell>
+<cell row="28">
+<value>150</value>
+</cell>
+<cell row="29">
+<value>5</value>
+</cell>
+<cell row="45">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>1</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>10</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>47</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>8</value>
+</cell>
+<cell row="82">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="54" Width="64">
+<cell row="1">
+<value>310</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8133</value>
+</cell>
+<cell row="5">
+<value>9106</value>
+</cell>
+<cell row="6">
+<value>9380</value>
+</cell>
+<cell row="7">
+<value>8827</value>
+</cell>
+<cell row="9">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>15</value>
+</cell>
+<cell row="23">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>200</value>
+</cell>
+<cell row="29">
+<value>7</value>
+</cell>
+<cell row="45">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>14</value>
+</cell>
+<cell row="66">
+<value>61</value>
+</cell>
+<cell row="69">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="76">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>10</value>
+</cell>
+<cell row="82">
+<value>6</value>
+</cell>
+</Col>
+<Col ID="55" Width="64">
+<cell row="1">
+<value>315</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8195</value>
+</cell>
+<cell row="5">
+<value>9169</value>
+</cell>
+<cell row="6">
+<value>9449</value>
+</cell>
+<cell row="7">
+<value>8881</value>
+</cell>
+<cell row="18">
+<value>34</value>
+</cell>
+<cell row="28">
+<value>137</value>
+</cell>
+<cell row="29">
+<value>4</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="45">
+<value>4</value>
+</cell>
+<cell row="53">
+<value>2</value>
+</cell>
+<cell row="57">
+<value>20</value>
+</cell>
+<cell row="66">
+<value>37</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>3</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="56" Width="64">
+<cell row="1">
+<value>320</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8256</value>
+</cell>
+<cell row="5">
+<value>9230</value>
+</cell>
+<cell row="6">
+<value>9515</value>
+</cell>
+<cell row="7">
+<value>8933</value>
+</cell>
+<cell row="18">
+<value>12</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>112</value>
+</cell>
+<cell row="29">
+<value>5</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>9</value>
+</cell>
+<cell row="57">
+<value>36</value>
+</cell>
+<cell row="66">
+<value>58</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="76">
+<value>110</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>10</value>
+</cell>
+<cell row="82">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="57" Width="64">
+<cell row="1">
+<value>325</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8317</value>
+</cell>
+<cell row="5">
+<value>9291</value>
+</cell>
+<cell row="6">
+<value>9580</value>
+</cell>
+<cell row="7">
+<value>8985</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>14</value>
+</cell>
+<cell row="28">
+<value>240</value>
+</cell>
+<cell row="29">
+<value>5</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>43</value>
+</cell>
+<cell row="60">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>73</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="81">
+<value>11</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="58" Width="64">
+<cell row="1">
+<value>335</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8440</value>
+</cell>
+<cell row="5">
+<value>9411</value>
+</cell>
+<cell row="6">
+<value>9712</value>
+</cell>
+<cell row="7">
+<value>9089</value>
+</cell>
+<cell row="8">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>5</value>
+</cell>
+<cell row="28">
+<value>200</value>
+</cell>
+<cell row="33">
+<value>4</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>6</value>
+</cell>
+<cell row="65">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>70</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>6</value>
+</cell>
+</Col>
+<Col ID="59" Width="64">
+<cell row="1">
+<value>340</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8504</value>
+</cell>
+<cell row="5">
+<value>9472</value>
+</cell>
+<cell row="6">
+<value>9778</value>
+</cell>
+<cell row="7">
+<value>9141</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>6</value>
+</cell>
+<cell row="28">
+<value>222</value>
+</cell>
+<cell row="29">
+<value>3</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>58</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>25</value>
+</cell>
+</Col>
+<Col ID="60" Width="64">
+<cell row="1">
+<value>345</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8568</value>
+</cell>
+<cell row="5">
+<value>9534</value>
+</cell>
+<cell row="6">
+<value>9842</value>
+</cell>
+<cell row="7">
+<value>9193</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>8</value>
+</cell>
+<cell row="28">
+<value>124</value>
+</cell>
+<cell row="29">
+<value>14</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>54</value>
+</cell>
+<cell row="68">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>4</value>
+</cell>
+</Col>
+<Col ID="61" Width="64">
+<cell row="1">
+<value>365</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8825</value>
+</cell>
+<cell row="5">
+<value>9807</value>
+</cell>
+<cell row="6">
+<value>10139</value>
+</cell>
+<cell row="7">
+<value>9440</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>8</value>
+</cell>
+<cell row="28">
+<value>138</value>
+</cell>
+<cell row="29">
+<value>7</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>6</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>49</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>11</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="62" Width="64">
+<cell row="1">
+<value>370</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8889</value>
+</cell>
+<cell row="5">
+<value>9884</value>
+</cell>
+<cell row="6">
+<value>10225</value>
+</cell>
+<cell row="7">
+<value>9513</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>17</value>
+</cell>
+<cell row="28">
+<value>110</value>
+</cell>
+<cell row="29">
+<value>9</value>
+</cell>
+<cell row="51">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>17</value>
+</cell>
+<cell row="57">
+<value>10</value>
+</cell>
+<cell row="61">
+<value>8</value>
+</cell>
+<cell row="62">
+<value>15</value>
+</cell>
+<cell row="66">
+<value>86</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>13</value>
+</cell>
+</Col>
+<Col ID="63" Width="64">
+<cell row="1">
+<value>375</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>8953</value>
+</cell>
+<cell row="5">
+<value>9966</value>
+</cell>
+<cell row="6">
+<value>10317</value>
+</cell>
+<cell row="7">
+<value>9594</value>
+</cell>
+<cell row="18">
+<value>15</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>150</value>
+</cell>
+<cell row="29">
+<value>2</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>10</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>5</value>
+</cell>
+<cell row="61">
+<value>3</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>77</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="81">
+<value>13</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="64" Width="64">
+<cell row="1">
+<value>380</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>9017</value>
+</cell>
+<cell row="5">
+<value>10052</value>
+</cell>
+<cell row="6">
+<value>10414</value>
+</cell>
+<cell row="7">
+<value>9681</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>35</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>260</value>
+</cell>
+<cell row="29">
+<value>7</value>
+</cell>
+<cell row="39">
+<value>8</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>30</value>
+</cell>
+<cell row="57">
+<value>10</value>
+</cell>
+<cell row="61">
+<value>8</value>
+</cell>
+<cell row="62">
+<value>3</value>
+</cell>
+<cell row="66">
+<value>81</value>
+</cell>
+<cell row="67">
+<value>3</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>3</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="75">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>21</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="65" Width="64">
+<cell row="1">
+<value>385</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>9081</value>
+</cell>
+<cell row="5">
+<value>10143</value>
+</cell>
+<cell row="6">
+<value>10514</value>
+</cell>
+<cell row="7">
+<value>9777</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>16</value>
+</cell>
+<cell row="28">
+<value>113</value>
+</cell>
+<cell row="29">
+<value>2</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>9</value>
+</cell>
+<cell row="61">
+<value>3</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="64">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>62</value>
+</cell>
+<cell row="72">
+<value>3</value>
+</cell>
+<cell row="80">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="66" Width="64">
+<cell row="1">
+<value>390</value>
+</cell>
+<cell row="3">
+<text>Reille, M.</text>
+<contact ID="5"/>
+</cell>
+<cell row="4">
+<value>9145</value>
+</cell>
+<cell row="5">
+<value>10241</value>
+</cell>
+<cell row="6">
+<value>10615</value>
+</cell>
+<cell row="7">
+<value>9878</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>29</value>
+</cell>
+<cell row="28">
+<value>180</value>
+</cell>
+<cell row="29">
+<value>6</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>6</value>
+</cell>
+<cell row="41">
+<value>1</value>
+</cell>
+<cell row="42">
+<value>1</value>
+</cell>
+<cell row="48">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>13</value>
+</cell>
+<cell row="54">
+<value>1</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>3</value>
+</cell>
+<cell row="62">
+<value>6</value>
+</cell>
+<cell row="66">
+<value>100</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>3</value>
+</cell>
+<cell row="81">
+<value>26</value>
+</cell>
+</Col>
+<Col ID="67" Width="64">
+<cell row="1">
+<value>395</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>9209</value>
+</cell>
+<cell row="5">
+<value>10345</value>
+</cell>
+<cell row="6">
+<value>10719</value>
+</cell>
+<cell row="7">
+<value>9985</value>
+</cell>
+<cell row="18">
+<value>12</value>
+</cell>
+<cell row="28">
+<value>116</value>
+</cell>
+<cell row="29">
+<value>8</value>
+</cell>
+<cell row="36">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>4</value>
+</cell>
+<cell row="57">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="66">
+<value>61</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>2</value>
+</cell>
+<cell row="79">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>11</value>
+</cell>
+</Col>
+<Col ID="68" Width="64">
+<cell row="1">
+<value>405</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>9338</value>
+</cell>
+<cell row="5">
+<value>10574</value>
+</cell>
+<cell row="6">
+<value>10945</value>
+</cell>
+<cell row="7">
+<value>10224</value>
+</cell>
+<cell row="15">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>37</value>
+</cell>
+<cell row="28">
+<value>100</value>
+</cell>
+<cell row="29">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>12</value>
+</cell>
+<cell row="57">
+<value>15</value>
+</cell>
+<cell row="66">
+<value>43</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>3</value>
+</cell>
+<cell row="81">
+<value>7</value>
+</cell>
+</Col>
+<Col ID="69" Width="64">
+<cell row="1">
+<value>410</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>9402</value>
+</cell>
+<cell row="5">
+<value>10700</value>
+</cell>
+<cell row="6">
+<value>11064</value>
+</cell>
+<cell row="7">
+<value>10357</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="15">
+<value>3</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>55</value>
+</cell>
+<cell row="28">
+<value>180</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>13</value>
+</cell>
+<cell row="57">
+<value>15</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>47</value>
+</cell>
+<cell row="72">
+<value>5</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="81">
+<value>10</value>
+</cell>
+</Col>
+<Col ID="70" Width="64">
+<cell row="1">
+<value>415</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>9466</value>
+</cell>
+<cell row="5">
+<value>10835</value>
+</cell>
+<cell row="6">
+<value>11188</value>
+</cell>
+<cell row="7">
+<value>10501</value>
+</cell>
+<cell row="14">
+<value>3</value>
+</cell>
+<cell row="15">
+<value>3</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>95</value>
+</cell>
+<cell row="28">
+<value>46</value>
+</cell>
+<cell row="29">
+<value>5</value>
+</cell>
+<cell row="34">
+<value>1</value>
+</cell>
+<cell row="35">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>5</value>
+</cell>
+<cell row="53">
+<value>22</value>
+</cell>
+<cell row="57">
+<value>18</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>45</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="69">
+<value>1</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="72">
+<value>15</value>
+</cell>
+<cell row="73">
+<value>5</value>
+</cell>
+<cell row="80">
+<value>1</value>
+</cell>
+<cell row="81">
+<value>2</value>
+</cell>
+<cell row="82">
+<value>3</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="71" Width="64">
+<cell row="1">
+<value>420</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>9530</value>
+</cell>
+<cell row="5">
+<value>10978</value>
+</cell>
+<cell row="6">
+<value>11318</value>
+</cell>
+<cell row="7">
+<value>10657</value>
+</cell>
+<cell row="14">
+<value>5</value>
+</cell>
+<cell row="15">
+<value>4</value>
+</cell>
+<cell row="16">
+<value>3</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>120</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="28">
+<value>5</value>
+</cell>
+<cell row="29">
+<value>6</value>
+</cell>
+<cell row="34">
+<value>3</value>
+</cell>
+<cell row="35">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>51</value>
+</cell>
+<cell row="57">
+<value>45</value>
+</cell>
+<cell row="66">
+<value>18</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="72">
+<value>10</value>
+</cell>
+<cell row="73">
+<value>4</value>
+</cell>
+<cell row="81">
+<value>2</value>
+</cell>
+<cell row="85">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="72" Width="64">
+<cell row="1">
+<value>425</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>9658</value>
+</cell>
+<cell row="5">
+<value>11131</value>
+</cell>
+<cell row="6">
+<value>11451</value>
+</cell>
+<cell row="7">
+<value>10823</value>
+</cell>
+<cell row="14">
+<value>6</value>
+</cell>
+<cell row="15">
+<value>5</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>95</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>12</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>6</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>32</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>45</value>
+</cell>
+<cell row="66">
+<value>18</value>
+</cell>
+<cell row="67">
+<value>2</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>20</value>
+</cell>
+<cell row="73">
+<value>12</value>
+</cell>
+<cell row="82">
+<value>4</value>
+</cell>
+</Col>
+<Col ID="73" Width="64">
+<cell row="1">
+<value>430</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>9785</value>
+</cell>
+<cell row="5">
+<value>11289</value>
+</cell>
+<cell row="6">
+<value>11581</value>
+</cell>
+<cell row="7">
+<value>10990</value>
+</cell>
+<cell row="14">
+<value>5</value>
+</cell>
+<cell row="15">
+<value>12</value>
+</cell>
+<cell row="17">
+<value>1</value>
+</cell>
+<cell row="18">
+<value>103</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>8</value>
+</cell>
+<cell row="34">
+<value>12</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>10</value>
+</cell>
+<cell row="41">
+<value>4</value>
+</cell>
+<cell row="48">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>58</value>
+</cell>
+<cell row="55">
+<value>28</value>
+</cell>
+<cell row="56">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>80</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="61">
+<value>4</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>8</value>
+</cell>
+<cell row="67">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="73">
+<value>8</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="74" Width="64">
+<cell row="1">
+<value>435</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>9912</value>
+</cell>
+<cell row="5">
+<value>11451</value>
+</cell>
+<cell row="6">
+<value>11722</value>
+</cell>
+<cell row="7">
+<value>11152</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="15">
+<value>6</value>
+</cell>
+<cell row="17">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>39</value>
+</cell>
+<cell row="29">
+<value>14</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>9</value>
+</cell>
+<cell row="39">
+<value>1</value>
+</cell>
+<cell row="41">
+<value>8</value>
+</cell>
+<cell row="53">
+<value>38</value>
+</cell>
+<cell row="55">
+<value>2</value>
+</cell>
+<cell row="57">
+<value>65</value>
+</cell>
+<cell row="61">
+<value>2</value>
+</cell>
+<cell row="65">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>2</value>
+</cell>
+<cell row="67">
+<value>3</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="71">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>40</value>
+</cell>
+<cell row="73">
+<value>5</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="75">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="75" Width="64">
+<cell row="1">
+<value>440</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>10040</value>
+</cell>
+<cell row="5">
+<value>11612</value>
+</cell>
+<cell row="6">
+<value>11879</value>
+</cell>
+<cell row="7">
+<value>11316</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>10</value>
+</cell>
+<cell row="15">
+<value>15</value>
+</cell>
+<cell row="16">
+<value>4</value>
+</cell>
+<cell row="17">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>21</value>
+</cell>
+<cell row="20">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>19</value>
+</cell>
+<cell row="34">
+<value>7</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="39">
+<value>14</value>
+</cell>
+<cell row="41">
+<value>20</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>87</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>141</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>9</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>32</value>
+</cell>
+<cell row="73">
+<value>7</value>
+</cell>
+<cell row="74">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>2</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="76" Width="64">
+<cell row="1">
+<value>445</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>10215</value>
+</cell>
+<cell row="5">
+<value>11769</value>
+</cell>
+<cell row="6">
+<value>12041</value>
+</cell>
+<cell row="7">
+<value>11473</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="14">
+<value>3</value>
+</cell>
+<cell row="15">
+<value>12</value>
+</cell>
+<cell row="17">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>11</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>2</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>7</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>7</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="41">
+<value>5</value>
+</cell>
+<cell row="53">
+<value>28</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>99</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>4</value>
+</cell>
+<cell row="67">
+<value>7</value>
+</cell>
+<cell row="70">
+<value>1</value>
+</cell>
+<cell row="72">
+<value>15</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="77" Width="64">
+<cell row="1">
+<value>450</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>10390</value>
+</cell>
+<cell row="5">
+<value>11921</value>
+</cell>
+<cell row="6">
+<value>12201</value>
+</cell>
+<cell row="7">
+<value>11594</value>
+</cell>
+<cell row="12">
+<value>5</value>
+</cell>
+<cell row="14">
+<value>13</value>
+</cell>
+<cell row="15">
+<value>18</value>
+</cell>
+<cell row="16">
+<value>3</value>
+</cell>
+<cell row="17">
+<value>3</value>
+</cell>
+<cell row="18">
+<value>11</value>
+</cell>
+<cell row="19">
+<value>1</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>14</value>
+</cell>
+<cell row="34">
+<value>18</value>
+</cell>
+<cell row="41">
+<value>11</value>
+</cell>
+<cell row="47">
+<value>3</value>
+</cell>
+<cell row="53">
+<value>63</value>
+</cell>
+<cell row="54">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>100</value>
+</cell>
+<cell row="58">
+<value>2</value>
+</cell>
+<cell row="62">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>5</value>
+</cell>
+<cell row="72">
+<value>30</value>
+</cell>
+<cell row="73">
+<value>1</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="77">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="78" Width="64">
+<cell row="1">
+<value>455</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>10410</value>
+</cell>
+<cell row="5">
+<value>12065</value>
+</cell>
+<cell row="6">
+<value>12381</value>
+</cell>
+<cell row="7">
+<value>11699</value>
+</cell>
+<cell row="12">
+<value>1</value>
+</cell>
+<cell row="14">
+<value>10</value>
+</cell>
+<cell row="15">
+<value>18</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>5</value>
+</cell>
+<cell row="18">
+<value>8</value>
+</cell>
+<cell row="29">
+<value>8</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="37">
+<value>2</value>
+</cell>
+<cell row="41">
+<value>4</value>
+</cell>
+<cell row="53">
+<value>13</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>87</value>
+</cell>
+<cell row="70">
+<value>3</value>
+</cell>
+<cell row="71">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>4</value>
+</cell>
+<cell row="73">
+<value>5</value>
+</cell>
+</Col>
+<Col ID="79" Width="64">
+<cell row="1">
+<value>460</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>10430</value>
+</cell>
+<cell row="5">
+<value>12204</value>
+</cell>
+<cell row="6">
+<value>12572</value>
+</cell>
+<cell row="7">
+<value>11797</value>
+</cell>
+<cell row="11">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>5</value>
+</cell>
+<cell row="14">
+<value>5</value>
+</cell>
+<cell row="15">
+<value>43</value>
+</cell>
+<cell row="16">
+<value>5</value>
+</cell>
+<cell row="17">
+<value>4</value>
+</cell>
+<cell row="18">
+<value>6</value>
+</cell>
+<cell row="20">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="26">
+<value>1</value>
+</cell>
+<cell row="29">
+<value>13</value>
+</cell>
+<cell row="34">
+<value>7</value>
+</cell>
+<cell row="37">
+<value>5</value>
+</cell>
+<cell row="39">
+<value>4</value>
+</cell>
+<cell row="41">
+<value>23</value>
+</cell>
+<cell row="44">
+<value>1</value>
+</cell>
+<cell row="47">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>45</value>
+</cell>
+<cell row="55">
+<value>3</value>
+</cell>
+<cell row="57">
+<value>130</value>
+</cell>
+<cell row="66">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>3</value>
+</cell>
+<cell row="72">
+<value>18</value>
+</cell>
+<cell row="73">
+<value>7</value>
+</cell>
+<cell row="78">
+<value>2</value>
+</cell>
+</Col>
+<Col ID="80" Width="64">
+<cell row="1">
+<value>465</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>10450</value>
+</cell>
+<cell row="5">
+<value>12339</value>
+</cell>
+<cell row="6">
+<value>12762</value>
+</cell>
+<cell row="7">
+<value>11879</value>
+</cell>
+<cell row="12">
+<value>2</value>
+</cell>
+<cell row="14">
+<value>3</value>
+</cell>
+<cell row="15">
+<value>21</value>
+</cell>
+<cell row="16">
+<value>7</value>
+</cell>
+<cell row="17">
+<value>2</value>
+</cell>
+<cell row="18">
+<value>5</value>
+</cell>
+<cell row="22">
+<value>1</value>
+</cell>
+<cell row="24">
+<value>5</value>
+</cell>
+<cell row="29">
+<value>6</value>
+</cell>
+<cell row="30">
+<value>1</value>
+</cell>
+<cell row="31">
+<value>1</value>
+</cell>
+<cell row="37">
+<value>1</value>
+</cell>
+<cell row="41">
+<value>2</value>
+</cell>
+<cell row="53">
+<value>39</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>99</value>
+</cell>
+<cell row="59">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>31</value>
+</cell>
+<cell row="70">
+<value>2</value>
+</cell>
+<cell row="71">
+<value>2</value>
+</cell>
+<cell row="73">
+<value>2</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+<cell row="80">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="81" Width="64">
+<cell row="1">
+<value>470</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>10470</value>
+</cell>
+<cell row="5">
+<value>12475</value>
+</cell>
+<cell row="6">
+<value>12956</value>
+</cell>
+<cell row="7">
+<value>11951</value>
+</cell>
+<cell row="10">
+<value>1</value>
+</cell>
+<cell row="12">
+<value>4</value>
+</cell>
+<cell row="14">
+<value>2</value>
+</cell>
+<cell row="15">
+<value>44</value>
+</cell>
+<cell row="16">
+<value>1</value>
+</cell>
+<cell row="17">
+<value>6</value>
+</cell>
+<cell row="18">
+<value>7</value>
+</cell>
+<cell row="29">
+<value>8</value>
+</cell>
+<cell row="32">
+<value>1</value>
+</cell>
+<cell row="34">
+<value>6</value>
+</cell>
+<cell row="37">
+<value>2</value>
+</cell>
+<cell row="39">
+<value>2</value>
+</cell>
+<cell row="41">
+<value>8</value>
+</cell>
+<cell row="53">
+<value>29</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>100</value>
+</cell>
+<cell row="67">
+<value>27</value>
+</cell>
+<cell row="71">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>4</value>
+</cell>
+<cell row="73">
+<value>5</value>
+</cell>
+<cell row="78">
+<value>1</value>
+</cell>
+</Col>
+<Col ID="82" Width="64">
+<cell row="1">
+<value>478</value>
+</cell>
+<cell row="3">
+<text>de Beaulieu, J.L.</text>
+<contact ID="3"/>
+</cell>
+<cell row="4">
+<value>10502</value>
+</cell>
+<cell row="5">
+<value>12691</value>
+</cell>
+<cell row="6">
+<value>13278</value>
+</cell>
+<cell row="7">
+<value>12063</value>
+</cell>
+<cell row="10">
+<value>2</value>
+</cell>
+<cell row="12">
+<value>4</value>
+</cell>
+<cell row="14">
+<value>6</value>
+</cell>
+<cell row="15">
+<value>27</value>
+</cell>
+<cell row="16">
+<value>2</value>
+</cell>
+<cell row="17">
+<value>5</value>
+</cell>
+<cell row="18">
+<value>10</value>
+</cell>
+<cell row="19">
+<value>2</value>
+</cell>
+<cell row="21">
+<value>3</value>
+</cell>
+<cell row="24">
+<value>3</value>
+</cell>
+<cell row="29">
+<value>16</value>
+</cell>
+<cell row="34">
+<value>3</value>
+</cell>
+<cell row="37">
+<value>7</value>
+</cell>
+<cell row="39">
+<value>12</value>
+</cell>
+<cell row="41">
+<value>13</value>
+</cell>
+<cell row="47">
+<value>1</value>
+</cell>
+<cell row="53">
+<value>52</value>
+</cell>
+<cell row="55">
+<value>1</value>
+</cell>
+<cell row="57">
+<value>151</value>
+</cell>
+<cell row="58">
+<value>1</value>
+</cell>
+<cell row="63">
+<value>1</value>
+</cell>
+<cell row="66">
+<value>1</value>
+</cell>
+<cell row="67">
+<value>30</value>
+</cell>
+<cell row="71">
+<value>2</value>
+</cell>
+<cell row="72">
+<value>4</value>
+</cell>
+<cell row="73">
+<value>3</value>
+</cell>
+<cell row="74">
+<value>1</value>
+</cell>
+<cell row="78">
+<value>2</value>
+</cell>
+<cell row="82">
+<value>1</value>
+</cell>
+<cell row="83">
+<value>1</value>
+</cell>
+</Col>
+</SpreadSheet>
+</SpreadSheetBook>
+<Site>
+<SiteName>La Taphanel</SiteName>
+<LongEast>2.679167</LongEast>
+<LongWest>2.679167</LongWest>
+<LatNorth>45.274444</LatNorth>
+<LatSouth>45.274444</LatSouth>
+<Altitude>975</Altitude>
+<Country>France</Country>
+</Site>
+<CollectionUnit>
+<Handle>TAPH3</Handle>
+<CollectionType>Core</CollectionType>
+<CollectionDevice>Smith corer</CollectionDevice>
+<Collectors>
+<Contact ID="5"/>
+</Collectors>
+<DepositionalEnvironment>Unknown</DepositionalEnvironment>
+</CollectionUnit>
+<Datasets>
+<Dataset>
+<DatasetType>Pollen</DatasetType>
+<Name>EPD E# 870</Name>
+<Notes>Data contributed by Reille Maurice.</Notes>
+<IsSSamp>True</IsSSamp>
+<IsAggregate>False</IsAggregate>
+<Investigators>
+<Contact ID="3"/>
+</Investigators>
+<Publications>
+<Publication ID="1"/>
+</Publications>
+</Dataset>
+</Datasets>
+<GeochronDataset>
+<Investigators>
+<Contact ID="3"/>
+</Investigators>
+<Geochronology AnalysisUnitID="Depth">
+<GeochronSample ID="1">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>45</Depth>
+<Thickness>10</Thickness>
+<LabNumber>LY2135</LabNumber>
+<Age>2890</Age>
+<ErrorOlder>180</ErrorOlder>
+<ErrorYounger>180</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>180</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="2">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>107.5</Depth>
+<Thickness>5</Thickness>
+<LabNumber>LY2136</LabNumber>
+<Age>4130</Age>
+<ErrorOlder>190</ErrorOlder>
+<ErrorYounger>190</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>190</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="3">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>140</Depth>
+<Thickness>5</Thickness>
+<LabNumber>LY2137</LabNumber>
+<Age>4860</Age>
+<ErrorOlder>150</ErrorOlder>
+<ErrorYounger>150</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>150</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="4">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>202.5</Depth>
+<Thickness>5</Thickness>
+<LabNumber>LY2138</LabNumber>
+<Age>5850</Age>
+<ErrorOlder>140</ErrorOlder>
+<ErrorYounger>140</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>140</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="5">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>260</Depth>
+<Thickness>5</Thickness>
+<LabNumber>LY2139</LabNumber>
+<Age>7520</Age>
+<ErrorOlder>150</ErrorOlder>
+<ErrorYounger>150</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>150</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="6">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>335</Depth>
+<Thickness>5</Thickness>
+<LabNumber>LY2140</LabNumber>
+<Age>8440</Age>
+<ErrorOlder>160</ErrorOlder>
+<ErrorYounger>160</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>160</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Peat</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="7">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>405</Depth>
+<Thickness>5</Thickness>
+<LabNumber>LY2141</LabNumber>
+<Age>9700</Age>
+<ErrorOlder>230</ErrorOlder>
+<ErrorYounger>230</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>230</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Gyttja</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="8">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>420</Depth>
+<Thickness>5</Thickness>
+<LabNumber>LY2142</LabNumber>
+<Age>9530</Age>
+<ErrorOlder>200</ErrorOlder>
+<ErrorYounger>200</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>200</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Gyttja</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="9">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>440</Depth>
+<Thickness>5</Thickness>
+<LabNumber>LY2143</LabNumber>
+<Age>10040</Age>
+<ErrorOlder>200</ErrorOlder>
+<ErrorYounger>200</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>200</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Gyttja</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="10">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>450</Depth>
+<Thickness>5</Thickness>
+<LabNumber>LY2144</LabNumber>
+<Age>10390</Age>
+<ErrorOlder>230</ErrorOlder>
+<ErrorYounger>230</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>230</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Clay</MaterialDated>
+</GeochronSample>
+<GeochronSample ID="11">
+<Method>Carbon-14</Method>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Depth>465</Depth>
+<Thickness>10</Thickness>
+<LabNumber>LY2145</LabNumber>
+<Age>10450</Age>
+<ErrorOlder>250</ErrorOlder>
+<ErrorYounger>250</ErrorYounger>
+<Sigma>1</Sigma>
+<StdDev>250</StdDev>
+<GreaterThan>False</GreaterThan>
+<Parameters>
+<Parameter>
+<Name>Method</Name>
+<Value>conventional radiometric</Value>
+</Parameter>
+</Parameters>
+<MaterialDated>Clay</MaterialDated>
+</GeochronSample>
+</Geochronology>
+</GeochronDataset>
+<AgeModels AnalysisUnitID="Depth">
+<AgeModel>
+<ChronNumber>1</ChronNumber>
+<ChronologyName>EPD</ChronologyName>
+<AgeUnits>Radiocarbon years BP</AgeUnits>
+<Default>True</Default>
+<DatePrepared>35853</DatePrepared>
+<Model>Linear interpolation</Model>
+<AgeBoundOlder>10510</AgeBoundOlder>
+<AgeBoundYounger>2190</AgeBoundYounger>
+<Notes>The date 9700 was discarded because the author suggested the beginning of the Boreal period (9000 BP) before that date.</Notes>
+<PreparersText>Cheddadi, R.</PreparersText>
+<Preparers>
+<Contact ID="2"/>
+</Preparers>
+<ChronControls>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>45</Depth>
+<Thickness>10</Thickness>
+<Age>2890</Age>
+<AgeLimitOlder>3070</AgeLimitOlder>
+<AgeLimitYounger>2710</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>107.5</Depth>
+<Thickness>5</Thickness>
+<Age>4130</Age>
+<AgeLimitOlder>4320</AgeLimitOlder>
+<AgeLimitYounger>3940</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>140</Depth>
+<Thickness>5</Thickness>
+<Age>4860</Age>
+<AgeLimitOlder>5010</AgeLimitOlder>
+<AgeLimitYounger>4710</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>202.5</Depth>
+<Thickness>5</Thickness>
+<Age>5850</Age>
+<AgeLimitOlder>5990</AgeLimitOlder>
+<AgeLimitYounger>5710</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>260</Depth>
+<Thickness>5</Thickness>
+<Age>7520</Age>
+<AgeLimitOlder>7670</AgeLimitOlder>
+<AgeLimitYounger>7370</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>335</Depth>
+<Thickness>5</Thickness>
+<Age>8440</Age>
+<AgeLimitOlder>8600</AgeLimitOlder>
+<AgeLimitYounger>8280</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>420</Depth>
+<Thickness>5</Thickness>
+<Age>9530</Age>
+<AgeLimitOlder>9730</AgeLimitOlder>
+<AgeLimitYounger>9330</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>440</Depth>
+<Thickness>5</Thickness>
+<Age>10040</Age>
+<AgeLimitOlder>10240</AgeLimitOlder>
+<AgeLimitYounger>9840</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>450</Depth>
+<Thickness>5</Thickness>
+<Age>10390</Age>
+<AgeLimitOlder>10620</AgeLimitOlder>
+<AgeLimitYounger>10160</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>465</Depth>
+<Thickness>10</Thickness>
+<Age>10450</Age>
+<AgeLimitOlder>10700</AgeLimitOlder>
+<AgeLimitYounger>10200</AgeLimitYounger>
+</ChronControl>
+</ChronControls>
+</AgeModel>
+<AgeModel>
+<ChronNumber>2</ChronNumber>
+<ChronologyName>Giesecke et al. 2014 (MADCAP)</ChronologyName>
+<AgeUnits>Calibrated radiocarbon years BP</AgeUnits>
+<Default>True</Default>
+<DatePrepared>40544</DatePrepared>
+<Model>clam</Model>
+<AgeBoundOlder>12700</AgeBoundOlder>
+<AgeBoundYounger>2160</AgeBoundYounger>
+<Notes>Smooth spline age model. Based on IntCal09 calibration curve.</Notes>
+<PreparersText>Brewer, S.</PreparersText>
+<Preparers>
+<Contact ID="1"/>
+</Preparers>
+<ChronControls>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>45</Depth>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>2890</Age>
+<AgeLimitOlder>180</AgeLimitOlder>
+<AgeLimitYounger>180</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>107.5</Depth>
+<Thickness>5</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>4130</Age>
+<AgeLimitOlder>190</AgeLimitOlder>
+<AgeLimitYounger>190</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>140</Depth>
+<Thickness>5</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>4860</Age>
+<AgeLimitOlder>150</AgeLimitOlder>
+<AgeLimitYounger>150</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>202.5</Depth>
+<Thickness>5</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>5850</Age>
+<AgeLimitOlder>140</AgeLimitOlder>
+<AgeLimitYounger>140</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>260</Depth>
+<Thickness>5</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>7520</Age>
+<AgeLimitOlder>150</AgeLimitOlder>
+<AgeLimitYounger>150</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>335</Depth>
+<Thickness>5</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>8440</Age>
+<AgeLimitOlder>160</AgeLimitOlder>
+<AgeLimitYounger>160</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>420</Depth>
+<Thickness>5</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>9530</Age>
+<AgeLimitOlder>200</AgeLimitOlder>
+<AgeLimitYounger>200</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>440</Depth>
+<Thickness>5</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>10040</Age>
+<AgeLimitOlder>200</AgeLimitOlder>
+<AgeLimitYounger>200</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>450</Depth>
+<Thickness>5</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>10390</Age>
+<AgeLimitOlder>230</AgeLimitOlder>
+<AgeLimitYounger>230</AgeLimitYounger>
+</ChronControl>
+<ChronControl>
+<ControlType>Radiocarbon</ControlType>
+<Depth>465</Depth>
+<Thickness>10</Thickness>
+<AgeUnits>Radiocarbon</AgeUnits>
+<Age>10450</Age>
+<AgeLimitOlder>250</AgeLimitOlder>
+<AgeLimitYounger>250</AgeLimitYounger>
+</ChronControl>
+</ChronControls>
+</AgeModel>
+</AgeModels>
+</TiliaFile>
