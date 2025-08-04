@@ -1,0 +1,3 @@
+The plotted results of the PoO interpolation are shown in this folder. 
+The name of each file corresponds to the scenario used. 
+For a detailed description of each scenario, see Tables 1 and 2 in the main article. 
